@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-04T09:37:59.558348Z",
+  "timestamp": "2026-04-04T12:51:12.171117Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 45.821,
+  "time_seconds": 44.616,
   "domains": [
-    "sameeraliwd739.github.io"
+    "instagram-clone-beta-three.vercel.app"
   ]
 }

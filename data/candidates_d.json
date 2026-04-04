@@ -1,12 +1,8 @@
 {
-  "timestamp": "2026-04-04T06:16:36.557663Z",
+  "timestamp": "2026-04-04T08:05:39.708182Z",
   "method": "osint_community",
   "source_count": 4,
-  "candidate_count": 3,
-  "time_seconds": 0.0,
-  "domains": [
-    "laporanjudi123.com",
-    "mirror-slotgacor.net",
-    "togellinkbaru.xyz"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 7.059,
+  "domains": []
 }

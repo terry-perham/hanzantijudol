@@ -1,108 +1,5804 @@
 {
-  "timestamp": "2026-04-04T06:16:36.554411Z",
-  "candidate_count": 17,
+  "timestamp": "2026-04-04T08:04:21.252813Z",
+  "candidate_count": 1441,
   "by_method": {
     "google_dorking": {
-      "count": 3,
+      "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-04T06:16:36.555419Z"
-    },
-    "certificate_transparency": {
-      "count": 3,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-04-04T06:16:36.556618Z"
-    },
-    "government_scanning": {
-      "count": 2,
-      "file": "data/candidates_c.json",
-      "timestamp": "2026-04-04T06:16:36.557147Z"
-    },
-    "osint_community": {
-      "count": 3,
-      "file": "data/candidates_d.json",
-      "timestamp": "2026-04-04T06:16:36.558197Z"
+      "timestamp": "2026-04-04T08:05:32.625600Z"
     },
     "curated_gambling_feeds": {
-      "count": 3,
+      "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-04T06:16:36.558715Z"
+      "timestamp": "2026-04-04T08:05:33.802057Z"
+    },
+    "osint_community": {
+      "count": 0,
+      "file": "data/candidates_d.json",
+      "timestamp": "2026-04-04T08:05:39.708617Z"
+    },
+    "government_scanning": {
+      "count": 0,
+      "file": "data/candidates_c.json",
+      "timestamp": "2026-04-04T08:05:41.750566Z"
     },
     "platform_abuse_sweep": {
-      "count": 3,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-04T06:16:36.559742Z"
+      "timestamp": "2026-04-04T08:06:15.368740Z"
+    },
+    "certificate_transparency": {
+      "count": 12,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-04-04T08:06:40.253623Z"
     }
   },
   "domain_sources": {
-    "betlokalbaru.net": [
+    "10bet.co.uk": [
       "curated_gambling_feeds"
     ],
-    "contoh.ac.id": [
-      "government_scanning"
-    ],
-    "judi-asia-net.net": [
-      "certificate_transparency"
-    ],
-    "judi-online-terbaik.net": [
-      "google_dorking"
-    ],
-    "judol-clone-demo.netlify.app": [
-      "platform_abuse_sweep"
-    ],
-    "laporanjudi123.com": [
-      "osint_community"
-    ],
-    "mahjongbet777.xyz": [
-      "certificate_transparency"
-    ],
-    "mirror-slotgacor.net": [
-      "osint_community"
-    ],
-    "rtp-mirror-demo.vercel.app": [
-      "platform_abuse_sweep"
-    ],
-    "rtpindonesia777.site": [
+    "10bet.com": [
       "curated_gambling_feeds"
     ],
-    "rtplive777.site": [
-      "google_dorking"
-    ],
-    "sample.go.id": [
-      "government_scanning"
-    ],
-    "slotbaru88.com": [
-      "certificate_transparency"
-    ],
-    "slotgacor123.com": [
-      "google_dorking"
-    ],
-    "slotkomunitasid.com": [
+    "10luxury39.com": [
       "curated_gambling_feeds"
     ],
-    "slotmirror-demo.pages.dev": [
+    "11wickets.com": [
+      "curated_gambling_feeds"
+    ],
+    "12bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "12bet.uk": [
+      "curated_gambling_feeds"
+    ],
+    "1337bid.com": [
+      "curated_gambling_feeds"
+    ],
+    "138.com": [
+      "curated_gambling_feeds"
+    ],
+    "180bets.com": [
+      "curated_gambling_feeds"
+    ],
+    "188bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "18bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "1bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "1bet2bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "1stlines.com": [
+      "curated_gambling_feeds"
+    ],
+    "1vice.ag": [
+      "curated_gambling_feeds"
+    ],
+    "1x2plus.com": [
+      "curated_gambling_feeds"
+    ],
+    "1xbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "21bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "21casino.com": [
+      "curated_gambling_feeds"
+    ],
+    "21prive.com": [
+      "curated_gambling_feeds"
+    ],
+    "22bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "22betpartners.com": [
+      "curated_gambling_feeds"
+    ],
+    "24bettle.com": [
+      "curated_gambling_feeds"
+    ],
+    "24hbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "2betab.com": [
+      "curated_gambling_feeds"
+    ],
+    "2betesi.com": [
+      "curated_gambling_feeds"
+    ],
+    "2winbet.gr": [
+      "curated_gambling_feeds"
+    ],
+    "32red.com": [
+      "curated_gambling_feeds"
+    ],
+    "32redsport.com": [
+      "curated_gambling_feeds"
+    ],
+    "368bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "377bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "444sports.com": [
+      "curated_gambling_feeds"
+    ],
+    "461.net": [
+      "curated_gambling_feeds"
+    ],
+    "5dimes.com": [
+      "curated_gambling_feeds"
+    ],
+    "666casino.com": [
+      "curated_gambling_feeds"
+    ],
+    "724sports.com": [
+      "curated_gambling_feeds"
+    ],
+    "777.com": [
+      "curated_gambling_feeds"
+    ],
+    "7777.bg": [
+      "curated_gambling_feeds"
+    ],
+    "777bets.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "7epta7.com": [
+      "curated_gambling_feeds"
+    ],
+    "7godscasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "7jackpots.com": [
+      "curated_gambling_feeds"
+    ],
+    "7sultanscasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "888sport.com": [
+      "curated_gambling_feeds"
+    ],
+    "88asia88.com": [
+      "curated_gambling_feeds"
+    ],
+    "88sports.com": [
+      "curated_gambling_feeds"
+    ],
+    "88winners.com": [
+      "curated_gambling_feeds"
+    ],
+    "90dakika.com": [
+      "curated_gambling_feeds"
+    ],
+    "99bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "a1casino.com": [
+      "curated_gambling_feeds"
+    ],
+    "a23.com": [
+      "curated_gambling_feeds"
+    ],
+    "abcislands.ag": [
+      "curated_gambling_feeds"
+    ],
+    "ace-skins.com": [
+      "curated_gambling_feeds"
+    ],
+    "action24.com": [
+      "curated_gambling_feeds"
+    ],
+    "actionbets.com": [
+      "curated_gambling_feeds"
+    ],
+    "actiononsports.com": [
+      "curated_gambling_feeds"
+    ],
+    "acttab.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "adda.games": [
+      "curated_gambling_feeds"
+    ],
+    "adjarabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "admiralspot.com": [
+      "curated_gambling_feeds"
+    ],
+    "agentspinner.com": [
+      "curated_gambling_feeds"
+    ],
+    "ahacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "ahtigames.com": [
+      "curated_gambling_feeds"
+    ],
+    "alfcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "allhorseracing.ag": [
+      "curated_gambling_feeds"
+    ],
+    "allpro.eu": [
+      "curated_gambling_feeds"
+    ],
+    "allstarbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "allstarsportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "allyoubet.ag": [
+      "curated_gambling_feeds"
+    ],
+    "alohasportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "alphadraft.com": [
+      "curated_gambling_feeds"
+    ],
+    "amcleanbookmakers.com": [
+      "curated_gambling_feeds"
+    ],
+    "americanfootballbetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "americasbookie.com": [
+      "curated_gambling_feeds"
+    ],
+    "americascardroom.eu": [
+      "curated_gambling_feeds"
+    ],
+    "anonibet.com": [
+      "curated_gambling_feeds"
+    ],
+    "apollobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "app.hkmahjong.com.hk": [
+      "certificate_transparency"
+    ],
+    "arena-bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "arlequincasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "artemisbet10.com": [
+      "curated_gambling_feeds"
+    ],
+    "asianbeta.com": [
+      "curated_gambling_feeds"
+    ],
+    "atg.se": [
+      "curated_gambling_feeds"
+    ],
+    "axbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "azcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "azurcasino2.com": [
+      "curated_gambling_feeds"
+    ],
+    "b-bets.com": [
+      "curated_gambling_feeds"
+    ],
+    "balkanbet.co.rs": [
+      "curated_gambling_feeds"
+    ],
+    "ballebaazi.com": [
+      "curated_gambling_feeds"
+    ],
+    "bamasportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "bananajackpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "banzaislots.com": [
+      "curated_gambling_feeds"
+    ],
+    "barbadoscasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "batball11.com": [
+      "curated_gambling_feeds"
+    ],
+    "beatthebook.eu": [
+      "curated_gambling_feeds"
+    ],
+    "belmont.ag": [
+      "curated_gambling_feeds"
+    ],
+    "bertil.com": [
+      "curated_gambling_feeds"
+    ],
+    "bestbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "bestbettoday.com": [
+      "curated_gambling_feeds"
+    ],
+    "bestcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "bestecasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "bestsportslines.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet-52.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet-at-home.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet-csgo.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "bet.hkjc.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet.pkr.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet1128.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet11888.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet2290.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet2875.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet2earn.net": [
+      "curated_gambling_feeds"
+    ],
+    "bet2win.ag": [
+      "curated_gambling_feeds"
+    ],
+    "bet3000.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet33.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet365.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet365.es": [
+      "curated_gambling_feeds"
+    ],
+    "bet7days.com": [
+      "curated_gambling_feeds"
+    ],
+    "bet90.com": [
+      "curated_gambling_feeds"
+    ],
+    "betadonis55.com": [
+      "curated_gambling_feeds"
+    ],
+    "betadria.com": [
+      "curated_gambling_feeds"
+    ],
+    "betaland.com": [
+      "curated_gambling_feeds"
+    ],
+    "betamerica.com": [
+      "curated_gambling_feeds"
+    ],
+    "betandclick.com": [
+      "curated_gambling_feeds"
+    ],
+    "betanysports.eu": [
+      "curated_gambling_feeds"
+    ],
+    "betbanks.com": [
+      "curated_gambling_feeds"
+    ],
+    "betbigdollar.com": [
+      "curated_gambling_feeds"
+    ],
+    "betboro.com": [
+      "curated_gambling_feeds"
+    ],
+    "betbright.com": [
+      "curated_gambling_feeds"
+    ],
+    "betbuckeyesports.com": [
+      "curated_gambling_feeds"
+    ],
+    "betbyrne.com": [
+      "curated_gambling_feeds"
+    ],
+    "betcanadian.com": [
+      "curated_gambling_feeds"
+    ],
+    "betcapri.com": [
+      "curated_gambling_feeds"
+    ],
+    "betcascade.com": [
+      "curated_gambling_feeds"
+    ],
+    "betcatalinasports.com": [
+      "curated_gambling_feeds"
+    ],
+    "betcave.com": [
+      "curated_gambling_feeds"
+    ],
+    "betcc.com": [
+      "curated_gambling_feeds"
+    ],
+    "betcityru.com": [
+      "curated_gambling_feeds"
+    ],
+    "betclic.com": [
+      "curated_gambling_feeds"
+    ],
+    "betclic.fr": [
+      "curated_gambling_feeds"
+    ],
+    "betclock.com": [
+      "curated_gambling_feeds"
+    ],
+    "betcoin.ag": [
+      "curated_gambling_feeds"
+    ],
+    "betcostarica.ag": [
+      "curated_gambling_feeds"
+    ],
+    "betcris.com": [
+      "curated_gambling_feeds"
+    ],
+    "betcruise.com": [
+      "curated_gambling_feeds"
+    ],
+    "betdaq.com": [
+      "curated_gambling_feeds"
+    ],
+    "betdna.com": [
+      "curated_gambling_feeds"
+    ],
+    "betdon.com": [
+      "curated_gambling_feeds"
+    ],
+    "betdsi.eu": [
+      "curated_gambling_feeds"
+    ],
+    "betelephant.com": [
+      "curated_gambling_feeds"
+    ],
+    "betepic.com": [
+      "curated_gambling_feeds"
+    ],
+    "betextratime.com": [
+      "curated_gambling_feeds"
+    ],
+    "betezy.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "betfair.com": [
+      "curated_gambling_feeds"
+    ],
+    "betfair.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "betfinal.com": [
+      "curated_gambling_feeds"
+    ],
+    "betfirst-en.dhnet.be": [
+      "curated_gambling_feeds"
+    ],
+    "betflag.com": [
+      "curated_gambling_feeds"
+    ],
+    "betflash.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "betfred.com": [
+      "curated_gambling_feeds"
+    ],
+    "betfreesports.com": [
+      "curated_gambling_feeds"
+    ],
+    "betgolf.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "betgoto.com": [
+      "curated_gambling_feeds"
+    ],
+    "betgrande.com": [
+      "curated_gambling_feeds"
+    ],
+    "betguardian.me": [
+      "curated_gambling_feeds"
+    ],
+    "betgun.com": [
+      "curated_gambling_feeds"
+    ],
+    "bethard.com": [
+      "curated_gambling_feeds"
+    ],
+    "betin.com": [
+      "curated_gambling_feeds"
+    ],
+    "betin1.com": [
+      "curated_gambling_feeds"
+    ],
+    "betinternet.com": [
+      "curated_gambling_feeds"
+    ],
+    "betive.com": [
+      "curated_gambling_feeds"
+    ],
+    "betjamaica.com": [
+      "curated_gambling_feeds"
+    ],
+    "betjambo.com": [
+      "curated_gambling_feeds"
+    ],
+    "betklass.com": [
+      "curated_gambling_feeds"
+    ],
+    "betland.com": [
+      "curated_gambling_feeds"
+    ],
+    "betlatina.com": [
+      "curated_gambling_feeds"
+    ],
+    "betline.com": [
+      "curated_gambling_feeds"
+    ],
+    "betliner.com": [
+      "curated_gambling_feeds"
+    ],
+    "betlm.eu": [
+      "curated_gambling_feeds"
+    ],
+    "betmania.ag": [
+      "curated_gambling_feeds"
+    ],
+    "betmclean.com": [
+      "curated_gambling_feeds"
+    ],
+    "betmgm.com": [
+      "curated_gambling_feeds"
+    ],
+    "betmira.com": [
+      "curated_gambling_feeds"
+    ],
+    "betmonarch.com": [
+      "curated_gambling_feeds"
+    ],
+    "betmotion.com": [
+      "curated_gambling_feeds"
+    ],
+    "betmyline.com": [
+      "curated_gambling_feeds"
+    ],
+    "betmylines.com": [
+      "curated_gambling_feeds"
+    ],
+    "betn1.com": [
+      "curated_gambling_feeds"
+    ],
+    "betngo.com": [
+      "curated_gambling_feeds"
+    ],
+    "betodds.ag": [
+      "curated_gambling_feeds"
+    ],
+    "betondunhill.com": [
+      "curated_gambling_feeds"
+    ],
+    "betonline.ag": [
+      "curated_gambling_feeds"
+    ],
+    "betonline.com": [
+      "curated_gambling_feeds"
+    ],
+    "betonline247.com": [
+      "curated_gambling_feeds"
+    ],
+    "betonusa.ag": [
+      "curated_gambling_feeds"
+    ],
+    "betorca.com": [
+      "curated_gambling_feeds"
+    ],
+    "betoto.com": [
+      "curated_gambling_feeds"
+    ],
+    "betowi.com": [
+      "curated_gambling_feeds"
+    ],
+    "betpack.com": [
+      "curated_gambling_feeds"
+    ],
+    "betpanther.com": [
+      "curated_gambling_feeds"
+    ],
+    "betpassion.uno": [
+      "curated_gambling_feeds"
+    ],
+    "betpci.com": [
+      "curated_gambling_feeds"
+    ],
+    "betphoenix.ag": [
+      "curated_gambling_feeds"
+    ],
+    "betplatinum.ag": [
+      "curated_gambling_feeds"
+    ],
+    "betplay.com": [
+      "curated_gambling_feeds"
+    ],
+    "betpop.eu": [
+      "curated_gambling_feeds"
+    ],
+    "betprestige.com": [
+      "curated_gambling_feeds"
+    ],
+    "betprimetime.com": [
+      "curated_gambling_feeds"
+    ],
+    "betqs.com": [
+      "curated_gambling_feeds"
+    ],
+    "betquick.com": [
+      "curated_gambling_feeds"
+    ],
+    "betrally.com": [
+      "curated_gambling_feeds"
+    ],
+    "betrebels.com": [
+      "curated_gambling_feeds"
+    ],
+    "betredkings.com": [
+      "curated_gambling_feeds"
+    ],
+    "betregal.com": [
+      "curated_gambling_feeds"
+    ],
+    "betrevolution.com": [
+      "curated_gambling_feeds"
+    ],
+    "betrivers.com": [
+      "curated_gambling_feeds"
+    ],
+    "betrockit.com": [
+      "curated_gambling_feeds"
+    ],
+    "betrogers.com": [
+      "curated_gambling_feeds"
+    ],
+    "betroyal.com": [
+      "curated_gambling_feeds"
+    ],
+    "bets10go.com": [
+      "curated_gambling_feeds"
+    ],
+    "bets4all.com": [
+      "curated_gambling_feeds"
+    ],
+    "betsafe.com": [
+      "curated_gambling_feeds"
+    ],
+    "betsbc.com": [
+      "curated_gambling_feeds"
+    ],
+    "betsbi.com": [
+      "curated_gambling_feeds"
+    ],
+    "betser.com": [
+      "curated_gambling_feeds"
+    ],
+    "betshop.com": [
+      "curated_gambling_feeds"
+    ],
+    "betsking11.com": [
+      "curated_gambling_feeds"
+    ],
+    "betsocial.net": [
+      "curated_gambling_feeds"
+    ],
+    "betsonic.com": [
+      "curated_gambling_feeds"
+    ],
+    "betspawn.com": [
+      "curated_gambling_feeds"
+    ],
+    "betsson.com": [
+      "curated_gambling_feeds"
+    ],
+    "betstar.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "betstars.com": [
+      "curated_gambling_feeds"
+    ],
+    "betstars.uk": [
+      "curated_gambling_feeds"
+    ],
+    "betswar.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettap.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "betterdicecasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettheglobe.eu": [
+      "curated_gambling_feeds"
+    ],
+    "betting.betfair.com": [
+      "curated_gambling_feeds"
+    ],
+    "betting195.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettingchamps.eu": [
+      "curated_gambling_feeds"
+    ],
+    "bettingexpress.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettingworld.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "bettopsport.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettor.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettripledraw.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettrojan.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettropics.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettvs.com": [
+      "curated_gambling_feeds"
+    ],
+    "bettylue.com": [
+      "curated_gambling_feeds"
+    ],
+    "betuniq.eu": [
+      "curated_gambling_feeds"
+    ],
+    "betus.com.pa": [
+      "curated_gambling_feeds"
+    ],
+    "betusa.ag": [
+      "curated_gambling_feeds"
+    ],
+    "betvictor.com": [
+      "curated_gambling_feeds"
+    ],
+    "betway.com": [
+      "curated_gambling_feeds"
+    ],
+    "betworks.com": [
+      "curated_gambling_feeds"
+    ],
+    "betxchange.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "betzest.com": [
+      "curated_gambling_feeds"
+    ],
+    "betzone.com": [
+      "curated_gambling_feeds"
+    ],
+    "bgbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "bgo.com": [
+      "curated_gambling_feeds"
+    ],
+    "bigbetworld.com": [
+      "curated_gambling_feeds"
+    ],
+    "bigcitysportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "bigspincasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "bingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "bingo.vernons.com": [
+      "curated_gambling_feeds"
+    ],
+    "bingo.williamhill.com": [
+      "curated_gambling_feeds"
+    ],
+    "bingoscotland.net": [
+      "curated_gambling_feeds"
+    ],
+    "bingostreet.com": [
+      "curated_gambling_feeds"
+    ],
+    "bingotime.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "bingowags.com": [
+      "curated_gambling_feeds"
+    ],
+    "bingoyard.com": [
+      "curated_gambling_feeds"
+    ],
+    "bitcoinrush.io": [
+      "curated_gambling_feeds"
+    ],
+    "bitcoinsports.eu": [
+      "curated_gambling_feeds"
+    ],
+    "bitsaloon.com": [
+      "curated_gambling_feeds"
+    ],
+    "bitstarz.com": [
+      "curated_gambling_feeds"
+    ],
+    "blackchippoker.eu": [
+      "curated_gambling_feeds"
+    ],
+    "blackdiamond4u.com": [
+      "curated_gambling_feeds"
+    ],
+    "blackjackballroom.eu": [
+      "curated_gambling_feeds"
+    ],
+    "blitzpools.com": [
+      "curated_gambling_feeds"
+    ],
+    "bobcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "bobetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "bobregister.com": [
+      "curated_gambling_feeds"
+    ],
+    "bodog.eu": [
+      "curated_gambling_feeds"
+    ],
+    "bodog888.com": [
+      "curated_gambling_feeds"
+    ],
+    "bodugi.com": [
+      "curated_gambling_feeds"
+    ],
+    "bola88.com": [
+      "curated_gambling_feeds"
+    ],
+    "bombaybets.eu": [
+      "curated_gambling_feeds"
+    ],
+    "book247.eu": [
+      "curated_gambling_feeds"
+    ],
+    "bookies.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "bookmaker.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "bookmaker.eu": [
+      "curated_gambling_feeds"
+    ],
+    "bookmaker7.com": [
+      "curated_gambling_feeds"
+    ],
+    "bookmakerclub.com": [
+      "curated_gambling_feeds"
+    ],
+    "borgataonline.com": [
+      "curated_gambling_feeds"
+    ],
+    "botbcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "bovada.lv": [
+      "curated_gambling_feeds"
+    ],
+    "box24games.com": [
+      "curated_gambling_feeds"
+    ],
+    "boylesports.com": [
+      "curated_gambling_feeds"
+    ],
+    "britsbingo.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "browncowbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "brucebetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "btcsportsbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "bubblebonusbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "buckandbutler.com": [
+      "curated_gambling_feeds"
+    ],
+    "bulldog777.com": [
+      "curated_gambling_feeds"
+    ],
+    "bulletbets.com": [
+      "curated_gambling_feeds"
+    ],
+    "butterflybingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "bwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "cafecasino.lv": [
+      "curated_gambling_feeds"
+    ],
+    "campaign.rizk.com": [
+      "curated_gambling_feeds"
+    ],
+    "campeonbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "campobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "canadasbookie.com": [
+      "curated_gambling_feeds"
+    ],
+    "candisbingo.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "candyshopbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "captaincookscasino.eu": [
+      "curated_gambling_feeds"
+    ],
+    "carbonsports.ag": [
+      "curated_gambling_feeds"
+    ],
+    "cardbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "caribsports.com": [
+      "curated_gambling_feeds"
+    ],
+    "cashiopeia.com": [
+      "curated_gambling_feeds"
+    ],
+    "cashmio.com": [
+      "curated_gambling_feeds"
+    ],
+    "cashpoint.com": [
+      "curated_gambling_feeds"
+    ],
+    "cashstormslots.com": [
+      "curated_gambling_feeds"
+    ],
+    "cashsweep.com.my": [
+      "curated_gambling_feeds"
+    ],
+    "casilando.com": [
+      "curated_gambling_feeds"
+    ],
+    "casimba.com": [
+      "curated_gambling_feeds"
+    ],
+    "casineto.net": [
+      "curated_gambling_feeds"
+    ],
+    "casiniabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "casino-classic.eu": [
+      "curated_gambling_feeds"
+    ],
+    "casino-pp.net": [
+      "curated_gambling_feeds"
+    ],
+    "casino.betway.com": [
+      "curated_gambling_feeds"
+    ],
+    "casino.org": [
+      "curated_gambling_feeds"
+    ],
+    "casino.synottip.cz": [
+      "curated_gambling_feeds"
+    ],
+    "casino.vernons.com": [
+      "curated_gambling_feeds"
+    ],
+    "casino.williamhill.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinoandfriends.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinobitco.in": [
+      "curated_gambling_feeds"
+    ],
+    "casinocalzone.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinocruise.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinoeuro.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinoextra2.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinogods.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinoheroes.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinointense-slots.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinojefe.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinoland.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinolasvegas.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinolasvegas.no": [
+      "curated_gambling_feeds"
+    ],
+    "casinony.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinopop.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinorex.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinoroom.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinostugan.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinotown.se": [
+      "curated_gambling_feeds"
+    ],
+    "casinowinner.com": [
+      "curated_gambling_feeds"
+    ],
+    "casinsi.com": [
+      "curated_gambling_feeds"
+    ],
+    "casumo.com": [
+      "curated_gambling_feeds"
+    ],
+    "cbmsport.com": [
+      "curated_gambling_feeds"
+    ],
+    "cc898.com": [
+      "curated_gambling_feeds"
+    ],
+    "celebbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "centrebet.com": [
+      "curated_gambling_feeds"
+    ],
+    "cgaming.olg.ca": [
+      "curated_gambling_feeds"
+    ],
+    "champagnebingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "championsbet.net": [
+      "curated_gambling_feeds"
+    ],
+    "chance.cz": [
+      "curated_gambling_feeds"
+    ],
+    "chancehill.com": [
+      "curated_gambling_feeds"
+    ],
+    "chanz.com": [
+      "curated_gambling_feeds"
+    ],
+    "cheekywin.com": [
+      "curated_gambling_feeds"
+    ],
+    "cherrycasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "cherryjackpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "chinesebookie.eu": [
+      "curated_gambling_feeds"
+    ],
+    "chisholmbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "circlebet.com": [
+      "curated_gambling_feeds"
+    ],
+    "circusbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "citybingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "ciwox.com": [
+      "curated_gambling_feeds"
+    ],
+    "clickngamble.ag": [
+      "curated_gambling_feeds"
+    ],
+    "cloudbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "cmdbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "cmkt.dafapromo.com": [
+      "curated_gambling_feeds"
+    ],
+    "coastalsportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "cocktailbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "codeta.com": [
+      "curated_gambling_feeds"
+    ],
+    "coffeebingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "colossusbets.com": [
+      "curated_gambling_feeds"
+    ],
+    "comebackskins.com": [
+      "curated_gambling_feeds"
+    ],
+    "comeon.com": [
+      "curated_gambling_feeds"
+    ],
+    "completesportsbetting.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "contorabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "coolbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "coral.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "corbettsports.com": [
+      "curated_gambling_feeds"
+    ],
+    "costabingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "costagames.com": [
+      "curated_gambling_feeds"
+    ],
+    "counterluck.com": [
+      "curated_gambling_feeds"
+    ],
+    "cozino.com": [
+      "curated_gambling_feeds"
+    ],
+    "creditwagering.com": [
+      "curated_gambling_feeds"
+    ],
+    "cresuscasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "cricketbetlive.com": [
+      "curated_gambling_feeds"
+    ],
+    "crowin24.com": [
+      "curated_gambling_feeds"
+    ],
+    "crownbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "crownbet.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "crsportsbet.ag": [
+      "curated_gambling_feeds"
+    ],
+    "crsportsbetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-casino.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-dream.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-easy.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-gambler.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-games.net": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-house.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-jackpots.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-raffle.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-saloon.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-skin-raffle.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-slots.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo-try.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgo777.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoace.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoaimpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgobig.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgobigbets.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgobird.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoblackjack.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgobooth.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgobrawl.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgobud.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgocardgames.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgocasual.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgochance.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgochips.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgocytosis.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgodealer.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgodice.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgodices.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgodivine.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgodouble.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgodoubleup.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoearth.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoempire.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgofakebet.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgofunpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgohollow.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgohunt.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgojackpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgolden.eu": [
+      "curated_gambling_feeds"
+    ],
+    "csgoldpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoleap.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgolotto.net": [
+      "curated_gambling_feeds"
+    ],
+    "csgolounge.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgolucky.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoluckywheel.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoparty.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgopoker.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgopot.win": [
+      "curated_gambling_feeds"
+    ],
+    "csgopull.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoput.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoraffling.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgorage.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgorambopot.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoreactor.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoreaper.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoresort.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgorich.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoshuffle.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoskinlottery.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgoskins.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgospeed.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgostakes.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgovaults.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgowealth.com": [
+      "curated_gambling_feeds"
+    ],
+    "csgowheel.com": [
+      "curated_gambling_feeds"
+    ],
+    "cshub.net": [
+      "curated_gambling_feeds"
+    ],
+    "cspotluck.com": [
+      "curated_gambling_feeds"
+    ],
+    "cupcakebingo.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "cupcakebingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "dadobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "dafabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "dailydime.eu": [
+      "curated_gambling_feeds"
+    ],
+    "daisybingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "dakotacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "damacai.com.my": [
+      "curated_gambling_feeds"
+    ],
+    "danskespil.dk": [
+      "curated_gambling_feeds"
+    ],
+    "dantoto.dk": [
+      "curated_gambling_feeds"
+    ],
+    "dashbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "dccasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "de.888casino.com": [
+      "curated_gambling_feeds"
+    ],
+    "dealerscasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "desertnightscasino.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "dhoze.com": [
+      "curated_gambling_feeds"
+    ],
+    "dialabet.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "diamond7casino.com": [
+      "curated_gambling_feeds"
+    ],
+    "diamondreels.com": [
+      "curated_gambling_feeds"
+    ],
+    "dicestrike.com": [
+      "curated_gambling_feeds"
+    ],
+    "diegocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "dielottozahlende.net": [
+      "curated_gambling_feeds"
+    ],
+    "digibet.com": [
+      "curated_gambling_feeds"
+    ],
+    "dimeline.eu": [
+      "curated_gambling_feeds"
+    ],
+    "dinobingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "divabingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "dlb.lk": [
+      "curated_gambling_feeds"
+    ],
+    "dobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "docbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "doribet.com": [
+      "curated_gambling_feeds"
+    ],
+    "dotball.com": [
+      "curated_gambling_feeds"
+    ],
+    "doxxbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "draftkings.com": [
+      "curated_gambling_feeds"
+    ],
+    "drakecasino.eu": [
+      "curated_gambling_feeds"
+    ],
+    "dream11.com": [
+      "curated_gambling_feeds"
+    ],
+    "dreamjackpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "dreamvegas.com": [
+      "curated_gambling_feeds"
+    ],
+    "dreamz.com": [
+      "curated_gambling_feeds"
+    ],
+    "drueckglueck.com": [
+      "curated_gambling_feeds"
+    ],
+    "dublinbet1.com": [
+      "curated_gambling_feeds"
+    ],
+    "duelz.com": [
+      "curated_gambling_feeds"
+    ],
+    "dunder.com": [
+      "curated_gambling_feeds"
+    ],
+    "dynabet.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "e-loterie.ma": [
+      "curated_gambling_feeds"
+    ],
+    "e-lotto.be": [
+      "curated_gambling_feeds"
+    ],
+    "e-stave.com": [
+      "curated_gambling_feeds"
+    ],
+    "easytowager.com": [
+      "curated_gambling_feeds"
+    ],
+    "ebetusa.com": [
+      "curated_gambling_feeds"
+    ],
+    "eccobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "ecuabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "ed3688.com": [
+      "curated_gambling_feeds"
+    ],
+    "eestiloto.ee": [
+      "curated_gambling_feeds"
+    ],
+    "efbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "efirbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "egamingbets.com": [
+      "curated_gambling_feeds"
+    ],
+    "ehorse.com": [
+      "curated_gambling_feeds"
+    ],
+    "elitebetkenya.com": [
+      "curated_gambling_feeds"
+    ],
+    "eloterija.si": [
+      "curated_gambling_feeds"
+    ],
+    "emeraldbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "en.betclic.com": [
+      "curated_gambling_feeds"
+    ],
+    "en.expekt.com": [
+      "curated_gambling_feeds"
+    ],
+    "energybet.com": [
+      "curated_gambling_feeds"
+    ],
+    "energycasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "enterbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "eqraffle.com": [
+      "curated_gambling_feeds"
+    ],
+    "esball.net": [
+      "curated_gambling_feeds"
+    ],
+    "espacejeux.com": [
+      "curated_gambling_feeds"
+    ],
+    "espnsportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "esportsbetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "esportscasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "etipos.sk": [
+      "curated_gambling_feeds"
+    ],
+    "etopaz.az": [
+      "curated_gambling_feeds"
+    ],
+    "euro.grandfortunecasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "euro24sports.com": [
+      "curated_gambling_feeds"
+    ],
+    "eurobet.bg": [
+      "curated_gambling_feeds"
+    ],
+    "europe-bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "euroslots.com": [
+      "curated_gambling_feeds"
+    ],
+    "evobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "exbeteu.com": [
+      "curated_gambling_feeds"
+    ],
+    "exebet.com": [
+      "curated_gambling_feeds"
+    ],
+    "expekt.com": [
+      "curated_gambling_feeds"
+    ],
+    "extreme-sportsbetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "eypobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "ezbets.ag": [
+      "curated_gambling_feeds"
+    ],
+    "ezsportsbetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "ezsportsbettingonline.com": [
+      "curated_gambling_feeds"
+    ],
+    "ezstreetsports.com": [
+      "curated_gambling_feeds"
+    ],
+    "faber.de": [
+      "curated_gambling_feeds"
+    ],
+    "faboom.com": [
+      "curated_gambling_feeds"
+    ],
+    "falconbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "fan2play.com": [
+      "curated_gambling_feeds"
+    ],
+    "fancode.com": [
+      "curated_gambling_feeds"
+    ],
+    "fanduel.com": [
+      "curated_gambling_feeds"
+    ],
+    "fanfight.com": [
+      "curated_gambling_feeds"
+    ],
+    "fansbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "fantasypower11.com": [
+      "curated_gambling_feeds"
+    ],
+    "fastbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "fatboss.com": [
+      "curated_gambling_feeds"
+    ],
+    "favbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "favourit.com": [
+      "curated_gambling_feeds"
+    ],
+    "fdj.fr": [
+      "curated_gambling_feeds"
+    ],
+    "fezbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "fi.888casino.com": [
+      "curated_gambling_feeds"
+    ],
+    "fi.casiplay.com": [
+      "curated_gambling_feeds"
+    ],
+    "fikacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "flemingtonsportsbet.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "flumecasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "folkeautomaten.com": [
+      "curated_gambling_feeds"
+    ],
+    "fonbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "footballpools.com": [
+      "curated_gambling_feeds"
+    ],
+    "forsportspicks.com": [
+      "curated_gambling_feeds"
+    ],
+    "fortunejack.com": [
+      "curated_gambling_feeds"
+    ],
+    "fortunelegends.com": [
+      "curated_gambling_feeds"
+    ],
+    "fr.royalvegascasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "france-pari.fr": [
+      "curated_gambling_feeds"
+    ],
+    "frankcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "frankfred.com": [
+      "curated_gambling_feeds"
+    ],
+    "freakyvegas.com": [
+      "curated_gambling_feeds"
+    ],
+    "fruitycasa.com": [
+      "curated_gambling_feeds"
+    ],
+    "fsport.net": [
+      "curated_gambling_feeds"
+    ],
+    "fullbetter.com": [
+      "curated_gambling_feeds"
+    ],
+    "fun-bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "fun88.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "funcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "galacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "galaksipokerqq.com": [
+      "curated_gambling_feeds"
+    ],
+    "galaxybetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "galaxysports.com": [
+      "curated_gambling_feeds"
+    ],
+    "gamblecsgo.com": [
+      "curated_gambling_feeds"
+    ],
+    "gambling.com": [
+      "curated_gambling_feeds"
+    ],
+    "gamdom.com": [
+      "curated_gambling_feeds"
+    ],
+    "gamebookers.com": [
+      "curated_gambling_feeds"
+    ],
+    "gamerjackpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "games.bet365.com": [
+      "curated_gambling_feeds"
+    ],
+    "games.williamhill.com": [
+      "curated_gambling_feeds"
+    ],
+    "gametime88.com": [
+      "curated_gambling_feeds"
+    ],
+    "gamingclub1.com": [
+      "curated_gambling_feeds"
+    ],
+    "gate777.com": [
+      "curated_gambling_feeds"
+    ],
+    "genesiscasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "gentingcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "geobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "geoff-banks.com": [
+      "curated_gambling_feeds"
+    ],
+    "getabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "getlucky.com": [
+      "curated_gambling_feeds"
+    ],
+    "giocoreale.com": [
+      "curated_gambling_feeds"
+    ],
+    "glimmercasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "global.138.com": [
+      "curated_gambling_feeds"
+    ],
+    "globalwagering.ws": [
+      "curated_gambling_feeds"
+    ],
+    "globetworld.com": [
+      "curated_gambling_feeds"
+    ],
+    "go50.net": [
+      "curated_gambling_feeds"
+    ],
+    "goalbetint.com": [
+      "curated_gambling_feeds"
+    ],
+    "goalwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "gobetgo.com": [
+      "curated_gambling_feeds"
+    ],
+    "gohorsebetting.ag": [
+      "curated_gambling_feeds"
+    ],
+    "golazobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "goldbetsports.com": [
+      "curated_gambling_feeds"
+    ],
+    "goldenbetsng.com": [
+      "curated_gambling_feeds"
+    ],
+    "goldmedalbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "goliathcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "gossipbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "gotocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "gotoentertainment.com": [
+      "curated_gambling_feeds"
+    ],
+    "gotosportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "gowildcasino.net": [
+      "curated_gambling_feeds"
+    ],
+    "gr88.com": [
+      "curated_gambling_feeds"
+    ],
+    "gracesbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "grandcasino.hu": [
+      "curated_gambling_feeds"
+    ],
+    "grandeaglecasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "grosvenorcasinos.com": [
+      "curated_gambling_feeds"
+    ],
+    "gtbets.eu": [
+      "curated_gambling_feeds"
+    ],
+    "guestlistbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "gunnersgaming.com": [
+      "curated_gambling_feeds"
+    ],
+    "guru11.com": [
+      "curated_gambling_feeds"
+    ],
+    "guruleagues.com": [
+      "curated_gambling_feeds"
+    ],
+    "guts.com": [
+      "curated_gambling_feeds"
+    ],
+    "gutshot.com": [
+      "curated_gambling_feeds"
+    ],
+    "gwbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "hajper.com": [
+      "curated_gambling_feeds"
+    ],
+    "hamsterbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "hanplayer.com": [
+      "curated_gambling_feeds"
+    ],
+    "hawaiicasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "healthlottery.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "heavenbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "hellocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "heritagesports.eu": [
+      "curated_gambling_feeds"
+    ],
+    "herobet.com.br": [
+      "curated_gambling_feeds"
+    ],
+    "heypoker.com": [
+      "curated_gambling_feeds"
+    ],
+    "heyspin.com": [
+      "curated_gambling_feeds"
+    ],
+    "highheelsbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "highlifebingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "highroller.com": [
+      "curated_gambling_feeds"
+    ],
+    "hippobingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "hititbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "hollywoodbets.net": [
+      "curated_gambling_feeds"
+    ],
+    "hollywoodsportsbook.eu": [
+      "curated_gambling_feeds"
+    ],
+    "home.olg.ca": [
+      "curated_gambling_feeds"
+    ],
+    "homerunsportsbetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "hopa.com": [
+      "curated_gambling_feeds"
+    ],
+    "horizonsports.es": [
+      "curated_gambling_feeds"
+    ],
+    "hotlinecsgo.com": [
+      "curated_gambling_feeds"
+    ],
+    "housieskill.com": [
+      "curated_gambling_feeds"
+    ],
+    "howzat.com": [
+      "curated_gambling_feeds"
+    ],
+    "hpbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "hrwager.ag": [
+      "curated_gambling_feeds"
+    ],
+    "hughesbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "hunkybingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "hypercasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "hyperino.com": [
+      "curated_gambling_feeds"
+    ],
+    "iasbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "ibet789.com": [
+      "curated_gambling_feeds"
+    ],
+    "ibetcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "icecasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "ifortuna.cz": [
+      "curated_gambling_feeds"
+    ],
+    "igame.com": [
+      "curated_gambling_feeds"
+    ],
+    "igame.se": [
+      "curated_gambling_feeds"
+    ],
+    "ignitioncasino.eu": [
+      "curated_gambling_feeds"
+    ],
+    "ikibu.com": [
+      "curated_gambling_feeds"
+    ],
+    "in.1x001.com": [
+      "curated_gambling_feeds"
+    ],
+    "in.casinoeuro.com": [
+      "curated_gambling_feeds"
+    ],
+    "inbet88.com": [
+      "curated_gambling_feeds"
+    ],
+    "india-wheel.pu020ev.com": [
+      "curated_gambling_feeds"
+    ],
+    "india.halaplay.com": [
+      "curated_gambling_feeds"
+    ],
+    "indycasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "infinitybet.com": [
+      "curated_gambling_feeds"
+    ],
+    "instacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "instantactionsports.com": [
+      "curated_gambling_feeds"
+    ],
+    "interapostas.com": [
+      "curated_gambling_feeds"
+    ],
+    "interbet.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "intercasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "intertops.eu": [
+      "curated_gambling_feeds"
+    ],
+    "interwetten.com": [
+      "curated_gambling_feeds"
+    ],
+    "ionwin88.net": [
+      "curated_gambling_feeds"
+    ],
+    "irisheyesbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "ironbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "islandcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "isleofbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "isportbet.net": [
+      "curated_gambling_feeds"
+    ],
+    "itvbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "jack-21.com": [
+      "curated_gambling_feeds"
+    ],
+    "jackpotbingo.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "jackpotcity.com": [
+      "curated_gambling_feeds"
+    ],
+    "jackpotcitycasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "jackpotvillage.com": [
+      "curated_gambling_feeds"
+    ],
+    "jammyduck.com": [
+      "curated_gambling_feeds"
+    ],
+    "japancasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "jaxx.com": [
+      "curated_gambling_feeds"
+    ],
+    "jazzsports.ag": [
+      "curated_gambling_feeds"
+    ],
+    "jebetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "jeet11.com": [
+      "curated_gambling_feeds"
+    ],
+    "jenningsbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "jesterjackpots.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "jesterjackpots.com": [
+      "curated_gambling_feeds"
+    ],
+    "jetbull.com": [
+      "curated_gambling_feeds"
+    ],
+    "jetwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "jinglebingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "jogossantacasa.pt": [
+      "curated_gambling_feeds"
+    ],
+    "johnslots.com": [
+      "curated_gambling_feeds"
+    ],
+    "join.casino.com": [
+      "curated_gambling_feeds"
+    ],
+    "joinbet.eu": [
+      "curated_gambling_feeds"
+    ],
+    "jojobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "juegos.loteriasyapuestas.es": [
+      "curated_gambling_feeds"
+    ],
+    "juicystakes.eu": [
+      "curated_gambling_feeds"
+    ],
+    "jumbabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "justbet.co": [
+      "curated_gambling_feeds"
+    ],
+    "justbet.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "justbet.cx": [
+      "curated_gambling_feeds"
+    ],
+    "justcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "justforbettors.com": [
+      "curated_gambling_feeds"
+    ],
+    "kaboo.com": [
+      "curated_gambling_feeds"
+    ],
+    "kaiserslots.com": [
+      "curated_gambling_feeds"
+    ],
+    "kalevalakasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "karamba.com": [
+      "curated_gambling_feeds"
+    ],
+    "karhukasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "karjalakasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "karlcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "kashmobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "kasinot.fi": [
+      "curated_gambling_feeds"
+    ],
+    "kassu.com": [
+      "curated_gambling_feeds"
+    ],
+    "kaszinoonline.net": [
+      "curated_gambling_feeds"
+    ],
+    "katiesbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "keyarena.gg": [
+      "curated_gambling_feeds"
+    ],
+    "khelchamps.com": [
+      "curated_gambling_feeds"
+    ],
+    "kingneptunescasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "kingneptunescasino.eu": [
+      "curated_gambling_feeds"
+    ],
+    "kingschancecampaign.com": [
+      "curated_gambling_feeds"
+    ],
+    "kingswaybingoonline.com": [
+      "curated_gambling_feeds"
+    ],
+    "kirsikka.com": [
+      "curated_gambling_feeds"
+    ],
+    "kissmybingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "klasselotteriet.dk": [
+      "curated_gambling_feeds"
+    ],
+    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app": [
+      "certificate_transparency"
+    ],
+    "kosmonautcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "krugerbets.com": [
+      "curated_gambling_feeds"
+    ],
+    "ksbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "ladbrokes.com": [
+      "curated_gambling_feeds"
+    ],
+    "ladbrokes.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "landing.winoui.com": [
+      "curated_gambling_feeds"
+    ],
+    "lapalingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "lasatlantispromos.com": [
+      "curated_gambling_feeds"
+    ],
+    "laspalmassportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "lasvegassportsbetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "latinopoker.eu": [
+      "curated_gambling_feeds"
+    ],
+    "latloto.lv": [
+      "curated_gambling_feeds"
+    ],
+    "lazvegas.com": [
+      "curated_gambling_feeds"
+    ],
+    "leaguex.com": [
+      "curated_gambling_feeds"
+    ],
+    "legendsportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "legolas.bet": [
+      "curated_gambling_feeds"
+    ],
+    "leisure888.com": [
+      "curated_gambling_feeds"
+    ],
+    "leojackpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "leonbets.net": [
+      "curated_gambling_feeds"
+    ],
+    "leovegas.com": [
+      "curated_gambling_feeds"
+    ],
+    "letsbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "libertyslots.eu": [
+      "curated_gambling_feeds"
+    ],
+    "liga365.com": [
+      "curated_gambling_feeds"
+    ],
+    "lightbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "lincolncasino.eu": [
+      "curated_gambling_feeds"
+    ],
+    "linesmaker.eu": [
+      "curated_gambling_feeds"
+    ],
+    "link2bet.com": [
+      "curated_gambling_feeds"
+    ],
+    "lionbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "lippybingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "littlebigbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "livebetting.bwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "livebetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "livebingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "livecasino.betway.com": [
+      "curated_gambling_feeds"
+    ],
+    "livecasino.williamhill.com": [
+      "curated_gambling_feeds"
+    ],
+    "livelounge.com": [
+      "curated_gambling_feeds"
+    ],
+    "livepools.com": [
+      "curated_gambling_feeds"
+    ],
+    "livesports.ag": [
+      "curated_gambling_feeds"
+    ],
+    "llamabet.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "lldj.com": [
+      "curated_gambling_feeds"
+    ],
+    "lmbookmaker.com": [
+      "curated_gambling_feeds"
+    ],
+    "loadsabingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "lookbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "loonybingo.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "loonybingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "looselines.com": [
+      "curated_gambling_feeds"
+    ],
+    "lopocasport.com": [
+      "curated_gambling_feeds"
+    ],
+    "loquaxbingo.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "lordlucky.de": [
+      "curated_gambling_feeds"
+    ],
+    "loro.ch": [
+      "curated_gambling_feeds"
+    ],
+    "lotenal.gob.mx": [
+      "curated_gambling_feeds"
+    ],
+    "loteria.com.ec": [
+      "curated_gambling_feeds"
+    ],
+    "loteriasyapuestas.es": [
+      "curated_gambling_feeds"
+    ],
+    "loterie-nationale.be": [
+      "curated_gambling_feeds"
+    ],
+    "loterie.lu": [
+      "curated_gambling_feeds"
+    ],
+    "loterie.ma": [
+      "curated_gambling_feeds"
+    ],
+    "loteries.lotoquebec.com": [
+      "curated_gambling_feeds"
+    ],
+    "loterija.si": [
+      "curated_gambling_feeds"
+    ],
+    "loto.mk": [
+      "curated_gambling_feeds"
+    ],
+    "loto.ro": [
+      "curated_gambling_feeds"
+    ],
+    "lotoquebec.com": [
+      "curated_gambling_feeds"
+    ],
+    "lotterien.at": [
+      "curated_gambling_feeds"
+    ],
+    "lottery.ie": [
+      "curated_gambling_feeds"
+    ],
+    "lottery.olg.ca": [
+      "curated_gambling_feeds"
+    ],
+    "lotto-berlin.de": [
+      "curated_gambling_feeds"
+    ],
+    "lotto-centrum.com": [
+      "curated_gambling_feeds"
+    ],
+    "lotto-sh.de": [
+      "curated_gambling_feeds"
+    ],
+    "lotto-thueringen.de": [
+      "curated_gambling_feeds"
+    ],
+    "lotto.cn": [
+      "curated_gambling_feeds"
+    ],
+    "lotto.de": [
+      "curated_gambling_feeds"
+    ],
+    "lotto.gmx.net": [
+      "curated_gambling_feeds"
+    ],
+    "lotto.is": [
+      "curated_gambling_feeds"
+    ],
+    "lotto.mthai.com": [
+      "curated_gambling_feeds"
+    ],
+    "lotto.pl": [
+      "curated_gambling_feeds"
+    ],
+    "lotto.web.de": [
+      "curated_gambling_feeds"
+    ],
+    "lotto24.de": [
+      "curated_gambling_feeds"
+    ],
+    "lotto24bingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "lottohelden.de": [
+      "curated_gambling_feeds"
+    ],
+    "lottoland.com": [
+      "curated_gambling_feeds"
+    ],
+    "lottoland.eu": [
+      "curated_gambling_feeds"
+    ],
+    "lottomax.ca": [
+      "curated_gambling_feeds"
+    ],
+    "louisvillecasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "lowvig.ag": [
+      "curated_gambling_feeds"
+    ],
+    "lsbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "lsbet690.com": [
+      "curated_gambling_feeds"
+    ],
+    "luckland.com": [
+      "curated_gambling_feeds"
+    ],
+    "lucky-31.com": [
+      "curated_gambling_feeds"
+    ],
+    "lucky8.com": [
+      "curated_gambling_feeds"
+    ],
+    "luckycasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "luckycharmbingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "luckycreek.com": [
+      "curated_gambling_feeds"
+    ],
+    "luckydino.com": [
+      "curated_gambling_feeds"
+    ],
+    "luckyland.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "luckylouis.com": [
+      "curated_gambling_feeds"
+    ],
+    "luckyluke.com": [
+      "curated_gambling_feeds"
+    ],
+    "luckymeslots.com": [
+      "curated_gambling_feeds"
+    ],
+    "luckyniki.com": [
+      "curated_gambling_feeds"
+    ],
+    "luckywinslots.com": [
+      "curated_gambling_feeds"
+    ],
+    "lumibet.com": [
+      "curated_gambling_feeds"
+    ],
+    "lutrija.co.me": [
+      "curated_gambling_feeds"
+    ],
+    "lutrija.hr": [
+      "curated_gambling_feeds"
+    ],
+    "lutrija.rs": [
+      "curated_gambling_feeds"
+    ],
+    "luxbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "luxurycasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "m.boylesports.com": [
+      "curated_gambling_feeds"
+    ],
+    "m.jetbull.com": [
+      "curated_gambling_feeds"
+    ],
+    "m.skybet.com": [
+      "curated_gambling_feeds"
+    ],
+    "m8bet.net": [
+      "curated_gambling_feeds"
+    ],
+    "m8poker.com": [
+      "curated_gambling_feeds"
+    ],
+    "macau-slot.com": [
+      "curated_gambling_feeds"
+    ],
+    "macau.williamhill.com": [
+      "curated_gambling_feeds"
+    ],
+    "macaubet.com": [
+      "curated_gambling_feeds"
+    ],
+    "macauslot.com": [
+      "curated_gambling_feeds"
+    ],
+    "madbookie.com": [
+      "curated_gambling_feeds"
+    ],
+    "madbookie.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "magicbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "magicred.com": [
+      "curated_gambling_feeds"
+    ],
+    "magnum4d.my": [
+      "curated_gambling_feeds"
+    ],
+    "mahjong--ways.noma.com": [
+      "certificate_transparency"
+    ],
+    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de": [
+      "certificate_transparency"
+    ],
+    "mahjong-download-windows-10--167758106.helpclean.de": [
+      "certificate_transparency"
+    ],
+    "majorbet.net": [
+      "curated_gambling_feeds"
+    ],
+    "majorsportsbetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "malinasports.com": [
+      "curated_gambling_feeds"
+    ],
+    "mamamiabingo.com": [
+      "curated_gambling_feeds"
+    ],
+    "mansion88.com": [
+      "curated_gambling_feeds"
+    ],
+    "mansionbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "marathonbet.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "marathonbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "mariacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "markjarvisbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "marsbet12.com": [
+      "curated_gambling_feeds"
+    ],
+    "marsbet200.com": [
+      "curated_gambling_feeds"
+    ],
+    "marsbet300.com": [
+      "curated_gambling_feeds"
+    ],
+    "marsbet400.com": [
+      "curated_gambling_feeds"
+    ],
+    "matchbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "maxitip.cz": [
+      "curated_gambling_feeds"
+    ],
+    "mayansports.eu": [
+      "curated_gambling_feeds"
+    ],
+    "mbet.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "mcbookie.com": [
+      "curated_gambling_feeds"
+    ],
+    "megalotto.pl": [
+      "curated_gambling_feeds"
+    ],
+    "megasportsworld.com": [
+      "curated_gambling_feeds"
+    ],
+    "meridianbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "merkur-casino.de": [
+      "curated_gambling_feeds"
+    ],
+    "merkur24.com": [
+      "curated_gambling_feeds"
+    ],
+    "metalcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "metspoker.com": [
+      "curated_gambling_feeds"
+    ],
+    "mexicocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "mfortune.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "miamicasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "miamidice.com": [
+      "curated_gambling_feeds"
+    ],
+    "miamidicecasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "middlebet.com": [
+      "curated_gambling_feeds"
+    ],
+    "mobil6000.com": [
+      "curated_gambling_feeds"
+    ],
+    "mobilautomaten.com": [
+      "curated_gambling_feeds"
+    ],
+    "mobilbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "mobilebet.com": [
+      "curated_gambling_feeds"
+    ],
+    "mobocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "monacoaces.com": [
+      "curated_gambling_feeds"
+    ],
+    "moneyplayscasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "montecarlocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "morganbet.eu": [
+      "curated_gambling_feeds"
+    ],
+    "mozzartbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "mpcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "mpi.gov.tr": [
+      "curated_gambling_feeds"
+    ],
+    "mpl.live": [
+      "curated_gambling_feeds"
+    ],
+    "mpl.us": [
+      "curated_gambling_feeds"
+    ],
+    "mr.bet": [
+      "curated_gambling_feeds"
+    ],
+    "mrgreen.com": [
+      "curated_gambling_feeds"
+    ],
+    "mrjackpotspins.com": [
+      "curated_gambling_feeds"
+    ],
+    "mrmega.com": [
+      "curated_gambling_feeds"
+    ],
+    "mrmobi.com": [
+      "curated_gambling_feeds"
+    ],
+    "mrplay.com": [
+      "curated_gambling_feeds"
+    ],
+    "mrringo.com": [
+      "curated_gambling_feeds"
+    ],
+    "mrslot.com": [
+      "curated_gambling_feeds"
+    ],
+    "mrspin.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "mrwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "msl.ua": [
+      "curated_gambling_feeds"
+    ],
+    "multilotto.com": [
+      "curated_gambling_feeds"
+    ],
+    "multipasko.pl": [
+      "curated_gambling_feeds"
+    ],
+    "mummysgold.com": [
+      "curated_gambling_feeds"
+    ],
+    "mvpaction.ag": [
+      "curated_gambling_feeds"
+    ],
+    "my11circle.com": [
+      "curated_gambling_feeds"
+    ],
+    "mybcasino.ag": [
+      "curated_gambling_feeds"
+    ],
+    "mybet.com": [
+      "curated_gambling_feeds"
+    ],
+    "mybookie.ag": [
+      "curated_gambling_feeds"
+    ],
+    "mychance.com": [
+      "curated_gambling_feeds"
+    ],
+    "myfab11.com": [
+      "curated_gambling_feeds"
+    ],
+    "mylotto.co.nz": [
+      "curated_gambling_feeds"
+    ],
+    "mysportsbook.ag": [
+      "curated_gambling_feeds"
+    ],
+    "myteam11.com": [
+      "curated_gambling_feeds"
+    ],
+    "myteampoker.com": [
+      "curated_gambling_feeds"
+    ],
+    "n1casino.com": [
+      "curated_gambling_feeds"
+    ],
+    "naijabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "nairabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "nairastake.com": [
+      "curated_gambling_feeds"
+    ],
+    "nanos365.com": [
+      "curated_gambling_feeds"
+    ],
+    "national-lottery.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "nationale-loterij.be": [
+      "curated_gambling_feeds"
+    ],
+    "nationallottery.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "nederbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "nederlandseloterij.nl": [
+      "curated_gambling_feeds"
+    ],
+    "needforbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "netbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "netbet.de": [
+      "curated_gambling_feeds"
+    ],
+    "netbet.fr": [
+      "curated_gambling_feeds"
+    ],
+    "neverfelted.eu": [
+      "curated_gambling_feeds"
+    ],
+    "nextcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "nightrush.com": [
+      "curated_gambling_feeds"
+    ],
+    "nightwoodbookmakers.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "nikebet.net": [
+      "curated_gambling_feeds"
+    ],
+    "ninjacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "ninjackpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "nitrogensports.eu": [
+      "curated_gambling_feeds"
+    ],
+    "nlb.lk": [
+      "curated_gambling_feeds"
+    ],
+    "nlotto.co.kr": [
+      "curated_gambling_feeds"
+    ],
+    "noaccountcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "nopeampi.com": [
+      "curated_gambling_feeds"
+    ],
+    "nordicbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "norgesautomaten.com": [
+      "curated_gambling_feeds"
+    ],
+    "norgesspill.com": [
+      "curated_gambling_feeds"
+    ],
+    "norsk-tipping.no": [
+      "curated_gambling_feeds"
+    ],
+    "norskeautomater.com": [
+      "curated_gambling_feeds"
+    ],
+    "norskespilleautomater.com": [
+      "curated_gambling_feeds"
+    ],
+    "northbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "nostrabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "nostragamus.in": [
+      "curated_gambling_feeds"
+    ],
+    "novibet.com": [
+      "curated_gambling_feeds"
+    ],
+    "noxwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "nstra.pro": [
+      "curated_gambling_feeds"
+    ],
+    "nyspins.com": [
+      "curated_gambling_feeds"
+    ],
+    "oddsmaker.ag": [
+      "curated_gambling_feeds"
+    ],
+    "oddsring.com": [
+      "curated_gambling_feeds"
+    ],
+    "oddsshark.com": [
+      "curated_gambling_feeds"
+    ],
+    "odinbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "offsidebet.com": [
+      "curated_gambling_feeds"
+    ],
+    "offtrackbetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "ohiocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "ohmbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "olaspill.com": [
+      "curated_gambling_feeds"
+    ],
+    "olg.ca": [
+      "curated_gambling_feeds"
+    ],
+    "olgslotsandcasinos.ca": [
+      "curated_gambling_feeds"
+    ],
+    "olimp.com": [
+      "curated_gambling_feeds"
+    ],
+    "olybet.com": [
+      "curated_gambling_feeds"
+    ],
+    "olybet.eu": [
+      "curated_gambling_feeds"
+    ],
+    "omniacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "oneclickmahjong.com": [
+      "certificate_transparency"
+    ],
+    "oneto11.com": [
+      "curated_gambling_feeds"
+    ],
+    "onetpedia.net": [
+      "curated_gambling_feeds"
+    ],
+    "online.singaporepools.com": [
+      "curated_gambling_feeds"
+    ],
+    "onlinecasino-eu.com": [
+      "curated_gambling_feeds"
+    ],
+    "onlinecasino.de": [
+      "curated_gambling_feeds"
+    ],
+    "onlywinners.com": [
+      "curated_gambling_feeds"
+    ],
+    "opap.gr": [
+      "curated_gambling_feeds"
+    ],
+    "opcrates.com": [
+      "curated_gambling_feeds"
+    ],
+    "optibet.com": [
+      "curated_gambling_feeds"
+    ],
+    "optionsports.com": [
+      "curated_gambling_feeds"
+    ],
+    "orakulas.lt": [
+      "curated_gambling_feeds"
+    ],
+    "orlandocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "ourpricebet.com": [
+      "curated_gambling_feeds"
+    ],
+    "overtheodds.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "ovocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "ozbet.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "p7campaign.com": [
+      "curated_gambling_feeds"
+    ],
+    "paddypower.com": [
+      "curated_gambling_feeds"
+    ],
+    "paf.com": [
+      "curated_gambling_feeds"
+    ],
+    "pais.co.il": [
+      "curated_gambling_feeds"
+    ],
+    "palladiumcasino.eu": [
+      "curated_gambling_feeds"
+    ],
+    "palmerbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "pandabet.net": [
+      "curated_gambling_feeds"
+    ],
+    "paradisewin.com": [
+      "curated_gambling_feeds"
+    ],
+    "parasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "parimatch.com": [
+      "curated_gambling_feeds"
+    ],
+    "parimatchplay1.com": [
+      "curated_gambling_feeds"
+    ],
+    "parionssport.fdj.fr": [
+      "curated_gambling_feeds"
+    ],
+    "pariscasino8.com": [
+      "curated_gambling_feeds"
+    ],
+    "partypoker.cz": [
+      "curated_gambling_feeds"
+    ],
+    "parxcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "pasarbola.com": [
+      "curated_gambling_feeds"
+    ],
+    "paytmfirstgames.com": [
+      "curated_gambling_feeds"
+    ],
+    "pelaa.com": [
+      "curated_gambling_feeds"
+    ],
+    "pikakasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "pinnacle.com": [
+      "curated_gambling_feeds"
+    ],
+    "pinnaclesports.com": [
+      "curated_gambling_feeds"
+    ],
+    "piratespin.com": [
+      "curated_gambling_feeds"
+    ],
+    "planetofbets.com": [
+      "curated_gambling_feeds"
+    ],
+    "planetwin365.com": [
+      "curated_gambling_feeds"
+    ],
+    "platincasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "playamo.com": [
+      "curated_gambling_feeds"
+    ],
+    "playbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "playclub.com": [
+      "curated_gambling_feeds"
+    ],
+    "playersonly.ag": [
+      "curated_gambling_feeds"
+    ],
+    "playerzpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "playfrank.com": [
+      "curated_gambling_feeds"
+    ],
+    "playgrandcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "playnow.com": [
+      "curated_gambling_feeds"
+    ],
+    "playojo.com": [
+      "curated_gambling_feeds"
+    ],
+    "playolg.ca": [
+      "curated_gambling_feeds"
+    ],
+    "playsugarhouse.com": [
+      "curated_gambling_feeds"
+    ],
+    "playzax-top.com": [
+      "curated_gambling_feeds"
+    ],
+    "plexodds.com": [
+      "curated_gambling_feeds"
+    ],
+    "plus.betway.com": [
+      "curated_gambling_feeds"
+    ],
+    "pocketvegas.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "pointcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "pointsbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "poker.betway.com": [
+      "curated_gambling_feeds"
+    ],
+    "poker.synottip.cz": [
+      "curated_gambling_feeds"
+    ],
+    "poker.williamhill.com": [
+      "curated_gambling_feeds"
+    ],
+    "pokerdassi360.com": [
+      "curated_gambling_feeds"
+    ],
+    "pokergolden.biz": [
+      "curated_gambling_feeds"
+    ],
+    "pokerimaa.com": [
+      "curated_gambling_feeds"
+    ],
+    "pokerlion.com": [
+      "curated_gambling_feeds"
+    ],
+    "pokermax.com": [
+      "curated_gambling_feeds"
+    ],
+    "pokerstars.cz": [
+      "curated_gambling_feeds"
+    ],
+    "pokerstars.eu": [
+      "curated_gambling_feeds"
+    ],
+    "pokerstars.uk": [
+      "curated_gambling_feeds"
+    ],
+    "pokerstarscasino.uk": [
+      "curated_gambling_feeds"
+    ],
+    "portail.lotoquebec.com": [
+      "curated_gambling_feeds"
+    ],
+    "postcodeloterij.nl": [
+      "curated_gambling_feeds"
+    ],
+    "potsofluck.com": [
+      "curated_gambling_feeds"
+    ],
+    "premiercasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "pridmorebookmakers.com": [
+      "curated_gambling_feeds"
+    ],
+    "primebet.com.mt": [
+      "curated_gambling_feeds"
+    ],
+    "primecaptain.com": [
+      "curated_gambling_feeds"
+    ],
+    "primedice.com": [
+      "curated_gambling_feeds"
+    ],
+    "primeslots.com": [
+      "curated_gambling_feeds"
+    ],
+    "pro-factory.com": [
+      "curated_gambling_feeds"
+    ],
+    "proline.ca": [
+      "curated_gambling_feeds"
+    ],
+    "promo.casinoroom.com": [
+      "curated_gambling_feeds"
+    ],
+    "promo.ladbrokes.com": [
+      "curated_gambling_feeds"
+    ],
+    "promo.madnix.com": [
+      "curated_gambling_feeds"
+    ],
+    "promotion.eurolotto.com": [
+      "curated_gambling_feeds"
+    ],
+    "promotions.betsafe.com": [
+      "curated_gambling_feeds"
+    ],
+    "promotions.epic.partners": [
+      "curated_gambling_feeds"
+    ],
+    "promotions.superslots.ag": [
+      "curated_gambling_feeds"
+    ],
+    "promotions.wildcasino.ag": [
+      "curated_gambling_feeds"
+    ],
+    "prontocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "propawin.com": [
+      "curated_gambling_feeds"
+    ],
+    "punchbets.com": [
+      "curated_gambling_feeds"
+    ],
+    "purepoker.eu": [
+      "curated_gambling_feeds"
+    ],
+    "purewin.com": [
+      "curated_gambling_feeds"
+    ],
+    "queenvegas.com": [
+      "curated_gambling_feeds"
+    ],
+    "racebets.com": [
+      "curated_gambling_feeds"
+    ],
+    "raj.bet": [
+      "curated_gambling_feeds"
+    ],
+    "rajabets.com": [
+      "curated_gambling_feeds"
+    ],
+    "rajabets.xyz": [
+      "curated_gambling_feeds"
+    ],
+    "rajahbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "rajbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "rb88.com": [
+      "curated_gambling_feeds"
+    ],
+    "readytobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "realbet.eu": [
+      "curated_gambling_feeds"
+    ],
+    "realdealbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "rebatewager.ag": [
+      "curated_gambling_feeds"
+    ],
+    "redbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "reddogcasinobonuses.com": [
+      "curated_gambling_feeds"
+    ],
+    "redkings.com": [
+      "curated_gambling_feeds"
+    ],
+    "redmilebets.com": [
+      "curated_gambling_feeds"
+    ],
+    "redspins.com": [
+      "curated_gambling_feeds"
+    ],
+    "redstarsports.eu": [
+      "curated_gambling_feeds"
+    ],
+    "redzonesports.bet": [
+      "curated_gambling_feeds"
+    ],
+    "refuelcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "regionalwinsite.com": [
+      "curated_gambling_feeds"
+    ],
+    "ridika.com": [
+      "curated_gambling_feeds"
+    ],
+    "rikstoto.no": [
+      "curated_gambling_feeds"
+    ],
+    "rivalo.com": [
+      "curated_gambling_feeds"
+    ],
+    "riverbellecasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "rizk.com": [
+      "curated_gambling_feeds"
+    ],
+    "roadbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "roaring21.com": [
+      "curated_gambling_feeds"
+    ],
+    "rolla.com": [
+      "curated_gambling_feeds"
+    ],
+    "royalcspot.com": [
+      "curated_gambling_feeds"
+    ],
+    "royalpanda.com": [
+      "curated_gambling_feeds"
+    ],
+    "royalslots.com": [
+      "curated_gambling_feeds"
+    ],
+    "royrichie.com": [
+      "curated_gambling_feeds"
+    ],
+    "rubet.com": [
+      "curated_gambling_feeds"
+    ],
+    "rummy24.com": [
+      "curated_gambling_feeds"
+    ],
+    "rush777.com": [
+      "curated_gambling_feeds"
+    ],
+    "safaribet.com.gh": [
+      "curated_gambling_feeds"
+    ],
+    "saharabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "sameeraliwd739.github.io": [
       "platform_abuse_sweep"
     ],
-    "togellinkbaru.xyz": [
-      "osint_community"
+    "samvo.com": [
+      "curated_gambling_feeds"
+    ],
+    "sanfrancasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "saturnplay.com": [
+      "curated_gambling_feeds"
+    ],
+    "sazka.cz": [
+      "curated_gambling_feeds"
+    ],
+    "sbgglobal.eu": [
+      "curated_gambling_feeds"
+    ],
+    "sblp.intertops.eu": [
+      "curated_gambling_feeds"
+    ],
+    "sbobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "scandibet.com": [
+      "curated_gambling_feeds"
+    ],
+    "scasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "score99.net": [
+      "curated_gambling_feeds"
+    ],
+    "scotbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "seabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "seangraham.com": [
+      "curated_gambling_feeds"
+    ],
+    "seaniemac.com": [
+      "curated_gambling_feeds"
+    ],
+    "sectorbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "secure.bkbet.eu": [
+      "curated_gambling_feeds"
+    ],
+    "sesbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "setantabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "simppeli.com": [
+      "curated_gambling_feeds"
+    ],
+    "sirbobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "sirjackpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "sisal.it": [
+      "curated_gambling_feeds"
+    ],
+    "sisportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "sjbet.at": [
+      "curated_gambling_feeds"
+    ],
+    "skedina.com": [
+      "curated_gambling_feeds"
+    ],
+    "skinarena.com": [
+      "curated_gambling_feeds"
+    ],
+    "skinbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "skinduel.com": [
+      "curated_gambling_feeds"
+    ],
+    "skingaben.com": [
+      "curated_gambling_feeds"
+    ],
+    "skinhell.com": [
+      "curated_gambling_feeds"
+    ],
+    "skinhunt.com": [
+      "curated_gambling_feeds"
+    ],
+    "skinprofit.com": [
+      "curated_gambling_feeds"
+    ],
+    "skinsdream.com": [
+      "curated_gambling_feeds"
+    ],
+    "skybet.com": [
+      "curated_gambling_feeds"
+    ],
+    "skybook.ag": [
+      "curated_gambling_feeds"
+    ],
+    "skytowersportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "slbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "slotocash.im": [
+      "curated_gambling_feeds"
+    ],
+    "slotplanet.com": [
+      "curated_gambling_feeds"
+    ],
+    "slots.888wetten.de": [
+      "curated_gambling_feeds"
+    ],
+    "slots.com": [
+      "curated_gambling_feeds"
+    ],
+    "slots.lv": [
+      "curated_gambling_feeds"
+    ],
+    "slotsheaven.com": [
+      "curated_gambling_feeds"
+    ],
+    "slotsino.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "slotsmagic.com": [
+      "curated_gambling_feeds"
+    ],
+    "slotsmillion.com": [
+      "curated_gambling_feeds"
+    ],
+    "slotsons.com": [
+      "curated_gambling_feeds"
+    ],
+    "slottyvegas.com": [
+      "curated_gambling_feeds"
+    ],
+    "slotv.com": [
+      "curated_gambling_feeds"
+    ],
+    "sloty.com": [
+      "curated_gambling_feeds"
+    ],
+    "smarkets.com": [
+      "curated_gambling_feeds"
+    ],
+    "smashsportsbetting.com": [
+      "curated_gambling_feeds"
+    ],
+    "snabbare.com": [
+      "curated_gambling_feeds"
+    ],
+    "socalsportbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "softbet.eu": [
+      "curated_gambling_feeds"
+    ],
+    "spartansslots.net": [
+      "curated_gambling_feeds"
+    ],
+    "speedybet.com": [
+      "curated_gambling_feeds"
+    ],
+    "spela.com": [
+      "curated_gambling_feeds"
+    ],
+    "spincasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "spindipity.com": [
+      "curated_gambling_feeds"
+    ],
+    "spinit.com": [
+      "curated_gambling_feeds"
+    ],
+    "spinland.com": [
+      "curated_gambling_feeds"
+    ],
+    "spinpalace.com": [
+      "curated_gambling_feeds"
+    ],
+    "spinprincess.com": [
+      "curated_gambling_feeds"
+    ],
+    "spinrider.com": [
+      "curated_gambling_feeds"
+    ],
+    "spinson.com": [
+      "curated_gambling_feeds"
+    ],
+    "spinstation.com": [
+      "curated_gambling_feeds"
+    ],
+    "spinzilla.com": [
+      "curated_gambling_feeds"
+    ],
+    "sport-gewin.com": [
+      "curated_gambling_feeds"
+    ],
+    "sport.netbet.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "sport.synottip.cz": [
+      "curated_gambling_feeds"
+    ],
+    "sportbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportfanatik.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportingbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportingbet.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "sportingindex.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportjunki.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportlife.com.mk": [
+      "curated_gambling_feeds"
+    ],
+    "sportodds.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports-gambling.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.betway.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.br.betboo.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.bwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.gamebookers.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.gentingcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.intertops.eu": [
+      "curated_gambling_feeds"
+    ],
+    "sports.magicred.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.partypoker.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.smartlivegaming.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.vernons.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.williamhill.com": [
+      "curated_gambling_feeds"
+    ],
+    "sports.winner.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbet.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbet.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbet.io": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbetting.ag": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbetting.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbettingdime.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbettingonline.ag": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbook-uk.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbook.ag": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbook.ca": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbook.caesars.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbook.kingdomcasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbookreview.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbooks.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportsbookusa.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportsspread.com": [
+      "curated_gambling_feeds"
+    ],
+    "sportstoto.com.my": [
+      "curated_gambling_feeds"
+    ],
+    "sporttime.net": [
+      "curated_gambling_feeds"
+    ],
+    "sportzbookz.com": [
+      "curated_gambling_feeds"
+    ],
+    "spreadex.com": [
+      "curated_gambling_feeds"
+    ],
+    "sssbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "staatsloterij.nederlandseloterij.nl": [
+      "curated_gambling_feeds"
+    ],
+    "stakers.com": [
+      "curated_gambling_feeds"
+    ],
+    "stakes.com": [
+      "curated_gambling_feeds"
+    ],
+    "stanjames.com": [
+      "curated_gambling_feeds"
+    ],
+    "starlottosport.com": [
+      "curated_gambling_feeds"
+    ],
+    "start.duelz.com": [
+      "curated_gambling_feeds"
+    ],
+    "statsloterij.nederlandseloterij.nl": [
+      "curated_gambling_feeds"
+    ],
+    "statusbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "stoloto.ru": [
+      "curated_gambling_feeds"
+    ],
+    "storspelare.com": [
+      "curated_gambling_feeds"
+    ],
+    "storspiller.com": [
+      "curated_gambling_feeds"
+    ],
+    "strikewin.com": [
+      "curated_gambling_feeds"
+    ],
+    "sultanaffiliates.com": [
+      "curated_gambling_feeds"
+    ],
+    "sunbets.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "suomikasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "supabets.com.gh": [
+      "curated_gambling_feeds"
+    ],
+    "super88.club": [
+      "curated_gambling_feeds"
+    ],
+    "super8casino.com": [
+      "curated_gambling_feeds"
+    ],
+    "superbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "superbook.ag": [
+      "curated_gambling_feeds"
+    ],
+    "superlenny.com": [
+      "curated_gambling_feeds"
+    ],
+    "superslots.ag": [
+      "curated_gambling_feeds"
+    ],
+    "supersoccer.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "supersportsbook.com": [
+      "curated_gambling_feeds"
+    ],
+    "superusacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "surf.casino": [
+      "curated_gambling_feeds"
+    ],
+    "sveacasino.se": [
+      "curated_gambling_feeds"
+    ],
+    "svedalacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "svenskaspel.se": [
+      "curated_gambling_feeds"
+    ],
+    "sverigeautomaten.com": [
+      "curated_gambling_feeds"
+    ],
+    "sverigecasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "sverigekronan.com": [
+      "curated_gambling_feeds"
+    ],
+    "swedencasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "swedencasino.se": [
+      "curated_gambling_feeds"
+    ],
+    "synottip.cz": [
+      "curated_gambling_feeds"
+    ],
+    "szerencsejatek.hu": [
+      "curated_gambling_feeds"
+    ],
+    "szuperlotto.com": [
+      "curated_gambling_feeds"
+    ],
+    "tab.co.nz": [
+      "curated_gambling_feeds"
+    ],
+    "tab.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "tabgold.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "taiwanlottery.com.tw": [
+      "curated_gambling_feeds"
+    ],
+    "takarakuji-official.jp": [
+      "curated_gambling_feeds"
+    ],
+    "tatts.com": [
+      "curated_gambling_feeds"
+    ],
+    "templenile.com": [
+      "curated_gambling_feeds"
+    ],
+    "tempobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "texascasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "thebetarena.com": [
+      "curated_gambling_feeds"
+    ],
+    "thebettingguy.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "thegreek.com": [
+      "curated_gambling_feeds"
+    ],
+    "thelotter.com": [
+      "curated_gambling_feeds"
+    ],
+    "third-mahjong--third-mahjong.asia-east1.hosted.app": [
+      "certificate_transparency"
+    ],
+    "thrills.com": [
+      "curated_gambling_feeds"
+    ],
+    "tipbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "tipico.com": [
+      "curated_gambling_feeds"
+    ],
+    "tipos.sk": [
+      "curated_gambling_feeds"
+    ],
+    "tipp24.com": [
+      "curated_gambling_feeds"
+    ],
+    "tipsport.cz": [
+      "curated_gambling_feeds"
+    ],
+    "tipwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "titanbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "titansbet.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "toals.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "tommyfrench.com": [
+      "curated_gambling_feeds"
+    ],
+    "tomwaterhouse.com": [
+      "curated_gambling_feeds"
+    ],
+    "tonybet.com": [
+      "curated_gambling_feeds"
+    ],
+    "topbet.eu": [
+      "curated_gambling_feeds"
+    ],
+    "topbetta.com": [
+      "curated_gambling_feeds"
+    ],
+    "topbetta.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "topcatsports.ag": [
+      "curated_gambling_feeds"
+    ],
+    "topodds.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "topplay.cc": [
+      "curated_gambling_feeds"
+    ],
+    "topsport.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "topsportwetten.com": [
+      "curated_gambling_feeds"
+    ],
+    "topwin.cc": [
+      "curated_gambling_feeds"
+    ],
+    "tortugacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "totalbets.com": [
+      "curated_gambling_feeds"
+    ],
+    "totesport.com": [
+      "curated_gambling_feeds"
+    ],
+    "toto.bg": [
+      "curated_gambling_feeds"
+    ],
+    "toto2.com": [
+      "curated_gambling_feeds"
+    ],
+    "totobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "totobet24.com": [
+      "curated_gambling_feeds"
+    ],
+    "toxicjackpot.com": [
+      "curated_gambling_feeds"
+    ],
+    "triobet.com": [
+      "curated_gambling_feeds"
+    ],
+    "ttr.casino": [
+      "curated_gambling_feeds"
+    ],
+    "turbico.com": [
+      "curated_gambling_feeds"
+    ],
+    "uberskins.net": [
+      "curated_gambling_feeds"
+    ],
+    "ubet.com": [
+      "curated_gambling_feeds"
+    ],
+    "ucabet.co": [
+      "curated_gambling_feeds"
+    ],
+    "uk-k8.com": [
+      "curated_gambling_feeds"
+    ],
+    "ukcasinoclub.eu": [
+      "curated_gambling_feeds"
+    ],
+    "ultimate-odds.com": [
+      "curated_gambling_feeds"
+    ],
+    "unibet.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "unibet.com": [
+      "curated_gambling_feeds"
+    ],
+    "unibet.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "unionbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "uptownaces.eu": [
+      "curated_gambling_feeds"
+    ],
+    "usapriceperhead.com": [
+      "curated_gambling_feeds"
+    ],
+    "usbetting.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "vacasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "vandersports.com": [
+      "curated_gambling_feeds"
+    ],
+    "vbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "vegas.betway.com": [
+      "curated_gambling_feeds"
+    ],
+    "vegas.hu": [
+      "curated_gambling_feeds"
+    ],
+    "vegas.williamhill.com": [
+      "curated_gambling_feeds"
+    ],
+    "vegascasinoonline.eu": [
+      "curated_gambling_feeds"
+    ],
+    "vegascrestcasino.ag": [
+      "curated_gambling_feeds"
+    ],
+    "vegashero.com": [
+      "curated_gambling_feeds"
+    ],
+    "veikkaus.fi": [
+      "curated_gambling_feeds"
+    ],
+    "verajohn.com": [
+      "curated_gambling_feeds"
+    ],
+    "vernons.com": [
+      "curated_gambling_feeds"
+    ],
+    "vestabet365.com": [
+      "curated_gambling_feeds"
+    ],
+    "videoslots.com": [
+      "curated_gambling_feeds"
+    ],
+    "vierklee.com": [
+      "curated_gambling_feeds"
+    ],
+    "vietbet.eu": [
+      "curated_gambling_feeds"
+    ],
+    "vikingslots.com": [
+      "curated_gambling_feeds"
+    ],
+    "viks.com": [
+      "curated_gambling_feeds"
+    ],
+    "villabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "villento.com": [
+      "curated_gambling_feeds"
+    ],
+    "vinnarum.com": [
+      "curated_gambling_feeds"
+    ],
+    "vipsports.eu": [
+      "curated_gambling_feeds"
+    ],
+    "vision11.in": [
+      "curated_gambling_feeds"
+    ],
+    "vitalbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "voltbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "voodoodreams.com": [
+      "curated_gambling_feeds"
+    ],
+    "vulcun.com": [
+      "curated_gambling_feeds"
+    ],
+    "vwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "wager.dm": [
+      "curated_gambling_feeds"
+    ],
+    "wager123.com": [
+      "curated_gambling_feeds"
+    ],
+    "wager7.eu": [
+      "curated_gambling_feeds"
+    ],
+    "wagerallin.com": [
+      "curated_gambling_feeds"
+    ],
+    "wagermadness.com": [
+      "curated_gambling_feeds"
+    ],
+    "wagerup.eu": [
+      "curated_gambling_feeds"
+    ],
+    "wagerweb.ag": [
+      "curated_gambling_feeds"
+    ],
+    "wagerweb.eu": [
+      "curated_gambling_feeds"
+    ],
+    "wazamba.com": [
+      "curated_gambling_feeds"
+    ],
+    "webbookmakers.com": [
+      "curated_gambling_feeds"
+    ],
+    "westlotto.de": [
+      "curated_gambling_feeds"
+    ],
+    "wettpunkt.com": [
+      "curated_gambling_feeds"
+    ],
+    "wgh.ag": [
+      "curated_gambling_feeds"
+    ],
+    "whalegaming.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "whitebet.com": [
+      "curated_gambling_feeds"
+    ],
+    "wildcasino.ag": [
+      "curated_gambling_feeds"
+    ],
+    "wildjackpots.com": [
+      "curated_gambling_feeds"
+    ],
+    "wildsultan.com": [
+      "curated_gambling_feeds"
+    ],
+    "wildz.com": [
+      "curated_gambling_feeds"
+    ],
+    "williamhill.com": [
+      "curated_gambling_feeds"
+    ],
+    "williamhill.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "wilsonbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "win29.com": [
+      "curated_gambling_feeds"
+    ],
+    "win2day.at": [
+      "curated_gambling_feeds"
+    ],
+    "winamax.fr": [
+      "curated_gambling_feeds"
+    ],
+    "winmasters.com": [
+      "curated_gambling_feeds"
+    ],
+    "winner.co.uk": [
+      "curated_gambling_feeds"
+    ],
+    "winningft.com": [
+      "curated_gambling_feeds"
+    ],
+    "winzogames.com": [
+      "curated_gambling_feeds"
+    ],
+    "wishmaker.com": [
+      "curated_gambling_feeds"
+    ],
+    "wixstars.com": [
+      "curated_gambling_feeds"
+    ],
+    "wizardofodds.com": [
+      "curated_gambling_feeds"
+    ],
+    "worldofsport.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "worldsportsbetting.co.za": [
+      "curated_gambling_feeds"
+    ],
+    "worldstar.co.ug": [
+      "curated_gambling_feeds"
+    ],
+    "worldwidegamble.com": [
+      "curated_gambling_feeds"
+    ],
+    "wunderino.com": [
+      "curated_gambling_feeds"
+    ],
+    "wwin.ba": [
+      "curated_gambling_feeds"
+    ],
+    "wwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "xinweide.com": [
+      "curated_gambling_feeds"
+    ],
+    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com": [
+      "certificate_transparency"
+    ],
+    "yabet.com": [
+      "curated_gambling_feeds"
+    ],
+    "yakocasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "yeticasino.com": [
+      "curated_gambling_feeds"
+    ],
+    "yobetit.com": [
+      "curated_gambling_feeds"
+    ],
+    "youwager.eu": [
+      "curated_gambling_feeds"
+    ],
+    "youwin.com": [
+      "curated_gambling_feeds"
+    ],
+    "zebrabet.com.au": [
+      "curated_gambling_feeds"
+    ],
+    "zenitbet.com": [
+      "curated_gambling_feeds"
+    ],
+    "zetpoker.eu": [
+      "curated_gambling_feeds"
+    ],
+    "zeturf.fr": [
+      "curated_gambling_feeds"
+    ],
+    "zodiacu.com": [
+      "curated_gambling_feeds"
     ]
   },
   "domains": [
-    "betlokalbaru.net",
-    "contoh.ac.id",
-    "judi-asia-net.net",
-    "judi-online-terbaik.net",
-    "judol-clone-demo.netlify.app",
-    "laporanjudi123.com",
-    "mahjongbet777.xyz",
-    "mirror-slotgacor.net",
-    "rtp-mirror-demo.vercel.app",
-    "rtpindonesia777.site",
-    "rtplive777.site",
-    "sample.go.id",
-    "slotbaru88.com",
-    "slotgacor123.com",
-    "slotkomunitasid.com",
-    "slotmirror-demo.pages.dev",
-    "togellinkbaru.xyz"
+    "10bet.co.uk",
+    "10bet.com",
+    "10luxury39.com",
+    "11wickets.com",
+    "12bet.com",
+    "12bet.uk",
+    "1337bid.com",
+    "138.com",
+    "180bets.com",
+    "188bet.com",
+    "18bet.com",
+    "1bet.com",
+    "1bet2bet.com",
+    "1stlines.com",
+    "1vice.ag",
+    "1x2plus.com",
+    "1xbet.com",
+    "21bet.com",
+    "21casino.com",
+    "21prive.com",
+    "22bet.com",
+    "22betpartners.com",
+    "24bettle.com",
+    "24hbet.com",
+    "2betab.com",
+    "2betesi.com",
+    "2winbet.gr",
+    "32red.com",
+    "32redsport.com",
+    "368bet.com",
+    "377bet.com",
+    "444sports.com",
+    "461.net",
+    "5dimes.com",
+    "666casino.com",
+    "724sports.com",
+    "777.com",
+    "7777.bg",
+    "777bets.co.uk",
+    "7epta7.com",
+    "7godscasino.com",
+    "7jackpots.com",
+    "7sultanscasino.com",
+    "888sport.com",
+    "88asia88.com",
+    "88sports.com",
+    "88winners.com",
+    "90dakika.com",
+    "99bet.com",
+    "a1casino.com",
+    "a23.com",
+    "abcislands.ag",
+    "ace-skins.com",
+    "action24.com",
+    "actionbets.com",
+    "actiononsports.com",
+    "acttab.com.au",
+    "adda.games",
+    "adjarabet.com",
+    "admiralspot.com",
+    "agentspinner.com",
+    "ahacasino.com",
+    "ahtigames.com",
+    "alfcasino.com",
+    "allhorseracing.ag",
+    "allpro.eu",
+    "allstarbet.com",
+    "allstarsportsbook.com",
+    "allyoubet.ag",
+    "alohasportsbook.com",
+    "alphadraft.com",
+    "amcleanbookmakers.com",
+    "americanfootballbetting.com",
+    "americasbookie.com",
+    "americascardroom.eu",
+    "anonibet.com",
+    "apollobet.com",
+    "app.hkmahjong.com.hk",
+    "arena-bet.com",
+    "arlequincasino.com",
+    "artemisbet10.com",
+    "asianbeta.com",
+    "atg.se",
+    "axbet.com",
+    "azcasino.com",
+    "azurcasino2.com",
+    "b-bets.com",
+    "balkanbet.co.rs",
+    "ballebaazi.com",
+    "bamasportsbook.com",
+    "bananajackpot.com",
+    "banzaislots.com",
+    "barbadoscasino.com",
+    "batball11.com",
+    "beatthebook.eu",
+    "belmont.ag",
+    "bertil.com",
+    "bestbet.com",
+    "bestbettoday.com",
+    "bestcasino.com",
+    "bestecasino.com",
+    "bestsportslines.com",
+    "bet-52.com",
+    "bet-at-home.com",
+    "bet-csgo.com",
+    "bet.co.za",
+    "bet.hkjc.com",
+    "bet.pkr.com",
+    "bet1128.com",
+    "bet11888.com",
+    "bet2290.com",
+    "bet2875.com",
+    "bet2earn.net",
+    "bet2win.ag",
+    "bet3000.com",
+    "bet33.com",
+    "bet365.com",
+    "bet365.es",
+    "bet7days.com",
+    "bet90.com",
+    "betadonis55.com",
+    "betadria.com",
+    "betaland.com",
+    "betamerica.com",
+    "betandclick.com",
+    "betanysports.eu",
+    "betbanks.com",
+    "betbigdollar.com",
+    "betboro.com",
+    "betbright.com",
+    "betbuckeyesports.com",
+    "betbyrne.com",
+    "betcanadian.com",
+    "betcapri.com",
+    "betcascade.com",
+    "betcatalinasports.com",
+    "betcave.com",
+    "betcc.com",
+    "betcityru.com",
+    "betclic.com",
+    "betclic.fr",
+    "betclock.com",
+    "betcoin.ag",
+    "betcostarica.ag",
+    "betcris.com",
+    "betcruise.com",
+    "betdaq.com",
+    "betdna.com",
+    "betdon.com",
+    "betdsi.eu",
+    "betelephant.com",
+    "betepic.com",
+    "betextratime.com",
+    "betezy.com.au",
+    "betfair.com",
+    "betfair.com.au",
+    "betfinal.com",
+    "betfirst-en.dhnet.be",
+    "betflag.com",
+    "betflash.co.za",
+    "betfred.com",
+    "betfreesports.com",
+    "betgolf.com.au",
+    "betgoto.com",
+    "betgrande.com",
+    "betguardian.me",
+    "betgun.com",
+    "bethard.com",
+    "betin.com",
+    "betin1.com",
+    "betinternet.com",
+    "betive.com",
+    "betjamaica.com",
+    "betjambo.com",
+    "betklass.com",
+    "betland.com",
+    "betlatina.com",
+    "betline.com",
+    "betliner.com",
+    "betlm.eu",
+    "betmania.ag",
+    "betmclean.com",
+    "betmgm.com",
+    "betmira.com",
+    "betmonarch.com",
+    "betmotion.com",
+    "betmyline.com",
+    "betmylines.com",
+    "betn1.com",
+    "betngo.com",
+    "betodds.ag",
+    "betondunhill.com",
+    "betonline.ag",
+    "betonline.com",
+    "betonline247.com",
+    "betonusa.ag",
+    "betorca.com",
+    "betoto.com",
+    "betowi.com",
+    "betpack.com",
+    "betpanther.com",
+    "betpassion.uno",
+    "betpci.com",
+    "betphoenix.ag",
+    "betplatinum.ag",
+    "betplay.com",
+    "betpop.eu",
+    "betprestige.com",
+    "betprimetime.com",
+    "betqs.com",
+    "betquick.com",
+    "betrally.com",
+    "betrebels.com",
+    "betredkings.com",
+    "betregal.com",
+    "betrevolution.com",
+    "betrivers.com",
+    "betrockit.com",
+    "betrogers.com",
+    "betroyal.com",
+    "bets10go.com",
+    "bets4all.com",
+    "betsafe.com",
+    "betsbc.com",
+    "betsbi.com",
+    "betser.com",
+    "betshop.com",
+    "betsking11.com",
+    "betsocial.net",
+    "betsonic.com",
+    "betspawn.com",
+    "betsson.com",
+    "betstar.com.au",
+    "betstars.com",
+    "betstars.uk",
+    "betswar.com",
+    "bettap.com",
+    "bettbet.com",
+    "betterdicecasino.com",
+    "bettheglobe.eu",
+    "betting.betfair.com",
+    "betting195.com",
+    "bettingchamps.eu",
+    "bettingexpress.com",
+    "bettingworld.co.za",
+    "bettopsport.com",
+    "bettor.com",
+    "bettripledraw.com",
+    "bettrojan.com",
+    "bettropics.com",
+    "bettvs.com",
+    "bettylue.com",
+    "betuniq.eu",
+    "betus.com.pa",
+    "betusa.ag",
+    "betvictor.com",
+    "betway.com",
+    "betworks.com",
+    "betxchange.co.za",
+    "betzest.com",
+    "betzone.com",
+    "bgbet.com",
+    "bgo.com",
+    "bigbetworld.com",
+    "bigcitysportsbook.com",
+    "bigspincasino.com",
+    "bingo.com",
+    "bingo.vernons.com",
+    "bingo.williamhill.com",
+    "bingoscotland.net",
+    "bingostreet.com",
+    "bingotime.co.uk",
+    "bingowags.com",
+    "bingoyard.com",
+    "bitcoinrush.io",
+    "bitcoinsports.eu",
+    "bitsaloon.com",
+    "bitstarz.com",
+    "blackchippoker.eu",
+    "blackdiamond4u.com",
+    "blackjackballroom.eu",
+    "blitzpools.com",
+    "bobcasino.com",
+    "bobetting.com",
+    "bobregister.com",
+    "bodog.eu",
+    "bodog888.com",
+    "bodugi.com",
+    "bola88.com",
+    "bombaybets.eu",
+    "book247.eu",
+    "bookies.com.au",
+    "bookmaker.com.au",
+    "bookmaker.eu",
+    "bookmaker7.com",
+    "bookmakerclub.com",
+    "borgataonline.com",
+    "botbcasino.com",
+    "bovada.lv",
+    "box24games.com",
+    "boylesports.com",
+    "britsbingo.co.uk",
+    "browncowbingo.com",
+    "brucebetting.com",
+    "btcsportsbet.com",
+    "bubblebonusbingo.com",
+    "buckandbutler.com",
+    "bulldog777.com",
+    "bulletbets.com",
+    "butterflybingo.com",
+    "bwin.com",
+    "cafecasino.lv",
+    "campaign.rizk.com",
+    "campeonbet.com",
+    "campobet.com",
+    "canadasbookie.com",
+    "candisbingo.co.uk",
+    "candyshopbingo.com",
+    "captaincookscasino.eu",
+    "carbonsports.ag",
+    "cardbet.com",
+    "caribsports.com",
+    "cashiopeia.com",
+    "cashmio.com",
+    "cashpoint.com",
+    "cashstormslots.com",
+    "cashsweep.com.my",
+    "casilando.com",
+    "casimba.com",
+    "casineto.net",
+    "casiniabet.com",
+    "casino-classic.eu",
+    "casino-pp.net",
+    "casino.betway.com",
+    "casino.org",
+    "casino.synottip.cz",
+    "casino.vernons.com",
+    "casino.williamhill.com",
+    "casinoandfriends.com",
+    "casinobitco.in",
+    "casinocalzone.com",
+    "casinocruise.com",
+    "casinoeuro.com",
+    "casinoextra2.com",
+    "casinogods.com",
+    "casinoheroes.com",
+    "casinointense-slots.com",
+    "casinojefe.com",
+    "casinoland.com",
+    "casinolasvegas.com",
+    "casinolasvegas.no",
+    "casinony.com",
+    "casinopop.com",
+    "casinorex.com",
+    "casinoroom.com",
+    "casinostugan.com",
+    "casinotown.se",
+    "casinowinner.com",
+    "casinsi.com",
+    "casumo.com",
+    "cbmsport.com",
+    "cc898.com",
+    "celebbingo.com",
+    "centrebet.com",
+    "cgaming.olg.ca",
+    "champagnebingo.com",
+    "championsbet.net",
+    "chance.cz",
+    "chancehill.com",
+    "chanz.com",
+    "cheekywin.com",
+    "cherrycasino.com",
+    "cherryjackpot.com",
+    "chinesebookie.eu",
+    "chisholmbet.com",
+    "circlebet.com",
+    "circusbingo.com",
+    "citybingo.com",
+    "ciwox.com",
+    "clickngamble.ag",
+    "cloudbet.com",
+    "cmdbet.com",
+    "cmkt.dafapromo.com",
+    "coastalsportsbook.com",
+    "cocktailbingo.com",
+    "codeta.com",
+    "coffeebingo.com",
+    "colossusbets.com",
+    "comebackskins.com",
+    "comeon.com",
+    "completesportsbetting.com.au",
+    "contorabet.com",
+    "coolbet.com",
+    "coral.co.uk",
+    "corbettsports.com",
+    "costabingo.com",
+    "costagames.com",
+    "counterluck.com",
+    "cozino.com",
+    "creditwagering.com",
+    "cresuscasino.com",
+    "cricketbetlive.com",
+    "crowin24.com",
+    "crownbet.com",
+    "crownbet.com.au",
+    "crsportsbet.ag",
+    "crsportsbetting.com",
+    "csgo-casino.com",
+    "csgo-dream.com",
+    "csgo-easy.com",
+    "csgo-gambler.com",
+    "csgo-games.net",
+    "csgo-house.com",
+    "csgo-jackpots.com",
+    "csgo-raffle.com",
+    "csgo-saloon.com",
+    "csgo-skin-raffle.com",
+    "csgo-slots.com",
+    "csgo-try.com",
+    "csgo777.com",
+    "csgoace.com",
+    "csgoaimpot.com",
+    "csgobig.com",
+    "csgobigbets.com",
+    "csgobird.com",
+    "csgoblackjack.com",
+    "csgobooth.com",
+    "csgobrawl.com",
+    "csgobud.com",
+    "csgocardgames.com",
+    "csgocasual.com",
+    "csgochance.com",
+    "csgochips.com",
+    "csgocytosis.com",
+    "csgodealer.com",
+    "csgodice.com",
+    "csgodices.com",
+    "csgodivine.com",
+    "csgodouble.com",
+    "csgodoubleup.com",
+    "csgoearth.com",
+    "csgoempire.com",
+    "csgofakebet.com",
+    "csgofunpot.com",
+    "csgohollow.com",
+    "csgohunt.com",
+    "csgojackpot.com",
+    "csgolden.eu",
+    "csgoldpot.com",
+    "csgoleap.com",
+    "csgolotto.net",
+    "csgolounge.com",
+    "csgolucky.com",
+    "csgoluckywheel.com",
+    "csgoparty.com",
+    "csgopoker.com",
+    "csgopot.win",
+    "csgopull.com",
+    "csgoput.com",
+    "csgoraffling.com",
+    "csgorage.com",
+    "csgorambopot.com",
+    "csgoreactor.com",
+    "csgoreaper.com",
+    "csgoresort.com",
+    "csgorich.com",
+    "csgoshuffle.com",
+    "csgoskinlottery.com",
+    "csgoskins.com",
+    "csgospeed.com",
+    "csgostakes.com",
+    "csgovaults.com",
+    "csgowealth.com",
+    "csgowheel.com",
+    "cshub.net",
+    "cspotluck.com",
+    "cupcakebingo.co.uk",
+    "cupcakebingo.com",
+    "dadobet.com",
+    "dafabet.com",
+    "dailydime.eu",
+    "daisybingo.com",
+    "dakotacasino.com",
+    "damacai.com.my",
+    "danskespil.dk",
+    "dantoto.dk",
+    "dashbet.com",
+    "dccasino.com",
+    "de.888casino.com",
+    "dealerscasino.com",
+    "desertnightscasino.co.uk",
+    "dhoze.com",
+    "dialabet.com.au",
+    "diamond7casino.com",
+    "diamondreels.com",
+    "dicestrike.com",
+    "diegocasino.com",
+    "dielottozahlende.net",
+    "digibet.com",
+    "dimeline.eu",
+    "dinobingo.com",
+    "divabingo.com",
+    "dlb.lk",
+    "dobet.com",
+    "docbet.com",
+    "doribet.com",
+    "dotball.com",
+    "doxxbet.com",
+    "draftkings.com",
+    "drakecasino.eu",
+    "dream11.com",
+    "dreamjackpot.com",
+    "dreamvegas.com",
+    "dreamz.com",
+    "drueckglueck.com",
+    "dublinbet1.com",
+    "duelz.com",
+    "dunder.com",
+    "dynabet.com.au",
+    "e-loterie.ma",
+    "e-lotto.be",
+    "e-stave.com",
+    "easytowager.com",
+    "ebetusa.com",
+    "eccobet.com",
+    "ecuabet.com",
+    "ed3688.com",
+    "eestiloto.ee",
+    "efbet.com",
+    "efirbet.com",
+    "egamingbets.com",
+    "ehorse.com",
+    "elitebetkenya.com",
+    "eloterija.si",
+    "emeraldbet.com",
+    "en.betclic.com",
+    "en.expekt.com",
+    "energybet.com",
+    "energycasino.com",
+    "enterbet.com",
+    "eqraffle.com",
+    "esball.net",
+    "espacejeux.com",
+    "espnsportsbook.com",
+    "esportsbetting.com",
+    "esportscasino.com",
+    "etipos.sk",
+    "etopaz.az",
+    "euro.grandfortunecasino.com",
+    "euro24sports.com",
+    "eurobet.bg",
+    "europe-bet.com",
+    "euroslots.com",
+    "evobet.com",
+    "exbeteu.com",
+    "exebet.com",
+    "expekt.com",
+    "extreme-sportsbetting.com",
+    "eypobet.com",
+    "ezbets.ag",
+    "ezsportsbetting.com",
+    "ezsportsbettingonline.com",
+    "ezstreetsports.com",
+    "faber.de",
+    "faboom.com",
+    "falconbet.com",
+    "fan2play.com",
+    "fancode.com",
+    "fanduel.com",
+    "fanfight.com",
+    "fansbet.com",
+    "fantasypower11.com",
+    "fastbet.com",
+    "fatboss.com",
+    "favbet.com",
+    "favourit.com",
+    "fdj.fr",
+    "fezbet.com",
+    "fi.888casino.com",
+    "fi.casiplay.com",
+    "fikacasino.com",
+    "flemingtonsportsbet.com.au",
+    "flumecasino.com",
+    "folkeautomaten.com",
+    "fonbet.com",
+    "footballpools.com",
+    "forsportspicks.com",
+    "fortunejack.com",
+    "fortunelegends.com",
+    "fr.royalvegascasino.com",
+    "france-pari.fr",
+    "frankcasino.com",
+    "frankfred.com",
+    "freakyvegas.com",
+    "fruitycasa.com",
+    "fsport.net",
+    "fullbetter.com",
+    "fun-bet.com",
+    "fun88.co.uk",
+    "funcasino.com",
+    "galacasino.com",
+    "galaksipokerqq.com",
+    "galaxybetting.com",
+    "galaxysports.com",
+    "gamblecsgo.com",
+    "gambling.com",
+    "gamdom.com",
+    "gamebookers.com",
+    "gamerjackpot.com",
+    "games.bet365.com",
+    "games.williamhill.com",
+    "gametime88.com",
+    "gamingclub1.com",
+    "gate777.com",
+    "genesiscasino.com",
+    "gentingcasino.com",
+    "geobet.com",
+    "geoff-banks.com",
+    "getabet.com",
+    "getlucky.com",
+    "giocoreale.com",
+    "glimmercasino.com",
+    "global.138.com",
+    "globalwagering.ws",
+    "globetworld.com",
+    "go50.net",
+    "goalbetint.com",
+    "goalwin.com",
+    "gobetgo.com",
+    "gohorsebetting.ag",
+    "golazobet.com",
+    "goldbetsports.com",
+    "goldenbetsng.com",
+    "goldmedalbingo.com",
+    "goliathcasino.com",
+    "gossipbingo.com",
+    "gotocasino.com",
+    "gotoentertainment.com",
+    "gotosportsbook.com",
+    "gowildcasino.net",
+    "gr88.com",
+    "gracesbingo.com",
+    "grandcasino.hu",
+    "grandeaglecasino.com",
+    "grosvenorcasinos.com",
+    "gtbets.eu",
+    "guestlistbingo.com",
+    "gunnersgaming.com",
+    "guru11.com",
+    "guruleagues.com",
+    "guts.com",
+    "gutshot.com",
+    "gwbet.com",
+    "hajper.com",
+    "hamsterbet.com",
+    "hanplayer.com",
+    "hawaiicasino.com",
+    "healthlottery.co.uk",
+    "heavenbet.com",
+    "hellocasino.com",
+    "heritagesports.eu",
+    "herobet.com.br",
+    "heypoker.com",
+    "heyspin.com",
+    "highheelsbingo.com",
+    "highlifebingo.com",
+    "highroller.com",
+    "hippobingo.com",
+    "hititbet.com",
+    "hollywoodbets.net",
+    "hollywoodsportsbook.eu",
+    "home.olg.ca",
+    "homerunsportsbetting.com",
+    "hopa.com",
+    "horizonsports.es",
+    "hotlinecsgo.com",
+    "housieskill.com",
+    "howzat.com",
+    "hpbet.com",
+    "hrwager.ag",
+    "hughesbet.com",
+    "hunkybingo.com",
+    "hypercasino.com",
+    "hyperino.com",
+    "iasbet.com",
+    "ibet789.com",
+    "ibetcasino.com",
+    "icecasino.com",
+    "ifortuna.cz",
+    "igame.com",
+    "igame.se",
+    "ignitioncasino.eu",
+    "ikibu.com",
+    "in.1x001.com",
+    "in.casinoeuro.com",
+    "inbet88.com",
+    "india-wheel.pu020ev.com",
+    "india.halaplay.com",
+    "indycasino.com",
+    "infinitybet.com",
+    "instacasino.com",
+    "instantactionsports.com",
+    "interapostas.com",
+    "interbet.co.za",
+    "intercasino.com",
+    "intertops.eu",
+    "interwetten.com",
+    "ionwin88.net",
+    "irisheyesbet.com",
+    "ironbet.com",
+    "islandcasino.com",
+    "isleofbingo.com",
+    "isportbet.net",
+    "itvbingo.com",
+    "jack-21.com",
+    "jackpotbingo.co.uk",
+    "jackpotcity.com",
+    "jackpotcitycasino.com",
+    "jackpotvillage.com",
+    "jammyduck.com",
+    "japancasino.com",
+    "jaxx.com",
+    "jazzsports.ag",
+    "jebetting.com",
+    "jeet11.com",
+    "jenningsbet.com",
+    "jesterjackpots.co.uk",
+    "jesterjackpots.com",
+    "jetbull.com",
+    "jetwin.com",
+    "jinglebingo.com",
+    "jogossantacasa.pt",
+    "johnslots.com",
+    "join.casino.com",
+    "joinbet.eu",
+    "jojobet.com",
+    "juegos.loteriasyapuestas.es",
+    "juicystakes.eu",
+    "jumbabet.com",
+    "justbet.co",
+    "justbet.co.za",
+    "justbet.cx",
+    "justcasino.com",
+    "justforbettors.com",
+    "kaboo.com",
+    "kaiserslots.com",
+    "kalevalakasino.com",
+    "karamba.com",
+    "karhukasino.com",
+    "karjalakasino.com",
+    "karlcasino.com",
+    "kashmobet.com",
+    "kasinot.fi",
+    "kassu.com",
+    "kaszinoonline.net",
+    "katiesbingo.com",
+    "keyarena.gg",
+    "khelchamps.com",
+    "kingneptunescasino.com",
+    "kingneptunescasino.eu",
+    "kingschancecampaign.com",
+    "kingswaybingoonline.com",
+    "kirsikka.com",
+    "kissmybingo.com",
+    "klasselotteriet.dk",
+    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app",
+    "kosmonautcasino.com",
+    "krugerbets.com",
+    "ksbingo.com",
+    "ladbrokes.com",
+    "ladbrokes.com.au",
+    "landing.winoui.com",
+    "lapalingo.com",
+    "lasatlantispromos.com",
+    "laspalmassportsbook.com",
+    "lasvegassportsbetting.com",
+    "latinopoker.eu",
+    "latloto.lv",
+    "lazvegas.com",
+    "leaguex.com",
+    "legendsportsbook.com",
+    "legolas.bet",
+    "leisure888.com",
+    "leojackpot.com",
+    "leonbets.net",
+    "leovegas.com",
+    "letsbet.com",
+    "libertyslots.eu",
+    "liga365.com",
+    "lightbet.com",
+    "lincolncasino.eu",
+    "linesmaker.eu",
+    "link2bet.com",
+    "lionbet.com",
+    "lippybingo.com",
+    "littlebigbingo.com",
+    "livebetting.bwin.com",
+    "livebetting.com",
+    "livebingo.com",
+    "livecasino.betway.com",
+    "livecasino.williamhill.com",
+    "livelounge.com",
+    "livepools.com",
+    "livesports.ag",
+    "llamabet.co.uk",
+    "lldj.com",
+    "lmbookmaker.com",
+    "loadsabingo.com",
+    "lookbingo.com",
+    "loonybingo.co.uk",
+    "loonybingo.com",
+    "looselines.com",
+    "lopocasport.com",
+    "loquaxbingo.co.uk",
+    "lordlucky.de",
+    "loro.ch",
+    "lotenal.gob.mx",
+    "loteria.com.ec",
+    "loteriasyapuestas.es",
+    "loterie-nationale.be",
+    "loterie.lu",
+    "loterie.ma",
+    "loteries.lotoquebec.com",
+    "loterija.si",
+    "loto.mk",
+    "loto.ro",
+    "lotoquebec.com",
+    "lotterien.at",
+    "lottery.ie",
+    "lottery.olg.ca",
+    "lotto-berlin.de",
+    "lotto-centrum.com",
+    "lotto-sh.de",
+    "lotto-thueringen.de",
+    "lotto.cn",
+    "lotto.de",
+    "lotto.gmx.net",
+    "lotto.is",
+    "lotto.mthai.com",
+    "lotto.pl",
+    "lotto.web.de",
+    "lotto24.de",
+    "lotto24bingo.com",
+    "lottohelden.de",
+    "lottoland.com",
+    "lottoland.eu",
+    "lottomax.ca",
+    "louisvillecasino.com",
+    "lowvig.ag",
+    "lsbet.com",
+    "lsbet690.com",
+    "luckland.com",
+    "lucky-31.com",
+    "lucky8.com",
+    "luckycasino.com",
+    "luckycharmbingo.com",
+    "luckycreek.com",
+    "luckydino.com",
+    "luckyland.co.uk",
+    "luckylouis.com",
+    "luckyluke.com",
+    "luckymeslots.com",
+    "luckyniki.com",
+    "luckywinslots.com",
+    "lumibet.com",
+    "lutrija.co.me",
+    "lutrija.hr",
+    "lutrija.rs",
+    "luxbet.com",
+    "luxurycasino.com",
+    "m.boylesports.com",
+    "m.jetbull.com",
+    "m.skybet.com",
+    "m8bet.net",
+    "m8poker.com",
+    "macau-slot.com",
+    "macau.williamhill.com",
+    "macaubet.com",
+    "macauslot.com",
+    "madbookie.com",
+    "madbookie.com.au",
+    "magicbet.com",
+    "magicred.com",
+    "magnum4d.my",
+    "mahjong--ways.noma.com",
+    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de",
+    "mahjong-download-windows-10--167758106.helpclean.de",
+    "majorbet.net",
+    "majorsportsbetting.com",
+    "malinasports.com",
+    "mamamiabingo.com",
+    "mansion88.com",
+    "mansionbet.com",
+    "marathonbet.co.uk",
+    "marathonbet.com",
+    "mariacasino.com",
+    "markjarvisbet.com",
+    "marsbet12.com",
+    "marsbet200.com",
+    "marsbet300.com",
+    "marsbet400.com",
+    "matchbook.com",
+    "maxitip.cz",
+    "mayansports.eu",
+    "mbet.co.za",
+    "mcbookie.com",
+    "megalotto.pl",
+    "megasportsworld.com",
+    "meridianbet.com",
+    "merkur-casino.de",
+    "merkur24.com",
+    "metalcasino.com",
+    "metspoker.com",
+    "mexicocasino.com",
+    "mfortune.co.uk",
+    "miamicasino.com",
+    "miamidice.com",
+    "miamidicecasino.com",
+    "middlebet.com",
+    "mobil6000.com",
+    "mobilautomaten.com",
+    "mobilbet.com",
+    "mobilebet.com",
+    "mobocasino.com",
+    "monacoaces.com",
+    "moneyplayscasino.com",
+    "montecarlocasino.com",
+    "morganbet.eu",
+    "mozzartbet.com",
+    "mpcasino.com",
+    "mpi.gov.tr",
+    "mpl.live",
+    "mpl.us",
+    "mr.bet",
+    "mrgreen.com",
+    "mrjackpotspins.com",
+    "mrmega.com",
+    "mrmobi.com",
+    "mrplay.com",
+    "mrringo.com",
+    "mrslot.com",
+    "mrspin.co.uk",
+    "mrwin.com",
+    "msl.ua",
+    "multilotto.com",
+    "multipasko.pl",
+    "mummysgold.com",
+    "mvpaction.ag",
+    "my11circle.com",
+    "mybcasino.ag",
+    "mybet.com",
+    "mybookie.ag",
+    "mychance.com",
+    "myfab11.com",
+    "mylotto.co.nz",
+    "mysportsbook.ag",
+    "myteam11.com",
+    "myteampoker.com",
+    "n1casino.com",
+    "naijabet.com",
+    "nairabet.com",
+    "nairastake.com",
+    "nanos365.com",
+    "national-lottery.co.uk",
+    "nationale-loterij.be",
+    "nationallottery.co.za",
+    "nederbet.com",
+    "nederlandseloterij.nl",
+    "needforbet.com",
+    "netbet.com",
+    "netbet.de",
+    "netbet.fr",
+    "neverfelted.eu",
+    "nextcasino.com",
+    "nightrush.com",
+    "nightwoodbookmakers.co.uk",
+    "nikebet.net",
+    "ninjacasino.com",
+    "ninjackpot.com",
+    "nitrogensports.eu",
+    "nlb.lk",
+    "nlotto.co.kr",
+    "noaccountcasino.com",
+    "nopeampi.com",
+    "nordicbet.com",
+    "norgesautomaten.com",
+    "norgesspill.com",
+    "norsk-tipping.no",
+    "norskeautomater.com",
+    "norskespilleautomater.com",
+    "northbet.com",
+    "nostrabet.com",
+    "nostragamus.in",
+    "novibet.com",
+    "noxwin.com",
+    "nstra.pro",
+    "nyspins.com",
+    "oddsmaker.ag",
+    "oddsring.com",
+    "oddsshark.com",
+    "odinbet.com",
+    "offsidebet.com",
+    "offtrackbetting.com",
+    "ohiocasino.com",
+    "ohmbet.com",
+    "olaspill.com",
+    "olg.ca",
+    "olgslotsandcasinos.ca",
+    "olimp.com",
+    "olybet.com",
+    "olybet.eu",
+    "omniacasino.com",
+    "oneclickmahjong.com",
+    "oneto11.com",
+    "onetpedia.net",
+    "online.singaporepools.com",
+    "onlinecasino-eu.com",
+    "onlinecasino.de",
+    "onlywinners.com",
+    "opap.gr",
+    "opcrates.com",
+    "optibet.com",
+    "optionsports.com",
+    "orakulas.lt",
+    "orlandocasino.com",
+    "ourpricebet.com",
+    "overtheodds.com.au",
+    "ovocasino.com",
+    "ozbet.com.au",
+    "p7campaign.com",
+    "paddypower.com",
+    "paf.com",
+    "pais.co.il",
+    "palladiumcasino.eu",
+    "palmerbet.com",
+    "pandabet.net",
+    "paradisewin.com",
+    "parasino.com",
+    "parimatch.com",
+    "parimatchplay1.com",
+    "parionssport.fdj.fr",
+    "pariscasino8.com",
+    "partypoker.cz",
+    "parxcasino.com",
+    "pasarbola.com",
+    "paytmfirstgames.com",
+    "pelaa.com",
+    "pikakasino.com",
+    "pinnacle.com",
+    "pinnaclesports.com",
+    "piratespin.com",
+    "planetofbets.com",
+    "planetwin365.com",
+    "platincasino.com",
+    "playamo.com",
+    "playbet.com",
+    "playclub.com",
+    "playersonly.ag",
+    "playerzpot.com",
+    "playfrank.com",
+    "playgrandcasino.com",
+    "playnow.com",
+    "playojo.com",
+    "playolg.ca",
+    "playsugarhouse.com",
+    "playzax-top.com",
+    "plexodds.com",
+    "plus.betway.com",
+    "pocketvegas.co.uk",
+    "pointcasino.com",
+    "pointsbet.com",
+    "poker.betway.com",
+    "poker.synottip.cz",
+    "poker.williamhill.com",
+    "pokerdassi360.com",
+    "pokergolden.biz",
+    "pokerimaa.com",
+    "pokerlion.com",
+    "pokermax.com",
+    "pokerstars.cz",
+    "pokerstars.eu",
+    "pokerstars.uk",
+    "pokerstarscasino.uk",
+    "portail.lotoquebec.com",
+    "postcodeloterij.nl",
+    "potsofluck.com",
+    "premiercasino.com",
+    "pridmorebookmakers.com",
+    "primebet.com.mt",
+    "primecaptain.com",
+    "primedice.com",
+    "primeslots.com",
+    "pro-factory.com",
+    "proline.ca",
+    "promo.casinoroom.com",
+    "promo.ladbrokes.com",
+    "promo.madnix.com",
+    "promotion.eurolotto.com",
+    "promotions.betsafe.com",
+    "promotions.epic.partners",
+    "promotions.superslots.ag",
+    "promotions.wildcasino.ag",
+    "prontocasino.com",
+    "propawin.com",
+    "punchbets.com",
+    "purepoker.eu",
+    "purewin.com",
+    "queenvegas.com",
+    "racebets.com",
+    "raj.bet",
+    "rajabets.com",
+    "rajabets.xyz",
+    "rajahbet.com",
+    "rajbet.com",
+    "rb88.com",
+    "readytobet.com",
+    "realbet.eu",
+    "realdealbet.com",
+    "rebatewager.ag",
+    "redbet.com",
+    "reddogcasinobonuses.com",
+    "redkings.com",
+    "redmilebets.com",
+    "redspins.com",
+    "redstarsports.eu",
+    "redzonesports.bet",
+    "refuelcasino.com",
+    "regionalwinsite.com",
+    "ridika.com",
+    "rikstoto.no",
+    "rivalo.com",
+    "riverbellecasino.com",
+    "rizk.com",
+    "roadbet.com",
+    "roaring21.com",
+    "rolla.com",
+    "royalcspot.com",
+    "royalpanda.com",
+    "royalslots.com",
+    "royrichie.com",
+    "rubet.com",
+    "rummy24.com",
+    "rush777.com",
+    "safaribet.com.gh",
+    "saharabet.com",
+    "sameeraliwd739.github.io",
+    "samvo.com",
+    "sanfrancasino.com",
+    "saturnplay.com",
+    "sazka.cz",
+    "sbgglobal.eu",
+    "sblp.intertops.eu",
+    "sbobet.com",
+    "scandibet.com",
+    "scasino.com",
+    "score99.net",
+    "scotbet.com",
+    "seabet.com",
+    "seangraham.com",
+    "seaniemac.com",
+    "sectorbet.com",
+    "secure.bkbet.eu",
+    "sesbet.com",
+    "setantabet.com",
+    "simppeli.com",
+    "sirbobet.com",
+    "sirjackpot.com",
+    "sisal.it",
+    "sisportsbook.com",
+    "sjbet.at",
+    "skedina.com",
+    "skinarena.com",
+    "skinbet.com",
+    "skinduel.com",
+    "skingaben.com",
+    "skinhell.com",
+    "skinhunt.com",
+    "skinprofit.com",
+    "skinsdream.com",
+    "skybet.com",
+    "skybook.ag",
+    "skytowersportsbook.com",
+    "slbet.com",
+    "slotocash.im",
+    "slotplanet.com",
+    "slots.888wetten.de",
+    "slots.com",
+    "slots.lv",
+    "slotsheaven.com",
+    "slotsino.co.uk",
+    "slotsmagic.com",
+    "slotsmillion.com",
+    "slotsons.com",
+    "slottyvegas.com",
+    "slotv.com",
+    "sloty.com",
+    "smarkets.com",
+    "smashsportsbetting.com",
+    "snabbare.com",
+    "socalsportbook.com",
+    "softbet.eu",
+    "spartansslots.net",
+    "speedybet.com",
+    "spela.com",
+    "spincasino.com",
+    "spindipity.com",
+    "spinit.com",
+    "spinland.com",
+    "spinpalace.com",
+    "spinprincess.com",
+    "spinrider.com",
+    "spinson.com",
+    "spinstation.com",
+    "spinzilla.com",
+    "sport-gewin.com",
+    "sport.netbet.co.uk",
+    "sport.synottip.cz",
+    "sportbet.com",
+    "sportfanatik.com",
+    "sportingbet.com",
+    "sportingbet.com.au",
+    "sportingindex.com",
+    "sportjunki.com",
+    "sportlife.com.mk",
+    "sportodds.com",
+    "sports-gambling.com",
+    "sports.betway.com",
+    "sports.br.betboo.com",
+    "sports.bwin.com",
+    "sports.gamebookers.com",
+    "sports.gentingcasino.com",
+    "sports.intertops.eu",
+    "sports.magicred.com",
+    "sports.partypoker.com",
+    "sports.smartlivegaming.com",
+    "sports.vernons.com",
+    "sports.williamhill.com",
+    "sports.winner.com",
+    "sportsbet.co.za",
+    "sportsbet.com.au",
+    "sportsbet.io",
+    "sportsbetting.ag",
+    "sportsbetting.com.au",
+    "sportsbettingdime.com",
+    "sportsbettingonline.ag",
+    "sportsbook-uk.com",
+    "sportsbook.ag",
+    "sportsbook.ca",
+    "sportsbook.caesars.com",
+    "sportsbook.com",
+    "sportsbook.kingdomcasino.com",
+    "sportsbookreview.com",
+    "sportsbooks.com",
+    "sportsbookusa.com",
+    "sportsspread.com",
+    "sportstoto.com.my",
+    "sporttime.net",
+    "sportzbookz.com",
+    "spreadex.com",
+    "sssbet.com",
+    "staatsloterij.nederlandseloterij.nl",
+    "stakers.com",
+    "stakes.com",
+    "stanjames.com",
+    "starlottosport.com",
+    "start.duelz.com",
+    "statsloterij.nederlandseloterij.nl",
+    "statusbet.com",
+    "stoloto.ru",
+    "storspelare.com",
+    "storspiller.com",
+    "strikewin.com",
+    "sultanaffiliates.com",
+    "sunbets.co.uk",
+    "suomikasino.com",
+    "supabets.com.gh",
+    "super88.club",
+    "super8casino.com",
+    "superbet.com",
+    "superbook.ag",
+    "superlenny.com",
+    "superslots.ag",
+    "supersoccer.co.uk",
+    "supersportsbook.com",
+    "superusacasino.com",
+    "surf.casino",
+    "sveacasino.se",
+    "svedalacasino.com",
+    "svenskaspel.se",
+    "sverigeautomaten.com",
+    "sverigecasino.com",
+    "sverigekronan.com",
+    "swedencasino.com",
+    "swedencasino.se",
+    "synottip.cz",
+    "szerencsejatek.hu",
+    "szuperlotto.com",
+    "tab.co.nz",
+    "tab.com.au",
+    "tabgold.co.za",
+    "taiwanlottery.com.tw",
+    "takarakuji-official.jp",
+    "tatts.com",
+    "templenile.com",
+    "tempobet.com",
+    "texascasino.com",
+    "thebetarena.com",
+    "thebettingguy.co.uk",
+    "thegreek.com",
+    "thelotter.com",
+    "third-mahjong--third-mahjong.asia-east1.hosted.app",
+    "thrills.com",
+    "tipbet.com",
+    "tipico.com",
+    "tipos.sk",
+    "tipp24.com",
+    "tipsport.cz",
+    "tipwin.com",
+    "titanbet.com",
+    "titansbet.com.au",
+    "toals.co.uk",
+    "tommyfrench.com",
+    "tomwaterhouse.com",
+    "tonybet.com",
+    "topbet.eu",
+    "topbetta.com",
+    "topbetta.com.au",
+    "topcatsports.ag",
+    "topodds.com.au",
+    "topplay.cc",
+    "topsport.com.au",
+    "topsportwetten.com",
+    "topwin.cc",
+    "tortugacasino.com",
+    "totalbets.com",
+    "totesport.com",
+    "toto.bg",
+    "toto2.com",
+    "totobet.com",
+    "totobet24.com",
+    "toxicjackpot.com",
+    "triobet.com",
+    "ttr.casino",
+    "turbico.com",
+    "uberskins.net",
+    "ubet.com",
+    "ucabet.co",
+    "uk-k8.com",
+    "ukcasinoclub.eu",
+    "ultimate-odds.com",
+    "unibet.co.uk",
+    "unibet.com",
+    "unibet.com.au",
+    "unionbet.com",
+    "uptownaces.eu",
+    "usapriceperhead.com",
+    "usbetting.co.za",
+    "vacasino.com",
+    "vandersports.com",
+    "vbet.com",
+    "vegas.betway.com",
+    "vegas.hu",
+    "vegas.williamhill.com",
+    "vegascasinoonline.eu",
+    "vegascrestcasino.ag",
+    "vegashero.com",
+    "veikkaus.fi",
+    "verajohn.com",
+    "vernons.com",
+    "vestabet365.com",
+    "videoslots.com",
+    "vierklee.com",
+    "vietbet.eu",
+    "vikingslots.com",
+    "viks.com",
+    "villabet.com",
+    "villento.com",
+    "vinnarum.com",
+    "vipsports.eu",
+    "vision11.in",
+    "vitalbet.com",
+    "voltbet.com",
+    "voodoodreams.com",
+    "vulcun.com",
+    "vwin.com",
+    "wager.dm",
+    "wager123.com",
+    "wager7.eu",
+    "wagerallin.com",
+    "wagermadness.com",
+    "wagerup.eu",
+    "wagerweb.ag",
+    "wagerweb.eu",
+    "wazamba.com",
+    "webbookmakers.com",
+    "westlotto.de",
+    "wettpunkt.com",
+    "wgh.ag",
+    "whalegaming.co.uk",
+    "whitebet.com",
+    "wildcasino.ag",
+    "wildjackpots.com",
+    "wildsultan.com",
+    "wildz.com",
+    "williamhill.com",
+    "williamhill.com.au",
+    "wilsonbet.com",
+    "win29.com",
+    "win2day.at",
+    "winamax.fr",
+    "winmasters.com",
+    "winner.co.uk",
+    "winningft.com",
+    "winzogames.com",
+    "wishmaker.com",
+    "wixstars.com",
+    "wizardofodds.com",
+    "worldofsport.co.za",
+    "worldsportsbetting.co.za",
+    "worldstar.co.ug",
+    "worldwidegamble.com",
+    "wunderino.com",
+    "wwin.ba",
+    "wwin.com",
+    "xinweide.com",
+    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org",
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com",
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com",
+    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com",
+    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com",
+    "yabet.com",
+    "yakocasino.com",
+    "yeticasino.com",
+    "yobetit.com",
+    "youwager.eu",
+    "youwin.com",
+    "zebrabet.com.au",
+    "zenitbet.com",
+    "zetpoker.eu",
+    "zeturf.fr",
+    "zodiacu.com"
   ]
 }

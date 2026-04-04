@@ -1,12 +1,21 @@
 {
-  "timestamp": "2026-04-04T06:16:36.556099Z",
+  "timestamp": "2026-04-04T08:06:40.253170Z",
   "method": "certificate_transparency",
   "keywords_searched": 5,
-  "candidate_count": 3,
-  "time_seconds": 0.0,
+  "candidate_count": 12,
+  "time_seconds": 67.627,
   "domains": [
-    "judi-asia-net.net",
-    "mahjongbet777.xyz",
-    "slotbaru88.com"
+    "app.hkmahjong.com.hk",
+    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app",
+    "mahjong--ways.noma.com",
+    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de",
+    "mahjong-download-windows-10--167758106.helpclean.de",
+    "oneclickmahjong.com",
+    "third-mahjong--third-mahjong.asia-east1.hosted.app",
+    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org",
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com",
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com",
+    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com",
+    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com"
   ]
 }

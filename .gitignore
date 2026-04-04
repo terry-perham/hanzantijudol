@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+cloudflare-workers/.dev.vars
+.pytest_cache/
+.mypy_cache/
+coverage.xml
+htmlcov/
+site/
+data/screenshots/*.png
+data/screenshots/*.jpg
+data/screenshots/*.jpeg
+data/screenshots/*.webp
+data/screenshots/*.gif

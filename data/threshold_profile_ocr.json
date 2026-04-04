@@ -1,0 +1,7 @@
+{
+  "thresholds": {
+    "gambling": 7.0,
+    "suspicious": 5.0,
+    "borderline": 3.0
+  }
+}

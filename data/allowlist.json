@@ -1,0 +1,13 @@
+{
+  "policy_version": "1.0",
+  "updated_at": "2026-04-04T00:00:00Z",
+  "sla_review_hours": 24,
+  "required_approvals": 2,
+  "roles": {
+    "requester": "triage-analyst",
+    "approver_primary": "security-maintainer",
+    "approver_secondary": "operations-maintainer"
+  },
+  "entries": [],
+  "audit_log": []
+}

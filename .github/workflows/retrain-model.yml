@@ -1,0 +1,86 @@
+name: Retrain Model
+
+on:
+  schedule:
+    - cron: '0 3 * * 0'
+  workflow_dispatch:
+
+concurrency:
+  group: retrain-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  retrain:
+    if: ${{ github.ref_name == 'main' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+      actions: read
+    env:
+      PYTHONUNBUFFERED: "1"
+      PIP_DISABLE_PIP_VERSION_CHECK: "1"
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Prepare adaptive calibration artifacts
+        run: |
+          set -euo pipefail
+          python scripts/retrain_model.py \
+            --feedback data/feedback.csv \
+            --output models/model-metadata.json \
+            --threshold-profile-output data/threshold_profile.json \
+            --source-calibration-output data/source_calibration_profile.json \
+            --min-source-samples 10
+
+      - name: Validate calibration artifacts
+        run: |
+          set -euo pipefail
+          test -s models/model-metadata.json
+          test -s data/threshold_profile.json
+          test -s data/source_calibration_profile.json
+
+      - name: Upload calibration artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: model-calibration-${{ github.run_id }}
+          path: |
+            models/model-metadata.json
+            data/threshold_profile.json
+            data/source_calibration_profile.json
+          retention-days: 7
+          if-no-files-found: error
+
+      - name: Commit retrain artifacts
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add models/model-metadata.json data/threshold_profile.json data/source_calibration_profile.json
+          if git diff --staged --quiet; then
+            echo "No retrain artifact changes to commit"
+            exit 0
+          fi
+          git commit -m "ci(model): refresh calibration artifacts [skip ci]"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

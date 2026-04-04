@@ -1,0 +1,82 @@
+{
+  "updated_at": "2026-04-04T07:13:19.444914Z",
+  "sources": {
+    "certificate_transparency": {
+      "candidate_total": 3,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "curated_gambling_feeds": {
+      "candidate_total": 3,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "google_dorking": {
+      "candidate_total": 3,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "government_scanning": {
+      "candidate_total": 2,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "osint_community": {
+      "candidate_total": 3,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "platform_abuse_sweep": {
+      "candidate_total": 3,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "unattributed": {
+      "candidate_total": 4,
+      "verified_count": 4,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 1.0
+    }
+  },
+  "telemetry": {
+    "verified_domains_total": 4,
+    "covered_verified_domains": 4,
+    "source_mapping_coverage_ratio": 1.0,
+    "unattributed_verified_domains": [
+      "bandarmaxwin777.net",
+      "forum-edukasi.org",
+      "gamingnews.id",
+      "slotgacor99.com"
+    ],
+    "warnings": [
+      "appeals_registry_empty"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "domain": "safe-site.org",
+  "url": "https://safe-site.org",
+  "timestamp": "2026-04-04T05:13:38.554671Z",
+  "verdict": "SAFE",
+  "scores": {
+    "dom_score": 0.0,
+    "ocr_score": 0.0,
+    "combined_score": 1.0,
+    "ocr_confidence": 0.0,
+    "verdict": "SAFE"
+  },
+  "ocr_available": false,
+  "screenshot_path": "C:\\Users\\hilmi\\AppData\\Local\\Temp\\pytest-of-hilmi\\pytest-16\\test_verify_domain_with_ocr_fa0\\shots\\safe-site_org.png",
+  "text_metrics": {
+    "dom_length": 26,
+    "ocr_length": 0
+  },
+  "thresholds": {
+    "gambling": 7.0,
+    "suspicious": 5.0,
+    "borderline": 3.0
+  }
+}

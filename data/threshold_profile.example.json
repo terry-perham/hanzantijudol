@@ -1,0 +1,14 @@
+{
+  "thresholds": {
+    "gambling": 0.76,
+    "suspicious": 0.56,
+    "borderline": 0.36
+  },
+  "weights": {
+    "ai": 0.65,
+    "heuristic": 0.35
+  },
+  "quality": {
+    "min_text_length": 150
+  }
+}

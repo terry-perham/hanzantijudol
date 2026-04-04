@@ -1,0 +1,22 @@
+[
+  {"domain": "slot-gacor-1.com", "risk_score": 0.93, "label": "GAMBLING"},
+  {"domain": "maxwin-judi.net", "risk_score": 0.89, "label": "GAMBLING"},
+  {"domain": "casino-link.xyz", "risk_score": 0.81, "label": "GAMBLING"},
+  {"domain": "berita-olahraga.id", "risk_score": 0.19, "label": "SAFE"},
+  {"domain": "blog-edukasi.org", "risk_score": 0.12, "label": "SAFE"},
+  {"domain": "forum-parenting.com", "risk_score": 0.28, "label": "SAFE"},
+  {"domain": "review-betting.site", "risk_score": 0.63, "label": "SUSPICIOUS"},
+  {"domain": "gaming-komunitas.net", "risk_score": 0.44, "label": "BORDERLINE"},
+  {"domain": "promo-slot-terbaru.com", "risk_score": 0.87, "label": "GAMBLING"},
+  {"domain": "wikipedia-slot.org", "risk_score": 0.22, "label": "SAFE"},
+  {"domain": "togel-live-asia.net", "risk_score": 0.85, "label": "GAMBLING"},
+  {"domain": "portal-kampus.ac.id", "risk_score": 0.15, "label": "SAFE"},
+  {"domain": "situs-judi-alternatif.com", "risk_score": 0.91, "label": "GAMBLING"},
+  {"domain": "news-esports.com", "risk_score": 0.31, "label": "SAFE"},
+  {"domain": "topup-game-center.id", "risk_score": 0.39, "label": "BORDERLINE"},
+  {"domain": "withdraw-instan-bet.net", "risk_score": 0.78, "label": "GAMBLING"},
+  {"domain": "artikel-keuangan.id", "risk_score": 0.17, "label": "SAFE"},
+  {"domain": "live-rtp-jackpot.com", "risk_score": 0.86, "label": "GAMBLING"},
+  {"domain": "komunitas-forum-gaming.id", "risk_score": 0.34, "label": "SAFE"},
+  {"domain": "trusted-judi-gateway.com", "risk_score": 0.88, "label": "GAMBLING"}
+]

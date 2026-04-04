@@ -1,0 +1,13 @@
+{
+  "thresholds": {
+    "gambling": 7.0,
+    "suspicious": 5.0,
+    "borderline": 3.0
+  },
+  "weights": {
+    "dom": 0.4,
+    "ocr": 0.4,
+    "prior": 0.2
+  },
+  "notes": "Copy this file to data/threshold_profile_ocr.json and tune based on calibration data."
+}

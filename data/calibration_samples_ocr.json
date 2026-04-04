@@ -1,0 +1,16 @@
+[
+  {
+    "domain": "slot-example.com",
+    "label": "GAMBLING",
+    "dom_text": "slot gacor jackpot taruhan",
+    "ocr_text": "maxwin slot gacor",
+    "ocr_confidence": 0.86
+  },
+  {
+    "domain": "news-example.org",
+    "label": "SAFE",
+    "dom_text": "news blog education",
+    "ocr_text": "latest update",
+    "ocr_confidence": 0.91
+  }
+]

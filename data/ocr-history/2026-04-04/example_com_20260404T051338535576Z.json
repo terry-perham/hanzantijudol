@@ -1,0 +1,24 @@
+{
+  "domain": "example.com",
+  "url": "https://example.com",
+  "timestamp": "2026-04-04T05:13:38.535576Z",
+  "verdict": "GAMBLING",
+  "scores": {
+    "dom_score": 10.0,
+    "ocr_score": 6.39,
+    "combined_score": 7.556,
+    "ocr_confidence": 0.9,
+    "verdict": "GAMBLING"
+  },
+  "ocr_available": true,
+  "screenshot_path": "C:\\Users\\hilmi\\AppData\\Local\\Temp\\pytest-of-hilmi\\pytest-16\\test_verify_domain_with_ocr_wr0\\shots\\example_com.png",
+  "text_metrics": {
+    "dom_length": 82,
+    "ocr_length": 52
+  },
+  "thresholds": {
+    "gambling": 7.0,
+    "suspicious": 5.0,
+    "borderline": 3.0
+  }
+}

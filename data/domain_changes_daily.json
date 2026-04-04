@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "timestamp": "2026-04-04T06:15:11.119356Z",
+      "date": "2026-04-04",
+      "added": [],
+      "removed": [],
+      "downgraded": [],
+      "counts": {
+        "added": 0,
+        "removed": 0,
+        "downgraded": 0
+      }
+    },
+    {
+      "timestamp": "2026-04-04T06:15:30.789908Z",
+      "date": "2026-04-04",
+      "added": [],
+      "removed": [],
+      "downgraded": [],
+      "counts": {
+        "added": 0,
+        "removed": 0,
+        "downgraded": 0
+      }
+    },
+    {
+      "timestamp": "2026-04-04T07:13:19.448014Z",
+      "date": "2026-04-04",
+      "added": [],
+      "removed": [],
+      "downgraded": [],
+      "counts": {
+        "added": 0,
+        "removed": 0,
+        "downgraded": 0
+      }
+    }
+  ],
+  "updated_at": "2026-04-04T07:13:19.448520Z"
+}

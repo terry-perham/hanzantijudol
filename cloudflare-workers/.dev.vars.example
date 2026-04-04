@@ -1,0 +1,9 @@
+# Local dev variables for Cloudflare Worker
+# Copy to .dev.vars (do not commit .dev.vars)
+
+GITHUB_OWNER=your-github-owner
+GITHUB_REPO=hanzantijudol
+GITHUB_TOKEN=ghp_xxxxxxxxxxxxxxxxxxxx
+WEBHOOK_SHARED_SECRET=replace-with-local-secret
+ALLOWED_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+ALLOW_RATE_LIMIT_BYPASS=true

@@ -1,0 +1,222 @@
+name: Generate Blocklist
+
+on:
+  schedule:
+    - cron: '50 */3 * * *'
+  workflow_run:
+    workflows: ["Verify Domains"]
+    types: [completed]
+  workflow_dispatch:
+
+concurrency:
+  group: generate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    if: ${{ (github.event_name == 'schedule' && github.ref_name == 'main') || (github.event_name == 'workflow_dispatch' && github.ref_name == 'main') || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main' && (github.event.workflow_run.event == 'workflow_run' || github.event.workflow_run.event == 'issues' || github.event.workflow_run.event == 'workflow_dispatch' || github.event.workflow_run.event == 'schedule')) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+      actions: read
+    env:
+      PYTHONUNBUFFERED: "1"
+      PIP_DISABLE_PIP_VERSION_CHECK: "1"
+      TARGET_BRANCH: main
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Ensure verified domains exist
+        run: |
+          set -euo pipefail
+          test -s data/verified_domains.json
+
+      - name: Enforce preflight verify-hunt alignment gate
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+import json
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+
+def parse_utc(raw: str):
+    if not raw:
+        return None
+    try:
+        return datetime.fromisoformat(str(raw).replace("Z", "+00:00")).astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+with Path("data/verified_domains.json").open("r", encoding="utf-8") as fh:
+    verified_payload = json.load(fh)
+
+if not bool((verified_payload.get("config") or {}).get("ai_enabled", False)):
+    raise SystemExit("preflight failed: verified output indicates ai_enabled=false")
+
+candidates_payload = {}
+candidates_path = Path("data/candidates_merged.json")
+if candidates_path.exists():
+    with candidates_path.open("r", encoding="utf-8") as fh:
+        candidates_payload = json.load(fh)
+
+expected_total = len(
+    {
+        str(x).strip().lower()
+        for x in (candidates_payload.get("domains") or [])
+        if str(x).strip()
+    }
+)
+actual_total = int(verified_payload.get("total_input", 0) or 0)
+if expected_total > 0 and expected_total != actual_total:
+    raise SystemExit(
+        f"preflight failed: verified total_input={actual_total} does not match candidates_merged domains={expected_total}"
+    )
+
+verify_ts = parse_utc((verified_payload or {}).get("timestamp"))
+hunt_ts = parse_utc((candidates_payload or {}).get("timestamp"))
+if verify_ts is None:
+    raise SystemExit("preflight failed: verified timestamp is missing/invalid")
+
+if hunt_ts is not None:
+    tolerance = timedelta(minutes=5)
+    if verify_ts + tolerance < hunt_ts:
+        raise SystemExit(
+            f"preflight failed: verify timestamp ({verify_ts.isoformat()}) is older than hunt timestamp ({hunt_ts.isoformat()})"
+        )
+
+print("preflight verify-hunt alignment gate passed")
+PY
+
+      - name: Run consolidator
+        run: |
+          set -euo pipefail
+          python scripts/consolidator.py \
+            --verified data/verified_domains.json \
+            --historical data/blocklist.json \
+            --output-dir data \
+            --gambling-risk-threshold 0.75 \
+            --ttl-days 7 \
+            --stale-hours-threshold 6 \
+            --allowlist-file data/allowlist.json \
+            --appeals-file data/domain_appeals.json \
+            --candidates-file data/candidates_merged.json
+
+      - name: Enforce post-consolidation health gate
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+import json
+from pathlib import Path
+
+pipeline_health_path = Path("data/pipeline_health.json")
+if not pipeline_health_path.exists():
+    raise SystemExit("postflight failed: pipeline_health.json is required")
+
+with pipeline_health_path.open("r", encoding="utf-8") as fh:
+    health = json.load(fh)
+
+if bool((health or {}).get("stale", False)):
+    reasons = (health or {}).get("reasons", [])
+    raise SystemExit(f"postflight failed: pipeline marked stale ({reasons})")
+
+print("post-consolidation health gate passed")
+PY
+
+      - name: Validate generated outputs
+        run: |
+          set -euo pipefail
+          test -s data/blocklist.json
+          test -s data/blocklist.txt
+          test -s data/blocklist-dnsmasq.conf
+          test -s data/blocklist-hosts.txt
+          test -s data/statistics.json
+          test -s data/source_quality_metrics.json
+          test -s data/source_calibration_profile.json
+          test -s data/domain_changes_daily.json
+          test -s data/kpi_monthly.json
+          test -s data/pipeline_health.json
+
+      - name: Build Pages artifact
+        run: |
+          set -euo pipefail
+          python scripts/build_pages_artifact.py --data-dir data --site-dir site
+
+      - name: Upload output artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: blocklist-outputs-${{ github.run_id }}
+          path: |
+            data/blocklist.json
+            data/blocklist.txt
+            data/blocklist-dnsmasq.conf
+            data/blocklist-hosts.txt
+            data/statistics.json
+            data/source_quality_metrics.json
+            data/source_calibration_profile.json
+            data/domain_changes_daily.json
+            data/kpi_monthly.json
+            data/pipeline_health.json
+            data/CHANGELOG.md
+          retention-days: 7
+          if-no-files-found: error
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Commit generated blocklist
+        if: ${{ env.TARGET_BRANCH == 'main' }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/blocklist.json data/blocklist.txt data/blocklist-dnsmasq.conf data/blocklist-hosts.txt data/statistics.json data/source_quality_metrics.json data/source_calibration_profile.json data/domain_changes_daily.json data/kpi_monthly.json data/pipeline_health.json data/CHANGELOG.md
+          if git diff --staged --quiet; then
+            echo "No blocklist changes to commit"
+            exit 0
+          fi
+          git commit -m "ci(generate): refresh blocklist outputs [skip ci]"
+          git pull --rebase origin "${TARGET_BRANCH}"
+          git push origin "HEAD:${TARGET_BRANCH}"
+
+  deploy-pages:
+    needs: generate
+    if: ${{ (github.event_name == 'schedule' && github.ref_name == 'main') || (github.event_name == 'workflow_dispatch' && github.ref_name == 'main') || (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main' && (github.event.workflow_run.event == 'workflow_run' || github.event.workflow_run.event == 'issues' || github.event.workflow_run.event == 'workflow_dispatch' || github.event.workflow_run.event == 'schedule')) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

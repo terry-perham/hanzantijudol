@@ -1,0 +1,704 @@
+{
+  "schema_version": "3.0",
+  "created_at": "2026-04-04T07:13:19.448520Z",
+  "metadata": {
+    "name": "Anti-Judol Indonesia Gambling Blocklist",
+    "description": "Automated and AI-verified gambling domain blocklist",
+    "project": "hanzantijudol",
+    "update_frequency": "3 hours",
+    "license": "MIT"
+  },
+  "statistics": {
+    "total_domains": 0,
+    "historical_domains": 0,
+    "new_domains_this_cycle": 0,
+    "removed_domains_this_cycle": 0,
+    "downgraded_domains_this_cycle": 0,
+    "average_confidence": 94.39,
+    "gambling_average_confidence": 0.0,
+    "status_counts_from_verifier": {
+      "GAMBLING": 0,
+      "SUSPICIOUS": 0,
+      "BORDERLINE": 0,
+      "SAFE": 4,
+      "UNKNOWN": 0
+    },
+    "lifecycle_counts": {
+      "active": 0,
+      "suspect": 0,
+      "expired": 21,
+      "appealed": 0
+    }
+  },
+  "quality_metrics": {
+    "precision_by_source": {
+      "certificate_transparency": 0.0,
+      "curated_gambling_feeds": 0.0,
+      "google_dorking": 0.0,
+      "government_scanning": 0.0,
+      "osint_community": 0.0,
+      "platform_abuse_sweep": 0.0,
+      "unattributed": 0.0
+    },
+    "coverage_by_source": {
+      "certificate_transparency": 0.0,
+      "curated_gambling_feeds": 0.0,
+      "google_dorking": 0.0,
+      "government_scanning": 0.0,
+      "osint_community": 0.0,
+      "platform_abuse_sweep": 0.0,
+      "unattributed": 1.0
+    },
+    "dispute_rate": 0.0,
+    "confirmed_false_positive_rate": 0.0,
+    "effective_gambling_risk_threshold": 0.64,
+    "source_mapping_coverage_ratio": 1.0,
+    "unattributed_verified_domains": [
+      "bandarmaxwin777.net",
+      "forum-edukasi.org",
+      "gamingnews.id",
+      "slotgacor99.com"
+    ],
+    "telemetry_warnings": [
+      "appeals_registry_empty"
+    ],
+    "source_yield": {
+      "certificate_transparency": 0.0,
+      "curated_gambling_feeds": 0.0,
+      "google_dorking": 0.0,
+      "government_scanning": 0.0,
+      "osint_community": 0.0,
+      "platform_abuse_sweep": 0.0,
+      "unattributed": 0.0
+    }
+  },
+  "freshness": {
+    "hunt_last_success_at": "2026-04-04T06:16:36.554411Z",
+    "verify_last_success_at": "2026-04-03T19:15:56.214328Z",
+    "publish_last_success_at": "2026-04-04T07:13:19.441724Z",
+    "hunt_age_hours": 0.945,
+    "verify_age_hours": 11.956,
+    "publish_age_hours": 0.0
+  },
+  "policy": {
+    "allowlist": {
+      "active_domains": [],
+      "entry_count": 0,
+      "file": "data/allowlist.json"
+    },
+    "appeals": {
+      "total": 0,
+      "accepted": 0,
+      "open": 0,
+      "rejected": 0,
+      "closed": 0,
+      "file": "data/domain_appeals.json"
+    }
+  },
+  "kpi_monthly": {
+    "2026-04": {
+      "month": "2026-04",
+      "updated_at": "2026-04-04T07:13:19.447006Z",
+      "discovery_to_publish_latency_hours": 0.945,
+      "dispute_rate": 0.0,
+      "average_source_yield": 0.0,
+      "active_domains": 0
+    }
+  },
+  "source_metrics": {
+    "certificate_transparency": {
+      "candidate_total": 3,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "curated_gambling_feeds": {
+      "candidate_total": 3,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "google_dorking": {
+      "candidate_total": 3,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "government_scanning": {
+      "candidate_total": 2,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "osint_community": {
+      "candidate_total": 3,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "platform_abuse_sweep": {
+      "candidate_total": 3,
+      "verified_count": 0,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 0.0
+    },
+    "unattributed": {
+      "candidate_total": 4,
+      "verified_count": 4,
+      "gambling_count": 0,
+      "active_count": 0,
+      "precision": 0.0,
+      "source_yield": 0.0,
+      "coverage_ratio": 1.0
+    }
+  },
+  "source_calibration": {
+    "updated_at": "2026-04-04T07:13:19.444914Z",
+    "version": "1.0",
+    "min_verified_samples": 10,
+    "sources": {
+      "certificate_transparency": {
+        "score_multiplier": 1.0,
+        "recommended_multiplier": 1.0,
+        "precision": 0.0,
+        "verified_count": 0,
+        "locked": false,
+        "calibration_mode": "insufficient_data",
+        "updated_at": "2026-04-04T07:13:19.444914Z"
+      },
+      "curated_gambling_feeds": {
+        "score_multiplier": 1.0,
+        "recommended_multiplier": 1.0,
+        "precision": 0.0,
+        "verified_count": 0,
+        "locked": false,
+        "calibration_mode": "insufficient_data",
+        "updated_at": "2026-04-04T07:13:19.444914Z"
+      },
+      "google_dorking": {
+        "score_multiplier": 1.0,
+        "recommended_multiplier": 1.0,
+        "precision": 0.0,
+        "verified_count": 0,
+        "locked": false,
+        "calibration_mode": "insufficient_data",
+        "updated_at": "2026-04-04T07:13:19.444914Z"
+      },
+      "government_scanning": {
+        "score_multiplier": 1.0,
+        "recommended_multiplier": 1.0,
+        "precision": 0.0,
+        "verified_count": 0,
+        "locked": false,
+        "calibration_mode": "insufficient_data",
+        "updated_at": "2026-04-04T07:13:19.444914Z"
+      },
+      "osint_community": {
+        "score_multiplier": 1.0,
+        "recommended_multiplier": 1.0,
+        "precision": 0.0,
+        "verified_count": 0,
+        "locked": false,
+        "calibration_mode": "insufficient_data",
+        "updated_at": "2026-04-04T07:13:19.444914Z"
+      },
+      "platform_abuse_sweep": {
+        "score_multiplier": 1.0,
+        "recommended_multiplier": 1.0,
+        "precision": 0.0,
+        "verified_count": 0,
+        "locked": false,
+        "calibration_mode": "insufficient_data",
+        "updated_at": "2026-04-04T07:13:19.444914Z"
+      },
+      "unattributed": {
+        "score_multiplier": 1.0,
+        "recommended_multiplier": 1.0,
+        "precision": 0.0,
+        "verified_count": 4,
+        "locked": false,
+        "calibration_mode": "insufficient_data",
+        "updated_at": "2026-04-04T07:13:19.444914Z"
+      }
+    }
+  },
+  "daily_changes": {
+    "events": [
+      {
+        "timestamp": "2026-04-04T06:15:11.119356Z",
+        "date": "2026-04-04",
+        "added": [],
+        "removed": [],
+        "downgraded": [],
+        "counts": {
+          "added": 0,
+          "removed": 0,
+          "downgraded": 0
+        }
+      },
+      {
+        "timestamp": "2026-04-04T06:15:30.789908Z",
+        "date": "2026-04-04",
+        "added": [],
+        "removed": [],
+        "downgraded": [],
+        "counts": {
+          "added": 0,
+          "removed": 0,
+          "downgraded": 0
+        }
+      },
+      {
+        "timestamp": "2026-04-04T07:13:19.448014Z",
+        "date": "2026-04-04",
+        "added": [],
+        "removed": [],
+        "downgraded": [],
+        "counts": {
+          "added": 0,
+          "removed": 0,
+          "downgraded": 0
+        }
+      }
+    ],
+    "updated_at": "2026-04-04T07:13:19.448520Z"
+  },
+  "pipeline_health": {
+    "generated_at": "2026-04-04T07:13:19.447006Z",
+    "stale_hours_threshold": 6.0,
+    "status": "stale",
+    "stale": true,
+    "reasons": [
+      "verify_data_stale"
+    ],
+    "freshness": {
+      "hunt_last_success_at": "2026-04-04T06:16:36.554411Z",
+      "verify_last_success_at": "2026-04-03T19:15:56.214328Z",
+      "publish_last_success_at": "2026-04-04T07:13:19.441724Z",
+      "hunt_age_hours": 0.945,
+      "verify_age_hours": 11.956,
+      "publish_age_hours": 0.0
+    },
+    "governance": {
+      "appeals_registry_state": "empty",
+      "appeals_total": 0,
+      "appeals_open": 0
+    }
+  },
+  "blocklist": [],
+  "domain_registry": [
+    {
+      "domain": "bandarmaxwin777.net",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T06:15:30.766094Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "unattributed"
+      ],
+      "last_verified_status": "SAFE",
+      "confidence": 90.031,
+      "risk_score": 0.099687,
+      "stale_days": 0,
+      "ttl_expires_at": "2026-04-11T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {
+        "top_danger_signals": [
+          "maxwin",
+          "bandar"
+        ],
+        "payment_hits": 0,
+        "messaging_hits": 0,
+        "final_url": "",
+        "crawl_ok": false,
+        "ocr_verdict": null,
+        "ocr_applied": false
+      }
+    },
+    {
+      "domain": "betlokalbaru.net",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "curated_gambling_feeds"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "contoh.ac.id",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "government_scanning"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "forum-edukasi.org",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T06:15:30.767103Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "unattributed"
+      ],
+      "last_verified_status": "SAFE",
+      "confidence": 100.0,
+      "risk_score": 0.0,
+      "stale_days": 0,
+      "ttl_expires_at": "2026-04-11T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {
+        "top_danger_signals": [],
+        "payment_hits": 0,
+        "messaging_hits": 0,
+        "final_url": "",
+        "crawl_ok": false,
+        "ocr_verdict": null,
+        "ocr_applied": false
+      }
+    },
+    {
+      "domain": "gamingnews.id",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T06:15:30.767103Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "unattributed"
+      ],
+      "last_verified_status": "SAFE",
+      "confidence": 100.0,
+      "risk_score": 0.0,
+      "stale_days": 0,
+      "ttl_expires_at": "2026-04-11T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {
+        "top_danger_signals": [],
+        "payment_hits": 0,
+        "messaging_hits": 0,
+        "final_url": "",
+        "crawl_ok": false,
+        "ocr_verdict": null,
+        "ocr_applied": false
+      }
+    },
+    {
+      "domain": "judi-asia-net.net",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "certificate_transparency"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "judi-online-terbaik.net",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "google_dorking"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "judol-clone-demo.netlify.app",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "platform_abuse_sweep"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "laporanjudi123.com",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "osint_community"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "mahjongbet777.xyz",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "certificate_transparency"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "mirror-slotgacor.net",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "osint_community"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "rtp-mirror-demo.vercel.app",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "platform_abuse_sweep"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "rtpindonesia777.site",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "curated_gambling_feeds"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "rtplive777.site",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "google_dorking"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "sample.go.id",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "government_scanning"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "slotbaru88.com",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "certificate_transparency"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "slotgacor123.com",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "google_dorking"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "slotgacor99.com",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T06:15:30.767103Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "unattributed"
+      ],
+      "last_verified_status": "SAFE",
+      "confidence": 87.539,
+      "risk_score": 0.124609,
+      "stale_days": 0,
+      "ttl_expires_at": "2026-04-11T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {
+        "top_danger_signals": [
+          "slot",
+          "gacor"
+        ],
+        "payment_hits": 0,
+        "messaging_hits": 0,
+        "final_url": "",
+        "crawl_ok": false,
+        "ocr_verdict": null,
+        "ocr_applied": false
+      }
+    },
+    {
+      "domain": "slotkomunitasid.com",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "curated_gambling_feeds"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "slotmirror-demo.pages.dev",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "platform_abuse_sweep"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    },
+    {
+      "domain": "togellinkbaru.xyz",
+      "lifecycle_status": "expired",
+      "first_seen": "2026-04-04T07:13:19.443904Z",
+      "last_seen": "2026-04-04T07:13:19.443904Z",
+      "source_methods": [
+        "osint_community"
+      ],
+      "last_verified_status": "UNKNOWN",
+      "confidence": 0.0,
+      "risk_score": 0.0,
+      "stale_days": 9999,
+      "ttl_expires_at": "2026-04-04T07:13:19.441724Z",
+      "appeal_state": "none",
+      "allowlisted": false,
+      "evidence": {}
+    }
+  ]
+}

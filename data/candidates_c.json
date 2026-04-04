@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-04-04T06:16:36.556618Z",
+  "method": "government_scanning",
+  "keyword_count": 4,
+  "candidate_count": 2,
+  "time_seconds": 0.0,
+  "domains": [
+    "contoh.ac.id",
+    "sample.go.id"
+  ]
+}

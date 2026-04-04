@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-04-04T06:16:36.558715Z",
+  "method": "platform_abuse_sweep",
+  "platform_count": 8,
+  "query_count": 48,
+  "candidate_count": 3,
+  "time_seconds": 0.0,
+  "domains": [
+    "judol-clone-demo.netlify.app",
+    "rtp-mirror-demo.vercel.app",
+    "slotmirror-demo.pages.dev"
+  ]
+}

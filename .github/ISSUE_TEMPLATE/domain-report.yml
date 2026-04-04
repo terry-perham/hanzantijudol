@@ -1,0 +1,31 @@
+name: Domain Report
+description: Report suspected gambling domain for verification
+title: "[Domain Report] <domain>"
+labels:
+  - domain-report
+body:
+  - type: input
+    id: domain
+    attributes:
+      label: Domain or URL
+      description: Suspected gambling domain or URL to verify
+      placeholder: suspicious-domain.example
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Report context
+      description: Where this domain was found and why it is suspicious
+      placeholder: Found on social media ad / mirror page / platform abuse campaign
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Agreement
+      options:
+        - label: I confirm this report is submitted in good faith.
+          required: true

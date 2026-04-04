@@ -1,0 +1,200 @@
+{
+  "timestamp": "2026-04-03T19:15:56.214328Z",
+  "total_input": 4,
+  "total_verified": 4,
+  "statistics": {
+    "GAMBLING": 0,
+    "SUSPICIOUS": 0,
+    "BORDERLINE": 0,
+    "SAFE": 4,
+    "UNKNOWN": 0
+  },
+  "metrics": {
+    "average_risk_score": 0.056074,
+    "average_confidence": 94.392,
+    "crawl_failures": 4
+  },
+  "config": {
+    "workers": 2,
+    "thresholds": {
+      "gambling": 0.64,
+      "suspicious": 0.44,
+      "borderline": 0.24
+    },
+    "weights": {
+      "ai": 0.65,
+      "heuristic": 0.35
+    },
+    "min_text_length": 150,
+    "ai_enabled": false,
+    "calibration": {
+      "sample_count": 20,
+      "positives": 9,
+      "negatives": 11,
+      "f1": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "mode": "auto_calibrated"
+    }
+  },
+  "domains": [
+    {
+      "domain": "slotgacor99.com",
+      "status": "SAFE",
+      "confidence": 87.539,
+      "risk_score": 0.124609,
+      "analysis": {
+        "heuristic_score": 0.2,
+        "ai_score": null,
+        "ai_raw_max": null,
+        "ai_topk_mean": null,
+        "combined_score": 0.124609,
+        "quality_factor": 0.623044,
+        "quality_bonus": 0.0,
+        "danger_hits": {
+          "slot": 2,
+          "gacor": 2
+        },
+        "safe_hits": {},
+        "payment_hits": 0,
+        "messaging_hits": 0,
+        "weights": {
+          "ai": 0.65,
+          "heuristic": 0.35
+        },
+        "thresholds": {
+          "gambling": 0.64,
+          "suspicious": 0.44,
+          "borderline": 0.24
+        },
+        "ai_model": "heuristic_only"
+      },
+      "crawl": {
+        "ok": false,
+        "final_url": "",
+        "title": "",
+        "error": "playwright unavailable",
+        "text_length": 0,
+        "links": 0
+      }
+    },
+    {
+      "domain": "gamingnews.id",
+      "status": "SAFE",
+      "confidence": 100.0,
+      "risk_score": 0.0,
+      "analysis": {
+        "heuristic_score": 0.0,
+        "ai_score": null,
+        "ai_raw_max": null,
+        "ai_topk_mean": null,
+        "combined_score": 0.0,
+        "quality_factor": 0.623044,
+        "quality_bonus": -0.03,
+        "danger_hits": {},
+        "safe_hits": {
+          "news": 2
+        },
+        "payment_hits": 0,
+        "messaging_hits": 0,
+        "weights": {
+          "ai": 0.65,
+          "heuristic": 0.35
+        },
+        "thresholds": {
+          "gambling": 0.64,
+          "suspicious": 0.44,
+          "borderline": 0.24
+        },
+        "ai_model": "heuristic_only"
+      },
+      "crawl": {
+        "ok": false,
+        "final_url": "",
+        "title": "",
+        "error": "playwright unavailable",
+        "text_length": 0,
+        "links": 0
+      }
+    },
+    {
+      "domain": "bandarmaxwin777.net",
+      "status": "SAFE",
+      "confidence": 90.031,
+      "risk_score": 0.099687,
+      "analysis": {
+        "heuristic_score": 0.16,
+        "ai_score": null,
+        "ai_raw_max": null,
+        "ai_topk_mean": null,
+        "combined_score": 0.099687,
+        "quality_factor": 0.623044,
+        "quality_bonus": 0.0,
+        "danger_hits": {
+          "maxwin": 2,
+          "bandar": 2
+        },
+        "safe_hits": {},
+        "payment_hits": 0,
+        "messaging_hits": 0,
+        "weights": {
+          "ai": 0.65,
+          "heuristic": 0.35
+        },
+        "thresholds": {
+          "gambling": 0.64,
+          "suspicious": 0.44,
+          "borderline": 0.24
+        },
+        "ai_model": "heuristic_only"
+      },
+      "crawl": {
+        "ok": false,
+        "final_url": "",
+        "title": "",
+        "error": "playwright unavailable",
+        "text_length": 0,
+        "links": 0
+      }
+    },
+    {
+      "domain": "forum-edukasi.org",
+      "status": "SAFE",
+      "confidence": 100.0,
+      "risk_score": 0.0,
+      "analysis": {
+        "heuristic_score": 0.0,
+        "ai_score": null,
+        "ai_raw_max": null,
+        "ai_topk_mean": null,
+        "combined_score": 0.0,
+        "quality_factor": 0.623044,
+        "quality_bonus": -0.03,
+        "danger_hits": {},
+        "safe_hits": {
+          "edukasi": 2
+        },
+        "payment_hits": 0,
+        "messaging_hits": 0,
+        "weights": {
+          "ai": 0.65,
+          "heuristic": 0.35
+        },
+        "thresholds": {
+          "gambling": 0.64,
+          "suspicious": 0.44,
+          "borderline": 0.24
+        },
+        "ai_model": "heuristic_only"
+      },
+      "crawl": {
+        "ok": false,
+        "final_url": "",
+        "title": "",
+        "error": "playwright unavailable",
+        "text_length": 0,
+        "links": 0
+      }
+    }
+  ]
+}

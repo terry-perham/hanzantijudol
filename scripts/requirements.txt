@@ -1,0 +1,11 @@
+aiohttp==3.9.5
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+selenium==4.20.0
+playwright==1.43.0
+sentence-transformers==2.7.0
+scikit-learn==1.4.2
+numpy==1.26.4
+requests==2.31.0
+pytesseract==0.3.13
+Pillow==10.3.0

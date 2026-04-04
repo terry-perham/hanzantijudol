@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-04-04T07:13:19.447006Z",
+  "stale_hours_threshold": 6.0,
+  "status": "stale",
+  "stale": true,
+  "reasons": [
+    "verify_data_stale"
+  ],
+  "freshness": {
+    "hunt_last_success_at": "2026-04-04T06:16:36.554411Z",
+    "verify_last_success_at": "2026-04-03T19:15:56.214328Z",
+    "publish_last_success_at": "2026-04-04T07:13:19.441724Z",
+    "hunt_age_hours": 0.945,
+    "verify_age_hours": 11.956,
+    "publish_age_hours": 0.0
+  },
+  "governance": {
+    "appeals_registry_state": "empty",
+    "appeals_total": 0,
+    "appeals_open": 0
+  }
+}

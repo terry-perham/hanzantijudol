@@ -1,0 +1,24 @@
+name = "antijudol-ocr-webhook"
+main = "report-webhook.js"
+compatibility_date = "2026-04-04"
+workers_dev = true
+
+[observability]
+enabled = true
+
+[[kv_namespaces]]
+binding = "RATE_LIMIT_KV"
+id = "REPLACE_WITH_PRODUCTION_KV_NAMESPACE_ID"
+preview_id = "REPLACE_WITH_PREVIEW_KV_NAMESPACE_ID"
+
+[vars]
+GITHUB_OWNER = "REPLACE_WITH_GITHUB_OWNER"
+GITHUB_REPO = "hanzantijudol"
+ALLOW_RATE_LIMIT_BYPASS = "false"
+ALLOWED_ORIGINS = "*"
+
+[env.production.vars]
+GITHUB_OWNER = "REPLACE_WITH_GITHUB_OWNER"
+GITHUB_REPO = "hanzantijudol"
+ALLOW_RATE_LIMIT_BYPASS = "false"
+ALLOWED_ORIGINS = "*"

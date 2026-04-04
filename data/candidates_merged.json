@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-04-04T06:16:36.554411Z",
+  "candidate_count": 17,
+  "by_method": {
+    "google_dorking": {
+      "count": 3,
+      "file": "data/candidates_a.json",
+      "timestamp": "2026-04-04T06:16:36.555419Z"
+    },
+    "certificate_transparency": {
+      "count": 3,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-04-04T06:16:36.556618Z"
+    },
+    "government_scanning": {
+      "count": 2,
+      "file": "data/candidates_c.json",
+      "timestamp": "2026-04-04T06:16:36.557147Z"
+    },
+    "osint_community": {
+      "count": 3,
+      "file": "data/candidates_d.json",
+      "timestamp": "2026-04-04T06:16:36.558197Z"
+    },
+    "curated_gambling_feeds": {
+      "count": 3,
+      "file": "data/candidates_e.json",
+      "timestamp": "2026-04-04T06:16:36.558715Z"
+    },
+    "platform_abuse_sweep": {
+      "count": 3,
+      "file": "data/candidates_f.json",
+      "timestamp": "2026-04-04T06:16:36.559742Z"
+    }
+  },
+  "domain_sources": {
+    "betlokalbaru.net": [
+      "curated_gambling_feeds"
+    ],
+    "contoh.ac.id": [
+      "government_scanning"
+    ],
+    "judi-asia-net.net": [
+      "certificate_transparency"
+    ],
+    "judi-online-terbaik.net": [
+      "google_dorking"
+    ],
+    "judol-clone-demo.netlify.app": [
+      "platform_abuse_sweep"
+    ],
+    "laporanjudi123.com": [
+      "osint_community"
+    ],
+    "mahjongbet777.xyz": [
+      "certificate_transparency"
+    ],
+    "mirror-slotgacor.net": [
+      "osint_community"
+    ],
+    "rtp-mirror-demo.vercel.app": [
+      "platform_abuse_sweep"
+    ],
+    "rtpindonesia777.site": [
+      "curated_gambling_feeds"
+    ],
+    "rtplive777.site": [
+      "google_dorking"
+    ],
+    "sample.go.id": [
+      "government_scanning"
+    ],
+    "slotbaru88.com": [
+      "certificate_transparency"
+    ],
+    "slotgacor123.com": [
+      "google_dorking"
+    ],
+    "slotkomunitasid.com": [
+      "curated_gambling_feeds"
+    ],
+    "slotmirror-demo.pages.dev": [
+      "platform_abuse_sweep"
+    ],
+    "togellinkbaru.xyz": [
+      "osint_community"
+    ]
+  },
+  "domains": [
+    "betlokalbaru.net",
+    "contoh.ac.id",
+    "judi-asia-net.net",
+    "judi-online-terbaik.net",
+    "judol-clone-demo.netlify.app",
+    "laporanjudi123.com",
+    "mahjongbet777.xyz",
+    "mirror-slotgacor.net",
+    "rtp-mirror-demo.vercel.app",
+    "rtpindonesia777.site",
+    "rtplive777.site",
+    "sample.go.id",
+    "slotbaru88.com",
+    "slotgacor123.com",
+    "slotkomunitasid.com",
+    "slotmirror-demo.pages.dev",
+    "togellinkbaru.xyz"
+  ]
+}

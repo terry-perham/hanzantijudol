@@ -90,110 +90,110 @@ jobs:
         run: |
           set -euo pipefail
           python - <<'PY'
-import json
-import os
-import re
-from urllib.parse import urlparse
+          import json
+          import os
+          import re
+          from urllib.parse import urlparse
 
-event_name = os.environ.get("GITHUB_EVENT_NAME", "")
-event_path = os.environ.get("GITHUB_EVENT_PATH", "")
+          event_name = os.environ.get("GITHUB_EVENT_NAME", "")
+          event_path = os.environ.get("GITHUB_EVENT_PATH", "")
 
-with open(event_path, "r", encoding="utf-8") as fh:
-    event = json.load(fh)
+          with open(event_path, "r", encoding="utf-8") as fh:
+            event = json.load(fh)
 
-url_pattern = re.compile(r"https?://[^\s)]+", re.IGNORECASE)
-domain_pattern = re.compile(r"\b(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,}\b", re.IGNORECASE)
-
-
-def find_domain(candidates):
-    for raw in candidates:
-        text = str(raw or "").strip()
-        if not text:
-            continue
-
-        url_match = url_pattern.search(text)
-        if url_match:
-            host = urlparse(url_match.group(0)).netloc.strip().lower()
-            if host.startswith("www."):
-                host = host[4:]
-            if host:
-                return host
-
-        domain_match = domain_pattern.search(text)
-        if domain_match:
-            host = domain_match.group(0).strip().lower()
-            if host.startswith("www."):
-                host = host[4:]
-            if host:
-                return host
-    return ""
+          url_pattern = re.compile(r"https?://[^\s)]+", re.IGNORECASE)
+          domain_pattern = re.compile(r"\b(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,}\b", re.IGNORECASE)
 
 
-run_mode = "batch"
-domain = ""
-issue_flow = "batch"
-appeal_state = ""
-skip_reason = ""
+          def find_domain(candidates):
+            for raw in candidates:
+              text = str(raw or "").strip()
+              if not text:
+                continue
 
-if event_name == "issues":
-    issue = event.get("issue") or {}
-    labels = {
-        str((label or {}).get("name", "")).strip().lower()
-        for label in issue.get("labels", [])
-        if isinstance(label, dict)
-    }
-    action = str(event.get("action", "")).strip().lower()
-    current_label = str(((event.get("label") or {}).get("name", "")).strip().lower())
+              url_match = url_pattern.search(text)
+              if url_match:
+                host = urlparse(url_match.group(0)).netloc.strip().lower()
+                if host.startswith("www."):
+                  host = host[4:]
+                if host:
+                  return host
 
-    has_domain_report = "domain-report" in labels or current_label == "domain-report"
-    has_appeal_flow = bool({"false-positive", "domain-review"} & labels) or current_label in {
-        "false-positive",
-        "domain-review",
-        "false-positive-approved",
-        "false-positive-rejected",
-        "false-positive-closed",
-    }
+              domain_match = domain_pattern.search(text)
+              if domain_match:
+                host = domain_match.group(0).strip().lower()
+                if host.startswith("www."):
+                  host = host[4:]
+                if host:
+                  return host
+            return ""
 
-    if has_domain_report:
-        issue_flow = "domain_report"
-        run_mode = "single"
-    elif has_appeal_flow:
-        issue_flow = "appeal"
-        run_mode = "single"
-        if action == "labeled":
-            if current_label == "false-positive-approved":
-                appeal_state = "accepted"
-            elif current_label == "false-positive-rejected":
-                appeal_state = "rejected"
-            elif current_label == "false-positive-closed":
-                appeal_state = "closed"
-        if not appeal_state:
-            appeal_state = "open"
-    else:
-        run_mode = "skip"
 
-    if run_mode == "single":
-      domain = find_domain([issue.get("body", ""), issue.get("title", "")])
-      if not domain:
-        run_mode = "skip"
-        skip_reason = "missing_domain_in_issue"
-elif event_name == "workflow_dispatch":
-    inputs = event.get("inputs") or {}
-    domain = find_domain([inputs.get("domain", "")])
-    run_mode = "single" if domain else "batch"
-    issue_flow = "manual"
+          run_mode = "batch"
+          domain = ""
+          issue_flow = "batch"
+          appeal_state = ""
+          skip_reason = ""
 
-if run_mode == "single" and not domain:
-    run_mode = "skip"
-    skip_reason = "missing_domain_in_manual_dispatch"
+          if event_name == "issues":
+            issue = event.get("issue") or {}
+            labels = {
+              str((label or {}).get("name", "")).strip().lower()
+              for label in issue.get("labels", [])
+              if isinstance(label, dict)
+            }
+            action = str(event.get("action", "")).strip().lower()
+            current_label = str(((event.get("label") or {}).get("name", "")).strip().lower())
 
-with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
-    out.write(f"run_mode={run_mode}\n")
-    out.write(f"domain={domain}\n")
-    out.write(f"issue_flow={issue_flow}\n")
-    out.write(f"appeal_state={appeal_state}\n")
-    out.write(f"skip_reason={skip_reason}\n")
-PY
+            has_domain_report = "domain-report" in labels or current_label == "domain-report"
+            has_appeal_flow = bool({"false-positive", "domain-review"} & labels) or current_label in {
+              "false-positive",
+              "domain-review",
+              "false-positive-approved",
+              "false-positive-rejected",
+              "false-positive-closed",
+            }
+
+            if has_domain_report:
+              issue_flow = "domain_report"
+              run_mode = "single"
+            elif has_appeal_flow:
+              issue_flow = "appeal"
+              run_mode = "single"
+              if action == "labeled":
+                if current_label == "false-positive-approved":
+                  appeal_state = "accepted"
+                elif current_label == "false-positive-rejected":
+                  appeal_state = "rejected"
+                elif current_label == "false-positive-closed":
+                  appeal_state = "closed"
+              if not appeal_state:
+                appeal_state = "open"
+            else:
+              run_mode = "skip"
+
+            if run_mode == "single":
+              domain = find_domain([issue.get("body", ""), issue.get("title", "")])
+              if not domain:
+                run_mode = "skip"
+                skip_reason = "missing_domain_in_issue"
+          elif event_name == "workflow_dispatch":
+            inputs = event.get("inputs") or {}
+            domain = find_domain([inputs.get("domain", "")])
+            run_mode = "single" if domain else "batch"
+            issue_flow = "manual"
+
+          if run_mode == "single" and not domain:
+            run_mode = "skip"
+            skip_reason = "missing_domain_in_manual_dispatch"
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+            out.write(f"run_mode={run_mode}\\n")
+            out.write(f"domain={domain}\\n")
+            out.write(f"issue_flow={issue_flow}\\n")
+            out.write(f"appeal_state={appeal_state}\\n")
+            out.write(f"skip_reason={skip_reason}\\n")
+          PY
 
       - name: Comment issue when domain is missing
         if: ${{ github.event_name == 'issues' && steps.resolve.outputs.run_mode == 'skip' && steps.resolve.outputs.skip_reason == 'missing_domain_in_issue' }}
@@ -267,93 +267,93 @@ PY
         run: |
           set -euo pipefail
           python - <<'PY'
-import json
-import os
-from datetime import datetime
-from pathlib import Path
+          import json
+          import os
+          from datetime import datetime
+          from pathlib import Path
 
 
-def utc_now() -> str:
-    return datetime.utcnow().isoformat() + "Z"
+          def utc_now() -> str:
+            return datetime.utcnow().isoformat() + "Z"
 
 
-event = {}
-with open(os.environ["GITHUB_EVENT_PATH"], "r", encoding="utf-8") as fh:
-    event = json.load(fh)
+          event = {}
+          with open(os.environ["GITHUB_EVENT_PATH"], "r", encoding="utf-8") as fh:
+            event = json.load(fh)
 
-issue = event.get("issue") or {}
-domain = str(os.environ.get("TARGET_APPEAL_DOMAIN", "")).strip().lower()
-if not domain:
-    raise SystemExit("appeal upsert missing target domain")
+          issue = event.get("issue") or {}
+          domain = str(os.environ.get("TARGET_APPEAL_DOMAIN", "")).strip().lower()
+          if not domain:
+            raise SystemExit("appeal upsert missing target domain")
 
-issue_flow = str(os.environ.get("TARGET_ISSUE_FLOW", "appeal")).strip().lower() or "appeal"
-state = str(os.environ.get("TARGET_APPEAL_STATE", "open")).strip().lower() or "open"
-if issue_flow == "domain_report":
-  state = "open"
-if state not in {"open", "accepted", "rejected", "closed"}:
-  state = "open"
+          issue_flow = str(os.environ.get("TARGET_ISSUE_FLOW", "appeal")).strip().lower() or "appeal"
+          state = str(os.environ.get("TARGET_APPEAL_STATE", "open")).strip().lower() or "open"
+          if issue_flow == "domain_report":
+            state = "open"
+          if state not in {"open", "accepted", "rejected", "closed"}:
+            state = "open"
 
-path = Path("data/domain_appeals.json")
-if path.exists():
-    with path.open("r", encoding="utf-8") as fh:
-        payload = json.load(fh)
-else:
-    payload = {"version": "1.0", "updated_at": utc_now(), "entries": []}
+          path = Path("data/domain_appeals.json")
+          if path.exists():
+            with path.open("r", encoding="utf-8") as fh:
+              payload = json.load(fh)
+          else:
+            payload = {"version": "1.0", "updated_at": utc_now(), "entries": []}
 
-if not isinstance(payload, dict):
-    payload = {"version": "1.0", "updated_at": utc_now(), "entries": []}
-entries = payload.get("entries")
-if not isinstance(entries, list):
-    entries = []
+          if not isinstance(payload, dict):
+            payload = {"version": "1.0", "updated_at": utc_now(), "entries": []}
+          entries = payload.get("entries")
+          if not isinstance(entries, list):
+            entries = []
 
-idx = None
-for i, row in enumerate(entries):
-    if not isinstance(row, dict):
-        continue
-    row_domain = str(row.get("domain", "")).strip().lower()
-    if row_domain == domain:
-        idx = i
-        break
+          idx = None
+          for i, row in enumerate(entries):
+            if not isinstance(row, dict):
+              continue
+            row_domain = str(row.get("domain", "")).strip().lower()
+            if row_domain == domain:
+              idx = i
+              break
 
-existing = entries[idx] if idx is not None and isinstance(entries[idx], dict) else {}
-opened_at = str(existing.get("opened_at", "")).strip() or utc_now()
-resolved_at = str(existing.get("resolved_at", "")).strip()
-reviewed_by = str(existing.get("reviewed_by", "")).strip()
+          existing = entries[idx] if idx is not None and isinstance(entries[idx], dict) else {}
+          opened_at = str(existing.get("opened_at", "")).strip() or utc_now()
+          resolved_at = str(existing.get("resolved_at", "")).strip()
+          reviewed_by = str(existing.get("reviewed_by", "")).strip()
 
-if state in {"accepted", "rejected", "closed"}:
-    resolved_at = utc_now()
-    reviewed_by = str(os.environ.get("GITHUB_ACTOR", "")).strip() or reviewed_by
-elif state == "open":
-    resolved_at = ""
+          if state in {"accepted", "rejected", "closed"}:
+            resolved_at = utc_now()
+            reviewed_by = str(os.environ.get("GITHUB_ACTOR", "")).strip() or reviewed_by
+          elif state == "open":
+            resolved_at = ""
 
-updated = {
-    "domain": domain,
-  "issue_flow": issue_flow,
-  "case_type": "report" if issue_flow == "domain_report" else "appeal",
-    "state": state,
-    "opened_at": opened_at,
-    "resolved_at": resolved_at,
-    "reviewed_by": reviewed_by,
-  "last_updated_at": utc_now(),
-    "notes": str(issue.get("title", "")).strip()[:500],
-    "issue_id": str(issue.get("number", "")).strip(),
-}
+          updated = {
+            "domain": domain,
+            "issue_flow": issue_flow,
+            "case_type": "report" if issue_flow == "domain_report" else "appeal",
+            "state": state,
+            "opened_at": opened_at,
+            "resolved_at": resolved_at,
+            "reviewed_by": reviewed_by,
+            "last_updated_at": utc_now(),
+            "notes": str(issue.get("title", "")).strip()[:500],
+            "issue_id": str(issue.get("number", "")).strip(),
+          }
 
-if idx is None:
-    entries.append(updated)
-else:
-    entries[idx] = updated
+          if idx is None:
+            entries.append(updated)
+          else:
+            entries[idx] = updated
 
-payload["version"] = str(payload.get("version", "1.0") or "1.0")
-payload["updated_at"] = utc_now()
-payload["entries"] = entries
+          payload["version"] = str(payload.get("version", "1.0") or "1.0")
+          payload["updated_at"] = utc_now()
+          payload["entries"] = entries
 
-path.parent.mkdir(parents=True, exist_ok=True)
-with path.open("w", encoding="utf-8") as fh:
-    json.dump(payload, fh, indent=2)
+          path.parent.mkdir(parents=True, exist_ok=True)
+          with path.open("w", encoding="utf-8") as fh:
+            json.dump(payload, fh, indent=2)
 
-print(f"appeal upserted: {domain} -> {state}")
-PY
+          print(f"appeal upserted: {domain} -> {state}")
+          PY
 
       - name: Validate verification output (batch)
         if: ${{ steps.resolve.outputs.run_mode == 'batch' }}
@@ -361,58 +361,58 @@ PY
           set -euo pipefail
           test -s data/verified_domains.json
           python - <<'PY'
-import json
-from datetime import datetime, timedelta, timezone
-from pathlib import Path
+          import json
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
 
 
-def parse_utc(raw: str):
-    if not raw:
-        return None
-    try:
-        return datetime.fromisoformat(str(raw).replace("Z", "+00:00")).astimezone(timezone.utc)
-    except Exception:
-        return None
+          def parse_utc(raw: str):
+            if not raw:
+              return None
+            try:
+              return datetime.fromisoformat(str(raw).replace("Z", "+00:00")).astimezone(timezone.utc)
+            except Exception:
+              return None
 
 
-verified_path = Path("data/verified_domains.json")
-with verified_path.open("r", encoding="utf-8") as fh:
-    verified = json.load(fh)
+          verified_path = Path("data/verified_domains.json")
+          with verified_path.open("r", encoding="utf-8") as fh:
+            verified = json.load(fh)
 
-if not bool((verified.get("config") or {}).get("ai_enabled", False)):
-    raise SystemExit("AI gate failed: verified output indicates ai_enabled=false")
+          if not bool((verified.get("config") or {}).get("ai_enabled", False)):
+            raise SystemExit("AI gate failed: verified output indicates ai_enabled=false")
 
-candidates = {}
-candidates_path = Path("data/candidates_merged.json")
-with candidates_path.open("r", encoding="utf-8") as fh:
-    candidates = json.load(fh)
+          candidates = {}
+          candidates_path = Path("data/candidates_merged.json")
+          with candidates_path.open("r", encoding="utf-8") as fh:
+            candidates = json.load(fh)
 
-expected_total = len(
-    {
-        str(x).strip().lower()
-        for x in (candidates.get("domains") or [])
-        if str(x).strip()
-    }
-)
-actual_total = int(verified.get("total_input", 0) or 0)
-if expected_total != actual_total:
-    raise SystemExit(
-        f"batch alignment failed: verified total_input={actual_total} does not match candidates_merged domains={expected_total}"
-    )
+          expected_total = len(
+            {
+              str(x).strip().lower()
+              for x in (candidates.get("domains") or [])
+              if str(x).strip()
+            }
+          )
+          actual_total = int(verified.get("total_input", 0) or 0)
+          if expected_total != actual_total:
+            raise SystemExit(
+              f"batch alignment failed: verified total_input={actual_total} does not match candidates_merged domains={expected_total}"
+            )
 
-verify_ts = parse_utc((verified or {}).get("timestamp"))
-hunt_ts = parse_utc((candidates or {}).get("timestamp"))
-if verify_ts is None:
-    raise SystemExit("batch alignment failed: verified timestamp missing/invalid")
-if hunt_ts is not None:
-    tolerance = timedelta(minutes=5)
-    if verify_ts + tolerance < hunt_ts:
-        raise SystemExit(
-            f"batch alignment failed: verify timestamp ({verify_ts.isoformat()}) older than hunt timestamp ({hunt_ts.isoformat()})"
-        )
+          verify_ts = parse_utc((verified or {}).get("timestamp"))
+          hunt_ts = parse_utc((candidates or {}).get("timestamp"))
+          if verify_ts is None:
+            raise SystemExit("batch alignment failed: verified timestamp missing/invalid")
+          if hunt_ts is not None:
+            tolerance = timedelta(minutes=5)
+            if verify_ts + tolerance < hunt_ts:
+              raise SystemExit(
+                f"batch alignment failed: verify timestamp ({verify_ts.isoformat()}) older than hunt timestamp ({hunt_ts.isoformat()})"
+              )
 
-print("batch verification output valid and aligned")
-PY
+          print("batch verification output valid and aligned")
+          PY
 
       - name: Validate verification output (single)
         if: ${{ steps.resolve.outputs.run_mode == 'single' }}
@@ -420,128 +420,128 @@ PY
           set -euo pipefail
           test -s data/verified_domains_report.json
           python - <<'PY'
-import json
+          import json
 
-with open("data/verified_domains_report.json", "r", encoding="utf-8") as fh:
-    payload = json.load(fh)
+          with open("data/verified_domains_report.json", "r", encoding="utf-8") as fh:
+            payload = json.load(fh)
 
-domains = payload.get("domains", []) if isinstance(payload, dict) else []
-if not domains:
-    raise SystemExit("Single report output missing domains")
-if not bool((payload.get("config") or {}).get("ai_enabled", False)):
-  raise SystemExit("AI gate failed: single report indicates ai_enabled=false")
-print("single report output valid")
-PY
+          domains = payload.get("domains", []) if isinstance(payload, dict) else []
+          if not domains:
+            raise SystemExit("Single report output missing domains")
+          if not bool((payload.get("config") or {}).get("ai_enabled", False)):
+            raise SystemExit("AI gate failed: single report indicates ai_enabled=false")
+          print("single report output valid")
+          PY
 
       - name: Upsert single report into verified dataset
         if: ${{ steps.resolve.outputs.run_mode == 'single' }}
         run: |
           set -euo pipefail
           python - <<'PY'
-import json
-from datetime import datetime
-from pathlib import Path
+          import json
+          from datetime import datetime
+          from pathlib import Path
 
-verified_path = Path("data/verified_domains.json")
-report_path = Path("data/verified_domains_report.json")
+          verified_path = Path("data/verified_domains.json")
+          report_path = Path("data/verified_domains_report.json")
 
-with report_path.open("r", encoding="utf-8") as fh:
-    report = json.load(fh)
+          with report_path.open("r", encoding="utf-8") as fh:
+            report = json.load(fh)
 
-report_domains = report.get("domains", []) if isinstance(report, dict) else []
-if not report_domains:
-    raise SystemExit("Single report output missing domains")
+          report_domains = report.get("domains", []) if isinstance(report, dict) else []
+          if not report_domains:
+            raise SystemExit("Single report output missing domains")
 
-item = report_domains[0]
-domain_key = str(item.get("domain", "")).strip().lower()
-if not domain_key:
-    raise SystemExit("Single report domain missing")
+          item = report_domains[0]
+          domain_key = str(item.get("domain", "")).strip().lower()
+          if not domain_key:
+            raise SystemExit("Single report domain missing")
 
-if verified_path.exists():
-    with verified_path.open("r", encoding="utf-8") as fh:
-        verified = json.load(fh)
-else:
-    verified = {}
+          if verified_path.exists():
+            with verified_path.open("r", encoding="utf-8") as fh:
+              verified = json.load(fh)
+          else:
+            verified = {}
 
-if not isinstance(verified, dict):
-    verified = {}
+          if not isinstance(verified, dict):
+            verified = {}
 
-domains = verified.get("domains", [])
-if not isinstance(domains, list):
-    domains = []
+          domains = verified.get("domains", [])
+          if not isinstance(domains, list):
+            domains = []
 
-updated = False
-for idx, existing in enumerate(domains):
-    existing_domain = str((existing or {}).get("domain", "")).strip().lower()
-    if existing_domain == domain_key:
-        domains[idx] = item
-        updated = True
-        break
+          updated = False
+          for idx, existing in enumerate(domains):
+            existing_domain = str((existing or {}).get("domain", "")).strip().lower()
+            if existing_domain == domain_key:
+              domains[idx] = item
+              updated = True
+              break
 
-if not updated:
-    domains.append(item)
+          if not updated:
+            domains.append(item)
 
-status_keys = ["GAMBLING", "SUSPICIOUS", "BORDERLINE", "SAFE", "UNKNOWN"]
-stats = {key: 0 for key in status_keys}
-risk_values = []
-confidence_values = []
-crawl_failures = 0
+          status_keys = ["GAMBLING", "SUSPICIOUS", "BORDERLINE", "SAFE", "UNKNOWN"]
+          stats = {key: 0 for key in status_keys}
+          risk_values = []
+          confidence_values = []
+          crawl_failures = 0
 
-for entry in domains:
-    status = str((entry or {}).get("status", "UNKNOWN")).upper()
-    if status not in stats:
-        status = "UNKNOWN"
-    stats[status] += 1
+          for entry in domains:
+            status = str((entry or {}).get("status", "UNKNOWN")).upper()
+            if status not in stats:
+              status = "UNKNOWN"
+            stats[status] += 1
 
-    try:
-        risk_values.append(float((entry or {}).get("risk_score", 0.0)))
-    except Exception:
-        risk_values.append(0.0)
+            try:
+              risk_values.append(float((entry or {}).get("risk_score", 0.0)))
+            except Exception:
+              risk_values.append(0.0)
 
-    try:
-        confidence_values.append(float((entry or {}).get("confidence", 0.0)))
-    except Exception:
-        confidence_values.append(0.0)
+            try:
+              confidence_values.append(float((entry or {}).get("confidence", 0.0)))
+            except Exception:
+              confidence_values.append(0.0)
 
-    crawl = (entry or {}).get("crawl", {})
-    crawl_ok = bool(crawl.get("ok", False)) if isinstance(crawl, dict) else False
-    if not crawl_ok:
-        crawl_failures += 1
+            crawl = (entry or {}).get("crawl", {})
+            crawl_ok = bool(crawl.get("ok", False)) if isinstance(crawl, dict) else False
+            if not crawl_ok:
+              crawl_failures += 1
 
-average_risk = round(sum(risk_values) / len(risk_values), 6) if risk_values else 0.0
-average_conf = round(sum(confidence_values) / len(confidence_values), 3) if confidence_values else 0.0
+          average_risk = round(sum(risk_values) / len(risk_values), 6) if risk_values else 0.0
+          average_conf = round(sum(confidence_values) / len(confidence_values), 3) if confidence_values else 0.0
 
-existing_config = verified.get("config")
-if not isinstance(existing_config, dict):
-    existing_config = {}
+          existing_config = verified.get("config")
+          if not isinstance(existing_config, dict):
+            existing_config = {}
 
-report_config = report.get("config") if isinstance(report, dict) else {}
-if isinstance(report_config, dict):
-    for key, value in report_config.items():
-        if key == "single_domain":
-            continue
-        existing_config[key] = value
-existing_config["last_issue_report_domain"] = domain_key
+          report_config = report.get("config") if isinstance(report, dict) else {}
+          if isinstance(report_config, dict):
+            for key, value in report_config.items():
+              if key == "single_domain":
+                continue
+              existing_config[key] = value
+          existing_config["last_issue_report_domain"] = domain_key
 
-verified["timestamp"] = datetime.utcnow().isoformat() + "Z"
-verified["total_input"] = len(domains)
-verified["total_verified"] = len(domains)
-verified["statistics"] = stats
-verified["metrics"] = {
-  "average_risk_score": average_risk,
-  "average_confidence": average_conf,
-  "crawl_failures": crawl_failures,
-}
-verified["config"] = existing_config
-verified["domains"] = domains
+          verified["timestamp"] = datetime.utcnow().isoformat() + "Z"
+          verified["total_input"] = len(domains)
+          verified["total_verified"] = len(domains)
+          verified["statistics"] = stats
+          verified["metrics"] = {
+            "average_risk_score": average_risk,
+            "average_confidence": average_conf,
+            "crawl_failures": crawl_failures,
+          }
+          verified["config"] = existing_config
+          verified["domains"] = domains
 
-verified_path.parent.mkdir(parents=True, exist_ok=True)
-with verified_path.open("w", encoding="utf-8") as fh:
-    json.dump(verified, fh, indent=2)
+          verified_path.parent.mkdir(parents=True, exist_ok=True)
+          with verified_path.open("w", encoding="utf-8") as fh:
+            json.dump(verified, fh, indent=2)
 
-print(f"upserted issue report domain: {domain_key}")
-print(f"total verified dataset size: {len(domains)}")
-PY
+          print(f"upserted issue report domain: {domain_key}")
+          print(f"total verified dataset size: {len(domains)}")
+          PY
 
       - name: Upload verification artifact (batch)
         if: ${{ steps.resolve.outputs.run_mode == 'batch' }}

@@ -57,59 +57,59 @@ jobs:
         run: |
           set -euo pipefail
           python - <<'PY'
-import json
-from datetime import datetime, timedelta, timezone
-from pathlib import Path
+          import json
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
 
 
-def parse_utc(raw: str):
-    if not raw:
-        return None
-    try:
-        return datetime.fromisoformat(str(raw).replace("Z", "+00:00")).astimezone(timezone.utc)
-    except Exception:
-        return None
+          def parse_utc(raw: str):
+            if not raw:
+              return None
+            try:
+              return datetime.fromisoformat(str(raw).replace("Z", "+00:00")).astimezone(timezone.utc)
+            except Exception:
+              return None
 
 
-with Path("data/verified_domains.json").open("r", encoding="utf-8") as fh:
-    verified_payload = json.load(fh)
+          with Path("data/verified_domains.json").open("r", encoding="utf-8") as fh:
+            verified_payload = json.load(fh)
 
-if not bool((verified_payload.get("config") or {}).get("ai_enabled", False)):
-    raise SystemExit("preflight failed: verified output indicates ai_enabled=false")
+          if not bool((verified_payload.get("config") or {}).get("ai_enabled", False)):
+            raise SystemExit("preflight failed: verified output indicates ai_enabled=false")
 
-candidates_payload = {}
-candidates_path = Path("data/candidates_merged.json")
-if candidates_path.exists():
-    with candidates_path.open("r", encoding="utf-8") as fh:
-        candidates_payload = json.load(fh)
+          candidates_payload = {}
+          candidates_path = Path("data/candidates_merged.json")
+          if candidates_path.exists():
+            with candidates_path.open("r", encoding="utf-8") as fh:
+              candidates_payload = json.load(fh)
 
-expected_total = len(
-    {
-        str(x).strip().lower()
-        for x in (candidates_payload.get("domains") or [])
-        if str(x).strip()
-    }
-)
-actual_total = int(verified_payload.get("total_input", 0) or 0)
-if expected_total > 0 and expected_total != actual_total:
-    raise SystemExit(
-        f"preflight failed: verified total_input={actual_total} does not match candidates_merged domains={expected_total}"
-    )
+          expected_total = len(
+            {
+              str(x).strip().lower()
+              for x in (candidates_payload.get("domains") or [])
+              if str(x).strip()
+            }
+          )
+          actual_total = int(verified_payload.get("total_input", 0) or 0)
+          if expected_total > 0 and expected_total != actual_total:
+            raise SystemExit(
+              f"preflight failed: verified total_input={actual_total} does not match candidates_merged domains={expected_total}"
+            )
 
-verify_ts = parse_utc((verified_payload or {}).get("timestamp"))
-hunt_ts = parse_utc((candidates_payload or {}).get("timestamp"))
-if verify_ts is None:
-    raise SystemExit("preflight failed: verified timestamp is missing/invalid")
+          verify_ts = parse_utc((verified_payload or {}).get("timestamp"))
+          hunt_ts = parse_utc((candidates_payload or {}).get("timestamp"))
+          if verify_ts is None:
+            raise SystemExit("preflight failed: verified timestamp is missing/invalid")
 
-if hunt_ts is not None:
-    tolerance = timedelta(minutes=5)
-    if verify_ts + tolerance < hunt_ts:
-        raise SystemExit(
-            f"preflight failed: verify timestamp ({verify_ts.isoformat()}) is older than hunt timestamp ({hunt_ts.isoformat()})"
-        )
+          if hunt_ts is not None:
+            tolerance = timedelta(minutes=5)
+            if verify_ts + tolerance < hunt_ts:
+              raise SystemExit(
+                f"preflight failed: verify timestamp ({verify_ts.isoformat()}) is older than hunt timestamp ({hunt_ts.isoformat()})"
+              )
 
-print("preflight verify-hunt alignment gate passed")
-PY
+          print("preflight verify-hunt alignment gate passed")
+          PY
 
       - name: Run consolidator
         run: |
@@ -129,22 +129,22 @@ PY
         run: |
           set -euo pipefail
           python - <<'PY'
-import json
-from pathlib import Path
+          import json
+          from pathlib import Path
 
-pipeline_health_path = Path("data/pipeline_health.json")
-if not pipeline_health_path.exists():
-    raise SystemExit("postflight failed: pipeline_health.json is required")
+          pipeline_health_path = Path("data/pipeline_health.json")
+          if not pipeline_health_path.exists():
+            raise SystemExit("postflight failed: pipeline_health.json is required")
 
-with pipeline_health_path.open("r", encoding="utf-8") as fh:
-    health = json.load(fh)
+          with pipeline_health_path.open("r", encoding="utf-8") as fh:
+            health = json.load(fh)
 
-if bool((health or {}).get("stale", False)):
-    reasons = (health or {}).get("reasons", [])
-    raise SystemExit(f"postflight failed: pipeline marked stale ({reasons})")
+          if bool((health or {}).get("stale", False)):
+            reasons = (health or {}).get("reasons", [])
+            raise SystemExit(f"postflight failed: pipeline marked stale ({reasons})")
 
-print("post-consolidation health gate passed")
-PY
+          print("post-consolidation health gate passed")
+          PY
 
       - name: Validate generated outputs
         run: |

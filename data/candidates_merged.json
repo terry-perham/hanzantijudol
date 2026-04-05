@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-04T21:29:19.543772Z",
-  "candidate_count": 1450,
+  "timestamp": "2026-04-05T02:09:02.835290Z",
+  "candidate_count": 1449,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-04T21:30:29.930011Z"
+      "timestamp": "2026-04-05T02:10:18.491559Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-04T21:30:31.139576Z"
-    },
-    "government_scanning": {
-      "count": 0,
-      "file": "data/candidates_c.json",
-      "timestamp": "2026-04-04T21:30:39.474567Z"
+      "timestamp": "2026-04-05T02:10:19.997182Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-04T21:30:41.053878Z"
+      "timestamp": "2026-04-05T02:10:20.295151Z"
+    },
+    "government_scanning": {
+      "count": 0,
+      "file": "data/candidates_c.json",
+      "timestamp": "2026-04-05T02:10:28.177099Z"
+    },
+    "platform_abuse_sweep": {
+      "count": 0,
+      "file": "data/candidates_f.json",
+      "timestamp": "2026-04-05T02:11:04.306828Z"
     },
     "certificate_transparency": {
       "count": 21,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-04T21:31:07.755201Z"
-    },
-    "platform_abuse_sweep": {
-      "count": 1,
-      "file": "data/candidates_f.json",
-      "timestamp": "2026-04-04T21:31:13.671517Z"
+      "timestamp": "2026-04-05T02:11:13.079948Z"
     }
   },
   "domain_sources": {
@@ -2148,9 +2148,6 @@
     ],
     "instacasino.com": [
       "curated_gambling_feeds"
-    ],
-    "instagram-clone-beta-three.vercel.app": [
-      "platform_abuse_sweep"
     ],
     "instantactionsports.com": [
       "curated_gambling_feeds"
@@ -5091,7 +5088,6 @@
     "indycasino.com",
     "infinitybet.com",
     "instacasino.com",
-    "instagram-clone-beta-three.vercel.app",
     "instantactionsports.com",
     "interapostas.com",
     "interbet.co.za",

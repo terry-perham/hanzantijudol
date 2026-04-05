@@ -1,13 +1,13 @@
 {
-  "timestamp": "1970-01-01T00:00:00Z",
+  "timestamp": "2026-04-05T05:14:26.005247Z",
   "model_type": "sentence-transformers",
   "base_model": "all-MiniLM-L6-v2",
   "training_mode": "calibration-only",
   "feedback_samples": 0,
-  "status": "bootstrap",
-  "note": "Bootstrap metadata. Retrain workflow refreshes this file automatically.",
+  "status": "calibrated",
+  "note": "Transformer fine-tuning is optional; this run updates operational thresholds and source multipliers automatically.",
   "calibration": {
-    "mode": "bootstrap",
+    "mode": "insufficient_data",
     "sample_count": 0,
     "positives": 0,
     "negatives": 0,

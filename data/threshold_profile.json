@@ -1,4 +1,5 @@
 {
+  "updated_at": "2026-04-05T05:14:26.005237Z",
   "thresholds": {
     "gambling": 0.76,
     "suspicious": 0.56,
@@ -10,5 +11,14 @@
   },
   "quality": {
     "min_text_length": 150
+  },
+  "calibration": {
+    "mode": "insufficient_data",
+    "sample_count": 0,
+    "positives": 0,
+    "negatives": 0,
+    "f1": null,
+    "precision": null,
+    "recall": null
   }
 }

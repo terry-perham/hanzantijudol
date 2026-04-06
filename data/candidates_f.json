@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-06T18:57:57.646093Z",
+  "timestamp": "2026-04-06T21:38:31.414014Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 43.451,
+  "time_seconds": 43.693,
   "domains": [
     "project-beta-topaz-83.vercel.app"
   ]

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-07T10:06:50.233217Z",
-  "candidate_count": 1434,
+  "timestamp": "2026-04-07T13:17:22.718424Z",
+  "candidate_count": 1437,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-07T10:08:04.551176Z"
+      "timestamp": "2026-04-07T13:18:37.038190Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-07T10:08:05.741346Z"
+      "timestamp": "2026-04-07T13:18:38.313790Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-07T10:08:06.295169Z"
+      "timestamp": "2026-04-07T13:18:42.663753Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-07T10:08:13.809839Z"
-    },
-    "certificate_transparency": {
-      "count": 6,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-04-07T10:08:41.922611Z"
+      "timestamp": "2026-04-07T13:18:46.823568Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-07T10:08:47.657859Z"
+      "timestamp": "2026-04-07T13:19:22.368343Z"
+    },
+    "certificate_transparency": {
+      "count": 9,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-04-07T13:19:37.042377Z"
     }
   },
   "domain_sources": {
@@ -1162,6 +1162,9 @@
     "chisholmbet.com": [
       "curated_gambling_feeds"
     ],
+    "cibolocreekquiltersguild.com": [
+      "certificate_transparency"
+    ],
     "circlebet.com": [
       "curated_gambling_feeds"
     ],
@@ -2247,6 +2250,12 @@
     ],
     "jojobet.com": [
       "curated_gambling_feeds"
+    ],
+    "judi-slot--bankjago.shamrockcolony.com": [
+      "certificate_transparency"
+    ],
+    "judiboisson.com": [
+      "certificate_transparency"
     ],
     "juegos.loteriasyapuestas.es": [
       "curated_gambling_feeds"
@@ -4714,6 +4723,7 @@
     "cherryjackpot.com",
     "chinesebookie.eu",
     "chisholmbet.com",
+    "cibolocreekquiltersguild.com",
     "circlebet.com",
     "circusbingo.com",
     "citybingo.com",
@@ -5076,6 +5086,8 @@
     "join.casino.com",
     "joinbet.eu",
     "jojobet.com",
+    "judi-slot--bankjago.shamrockcolony.com",
+    "judiboisson.com",
     "juegos.loteriasyapuestas.es",
     "juicystakes.eu",
     "jumbabet.com",

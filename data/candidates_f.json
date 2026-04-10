@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-10T05:25:16.810149Z",
+  "timestamp": "2026-04-10T07:26:29.837672Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 42.978,
+  "time_seconds": 46.123,
   "domains": [
     "site-wdx62f81w.godaddysites.com"
   ]

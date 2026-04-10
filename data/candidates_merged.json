@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-10T13:04:24.873921Z",
-  "candidate_count": 1450,
+  "timestamp": "2026-04-10T15:51:19.966258Z",
+  "candidate_count": 1438,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-10T13:05:37.185323Z"
+      "timestamp": "2026-04-10T15:52:34.708567Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-10T13:05:38.705089Z"
+      "timestamp": "2026-04-10T15:52:36.169035Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-10T13:05:38.959362Z"
+      "timestamp": "2026-04-10T15:52:36.481539Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-10T13:05:46.335050Z"
-    },
-    "certificate_transparency": {
-      "count": 21,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-04-10T13:06:07.067814Z"
+      "timestamp": "2026-04-10T15:52:44.414403Z"
     },
     "platform_abuse_sweep": {
       "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-10T13:06:23.418893Z"
+      "timestamp": "2026-04-10T15:53:20.747748Z"
+    },
+    "certificate_transparency": {
+      "count": 9,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-04-10T15:53:36.215785Z"
     }
   },
   "domain_sources": {
@@ -270,9 +270,6 @@
     ],
     "apollobet.com": [
       "curated_gambling_feeds"
-    ],
-    "app.hkmahjong.com.hk": [
-      "certificate_transparency"
     ],
     "arena-bet.com": [
       "curated_gambling_feeds"
@@ -2347,9 +2344,6 @@
     "klasselotteriet.dk": [
       "curated_gambling_feeds"
     ],
-    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app": [
-      "certificate_transparency"
-    ],
     "kosmonautcasino.com": [
       "curated_gambling_feeds"
     ],
@@ -2703,15 +2697,6 @@
     ],
     "magnum4d.my": [
       "curated_gambling_feeds"
-    ],
-    "mahjong--ways.noma.com": [
-      "certificate_transparency"
-    ],
-    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de": [
-      "certificate_transparency"
-    ],
-    "mahjong-download-windows-10--167758106.helpclean.de": [
-      "certificate_transparency"
     ],
     "majorbet.net": [
       "curated_gambling_feeds"
@@ -3090,9 +3075,6 @@
     ],
     "omniacasino.com": [
       "curated_gambling_feeds"
-    ],
-    "oneclickmahjong.com": [
-      "certificate_transparency"
     ],
     "oneto11.com": [
       "curated_gambling_feeds"
@@ -3991,9 +3973,6 @@
     "thelotter.com": [
       "curated_gambling_feeds"
     ],
-    "third-mahjong--third-mahjong.asia-east1.hosted.app": [
-      "certificate_transparency"
-    ],
     "thrills.com": [
       "curated_gambling_feeds"
     ],
@@ -4336,21 +4315,6 @@
     "xinweide.com": [
       "curated_gambling_feeds"
     ],
-    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com": [
-      "certificate_transparency"
-    ],
     "yabet.com": [
       "curated_gambling_feeds"
     ],
@@ -4465,7 +4429,6 @@
     "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "anonibet.com",
     "apollobet.com",
-    "app.hkmahjong.com.hk",
     "arena-bet.com",
     "arlequincasino.com",
     "artemisbet10.com",
@@ -5157,7 +5120,6 @@
     "kirsikka.com",
     "kissmybingo.com",
     "klasselotteriet.dk",
-    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app",
     "kosmonautcasino.com",
     "krugerbets.com",
     "ksbingo.com",
@@ -5276,9 +5238,6 @@
     "magicbet.com",
     "magicred.com",
     "magnum4d.my",
-    "mahjong--ways.noma.com",
-    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de",
-    "mahjong-download-windows-10--167758106.helpclean.de",
     "majorbet.net",
     "majorsportsbetting.com",
     "malinasports.com",
@@ -5405,7 +5364,6 @@
     "olybet.com",
     "olybet.eu",
     "omniacasino.com",
-    "oneclickmahjong.com",
     "oneto11.com",
     "onetpedia.net",
     "online.singaporepools.com",
@@ -5705,7 +5663,6 @@
     "thebettingguy.co.uk",
     "thegreek.com",
     "thelotter.com",
-    "third-mahjong--third-mahjong.asia-east1.hosted.app",
     "thrills.com",
     "tipbet.com",
     "tipico.com",
@@ -5820,11 +5777,6 @@
     "wwin.ba",
     "wwin.com",
     "xinweide.com",
-    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org",
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com",
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com",
-    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com",
-    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com",
     "yabet.com",
     "yakocasino.com",
     "yeticasino.com",

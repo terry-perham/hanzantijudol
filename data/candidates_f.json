@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-10T10:17:05.309102Z",
+  "timestamp": "2026-04-10T13:06:23.418318Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 519.47,
+  "time_seconds": 46.209,
   "domains": [
-    "site-wdx62f81w.godaddysites.com"
+    "netflix-clone-gray-beta.vercel.app"
   ]
 }

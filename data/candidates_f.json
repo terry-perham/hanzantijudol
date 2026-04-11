@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-11T09:40:00.308384Z",
+  "timestamp": "2026-04-11T12:54:55.376255Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 44.482,
+  "time_seconds": 43.922,
   "domains": [
-    "netflix-clone-beta-sand.vercel.app"
+    "netflix-landingpage-beta.vercel.app"
   ]
 }

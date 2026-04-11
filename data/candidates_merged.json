@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-11T09:38:00.923881Z",
+  "timestamp": "2026-04-11T12:52:54.357882Z",
   "candidate_count": 1450,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-11T09:39:15.802364Z"
+      "timestamp": "2026-04-11T12:54:11.430165Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-11T09:39:17.092093Z"
+      "timestamp": "2026-04-11T12:54:12.656918Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-11T09:39:21.890317Z"
+      "timestamp": "2026-04-11T12:54:13.245225Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-11T09:39:25.271700Z"
+      "timestamp": "2026-04-11T12:54:20.211499Z"
     },
     "certificate_transparency": {
       "count": 21,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-11T09:39:29.222012Z"
+      "timestamp": "2026-04-11T12:54:42.037063Z"
     },
     "platform_abuse_sweep": {
       "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-11T09:40:00.308828Z"
+      "timestamp": "2026-04-11T12:54:55.376758Z"
     }
   },
   "domain_sources": {
@@ -2968,7 +2968,7 @@
     "netbet.fr": [
       "curated_gambling_feeds"
     ],
-    "netflix-clone-beta-sand.vercel.app": [
+    "netflix-landingpage-beta.vercel.app": [
       "platform_abuse_sweep"
     ],
     "neverfelted.eu": [
@@ -5364,7 +5364,7 @@
     "netbet.com",
     "netbet.de",
     "netbet.fr",
-    "netflix-clone-beta-sand.vercel.app",
+    "netflix-landingpage-beta.vercel.app",
     "neverfelted.eu",
     "nextcasino.com",
     "nightrush.com",

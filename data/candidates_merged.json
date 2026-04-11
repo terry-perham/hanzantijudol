@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-10T21:35:04.085731Z",
-  "candidate_count": 1782,
+  "timestamp": "2026-04-11T01:59:49.150481Z",
+  "candidate_count": 1429,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-10T21:36:20.871388Z"
+      "timestamp": "2026-04-11T02:01:05.085692Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-10T21:36:22.052371Z"
+      "timestamp": "2026-04-11T02:01:06.322469Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-10T21:36:22.636735Z"
+      "timestamp": "2026-04-11T02:01:11.229985Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-10T21:36:30.113116Z"
+      "timestamp": "2026-04-11T02:01:14.107134Z"
     },
     "certificate_transparency": {
-      "count": 355,
+      "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-10T21:36:57.611103Z"
+      "timestamp": "2026-04-11T02:01:43.632538Z"
     },
     "platform_abuse_sweep": {
       "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-10T21:37:03.953189Z"
+      "timestamp": "2026-04-11T02:01:49.864830Z"
     }
   },
   "domain_sources": {
@@ -115,9 +115,6 @@
     "2winbet.gr": [
       "curated_gambling_feeds"
     ],
-    "3-slot-machines-de-de--131453757.borsan.de": [
-      "certificate_transparency"
-    ],
     "32red.com": [
       "curated_gambling_feeds"
     ],
@@ -129,12 +126,6 @@
     ],
     "377bet.com": [
       "curated_gambling_feeds"
-    ],
-    "40mu6102-slot-ci--location.hoppop.eu": [
-      "certificate_transparency"
-    ],
-    "41e53b64-da01-409f-a535-8cb441fae4f2.slot---ug.com": [
-      "certificate_transparency"
     ],
     "444sports.com": [
       "curated_gambling_feeds"
@@ -214,32 +205,11 @@
     "acttab.com.au": [
       "curated_gambling_feeds"
     ],
-    "adaptor-slot-ci--emag.fotogenica.ro": [
-      "certificate_transparency"
-    ],
-    "adaptor-slot-ci--pret.eurodiffusions.eu": [
-      "certificate_transparency"
-    ],
-    "adaptor-slot-ci--samsung-altex.knomacons.ro": [
-      "certificate_transparency"
-    ],
-    "adaptor-slot-ci--samsung-pret.labiclaloca.ro": [
-      "certificate_transparency"
-    ],
-    "adaptor-slot-ci--samsung.horgaszat-vadaszat.ro": [
-      "certificate_transparency"
-    ],
-    "adaptor-slot-ci--samsung.utcfssecurityproducts.eu": [
-      "certificate_transparency"
-    ],
     "adda.games": [
       "curated_gambling_feeds"
     ],
     "adjarabet.com": [
       "curated_gambling_feeds"
-    ],
-    "admin.slot---ug.com": [
-      "certificate_transparency"
     ],
     "admiralspot.com": [
       "curated_gambling_feeds"
@@ -277,9 +247,6 @@
     "alphadraft.com": [
       "curated_gambling_feeds"
     ],
-    "amarta99.newsrt.us": [
-      "certificate_transparency"
-    ],
     "amcleanbookmakers.com": [
       "curated_gambling_feeds"
     ],
@@ -292,35 +259,11 @@
     "americascardroom.eu": [
       "curated_gambling_feeds"
     ],
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
-      "certificate_transparency"
-    ],
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
-      "certificate_transparency"
-    ],
-    "amp-slot-thailand-alfarepit--musicotherapie-cycle-2.pages.dev": [
-      "certificate_transparency"
-    ],
     "anonibet.com": [
       "curated_gambling_feeds"
     ],
-    "api.freeslotgamesoflasvegas.com": [
-      "certificate_transparency"
-    ],
-    "api.slot---ug.com": [
-      "certificate_transparency"
-    ],
     "apollobet.com": [
       "curated_gambling_feeds"
-    ],
-    "app.hkmahjong.com.hk": [
-      "certificate_transparency"
-    ],
-    "app.slot---ug.com": [
-      "certificate_transparency"
-    ],
-    "are-slot-ci--led-80-cm-lg-32lj500v-full-hd.stirigay.ro": [
-      "certificate_transparency"
     ],
     "arena-bet.com": [
       "curated_gambling_feeds"
@@ -333,9 +276,6 @@
     ],
     "asianbeta.com": [
       "curated_gambling_feeds"
-    ],
-    "assets.slot---ug.com": [
-      "certificate_transparency"
     ],
     "atg.se": [
       "curated_gambling_feeds"
@@ -367,9 +307,6 @@
     "banzaislots.com": [
       "curated_gambling_feeds"
     ],
-    "bar-x-slot-machines-de-de--235205110.borsan.de": [
-      "certificate_transparency"
-    ],
     "barbadoscasino.com": [
       "curated_gambling_feeds"
     ],
@@ -384,12 +321,6 @@
     ],
     "bertil.com": [
       "curated_gambling_feeds"
-    ],
-    "best-free-casino-slot-apps-de-de--647833792.printrepair.de": [
-      "certificate_transparency"
-    ],
-    "best-paying-slot-machines-2013-de-de--545212226.jasont.de": [
-      "certificate_transparency"
     ],
     "bestbet.com": [
       "curated_gambling_feeds"
@@ -889,9 +820,6 @@
     "bgo.com": [
       "curated_gambling_feeds"
     ],
-    "big-easy-slot-free-online-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
-    ],
     "bigbetworld.com": [
       "curated_gambling_feeds"
     ],
@@ -946,9 +874,6 @@
     "blackjackballroom.eu": [
       "curated_gambling_feeds"
     ],
-    "blazing-7-s-slot-machine-strategy-de-de--53990509.westernholz.de": [
-      "certificate_transparency"
-    ],
     "blitzpools.com": [
       "curated_gambling_feeds"
     ],
@@ -976,9 +901,6 @@
     "bombaybets.eu": [
       "curated_gambling_feeds"
     ],
-    "bonus-rounds-on-slot-machines-de-de--92408984.borsan.de": [
-      "certificate_transparency"
-    ],
     "book247.eu": [
       "curated_gambling_feeds"
     ],
@@ -996,12 +918,6 @@
     ],
     "bookmakerclub.com": [
       "curated_gambling_feeds"
-    ],
-    "bootloader-has-slot-recovery--not-found.horgaszat-vadaszat.ro": [
-      "certificate_transparency"
-    ],
-    "bootloader-has-slot-recovery--not-found.utcfssecurityproducts.eu": [
-      "certificate_transparency"
     ],
     "borgataonline.com": [
       "curated_gambling_feeds"
@@ -1047,12 +963,6 @@
     ],
     "bwin.com": [
       "curated_gambling_feeds"
-    ],
-    "c-e-este-slot-ci--compatibil-digi.horgaszat-vadaszat.ro": [
-      "certificate_transparency"
-    ],
-    "c-e-este-slot-ci--compatibil-digi.utcfssecurityproducts.eu": [
-      "certificate_transparency"
     ],
     "cafecasino.lv": [
       "curated_gambling_feeds"
@@ -1117,17 +1027,8 @@
     "casino-classic.eu": [
       "curated_gambling_feeds"
     ],
-    "casino-macchinette-slot-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
-    ],
     "casino-pp.net": [
       "curated_gambling_feeds"
-    ],
-    "casino-slot-machine-scams-de-de--74810990.equimarkt.de": [
-      "certificate_transparency"
-    ],
-    "casino-slots-way-slot-machine-pharaohs--games-363.bluepeppers.tokyo": [
-      "certificate_transparency"
     ],
     "casino.betway.com": [
       "curated_gambling_feeds"
@@ -1216,9 +1117,6 @@
     "cc898.com": [
       "curated_gambling_feeds"
     ],
-    "ce-este-conexiuni-rf-in-slot-ci--av-dlna.cerrec.eu": [
-      "certificate_transparency"
-    ],
     "celebbingo.com": [
       "curated_gambling_feeds"
     ],
@@ -1243,9 +1141,6 @@
     "chanz.com": [
       "curated_gambling_feeds"
     ],
-    "chatwoot.slot---ug.com": [
-      "certificate_transparency"
-    ],
     "cheekywin.com": [
       "curated_gambling_feeds"
     ],
@@ -1260,9 +1155,6 @@
     ],
     "chisholmbet.com": [
       "curated_gambling_feeds"
-    ],
-    "cibolocreekquiltersguild.com": [
-      "certificate_transparency"
     ],
     "circlebet.com": [
       "curated_gambling_feeds"
@@ -1299,15 +1191,6 @@
     ],
     "coffeebingo.com": [
       "curated_gambling_feeds"
-    ],
-    "coin-slot-irritation-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
-    ],
-    "coin-slot-lotion-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
-    ],
-    "coin-slot-uk-de-de--14707347.borsan.de": [
-      "certificate_transparency"
     ],
     "colossusbets.com": [
       "curated_gambling_feeds"
@@ -1582,9 +1465,6 @@
     "cupcakebingo.com": [
       "curated_gambling_feeds"
     ],
-    "d.online--slot--play.xyz": [
-      "certificate_transparency"
-    ],
     "dadobet.com": [
       "curated_gambling_feeds"
     ],
@@ -1621,29 +1501,11 @@
     "dealerscasino.com": [
       "curated_gambling_feeds"
     ],
-    "degrootenslot.nl": [
-      "certificate_transparency"
-    ],
-    "demo.slot---ug.com": [
-      "certificate_transparency"
-    ],
     "desertnightscasino.co.uk": [
       "curated_gambling_feeds"
     ],
-    "dev.slot---ug.com": [
-      "certificate_transparency"
-    ],
     "dhoze.com": [
       "curated_gambling_feeds"
-    ],
-    "dhs.vpn.arkansas.gov": [
-      "certificate_transparency"
-    ],
-    "dhs3.arkansas.gov": [
-      "certificate_transparency"
-    ],
-    "dhslyncedge.arkansas.gov": [
-      "certificate_transparency"
     ],
     "dialabet.com.au": [
       "curated_gambling_feeds"
@@ -1671,9 +1533,6 @@
     ],
     "dinobingo.com": [
       "curated_gambling_feeds"
-    ],
-    "directslot.com": [
-      "certificate_transparency"
     ],
     "divabingo.com": [
       "curated_gambling_feeds"
@@ -1867,9 +1726,6 @@
     "faboom.com": [
       "curated_gambling_feeds"
     ],
-    "facwbgoogle.com": [
-      "certificate_transparency"
-    ],
     "falconbet.com": [
       "curated_gambling_feeds"
     ],
@@ -1918,17 +1774,11 @@
     "fikacasino.com": [
       "curated_gambling_feeds"
     ],
-    "fivestarsearch.com": [
-      "certificate_transparency"
-    ],
     "flemingtonsportsbet.com.au": [
       "curated_gambling_feeds"
     ],
     "flumecasino.com": [
       "curated_gambling_feeds"
-    ],
-    "flymodelcars.com": [
-      "certificate_transparency"
     ],
     "folkeautomaten.com": [
       "curated_gambling_feeds"
@@ -1948,9 +1798,6 @@
     "fortunelegends.com": [
       "curated_gambling_feeds"
     ],
-    "forum-asti-slot-de-de--393904311.borsan.de": [
-      "certificate_transparency"
-    ],
     "fr.royalvegascasino.com": [
       "curated_gambling_feeds"
     ],
@@ -1966,44 +1813,11 @@
     "freakyvegas.com": [
       "curated_gambling_feeds"
     ],
-    "free-casino-video-slot-machine-games-de-de--25135353.jasont.de": [
-      "certificate_transparency"
-    ],
-    "free-joker-poker-slot-machine-games-de-de--14707347.borsan.de": [
-      "certificate_transparency"
-    ],
-    "free-play-slot-machines-games-de-de--468579234.borsan.de": [
-      "certificate_transparency"
-    ],
-    "free-slot-cleopatra-gold-de-de--42196773.borsan.de": [
-      "certificate_transparency"
-    ],
-    "free-slot-games-ca-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
-    ],
-    "free-slot-machine-casino-de-de--308010892.borsan.de": [
-      "certificate_transparency"
-    ],
-    "free-slot-machine-kostenlos-spielen-de-de--419096320.borsan.de": [
-      "certificate_transparency"
-    ],
-    "free-slot-machine-lord-of-the-ocean-de-de--962662111.borsan.de": [
-      "certificate_transparency"
-    ],
-    "free-tomb-raider-2-slot-game-de-de--5642742.printrepair.de": [
-      "certificate_transparency"
-    ],
-    "free-zeus-slot-app-de-de--96972621.a-j-a.de": [
-      "certificate_transparency"
-    ],
     "fruitycasa.com": [
       "curated_gambling_feeds"
     ],
     "fsport.net": [
       "curated_gambling_feeds"
-    ],
-    "fta.dhs.arkansas.gov": [
-      "certificate_transparency"
     ],
     "fullbetter.com": [
       "curated_gambling_feeds"
@@ -2037,12 +1851,6 @@
     ],
     "gamdom.com": [
       "curated_gambling_feeds"
-    ],
-    "game-dragons-2-slot-machine-de-de--819575729.borsan.de": [
-      "certificate_transparency"
-    ],
-    "game-slot-juggler-de-de--5642742.printrepair.de": [
-      "certificate_transparency"
     ],
     "gamebookers.com": [
       "curated_gambling_feeds"
@@ -2083,9 +1891,6 @@
     "getlucky.com": [
       "curated_gambling_feeds"
     ],
-    "giochibingo.org": [
-      "certificate_transparency"
-    ],
     "giocoreale.com": [
       "curated_gambling_feeds"
     ],
@@ -2106,9 +1911,6 @@
     ],
     "goalbetint.com": [
       "curated_gambling_feeds"
-    ],
-    "goalslot.com": [
-      "certificate_transparency"
     ],
     "goalwin.com": [
       "curated_gambling_feeds"
@@ -2164,9 +1966,6 @@
     "grosvenorcasinos.com": [
       "curated_gambling_feeds"
     ],
-    "gslot.macau-slot.com": [
-      "certificate_transparency"
-    ],
     "gtbets.eu": [
       "curated_gambling_feeds"
     ],
@@ -2200,9 +1999,6 @@
     "hanplayer.com": [
       "curated_gambling_feeds"
     ],
-    "happy-days-slot-machine-free-download-de-de--219809263.borsan.de": [
-      "certificate_transparency"
-    ],
     "hawaiicasino.com": [
       "curated_gambling_feeds"
     ],
@@ -2226,9 +2022,6 @@
     ],
     "heyspin.com": [
       "curated_gambling_feeds"
-    ],
-    "higgs-slot---qiuqiu-remi.clio-tw.com": [
-      "certificate_transparency"
     ],
     "highheelsbingo.com": [
       "curated_gambling_feeds"
@@ -2278,17 +2071,11 @@
     "hrwager.ag": [
       "curated_gambling_feeds"
     ],
-    "hsca.gr": [
-      "certificate_transparency"
-    ],
     "hughesbet.com": [
       "curated_gambling_feeds"
     ],
     "hunkybingo.com": [
       "curated_gambling_feeds"
-    ],
-    "hycky40mu6102-slot-ci--location.hoppop.eu": [
-      "certificate_transparency"
     ],
     "hypercasino.com": [
       "curated_gambling_feeds"
@@ -2343,9 +2130,6 @@
     ],
     "infinitybet.com": [
       "curated_gambling_feeds"
-    ],
-    "insite.degrootenslot.nl": [
-      "certificate_transparency"
     ],
     "instacasino.com": [
       "curated_gambling_feeds"
@@ -2407,9 +2191,6 @@
     "jammyduck.com": [
       "curated_gambling_feeds"
     ],
-    "janslot.nl": [
-      "certificate_transparency"
-    ],
     "japancasino.com": [
       "curated_gambling_feeds"
     ],
@@ -2458,12 +2239,6 @@
     "jojobet.com": [
       "curated_gambling_feeds"
     ],
-    "judi-slot--bankjago.shamrockcolony.com": [
-      "certificate_transparency"
-    ],
-    "judiboisson.com": [
-      "certificate_transparency"
-    ],
     "juegos.loteriasyapuestas.es": [
       "curated_gambling_feeds"
     ],
@@ -2509,9 +2284,6 @@
     "karlcasino.com": [
       "curated_gambling_feeds"
     ],
-    "karry-slot-20---marina-t-73.tinaflorea.ro": [
-      "certificate_transparency"
-    ],
     "kashmobet.com": [
       "curated_gambling_feeds"
     ],
@@ -2527,17 +2299,11 @@
     "katiesbingo.com": [
       "curated_gambling_feeds"
     ],
-    "kelly-slot---toby-the-woman-in-her-download.gazetavaiijiului.ro": [
-      "certificate_transparency"
-    ],
     "keyarena.gg": [
       "curated_gambling_feeds"
     ],
     "khelchamps.com": [
       "curated_gambling_feeds"
-    ],
-    "king-game-slot-machine-de-de--14707347.borsan.de": [
-      "certificate_transparency"
     ],
     "kingneptunescasino.com": [
       "curated_gambling_feeds"
@@ -2560,14 +2326,8 @@
     "klasselotteriet.dk": [
       "curated_gambling_feeds"
     ],
-    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app": [
-      "certificate_transparency"
-    ],
     "kosmonautcasino.com": [
       "curated_gambling_feeds"
-    ],
-    "krl-11841-slot--59dd063f.i-sepp-theater.ux.i-smith.ee": [
-      "certificate_transparency"
     ],
     "krugerbets.com": [
       "curated_gambling_feeds"
@@ -2583,9 +2343,6 @@
     ],
     "landing.winoui.com": [
       "curated_gambling_feeds"
-    ],
-    "landvanzuylen.nl": [
-      "certificate_transparency"
     ],
     "lapalingo.com": [
       "curated_gambling_feeds"
@@ -2616,9 +2373,6 @@
     ],
     "legolas.bet": [
       "curated_gambling_feeds"
-    ],
-    "leioams.com": [
-      "certificate_transparency"
     ],
     "leisure888.com": [
       "curated_gambling_feeds"
@@ -2821,9 +2575,6 @@
     "lowvig.ag": [
       "curated_gambling_feeds"
     ],
-    "loyalty.macau-slot.com": [
-      "certificate_transparency"
-    ],
     "lsbet.com": [
       "curated_gambling_feeds"
     ],
@@ -2835,12 +2586,6 @@
     ],
     "lucky-31.com": [
       "curated_gambling_feeds"
-    ],
-    "lucky-88-slot-game-de-de--859622945.borsan.de": [
-      "certificate_transparency"
-    ],
-    "lucky-slot-online-free-de-de--3982502.ferienhaus-duemmer.de": [
-      "certificate_transparency"
     ],
     "lucky8.com": [
       "curated_gambling_feeds"
@@ -2909,11 +2654,7 @@
       "curated_gambling_feeds"
     ],
     "macau-slot.com": [
-      "certificate_transparency",
       "curated_gambling_feeds"
-    ],
-    "macau-slot.com.mo": [
-      "certificate_transparency"
     ],
     "macau.williamhill.com": [
       "curated_gambling_feeds"
@@ -2938,24 +2679,6 @@
     ],
     "magnum4d.my": [
       "curated_gambling_feeds"
-    ],
-    "mahjong--ways.noma.com": [
-      "certificate_transparency"
-    ],
-    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de": [
-      "certificate_transparency"
-    ],
-    "mahjong-download-windows-10--167758106.helpclean.de": [
-      "certificate_transparency"
-    ],
-    "mail.degrootenslot.nl": [
-      "certificate_transparency"
-    ],
-    "mail.macauslot.com": [
-      "certificate_transparency"
-    ],
-    "mail.shoplvhome.com": [
-      "certificate_transparency"
     ],
     "majorbet.net": [
       "curated_gambling_feeds"
@@ -3014,17 +2737,11 @@
     "mcbookie.com": [
       "curated_gambling_feeds"
     ],
-    "mega-slot--pokemon-edition.shouyou.com.tw": [
-      "certificate_transparency"
-    ],
     "megalotto.pl": [
       "curated_gambling_feeds"
     ],
     "megasportsworld.com": [
       "curated_gambling_feeds"
-    ],
-    "members.macauslot.com": [
-      "certificate_transparency"
     ],
     "meridianbet.com": [
       "curated_gambling_feeds"
@@ -3056,17 +2773,8 @@
     "miamidicecasino.com": [
       "curated_gambling_feeds"
     ],
-    "micro-sd-card-slot-128-es-es--946676214.restaurantnamaskar.de": [
-      "certificate_transparency"
-    ],
     "middlebet.com": [
       "curated_gambling_feeds"
-    ],
-    "mijn.webwerkers.nl": [
-      "certificate_transparency"
-    ],
-    "mijndossier.slotletselschade.nl": [
-      "certificate_transparency"
     ],
     "mobil6000.com": [
       "curated_gambling_feeds"
@@ -3077,17 +2785,11 @@
     "mobilbet.com": [
       "curated_gambling_feeds"
     ],
-    "mobile.macau-slot.com": [
-      "certificate_transparency"
-    ],
     "mobilebet.com": [
       "curated_gambling_feeds"
     ],
     "mobocasino.com": [
       "curated_gambling_feeds"
-    ],
-    "mobus.dhhs.arkgov.net": [
-      "certificate_transparency"
     ],
     "monacoaces.com": [
       "curated_gambling_feeds"
@@ -3149,29 +2851,17 @@
     "msl.ua": [
       "curated_gambling_feeds"
     ],
-    "mta-sts.adaptor-slot-ci--samsung.horgaszat-vadaszat.ro": [
-      "certificate_transparency"
-    ],
-    "mta-sts.slot-ci--upc.knomacons.ro": [
-      "certificate_transparency"
-    ],
     "multilotto.com": [
       "curated_gambling_feeds"
     ],
     "multipasko.pl": [
       "curated_gambling_feeds"
     ],
-    "mumble-5-slot-free-de-de--469827831.knusperhaeuschen-pogeez.de": [
-      "certificate_transparency"
-    ],
     "mummysgold.com": [
       "curated_gambling_feeds"
     ],
     "mvpaction.ag": [
       "curated_gambling_feeds"
-    ],
-    "my-slot--my-slot-dev.us-central1.hosted.app": [
-      "certificate_transparency"
     ],
     "my11circle.com": [
       "curated_gambling_feeds"
@@ -3202,9 +2892,6 @@
     ],
     "myteampoker.com": [
       "curated_gambling_feeds"
-    ],
-    "mywebmail.slot---ug.com": [
-      "certificate_transparency"
     ],
     "n1casino.com": [
       "curated_gambling_feeds"
@@ -3248,10 +2935,7 @@
     "netbet.fr": [
       "curated_gambling_feeds"
     ],
-    "netcafe.ft.dk": [
-      "certificate_transparency"
-    ],
-    "netflix-clone-gray-beta.vercel.app": [
+    "netflix-clone-beta-sand.vercel.app": [
       "platform_abuse_sweep"
     ],
     "neverfelted.eu": [
@@ -3356,9 +3040,6 @@
     "olaspill.com": [
       "curated_gambling_feeds"
     ],
-    "old.forum-asti-slot-de-de--393904311.borsan.de": [
-      "certificate_transparency"
-    ],
     "olg.ca": [
       "curated_gambling_feeds"
     ],
@@ -3374,35 +3055,14 @@
     "olybet.eu": [
       "curated_gambling_feeds"
     ],
-    "olympus-slot-de-de--492555162.jasont.de": [
-      "certificate_transparency"
-    ],
     "omniacasino.com": [
       "curated_gambling_feeds"
-    ],
-    "oneclickmahjong.com": [
-      "certificate_transparency"
     ],
     "oneto11.com": [
       "curated_gambling_feeds"
     ],
     "onetpedia.net": [
       "curated_gambling_feeds"
-    ],
-    "online--slot--machines.org": [
-      "certificate_transparency"
-    ],
-    "online--slot--play.online": [
-      "certificate_transparency"
-    ],
-    "online--slot--play.rest": [
-      "certificate_transparency"
-    ],
-    "online--slot--play.xyz": [
-      "certificate_transparency"
-    ],
-    "online-slot-us-de-de--5642742.printrepair.de": [
-      "certificate_transparency"
     ],
     "online.singaporepools.com": [
       "curated_gambling_feeds"
@@ -3428,20 +3088,11 @@
     "optionsports.com": [
       "curated_gambling_feeds"
     ],
-    "ora.ac-coin.com": [
-      "certificate_transparency"
-    ],
     "orakulas.lt": [
       "curated_gambling_feeds"
     ],
-    "orb.ac-coin.com": [
-      "certificate_transparency"
-    ],
     "orlandocasino.com": [
       "curated_gambling_feeds"
-    ],
-    "otw-slot--gacor-vip288.pages.dev": [
-      "certificate_transparency"
     ],
     "ourpricebet.com": [
       "curated_gambling_feeds"
@@ -3451,12 +3102,6 @@
     ],
     "ovocasino.com": [
       "curated_gambling_feeds"
-    ],
-    "owa.konservative.dk": [
-      "certificate_transparency"
-    ],
-    "owa.shalimarslots.ro": [
-      "certificate_transparency"
     ],
     "ozbet.com.au": [
       "curated_gambling_feeds"
@@ -3515,20 +3160,8 @@
     "pelaa.com": [
       "curated_gambling_feeds"
     ],
-    "pg-slot---50.het-hobbydomein.nl": [
-      "certificate_transparency"
-    ],
-    "pg-slot-game---free.bravodriver.com": [
-      "certificate_transparency"
-    ],
     "pikakasino.com": [
       "curated_gambling_feeds"
-    ],
-    "pini-slot-ci--indoiti.eurodiffusions.eu": [
-      "certificate_transparency"
-    ],
-    "pink-10-slot-coin-purse-de-de--822135332.jasont.de": [
-      "certificate_transparency"
     ],
     "pinnacle.com": [
       "curated_gambling_feeds"
@@ -3547,15 +3180,6 @@
     ],
     "platincasino.com": [
       "curated_gambling_feeds"
-    ],
-    "play-dolphin-slot-de-de--96972621.a-j-a.de": [
-      "certificate_transparency"
-    ],
-    "play-slot-machine-highway-king-de-de--96972621.a-j-a.de": [
-      "certificate_transparency"
-    ],
-    "play-slot-pokies-free-de-de--860266582.kosmetik-stralsund.de": [
-      "certificate_transparency"
     ],
     "playamo.com": [
       "curated_gambling_feeds"
@@ -3647,9 +3271,6 @@
     "portail.lotoquebec.com": [
       "curated_gambling_feeds"
     ],
-    "portal.dhs.arkansas.gov": [
-      "certificate_transparency"
-    ],
     "postcodeloterij.nl": [
       "curated_gambling_feeds"
     ],
@@ -3740,20 +3361,8 @@
     "rajbet.com": [
       "curated_gambling_feeds"
     ],
-    "ravaslot----------mpo-slot-----mpo-play-----slot-thailand.online": [
-      "certificate_transparency"
-    ],
-    "ravaslot----------mpo-slot-----mpo-play-----slot-thailand.store": [
-      "certificate_transparency"
-    ],
-    "ravee88-menuju-slot--gacor.pages.dev": [
-      "certificate_transparency"
-    ],
     "rb88.com": [
       "curated_gambling_feeds"
-    ],
-    "rd.dhs.arkansas.gov": [
-      "certificate_transparency"
     ],
     "readytobet.com": [
       "curated_gambling_feeds"
@@ -3794,14 +3403,8 @@
     "regionalwinsite.com": [
       "curated_gambling_feeds"
     ],
-    "remote.slotfrans.nl": [
-      "certificate_transparency"
-    ],
     "ridika.com": [
       "curated_gambling_feeds"
-    ],
-    "rig-slot-eve-online-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
     ],
     "rikstoto.no": [
       "curated_gambling_feeds"
@@ -3836,9 +3439,6 @@
     "royrichie.com": [
       "curated_gambling_feeds"
     ],
-    "rtp-slot--akurat.loginskintoto.com": [
-      "certificate_transparency"
-    ],
     "rubet.com": [
       "curated_gambling_feeds"
     ],
@@ -3847,9 +3447,6 @@
     ],
     "rush777.com": [
       "curated_gambling_feeds"
-    ],
-    "s-c-best-slot--amp-gambling-s-r-l.utcfssecurityproducts.eu": [
-      "certificate_transparency"
     ],
     "safaribet.com.gh": [
       "curated_gambling_feeds"
@@ -3865,9 +3462,6 @@
     ],
     "saturnplay.com": [
       "curated_gambling_feeds"
-    ],
-    "save-slot--save-slot.us-central1.hosted.app": [
-      "certificate_transparency"
     ],
     "sazka.cz": [
       "curated_gambling_feeds"
@@ -3908,32 +3502,11 @@
     "secure.bkbet.eu": [
       "curated_gambling_feeds"
     ],
-    "secure.museumoudeslot.nl": [
-      "certificate_transparency"
-    ],
-    "sem.slotloevestein.nl": [
-      "certificate_transparency"
-    ],
-    "server-kamboja.newsrt.us": [
-      "certificate_transparency"
-    ],
-    "server-thailand.newsrt.us": [
-      "certificate_transparency"
-    ],
     "sesbet.com": [
       "curated_gambling_feeds"
     ],
     "setantabet.com": [
       "curated_gambling_feeds"
-    ],
-    "shop.forum-asti-slot-de-de--393904311.borsan.de": [
-      "certificate_transparency"
-    ],
-    "sim-karten-slot-defekt--92237888.forum-rettungsdienst.de": [
-      "certificate_transparency"
-    ],
-    "sim-slot--905526765.jasont.de": [
-      "certificate_transparency"
     ],
     "simppeli.com": [
       "curated_gambling_feeds"
@@ -3992,306 +3565,6 @@
     "slbet.com": [
       "curated_gambling_feeds"
     ],
-    "sloot-top.net": [
-      "certificate_transparency"
-    ],
-    "slot---100----1.wcppa.ca": [
-      "certificate_transparency"
-    ],
-    "slot---mahjong.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot---ug.com": [
-      "certificate_transparency"
-    ],
-    "slot--5k.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot--bonus--new--member--100--gacor-pages-dev.cdnampproject.org": [
-      "certificate_transparency"
-    ],
-    "slot--bonus.powerappsportals.com": [
-      "certificate_transparency"
-    ],
-    "slot--club.online": [
-      "certificate_transparency"
-    ],
-    "slot--dana.dermablend.com": [
-      "certificate_transparency"
-    ],
-    "slot--demo.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot--dewa200.com": [
-      "certificate_transparency"
-    ],
-    "slot--gacor.lilys.com": [
-      "certificate_transparency"
-    ],
-    "slot--gacor.muzungusisters.com": [
-      "certificate_transparency"
-    ],
-    "slot--gacor.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot--gacor.pencils.com": [
-      "certificate_transparency"
-    ],
-    "slot--gid.online": [
-      "certificate_transparency"
-    ],
-    "slot--machines.com": [
-      "certificate_transparency"
-    ],
-    "slot--mahjong.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot--online-gacor.levainbakery.com": [
-      "certificate_transparency"
-    ],
-    "slot--online-gacor.tech21.com": [
-      "certificate_transparency"
-    ],
-    "slot--online-gacor.thebotanist.com": [
-      "certificate_transparency"
-    ],
-    "slot--online-gacor.walesbonner.net": [
-      "certificate_transparency"
-    ],
-    "slot--parking-system-65efd.us-central1.hosted.app": [
-      "certificate_transparency"
-    ],
-    "slot--pgsw.cyou": [
-      "certificate_transparency"
-    ],
-    "slot--qris.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot--ra.ru": [
-      "certificate_transparency"
-    ],
-    "slot--thailand.it.com": [
-      "certificate_transparency"
-    ],
-    "slot--thailand.newsrt.us": [
-      "certificate_transparency"
-    ],
-    "slot--thailand.tech21.com": [
-      "certificate_transparency"
-    ],
-    "slot--topi.com": [
-      "certificate_transparency"
-    ],
-    "slot--topi.net": [
-      "certificate_transparency"
-    ],
-    "slot--toto.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot--v.online": [
-      "certificate_transparency"
-    ],
-    "slot--v.site": [
-      "certificate_transparency"
-    ],
-    "slot--wd.cyou": [
-      "certificate_transparency"
-    ],
-    "slot-10-casino-de-de--627422181.borsan.de": [
-      "certificate_transparency"
-    ],
-    "slot-4u-de-de--514921827.kieferorthopaedie-in-duesseldorf.de": [
-      "certificate_transparency"
-    ],
-    "slot-77-de-de--853103308.kieferorthopaedie-in-duesseldorf.de": [
-      "certificate_transparency"
-    ],
-    "slot-bca-5000--dijamin-maxwin-tla.tilley.com": [
-      "certificate_transparency"
-    ],
-    "slot-bottrop-de-de--337186435.printrepair.de": [
-      "certificate_transparency"
-    ],
-    "slot-c--ce-este.cerrec.eu": [
-      "certificate_transparency"
-    ],
-    "slot-ci--coaxial.horgaszat-vadaszat.ro": [
-      "certificate_transparency"
-    ],
-    "slot-ci--coaxial.utcfssecurityproducts.eu": [
-      "certificate_transparency"
-    ],
-    "slot-ci--digi.labiclaloca.ro": [
-      "certificate_transparency"
-    ],
-    "slot-ci--digi.menzenschwand.eu": [
-      "certificate_transparency"
-    ],
-    "slot-ci--focus-sat.menzenschwand.eu": [
-      "certificate_transparency"
-    ],
-    "slot-ci--pret.stirigay.ro": [
-      "certificate_transparency"
-    ],
-    "slot-ci--probleme.tinaflorea.ro": [
-      "certificate_transparency"
-    ],
-    "slot-ci--rds.arrp.eu": [
-      "certificate_transparency"
-    ],
-    "slot-ci--samsung-32k5502.banatuldemunte.ro": [
-      "certificate_transparency"
-    ],
-    "slot-ci--upc.knomacons.ro": [
-      "certificate_transparency"
-    ],
-    "slot-free-columbus-de-de--329090594.borsan.de": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--4d.themeadow.com": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--maxwin.ahlemeyewear.com": [
-      "certificate_transparency"
-    ],
-    "slot-games-cheat-de-de--65674607.borsan.de": [
-      "certificate_transparency"
-    ],
-    "slot-games-that-don--39.kath-kirche-buehl.de": [
-      "certificate_transparency"
-    ],
-    "slot-gaming---idrhoki138.com": [
-      "certificate_transparency"
-    ],
-    "slot-grafikkarte-de-de--96972621.a-j-a.de": [
-      "certificate_transparency"
-    ],
-    "slot-gratis-spielen-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
-    ],
-    "slot-guide--teto-codex-test.asia-east1.hosted.app": [
-      "certificate_transparency"
-    ],
-    "slot-guide-dev--slot-guide.asia-east1.hosted.app": [
-      "certificate_transparency"
-    ],
-    "slot-liner-de-de--515461557.kieferorthopaedie-in-duesseldorf.de": [
-      "certificate_transparency"
-    ],
-    "slot-luar--negeri.lilys.com": [
-      "certificate_transparency"
-    ],
-    "slot-luat--negeri.lilys.com": [
-      "certificate_transparency"
-    ],
-    "slot-machine---free-casino.habererciyes.com": [
-      "certificate_transparency"
-    ],
-    "slot-machine--games.com": [
-      "certificate_transparency"
-    ],
-    "slot-machine--slot-machine-da5d6.asia-east1.hosted.app": [
-      "certificate_transparency"
-    ],
-    "slot-machine--yogu-slot-machine.europe-west4.hosted.app": [
-      "certificate_transparency"
-    ],
-    "slot-machine-2012-de-de--492555162.jasont.de": [
-      "certificate_transparency"
-    ],
-    "slot-machine-8-line-de-de--286935078.borsan.de": [
-      "certificate_transparency"
-    ],
-    "slot-machine-game-777-de-de--96972621.a-j-a.de": [
-      "certificate_transparency"
-    ],
-    "slot-machine-games-hack-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
-    ],
-    "slot-machine-gratis-las-vegas-de-de--274133541.borsan.de": [
-      "certificate_transparency"
-    ],
-    "slot-machine-no-download-de-de--93145366.westernholz.de": [
-      "certificate_transparency"
-    ],
-    "slot-machine-novomatic-de-de--709017258.borsan.de": [
-      "certificate_transparency"
-    ],
-    "slot-machine-odds-de-de--872757444.ferienhaus-duemmer.de": [
-      "certificate_transparency"
-    ],
-    "slot-machine-test--slotmachinetest-379ae.us-central1.hosted.app": [
-      "certificate_transparency"
-    ],
-    "slot-machines-4-sale-de-de--998173403.borsan.de": [
-      "certificate_transparency"
-    ],
-    "slot-machines-crossword-clue-de-de--830848298.printrepair.de": [
-      "certificate_transparency"
-    ],
-    "slot-machines-kajot-de-de--96972621.a-j-a.de": [
-      "certificate_transparency"
-    ],
-    "slot-n-games-de-de--93145366.westernholz.de": [
-      "certificate_transparency"
-    ],
-    "slot-nuts-bonus-code-2012-de-de--14707347.borsan.de": [
-      "certificate_transparency"
-    ],
-    "slot-poker-apk-de-de--112862702.borsan.de": [
-      "certificate_transparency"
-    ],
-    "slot-resmi--pasti-maxwin.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-server--thailand.lilys.com": [
-      "certificate_transparency"
-    ],
-    "slot-thailand--gacor-terpercaya.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot.com.ru": [
-      "certificate_transparency"
-    ],
-    "slot.dwbn.org": [
-      "certificate_transparency"
-    ],
-    "slot.ng": [
-      "certificate_transparency"
-    ],
-    "slot32.de": [
-      "certificate_transparency"
-    ],
-    "slotaccountants.nl": [
-      "certificate_transparency"
-    ],
-    "slotadministratiekantoor.nl": [
-      "certificate_transparency"
-    ],
-    "slotbug.co.uk": [
-      "certificate_transparency"
-    ],
-    "slotcars-online.com": [
-      "certificate_transparency"
-    ],
-    "slotcarsandtracks.co.uk": [
-      "certificate_transparency"
-    ],
-    "slotcity.co.uk": [
-      "certificate_transparency"
-    ],
-    "slotcranendonck.nl": [
-      "certificate_transparency"
-    ],
-    "slotholding.nl": [
-      "certificate_transparency"
-    ],
-    "slotjunkies-net-online-slot-videos-de-de--14707347.borsan.de": [
-      "certificate_transparency"
-    ],
     "slotocash.im": [
       "curated_gambling_feeds"
     ],
@@ -4339,15 +3612,6 @@
     ],
     "snabbare.com": [
       "curated_gambling_feeds"
-    ],
-    "sni.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni22069.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni221851.cloudflaressl.com": [
-      "certificate_transparency"
     ],
     "socalsportbook.com": [
       "curated_gambling_feeds"
@@ -4580,9 +3844,6 @@
     "supabets.com.gh": [
       "curated_gambling_feeds"
     ],
-    "super-slot-costa-brava-de-de--14707347.borsan.de": [
-      "certificate_transparency"
-    ],
     "super88.club": [
       "curated_gambling_feeds"
     ],
@@ -4637,12 +3898,6 @@
     "swedencasino.se": [
       "curated_gambling_feeds"
     ],
-    "switchbot-1-slot-download-de-de--612970888.borsan.de": [
-      "certificate_transparency"
-    ],
-    "sws.fhkd.org": [
-      "certificate_transparency"
-    ],
     "synottip.cz": [
       "curated_gambling_feeds"
     ],
@@ -4676,17 +3931,8 @@
     "tempobet.com": [
       "curated_gambling_feeds"
     ],
-    "test.slot---ug.com": [
-      "certificate_transparency"
-    ],
     "texascasino.com": [
       "curated_gambling_feeds"
-    ],
-    "the-best-casino-slot-machines-de-de--198348263.borsan.de": [
-      "certificate_transparency"
-    ],
-    "the-d-slot-machines-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
     ],
     "thebetarena.com": [
       "curated_gambling_feeds"
@@ -4700,17 +3946,8 @@
     "thelotter.com": [
       "curated_gambling_feeds"
     ],
-    "third-mahjong--third-mahjong.asia-east1.hosted.app": [
-      "certificate_transparency"
-    ],
     "thrills.com": [
       "curated_gambling_feeds"
-    ],
-    "thundering-zeus-free-slot-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
-    ],
-    "tiki-torch-slot-machine-download-de-de--338878323.printrepair.de": [
-      "certificate_transparency"
     ],
     "tipbet.com": [
       "curated_gambling_feeds"
@@ -4799,9 +4036,6 @@
     "toxicjackpot.com": [
       "curated_gambling_feeds"
     ],
-    "trex-slot-machine-download-de-de--96972621.a-j-a.de": [
-      "certificate_transparency"
-    ],
     "triobet.com": [
       "curated_gambling_feeds"
     ],
@@ -4810,12 +4044,6 @@
     ],
     "turbico.com": [
       "curated_gambling_feeds"
-    ],
-    "u-spin-slot-machines-de-de--5642742.printrepair.de": [
-      "certificate_transparency"
-    ],
-    "uagfe.dhs.arkansas.gov": [
-      "certificate_transparency"
     ],
     "uberskins.net": [
       "curated_gambling_feeds"
@@ -4856,14 +4084,8 @@
     "usbetting.co.za": [
       "curated_gambling_feeds"
     ],
-    "v7092.pkidomein.nl": [
-      "certificate_transparency"
-    ],
     "vacasino.com": [
       "curated_gambling_feeds"
-    ],
-    "vanderslot.nl": [
-      "certificate_transparency"
     ],
     "vandersports.com": [
       "curated_gambling_feeds"
@@ -4892,9 +4114,6 @@
     "veikkaus.fi": [
       "curated_gambling_feeds"
     ],
-    "velutionbikes.com": [
-      "certificate_transparency"
-    ],
     "verajohn.com": [
       "curated_gambling_feeds"
     ],
@@ -4903,12 +4122,6 @@
     ],
     "vestabet365.com": [
       "curated_gambling_feeds"
-    ],
-    "video-slot-machines-for-sale-uk-de-de--72169230.borsan.de": [
-      "certificate_transparency"
-    ],
-    "video-slot-machines-games-free-de-de--281282267.borsan.de": [
-      "certificate_transparency"
     ],
     "videoslots.com": [
       "curated_gambling_feeds"
@@ -4949,15 +4162,6 @@
     "voodoodreams.com": [
       "curated_gambling_feeds"
     ],
-    "vpn.degrootenslot.nl": [
-      "certificate_transparency"
-    ],
-    "vpn.dhs.arkansas.gov": [
-      "certificate_transparency"
-    ],
-    "vpn.slot---ug.com": [
-      "certificate_transparency"
-    ],
     "vulcun.com": [
       "curated_gambling_feeds"
     ],
@@ -4988,20 +4192,11 @@
     "wagerweb.eu": [
       "curated_gambling_feeds"
     ],
-    "wap.macau-slot.com": [
-      "certificate_transparency"
-    ],
     "wazamba.com": [
       "curated_gambling_feeds"
     ],
     "webbookmakers.com": [
       "curated_gambling_feeds"
-    ],
-    "webmail.degrootenslot.nl": [
-      "certificate_transparency"
-    ],
-    "webmail.intragroen.nl": [
-      "certificate_transparency"
     ],
     "westlotto.de": [
       "curated_gambling_feeds"
@@ -5017,9 +4212,6 @@
     ],
     "whitebet.com": [
       "curated_gambling_feeds"
-    ],
-    "wildcard.online--slot--play.xyz": [
-      "certificate_transparency"
     ],
     "wildcasino.ag": [
       "curated_gambling_feeds"
@@ -5050,9 +4242,6 @@
     ],
     "winamax.fr": [
       "curated_gambling_feeds"
-    ],
-    "windows-8-slot-games-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
     ],
     "winmasters.com": [
       "curated_gambling_feeds"
@@ -5090,257 +4279,14 @@
     "wunderino.com": [
       "curated_gambling_feeds"
     ],
-    "ww1.online--slot--play.xyz": [
-      "certificate_transparency"
-    ],
-    "ww25.xn--pg-slot--vip-r00b8hwcthrc70ake.friendlymobilesites.com": [
-      "certificate_transparency"
-    ],
-    "ww38.xn--slot---1-wpz5fi4cjf4kpc1fup.suckhoetretho.info": [
-      "certificate_transparency"
-    ],
     "wwin.ba": [
       "curated_gambling_feeds"
     ],
     "wwin.com": [
       "curated_gambling_feeds"
     ],
-    "www.pink-10-slot-coin-purse-de-de--822135332.jasont.de": [
-      "certificate_transparency"
-    ],
     "xinweide.com": [
       "curated_gambling_feeds"
-    ],
-    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org": [
-      "certificate_transparency"
-    ],
-    "xn---pg-slot--uo2a9c4bo0vqf7e.myhotmaxima.com": [
-      "certificate_transparency"
-    ],
-    "xn---pg-slot-auto---2f9bmduob0tsjc8gc26a.troratad.net": [
-      "certificate_transparency"
-    ],
-    "xn---slot--v1t5e0aw6e4bqb2j3fphuf.ukrainian-language.com": [
-      "certificate_transparency"
-    ],
-    "xn--amb-slot--3i2aqima4k4bd3yua4q.ukrainian-language.com": [
-      "certificate_transparency"
-    ],
-    "xn--area-slot--dc5apna8jqe8d5a1ktf6gra.mphp.org": [
-      "certificate_transparency"
-    ],
-    "xn--arne-slot--zc5a4wfe.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--avenger-slot--us3b2cvnlqc8xng.motoclubalmeria.com": [
-      "certificate_transparency"
-    ],
-    "xn--book-of-shadows-slot--qf6dps3grisgmtqd.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--g2g1-slot--dc5arc5looc6ttf.kovarstvivalasek.com": [
-      "certificate_transparency"
-    ],
-    "xn--game-slot--xd5auhoczg9byz4d.samsung-android-transfer.com": [
-      "certificate_transparency"
-    ],
-    "xn--gans-slot--dc5arc5looc6ttf.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--jili-slot---547apk2ca6lobzff9isbh3lpa5omigr.outdooridee.com": [
-      "certificate_transparency"
-    ],
-    "xn--joker-slot--w67a1htc8gpcyzhe.outdooridee.com": [
-      "certificate_transparency"
-    ],
-    "xn--ka-gaming-slot--fh9b6ksa4qzcd58a0a0x.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--king-slot--1b5a9ma0o0c1lxe4f.archive-iussp.org": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com": [
-      "certificate_transparency"
-    ],
-    "xn--mgm-slot---0b5a6lnb8f3a8de71ajfvf.myhotmaxima.com": [
-      "certificate_transparency"
-    ],
-    "xn--n89-slot--188-jt3b7jqa4otcd15aya8u.thehanhle.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot-----t47ab0z6bau1kwcd4hm2dba51cid.outdooridee.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot-----u57apb2nlae2f0e3cde9euq2a3xh6p.garngalleriet.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot---8h2a5a2b8lcm7fyd7cdd5s8cxc1a1yoa.myhotmaxima.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot---xj2a7g0a9a2j6a0af2irqia3l.dcafterfive.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot---xj2a7g0aa1b2jd8a2ah4j4kkfl1n.outdooridee.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--7oza9dwkktc5g.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--ctz3aw1isb54amb4i.kowabungaecoproject.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--goz4jlax3c5g3a8gc8fzn.foodefare.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--hoz3bj1opa6cyipc6jc8xka2m6a.chirkofff.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--ltztba8a5dq8n2cxmb3e4dbg8g.dcafterfive.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--muzuc2bv5stfze.ukrainian-language.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--n4z.ukrainian-language.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--poz3b9kymc8q6e.lartocrate.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.beyondtheduel.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.ukrainian-language.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--zpztg5b8f2b1xtd.onstarshipsanddragonwings.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--zpztg5b8f2b1xtd.pages.dev": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot-888---us3b1cvnlqd8xng.sedonagoldmenus.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot-auto--1v3bymsb8j4h1c.jeffpeel.net": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot-free--g03b2c6i6a9c2c4x2ed.archive-iussp.org": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot-in--v57a6ioa4mncd71awa6s.ukrainian-language.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot-to--647auctm1oc0v2f.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--pp-slot--zpztg5b8f2b1x.vietcargroup.com": [
-      "certificate_transparency"
-    ],
-    "xn--pxj-slot---dc5aqc5lood6ttf.dannewerk.com": [
-      "certificate_transparency"
-    ],
-    "xn--pxj-slot---dc5aqc5lood6ttf.forum-labas.com": [
-      "certificate_transparency"
-    ],
-    "xn--razor-shark-slot--634cyp3foh1f5q7c.softwaredescargas.com": [
-      "certificate_transparency"
-    ],
-    "xn--roma-slot--xd5auhoczg9byz4d.ukrainian-language.com": [
-      "certificate_transparency"
-    ],
-    "xn--shark-pg-slot--om6b5ctokrc2zwg.bravodriver.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot---f1tugj5htbe1tsa0n.soulurns.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--16q0b6g5e1grgmd.ukrainian-language.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--16q9hir1b5fay6fc8e3m.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--27q0exau4d2bub4iufrhmf.outdooridee.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--27q7eb9aah0a8dqk5d3fzd4mjab5f2c4abg4i.cometapress.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--27q7esb8esb8u3c.myhotmaxima.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--27qua43a6g.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--bbr8ah0jtb8gqf5bzb.chirkofff.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--hbr5frb2a3x.sweetearthorganicfarm.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--k7q6fi4gub2mpa0l.reviews-washer-dryer.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--k7qua5nwc4czfqh6e.motoclubalmeria.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--pg-wpz3f6a0n3d.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--tbro2cwbyn3a.php-hispano.net": [
-      "certificate_transparency"
-    ],
-    "xn--slot--wallet-v50b4g8kwg.sweetearthorganicfarm.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot-50--3ozea0qna4l9axdh4k0f3bza9vjb7n.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot-99--7ozuhla4j1bd6wta3p.ukrainian-language.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot-pg----50-it3b7jra5orcf68c.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot-pg--vuz4c2c6b6rqb6cu.chirkofff.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot-true-wallet--q54cpkpd4i7cx3aof.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot-v---76gb9faoc0a6am5dva3a7bxhva.petcbd.io": [
-      "certificate_transparency"
-    ],
-    "xn--slot-v-casino--yn35ai521asa2126a.saindustries.net.in": [
-      "certificate_transparency"
-    ],
-    "xn--slot-web--yj2a7gyg.lartocrate.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot-xo-hacker--xo--8p0dlc6vid4isd8fj9e1hnc4vmc3n.apk.ca": [
-      "certificate_transparency"
-    ],
-    "xn--w69-slot--3i2aqima4k4bd3yua4q.dannewerk.com": [
-      "certificate_transparency"
-    ],
-    "xn--wow-slot---0h5a2g3bzdl9ipexitdc.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--wow-slot--8h2a7a2skf5i7c4m.newhomesteadersalmanac.com": [
-      "certificate_transparency"
     ],
     "yabet.com": [
       "curated_gambling_feeds"
@@ -5350,9 +4296,6 @@
     ],
     "yeticasino.com": [
       "curated_gambling_feeds"
-    ],
-    "yihao-fun.cyou": [
-      "certificate_transparency"
     ],
     "yobetit.com": [
       "curated_gambling_feeds"
@@ -5375,14 +4318,8 @@
     "zeturf.fr": [
       "curated_gambling_feeds"
     ],
-    "zeus-slot-machine-de-de--469827831.knusperhaeuschen-pogeez.de": [
-      "certificate_transparency"
-    ],
     "zodiacu.com": [
       "curated_gambling_feeds"
-    ],
-    "zynga-poker-slot-machine-de-de--175577514.borsan.de": [
-      "certificate_transparency"
     ]
   },
   "domains": [
@@ -5413,13 +4350,10 @@
     "2betab.com",
     "2betesi.com",
     "2winbet.gr",
-    "3-slot-machines-de-de--131453757.borsan.de",
     "32red.com",
     "32redsport.com",
     "368bet.com",
     "377bet.com",
-    "40mu6102-slot-ci--location.hoppop.eu",
-    "41e53b64-da01-409f-a535-8cb441fae4f2.slot---ug.com",
     "444sports.com",
     "461.net",
     "5dimes.com",
@@ -5446,15 +4380,8 @@
     "actionbets.com",
     "actiononsports.com",
     "acttab.com.au",
-    "adaptor-slot-ci--emag.fotogenica.ro",
-    "adaptor-slot-ci--pret.eurodiffusions.eu",
-    "adaptor-slot-ci--samsung-altex.knomacons.ro",
-    "adaptor-slot-ci--samsung-pret.labiclaloca.ro",
-    "adaptor-slot-ci--samsung.horgaszat-vadaszat.ro",
-    "adaptor-slot-ci--samsung.utcfssecurityproducts.eu",
     "adda.games",
     "adjarabet.com",
-    "admin.slot---ug.com",
     "admiralspot.com",
     "agentspinner.com",
     "ahacasino.com",
@@ -5467,26 +4394,16 @@
     "allyoubet.ag",
     "alohasportsbook.com",
     "alphadraft.com",
-    "amarta99.newsrt.us",
     "amcleanbookmakers.com",
     "americanfootballbetting.com",
     "americasbookie.com",
     "americascardroom.eu",
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
-    "amp-slot-thailand-alfarepit--musicotherapie-cycle-2.pages.dev",
     "anonibet.com",
-    "api.freeslotgamesoflasvegas.com",
-    "api.slot---ug.com",
     "apollobet.com",
-    "app.hkmahjong.com.hk",
-    "app.slot---ug.com",
-    "are-slot-ci--led-80-cm-lg-32lj500v-full-hd.stirigay.ro",
     "arena-bet.com",
     "arlequincasino.com",
     "artemisbet10.com",
     "asianbeta.com",
-    "assets.slot---ug.com",
     "atg.se",
     "axbet.com",
     "azcasino.com",
@@ -5497,14 +4414,11 @@
     "bamasportsbook.com",
     "bananajackpot.com",
     "banzaislots.com",
-    "bar-x-slot-machines-de-de--235205110.borsan.de",
     "barbadoscasino.com",
     "batball11.com",
     "beatthebook.eu",
     "belmont.ag",
     "bertil.com",
-    "best-free-casino-slot-apps-de-de--647833792.printrepair.de",
-    "best-paying-slot-machines-2013-de-de--545212226.jasont.de",
     "bestbet.com",
     "bestbettoday.com",
     "bestcasino.com",
@@ -5671,7 +4585,6 @@
     "betzone.com",
     "bgbet.com",
     "bgo.com",
-    "big-easy-slot-free-online-de-de--78007419.kosmetik-stralsund.de",
     "bigbetworld.com",
     "bigcitysportsbook.com",
     "bigspincasino.com",
@@ -5690,7 +4603,6 @@
     "blackchippoker.eu",
     "blackdiamond4u.com",
     "blackjackballroom.eu",
-    "blazing-7-s-slot-machine-strategy-de-de--53990509.westernholz.de",
     "blitzpools.com",
     "bobcasino.com",
     "bobetting.com",
@@ -5700,15 +4612,12 @@
     "bodugi.com",
     "bola88.com",
     "bombaybets.eu",
-    "bonus-rounds-on-slot-machines-de-de--92408984.borsan.de",
     "book247.eu",
     "bookies.com.au",
     "bookmaker.com.au",
     "bookmaker.eu",
     "bookmaker7.com",
     "bookmakerclub.com",
-    "bootloader-has-slot-recovery--not-found.horgaszat-vadaszat.ro",
-    "bootloader-has-slot-recovery--not-found.utcfssecurityproducts.eu",
     "borgataonline.com",
     "botbcasino.com",
     "bovada.lv",
@@ -5724,8 +4633,6 @@
     "bulletbets.com",
     "butterflybingo.com",
     "bwin.com",
-    "c-e-este-slot-ci--compatibil-digi.horgaszat-vadaszat.ro",
-    "c-e-este-slot-ci--compatibil-digi.utcfssecurityproducts.eu",
     "cafecasino.lv",
     "campaign.rizk.com",
     "campeonbet.com",
@@ -5747,10 +4654,7 @@
     "casineto.net",
     "casiniabet.com",
     "casino-classic.eu",
-    "casino-macchinette-slot-de-de--78007419.kosmetik-stralsund.de",
     "casino-pp.net",
-    "casino-slot-machine-scams-de-de--74810990.equimarkt.de",
-    "casino-slots-way-slot-machine-pharaohs--games-363.bluepeppers.tokyo",
     "casino.betway.com",
     "casino.org",
     "casino.synottip.cz",
@@ -5780,7 +4684,6 @@
     "casumo.com",
     "cbmsport.com",
     "cc898.com",
-    "ce-este-conexiuni-rf-in-slot-ci--av-dlna.cerrec.eu",
     "celebbingo.com",
     "centrebet.com",
     "cgaming.olg.ca",
@@ -5789,13 +4692,11 @@
     "chance.cz",
     "chancehill.com",
     "chanz.com",
-    "chatwoot.slot---ug.com",
     "cheekywin.com",
     "cherrycasino.com",
     "cherryjackpot.com",
     "chinesebookie.eu",
     "chisholmbet.com",
-    "cibolocreekquiltersguild.com",
     "circlebet.com",
     "circusbingo.com",
     "citybingo.com",
@@ -5808,9 +4709,6 @@
     "cocktailbingo.com",
     "codeta.com",
     "coffeebingo.com",
-    "coin-slot-irritation-de-de--78007419.kosmetik-stralsund.de",
-    "coin-slot-lotion-de-de--78007419.kosmetik-stralsund.de",
-    "coin-slot-uk-de-de--14707347.borsan.de",
     "colossusbets.com",
     "comebackskins.com",
     "comeon.com",
@@ -5902,7 +4800,6 @@
     "cspotluck.com",
     "cupcakebingo.co.uk",
     "cupcakebingo.com",
-    "d.online--slot--play.xyz",
     "dadobet.com",
     "dafabet.com",
     "dailydime.eu",
@@ -5915,14 +4812,8 @@
     "dccasino.com",
     "de.888casino.com",
     "dealerscasino.com",
-    "degrootenslot.nl",
-    "demo.slot---ug.com",
     "desertnightscasino.co.uk",
-    "dev.slot---ug.com",
     "dhoze.com",
-    "dhs.vpn.arkansas.gov",
-    "dhs3.arkansas.gov",
-    "dhslyncedge.arkansas.gov",
     "dialabet.com.au",
     "diamond7casino.com",
     "diamondreels.com",
@@ -5932,7 +4823,6 @@
     "digibet.com",
     "dimeline.eu",
     "dinobingo.com",
-    "directslot.com",
     "divabingo.com",
     "dlb.lk",
     "dobet.com",
@@ -5997,7 +4887,6 @@
     "ezstreetsports.com",
     "faber.de",
     "faboom.com",
-    "facwbgoogle.com",
     "falconbet.com",
     "fan2play.com",
     "fancode.com",
@@ -6014,35 +4903,21 @@
     "fi.888casino.com",
     "fi.casiplay.com",
     "fikacasino.com",
-    "fivestarsearch.com",
     "flemingtonsportsbet.com.au",
     "flumecasino.com",
-    "flymodelcars.com",
     "folkeautomaten.com",
     "fonbet.com",
     "footballpools.com",
     "forsportspicks.com",
     "fortunejack.com",
     "fortunelegends.com",
-    "forum-asti-slot-de-de--393904311.borsan.de",
     "fr.royalvegascasino.com",
     "france-pari.fr",
     "frankcasino.com",
     "frankfred.com",
     "freakyvegas.com",
-    "free-casino-video-slot-machine-games-de-de--25135353.jasont.de",
-    "free-joker-poker-slot-machine-games-de-de--14707347.borsan.de",
-    "free-play-slot-machines-games-de-de--468579234.borsan.de",
-    "free-slot-cleopatra-gold-de-de--42196773.borsan.de",
-    "free-slot-games-ca-de-de--78007419.kosmetik-stralsund.de",
-    "free-slot-machine-casino-de-de--308010892.borsan.de",
-    "free-slot-machine-kostenlos-spielen-de-de--419096320.borsan.de",
-    "free-slot-machine-lord-of-the-ocean-de-de--962662111.borsan.de",
-    "free-tomb-raider-2-slot-game-de-de--5642742.printrepair.de",
-    "free-zeus-slot-app-de-de--96972621.a-j-a.de",
     "fruitycasa.com",
     "fsport.net",
-    "fta.dhs.arkansas.gov",
     "fullbetter.com",
     "fun-bet.com",
     "fun88.co.uk",
@@ -6054,8 +4929,6 @@
     "gamblecsgo.com",
     "gambling.com",
     "gamdom.com",
-    "game-dragons-2-slot-machine-de-de--819575729.borsan.de",
-    "game-slot-juggler-de-de--5642742.printrepair.de",
     "gamebookers.com",
     "gamerjackpot.com",
     "games.bet365.com",
@@ -6069,7 +4942,6 @@
     "geoff-banks.com",
     "getabet.com",
     "getlucky.com",
-    "giochibingo.org",
     "giocoreale.com",
     "glimmercasino.com",
     "global.138.com",
@@ -6077,7 +4949,6 @@
     "globetworld.com",
     "go50.net",
     "goalbetint.com",
-    "goalslot.com",
     "goalwin.com",
     "gobetgo.com",
     "gohorsebetting.ag",
@@ -6096,7 +4967,6 @@
     "grandcasino.hu",
     "grandeaglecasino.com",
     "grosvenorcasinos.com",
-    "gslot.macau-slot.com",
     "gtbets.eu",
     "guestlistbingo.com",
     "gunnersgaming.com",
@@ -6108,7 +4978,6 @@
     "hajper.com",
     "hamsterbet.com",
     "hanplayer.com",
-    "happy-days-slot-machine-free-download-de-de--219809263.borsan.de",
     "hawaiicasino.com",
     "healthlottery.co.uk",
     "heavenbet.com",
@@ -6117,7 +4986,6 @@
     "herobet.com.br",
     "heypoker.com",
     "heyspin.com",
-    "higgs-slot---qiuqiu-remi.clio-tw.com",
     "highheelsbingo.com",
     "highlifebingo.com",
     "highroller.com",
@@ -6134,10 +5002,8 @@
     "howzat.com",
     "hpbet.com",
     "hrwager.ag",
-    "hsca.gr",
     "hughesbet.com",
     "hunkybingo.com",
-    "hycky40mu6102-slot-ci--location.hoppop.eu",
     "hypercasino.com",
     "hyperino.com",
     "iasbet.com",
@@ -6156,7 +5022,6 @@
     "india.halaplay.com",
     "indycasino.com",
     "infinitybet.com",
-    "insite.degrootenslot.nl",
     "instacasino.com",
     "instantactionsports.com",
     "interapostas.com",
@@ -6177,7 +5042,6 @@
     "jackpotcitycasino.com",
     "jackpotvillage.com",
     "jammyduck.com",
-    "janslot.nl",
     "japancasino.com",
     "jaxx.com",
     "jazzsports.ag",
@@ -6194,8 +5058,6 @@
     "join.casino.com",
     "joinbet.eu",
     "jojobet.com",
-    "judi-slot--bankjago.shamrockcolony.com",
-    "judiboisson.com",
     "juegos.loteriasyapuestas.es",
     "juicystakes.eu",
     "jumbabet.com",
@@ -6211,16 +5073,13 @@
     "karhukasino.com",
     "karjalakasino.com",
     "karlcasino.com",
-    "karry-slot-20---marina-t-73.tinaflorea.ro",
     "kashmobet.com",
     "kasinot.fi",
     "kassu.com",
     "kaszinoonline.net",
     "katiesbingo.com",
-    "kelly-slot---toby-the-woman-in-her-download.gazetavaiijiului.ro",
     "keyarena.gg",
     "khelchamps.com",
-    "king-game-slot-machine-de-de--14707347.borsan.de",
     "kingneptunescasino.com",
     "kingneptunescasino.eu",
     "kingschancecampaign.com",
@@ -6228,15 +5087,12 @@
     "kirsikka.com",
     "kissmybingo.com",
     "klasselotteriet.dk",
-    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app",
     "kosmonautcasino.com",
-    "krl-11841-slot--59dd063f.i-sepp-theater.ux.i-smith.ee",
     "krugerbets.com",
     "ksbingo.com",
     "ladbrokes.com",
     "ladbrokes.com.au",
     "landing.winoui.com",
-    "landvanzuylen.nl",
     "lapalingo.com",
     "lasatlantispromos.com",
     "laspalmassportsbook.com",
@@ -6247,7 +5103,6 @@
     "leaguex.com",
     "legendsportsbook.com",
     "legolas.bet",
-    "leioams.com",
     "leisure888.com",
     "leojackpot.com",
     "leonbets.net",
@@ -6315,13 +5170,10 @@
     "lottomax.ca",
     "louisvillecasino.com",
     "lowvig.ag",
-    "loyalty.macau-slot.com",
     "lsbet.com",
     "lsbet690.com",
     "luckland.com",
     "lucky-31.com",
-    "lucky-88-slot-game-de-de--859622945.borsan.de",
-    "lucky-slot-online-free-de-de--3982502.ferienhaus-duemmer.de",
     "lucky8.com",
     "luckycasino.com",
     "luckycharmbingo.com",
@@ -6345,7 +5197,6 @@
     "m8bet.net",
     "m8poker.com",
     "macau-slot.com",
-    "macau-slot.com.mo",
     "macau.williamhill.com",
     "macaubet.com",
     "macauslot.com",
@@ -6354,12 +5205,6 @@
     "magicbet.com",
     "magicred.com",
     "magnum4d.my",
-    "mahjong--ways.noma.com",
-    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de",
-    "mahjong-download-windows-10--167758106.helpclean.de",
-    "mail.degrootenslot.nl",
-    "mail.macauslot.com",
-    "mail.shoplvhome.com",
     "majorbet.net",
     "majorsportsbetting.com",
     "malinasports.com",
@@ -6379,10 +5224,8 @@
     "mayansports.eu",
     "mbet.co.za",
     "mcbookie.com",
-    "mega-slot--pokemon-edition.shouyou.com.tw",
     "megalotto.pl",
     "megasportsworld.com",
-    "members.macauslot.com",
     "meridianbet.com",
     "merkur-casino.de",
     "merkur24.com",
@@ -6393,17 +5236,12 @@
     "miamicasino.com",
     "miamidice.com",
     "miamidicecasino.com",
-    "micro-sd-card-slot-128-es-es--946676214.restaurantnamaskar.de",
     "middlebet.com",
-    "mijn.webwerkers.nl",
-    "mijndossier.slotletselschade.nl",
     "mobil6000.com",
     "mobilautomaten.com",
     "mobilbet.com",
-    "mobile.macau-slot.com",
     "mobilebet.com",
     "mobocasino.com",
-    "mobus.dhhs.arkgov.net",
     "monacoaces.com",
     "moneyplayscasino.com",
     "montecarlocasino.com",
@@ -6424,14 +5262,10 @@
     "mrspin.co.uk",
     "mrwin.com",
     "msl.ua",
-    "mta-sts.adaptor-slot-ci--samsung.horgaszat-vadaszat.ro",
-    "mta-sts.slot-ci--upc.knomacons.ro",
     "multilotto.com",
     "multipasko.pl",
-    "mumble-5-slot-free-de-de--469827831.knusperhaeuschen-pogeez.de",
     "mummysgold.com",
     "mvpaction.ag",
-    "my-slot--my-slot-dev.us-central1.hosted.app",
     "my11circle.com",
     "mybcasino.ag",
     "mybet.com",
@@ -6442,7 +5276,6 @@
     "mysportsbook.ag",
     "myteam11.com",
     "myteampoker.com",
-    "mywebmail.slot---ug.com",
     "n1casino.com",
     "naijabet.com",
     "nairabet.com",
@@ -6457,8 +5290,7 @@
     "netbet.com",
     "netbet.de",
     "netbet.fr",
-    "netcafe.ft.dk",
-    "netflix-clone-gray-beta.vercel.app",
+    "netflix-clone-beta-sand.vercel.app",
     "neverfelted.eu",
     "nextcasino.com",
     "nightrush.com",
@@ -6493,22 +5325,14 @@
     "ohiocasino.com",
     "ohmbet.com",
     "olaspill.com",
-    "old.forum-asti-slot-de-de--393904311.borsan.de",
     "olg.ca",
     "olgslotsandcasinos.ca",
     "olimp.com",
     "olybet.com",
     "olybet.eu",
-    "olympus-slot-de-de--492555162.jasont.de",
     "omniacasino.com",
-    "oneclickmahjong.com",
     "oneto11.com",
     "onetpedia.net",
-    "online--slot--machines.org",
-    "online--slot--play.online",
-    "online--slot--play.rest",
-    "online--slot--play.xyz",
-    "online-slot-us-de-de--5642742.printrepair.de",
     "online.singaporepools.com",
     "onlinecasino-eu.com",
     "onlinecasino.de",
@@ -6517,16 +5341,11 @@
     "opcrates.com",
     "optibet.com",
     "optionsports.com",
-    "ora.ac-coin.com",
     "orakulas.lt",
-    "orb.ac-coin.com",
     "orlandocasino.com",
-    "otw-slot--gacor-vip288.pages.dev",
     "ourpricebet.com",
     "overtheodds.com.au",
     "ovocasino.com",
-    "owa.konservative.dk",
-    "owa.shalimarslots.ro",
     "ozbet.com.au",
     "p7campaign.com",
     "paddypower.com",
@@ -6546,20 +5365,13 @@
     "pasarbola.com",
     "paytmfirstgames.com",
     "pelaa.com",
-    "pg-slot---50.het-hobbydomein.nl",
-    "pg-slot-game---free.bravodriver.com",
     "pikakasino.com",
-    "pini-slot-ci--indoiti.eurodiffusions.eu",
-    "pink-10-slot-coin-purse-de-de--822135332.jasont.de",
     "pinnacle.com",
     "pinnaclesports.com",
     "piratespin.com",
     "planetofbets.com",
     "planetwin365.com",
     "platincasino.com",
-    "play-dolphin-slot-de-de--96972621.a-j-a.de",
-    "play-slot-machine-highway-king-de-de--96972621.a-j-a.de",
-    "play-slot-pokies-free-de-de--860266582.kosmetik-stralsund.de",
     "playamo.com",
     "playbet.com",
     "playclub.com",
@@ -6590,7 +5402,6 @@
     "pokerstars.uk",
     "pokerstarscasino.uk",
     "portail.lotoquebec.com",
-    "portal.dhs.arkansas.gov",
     "postcodeloterij.nl",
     "potsofluck.com",
     "premiercasino.com",
@@ -6621,11 +5432,7 @@
     "rajabets.xyz",
     "rajahbet.com",
     "rajbet.com",
-    "ravaslot----------mpo-slot-----mpo-play-----slot-thailand.online",
-    "ravaslot----------mpo-slot-----mpo-play-----slot-thailand.store",
-    "ravee88-menuju-slot--gacor.pages.dev",
     "rb88.com",
-    "rd.dhs.arkansas.gov",
     "readytobet.com",
     "realbet.eu",
     "realdealbet.com",
@@ -6639,9 +5446,7 @@
     "redzonesports.bet",
     "refuelcasino.com",
     "regionalwinsite.com",
-    "remote.slotfrans.nl",
     "ridika.com",
-    "rig-slot-eve-online-de-de--78007419.kosmetik-stralsund.de",
     "rikstoto.no",
     "rivalo.com",
     "riverbellecasino.com",
@@ -6653,17 +5458,14 @@
     "royalpanda.com",
     "royalslots.com",
     "royrichie.com",
-    "rtp-slot--akurat.loginskintoto.com",
     "rubet.com",
     "rummy24.com",
     "rush777.com",
-    "s-c-best-slot--amp-gambling-s-r-l.utcfssecurityproducts.eu",
     "safaribet.com.gh",
     "saharabet.com",
     "samvo.com",
     "sanfrancasino.com",
     "saturnplay.com",
-    "save-slot--save-slot.us-central1.hosted.app",
     "sazka.cz",
     "sbgglobal.eu",
     "sblp.intertops.eu",
@@ -6677,15 +5479,8 @@
     "seaniemac.com",
     "sectorbet.com",
     "secure.bkbet.eu",
-    "secure.museumoudeslot.nl",
-    "sem.slotloevestein.nl",
-    "server-kamboja.newsrt.us",
-    "server-thailand.newsrt.us",
     "sesbet.com",
     "setantabet.com",
-    "shop.forum-asti-slot-de-de--393904311.borsan.de",
-    "sim-karten-slot-defekt--92237888.forum-rettungsdienst.de",
-    "sim-slot--905526765.jasont.de",
     "simppeli.com",
     "sirbobet.com",
     "sirjackpot.com",
@@ -6705,106 +5500,6 @@
     "skybook.ag",
     "skytowersportsbook.com",
     "slbet.com",
-    "sloot-top.net",
-    "slot---100----1.wcppa.ca",
-    "slot---mahjong.pages.dev",
-    "slot---ug.com",
-    "slot--5k.pages.dev",
-    "slot--bonus--new--member--100--gacor-pages-dev.cdnampproject.org",
-    "slot--bonus.powerappsportals.com",
-    "slot--club.online",
-    "slot--dana.dermablend.com",
-    "slot--demo.pages.dev",
-    "slot--dewa200.com",
-    "slot--gacor.lilys.com",
-    "slot--gacor.muzungusisters.com",
-    "slot--gacor.pages.dev",
-    "slot--gacor.pencils.com",
-    "slot--gid.online",
-    "slot--machines.com",
-    "slot--mahjong.pages.dev",
-    "slot--online-gacor.levainbakery.com",
-    "slot--online-gacor.tech21.com",
-    "slot--online-gacor.thebotanist.com",
-    "slot--online-gacor.walesbonner.net",
-    "slot--parking-system-65efd.us-central1.hosted.app",
-    "slot--pgsw.cyou",
-    "slot--qris.pages.dev",
-    "slot--ra.ru",
-    "slot--thailand.it.com",
-    "slot--thailand.newsrt.us",
-    "slot--thailand.tech21.com",
-    "slot--topi.com",
-    "slot--topi.net",
-    "slot--toto.pages.dev",
-    "slot--v.online",
-    "slot--v.site",
-    "slot--wd.cyou",
-    "slot-10-casino-de-de--627422181.borsan.de",
-    "slot-4u-de-de--514921827.kieferorthopaedie-in-duesseldorf.de",
-    "slot-77-de-de--853103308.kieferorthopaedie-in-duesseldorf.de",
-    "slot-bca-5000--dijamin-maxwin-tla.tilley.com",
-    "slot-bottrop-de-de--337186435.printrepair.de",
-    "slot-c--ce-este.cerrec.eu",
-    "slot-ci--coaxial.horgaszat-vadaszat.ro",
-    "slot-ci--coaxial.utcfssecurityproducts.eu",
-    "slot-ci--digi.labiclaloca.ro",
-    "slot-ci--digi.menzenschwand.eu",
-    "slot-ci--focus-sat.menzenschwand.eu",
-    "slot-ci--pret.stirigay.ro",
-    "slot-ci--probleme.tinaflorea.ro",
-    "slot-ci--rds.arrp.eu",
-    "slot-ci--samsung-32k5502.banatuldemunte.ro",
-    "slot-ci--upc.knomacons.ro",
-    "slot-free-columbus-de-de--329090594.borsan.de",
-    "slot-gacor--4d.themeadow.com",
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
-    "slot-gacor--maxwin.ahlemeyewear.com",
-    "slot-games-cheat-de-de--65674607.borsan.de",
-    "slot-games-that-don--39.kath-kirche-buehl.de",
-    "slot-gaming---idrhoki138.com",
-    "slot-grafikkarte-de-de--96972621.a-j-a.de",
-    "slot-gratis-spielen-de-de--78007419.kosmetik-stralsund.de",
-    "slot-guide--teto-codex-test.asia-east1.hosted.app",
-    "slot-guide-dev--slot-guide.asia-east1.hosted.app",
-    "slot-liner-de-de--515461557.kieferorthopaedie-in-duesseldorf.de",
-    "slot-luar--negeri.lilys.com",
-    "slot-luat--negeri.lilys.com",
-    "slot-machine---free-casino.habererciyes.com",
-    "slot-machine--games.com",
-    "slot-machine--slot-machine-da5d6.asia-east1.hosted.app",
-    "slot-machine--yogu-slot-machine.europe-west4.hosted.app",
-    "slot-machine-2012-de-de--492555162.jasont.de",
-    "slot-machine-8-line-de-de--286935078.borsan.de",
-    "slot-machine-game-777-de-de--96972621.a-j-a.de",
-    "slot-machine-games-hack-de-de--78007419.kosmetik-stralsund.de",
-    "slot-machine-gratis-las-vegas-de-de--274133541.borsan.de",
-    "slot-machine-no-download-de-de--93145366.westernholz.de",
-    "slot-machine-novomatic-de-de--709017258.borsan.de",
-    "slot-machine-odds-de-de--872757444.ferienhaus-duemmer.de",
-    "slot-machine-test--slotmachinetest-379ae.us-central1.hosted.app",
-    "slot-machines-4-sale-de-de--998173403.borsan.de",
-    "slot-machines-crossword-clue-de-de--830848298.printrepair.de",
-    "slot-machines-kajot-de-de--96972621.a-j-a.de",
-    "slot-n-games-de-de--93145366.westernholz.de",
-    "slot-nuts-bonus-code-2012-de-de--14707347.borsan.de",
-    "slot-poker-apk-de-de--112862702.borsan.de",
-    "slot-resmi--pasti-maxwin.pages.dev",
-    "slot-server--thailand.lilys.com",
-    "slot-thailand--gacor-terpercaya.pages.dev",
-    "slot.com.ru",
-    "slot.dwbn.org",
-    "slot.ng",
-    "slot32.de",
-    "slotaccountants.nl",
-    "slotadministratiekantoor.nl",
-    "slotbug.co.uk",
-    "slotcars-online.com",
-    "slotcarsandtracks.co.uk",
-    "slotcity.co.uk",
-    "slotcranendonck.nl",
-    "slotholding.nl",
-    "slotjunkies-net-online-slot-videos-de-de--14707347.borsan.de",
     "slotocash.im",
     "slotplanet.com",
     "slots.888wetten.de",
@@ -6821,9 +5516,6 @@
     "smarkets.com",
     "smashsportsbetting.com",
     "snabbare.com",
-    "sni.cloudflaressl.com",
-    "sni22069.cloudflaressl.com",
-    "sni221851.cloudflaressl.com",
     "socalsportbook.com",
     "softbet.eu",
     "spartansslots.net",
@@ -6901,7 +5593,6 @@
     "sunbets.co.uk",
     "suomikasino.com",
     "supabets.com.gh",
-    "super-slot-costa-brava-de-de--14707347.borsan.de",
     "super88.club",
     "super8casino.com",
     "superbet.com",
@@ -6920,8 +5611,6 @@
     "sverigekronan.com",
     "swedencasino.com",
     "swedencasino.se",
-    "switchbot-1-slot-download-de-de--612970888.borsan.de",
-    "sws.fhkd.org",
     "synottip.cz",
     "szerencsejatek.hu",
     "szuperlotto.com",
@@ -6933,18 +5622,12 @@
     "tatts.com",
     "templenile.com",
     "tempobet.com",
-    "test.slot---ug.com",
     "texascasino.com",
-    "the-best-casino-slot-machines-de-de--198348263.borsan.de",
-    "the-d-slot-machines-de-de--78007419.kosmetik-stralsund.de",
     "thebetarena.com",
     "thebettingguy.co.uk",
     "thegreek.com",
     "thelotter.com",
-    "third-mahjong--third-mahjong.asia-east1.hosted.app",
     "thrills.com",
-    "thundering-zeus-free-slot-de-de--78007419.kosmetik-stralsund.de",
-    "tiki-torch-slot-machine-download-de-de--338878323.printrepair.de",
     "tipbet.com",
     "tipico.com",
     "tipos.sk",
@@ -6974,12 +5657,9 @@
     "totobet.com",
     "totobet24.com",
     "toxicjackpot.com",
-    "trex-slot-machine-download-de-de--96972621.a-j-a.de",
     "triobet.com",
     "ttr.casino",
     "turbico.com",
-    "u-spin-slot-machines-de-de--5642742.printrepair.de",
-    "uagfe.dhs.arkansas.gov",
     "uberskins.net",
     "ubet.com",
     "ucabet.co",
@@ -6993,9 +5673,7 @@
     "uptownaces.eu",
     "usapriceperhead.com",
     "usbetting.co.za",
-    "v7092.pkidomein.nl",
     "vacasino.com",
-    "vanderslot.nl",
     "vandersports.com",
     "vbet.com",
     "vegas.betway.com",
@@ -7005,12 +5683,9 @@
     "vegascrestcasino.ag",
     "vegashero.com",
     "veikkaus.fi",
-    "velutionbikes.com",
     "verajohn.com",
     "vernons.com",
     "vestabet365.com",
-    "video-slot-machines-for-sale-uk-de-de--72169230.borsan.de",
-    "video-slot-machines-games-free-de-de--281282267.borsan.de",
     "videoslots.com",
     "vierklee.com",
     "vietbet.eu",
@@ -7024,9 +5699,6 @@
     "vitalbet.com",
     "voltbet.com",
     "voodoodreams.com",
-    "vpn.degrootenslot.nl",
-    "vpn.dhs.arkansas.gov",
-    "vpn.slot---ug.com",
     "vulcun.com",
     "vwin.com",
     "wager.dm",
@@ -7037,17 +5709,13 @@
     "wagerup.eu",
     "wagerweb.ag",
     "wagerweb.eu",
-    "wap.macau-slot.com",
     "wazamba.com",
     "webbookmakers.com",
-    "webmail.degrootenslot.nl",
-    "webmail.intragroen.nl",
     "westlotto.de",
     "wettpunkt.com",
     "wgh.ag",
     "whalegaming.co.uk",
     "whitebet.com",
-    "wildcard.online--slot--play.xyz",
     "wildcasino.ag",
     "wildjackpots.com",
     "wildsultan.com",
@@ -7058,7 +5726,6 @@
     "win29.com",
     "win2day.at",
     "winamax.fr",
-    "windows-8-slot-games-de-de--78007419.kosmetik-stralsund.de",
     "winmasters.com",
     "winner.co.uk",
     "winningft.com",
@@ -7071,93 +5738,12 @@
     "worldstar.co.ug",
     "worldwidegamble.com",
     "wunderino.com",
-    "ww1.online--slot--play.xyz",
-    "ww25.xn--pg-slot--vip-r00b8hwcthrc70ake.friendlymobilesites.com",
-    "ww38.xn--slot---1-wpz5fi4cjf4kpc1fup.suckhoetretho.info",
     "wwin.ba",
     "wwin.com",
     "xinweide.com",
-    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org",
-    "xn---pg-slot--uo2a9c4bo0vqf7e.myhotmaxima.com",
-    "xn---pg-slot-auto---2f9bmduob0tsjc8gc26a.troratad.net",
-    "xn---slot--v1t5e0aw6e4bqb2j3fphuf.ukrainian-language.com",
-    "xn--amb-slot--3i2aqima4k4bd3yua4q.ukrainian-language.com",
-    "xn--area-slot--dc5apna8jqe8d5a1ktf6gra.mphp.org",
-    "xn--arne-slot--zc5a4wfe.sevenbet.com",
-    "xn--avenger-slot--us3b2cvnlqc8xng.motoclubalmeria.com",
-    "xn--book-of-shadows-slot--qf6dps3grisgmtqd.sevenbet.com",
-    "xn--g2g1-slot--dc5arc5looc6ttf.kovarstvivalasek.com",
-    "xn--game-slot--xd5auhoczg9byz4d.samsung-android-transfer.com",
-    "xn--gans-slot--dc5arc5looc6ttf.sevenbet.com",
-    "xn--jili-slot---547apk2ca6lobzff9isbh3lpa5omigr.outdooridee.com",
-    "xn--joker-slot--w67a1htc8gpcyzhe.outdooridee.com",
-    "xn--ka-gaming-slot--fh9b6ksa4qzcd58a0a0x.sevenbet.com",
-    "xn--king-slot--1b5a9ma0o0c1lxe4f.archive-iussp.org",
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com",
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com",
-    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com",
-    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com",
-    "xn--mgm-slot---0b5a6lnb8f3a8de71ajfvf.myhotmaxima.com",
-    "xn--n89-slot--188-jt3b7jqa4otcd15aya8u.thehanhle.com",
-    "xn--pg-slot-----t47ab0z6bau1kwcd4hm2dba51cid.outdooridee.com",
-    "xn--pg-slot-----u57apb2nlae2f0e3cde9euq2a3xh6p.garngalleriet.com",
-    "xn--pg-slot---8h2a5a2b8lcm7fyd7cdd5s8cxc1a1yoa.myhotmaxima.com",
-    "xn--pg-slot---xj2a7g0a9a2j6a0af2irqia3l.dcafterfive.com",
-    "xn--pg-slot---xj2a7g0aa1b2jd8a2ah4j4kkfl1n.outdooridee.com",
-    "xn--pg-slot--7oza9dwkktc5g.sevenbet.com",
-    "xn--pg-slot--ctz3aw1isb54amb4i.kowabungaecoproject.com",
-    "xn--pg-slot--goz4jlax3c5g3a8gc8fzn.foodefare.com",
-    "xn--pg-slot--hoz3bj1opa6cyipc6jc8xka2m6a.chirkofff.com",
-    "xn--pg-slot--ltztba8a5dq8n2cxmb3e4dbg8g.dcafterfive.com",
-    "xn--pg-slot--muzuc2bv5stfze.ukrainian-language.com",
-    "xn--pg-slot--n4z.ukrainian-language.com",
-    "xn--pg-slot--poz3b9kymc8q6e.lartocrate.com",
-    "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.beyondtheduel.com",
-    "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.ukrainian-language.com",
-    "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com",
-    "xn--pg-slot--zpztg5b8f2b1xtd.onstarshipsanddragonwings.com",
-    "xn--pg-slot--zpztg5b8f2b1xtd.pages.dev",
-    "xn--pg-slot-888---us3b1cvnlqd8xng.sedonagoldmenus.com",
-    "xn--pg-slot-auto--1v3bymsb8j4h1c.jeffpeel.net",
-    "xn--pg-slot-free--g03b2c6i6a9c2c4x2ed.archive-iussp.org",
-    "xn--pg-slot-in--v57a6ioa4mncd71awa6s.ukrainian-language.com",
-    "xn--pg-slot-to--647auctm1oc0v2f.sevenbet.com",
-    "xn--pp-slot--zpztg5b8f2b1x.vietcargroup.com",
-    "xn--pxj-slot---dc5aqc5lood6ttf.dannewerk.com",
-    "xn--pxj-slot---dc5aqc5lood6ttf.forum-labas.com",
-    "xn--razor-shark-slot--634cyp3foh1f5q7c.softwaredescargas.com",
-    "xn--roma-slot--xd5auhoczg9byz4d.ukrainian-language.com",
-    "xn--shark-pg-slot--om6b5ctokrc2zwg.bravodriver.com",
-    "xn--slot---f1tugj5htbe1tsa0n.soulurns.com",
-    "xn--slot--16q0b6g5e1grgmd.ukrainian-language.com",
-    "xn--slot--16q9hir1b5fay6fc8e3m.sevenbet.com",
-    "xn--slot--27q0exau4d2bub4iufrhmf.outdooridee.com",
-    "xn--slot--27q7eb9aah0a8dqk5d3fzd4mjab5f2c4abg4i.cometapress.com",
-    "xn--slot--27q7esb8esb8u3c.myhotmaxima.com",
-    "xn--slot--27qua43a6g.sevenbet.com",
-    "xn--slot--bbr8ah0jtb8gqf5bzb.chirkofff.com",
-    "xn--slot--hbr5frb2a3x.sweetearthorganicfarm.com",
-    "xn--slot--k7q6fi4gub2mpa0l.reviews-washer-dryer.com",
-    "xn--slot--k7qua5nwc4czfqh6e.motoclubalmeria.com",
-    "xn--slot--pg-wpz3f6a0n3d.sevenbet.com",
-    "xn--slot--tbro2cwbyn3a.php-hispano.net",
-    "xn--slot--wallet-v50b4g8kwg.sweetearthorganicfarm.com",
-    "xn--slot-50--3ozea0qna4l9axdh4k0f3bza9vjb7n.sevenbet.com",
-    "xn--slot-99--7ozuhla4j1bd6wta3p.ukrainian-language.com",
-    "xn--slot-pg----50-it3b7jra5orcf68c.sevenbet.com",
-    "xn--slot-pg--vuz4c2c6b6rqb6cu.chirkofff.com",
-    "xn--slot-true-wallet--q54cpkpd4i7cx3aof.sevenbet.com",
-    "xn--slot-v---76gb9faoc0a6am5dva3a7bxhva.petcbd.io",
-    "xn--slot-v-casino--yn35ai521asa2126a.saindustries.net.in",
-    "xn--slot-web--yj2a7gyg.lartocrate.com",
-    "xn--slot-xo-hacker--xo--8p0dlc6vid4isd8fj9e1hnc4vmc3n.apk.ca",
-    "xn--w69-slot--3i2aqima4k4bd3yua4q.dannewerk.com",
-    "xn--wow-slot---0h5a2g3bzdl9ipexitdc.sevenbet.com",
-    "xn--wow-slot--8h2a7a2skf5i7c4m.newhomesteadersalmanac.com",
     "yabet.com",
     "yakocasino.com",
     "yeticasino.com",
-    "yihao-fun.cyou",
     "yobetit.com",
     "youwager.eu",
     "youwin.com",
@@ -7165,8 +5751,6 @@
     "zenitbet.com",
     "zetpoker.eu",
     "zeturf.fr",
-    "zeus-slot-machine-de-de--469827831.knusperhaeuschen-pogeez.de",
-    "zodiacu.com",
-    "zynga-poker-slot-machine-de-de--175577514.borsan.de"
+    "zodiacu.com"
   ]
 }

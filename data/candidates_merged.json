@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-12T18:43:24.507154Z",
-  "candidate_count": 1446,
+  "timestamp": "2026-04-12T21:32:43.009971Z",
+  "candidate_count": 1443,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-12T18:44:32.736612Z"
+      "timestamp": "2026-04-12T21:33:52.388186Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-12T18:44:34.135864Z"
+      "timestamp": "2026-04-12T21:33:53.858390Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-12T18:44:34.601224Z"
+      "timestamp": "2026-04-12T21:33:54.224512Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-12T18:44:41.362137Z"
+      "timestamp": "2026-04-12T21:34:02.533296Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-12T18:45:15.990643Z"
+      "timestamp": "2026-04-12T21:34:40.602030Z"
     },
     "certificate_transparency": {
-      "count": 18,
+      "count": 15,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-12T18:45:22.899440Z"
+      "timestamp": "2026-04-12T21:34:54.648645Z"
     }
   },
   "domain_sources": {
@@ -258,12 +258,6 @@
     ],
     "americascardroom.eu": [
       "curated_gambling_feeds"
-    ],
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
-      "certificate_transparency"
-    ],
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
-      "certificate_transparency"
     ],
     "anonibet.com": [
       "curated_gambling_feeds"
@@ -1165,6 +1159,9 @@
     "chisholmbet.com": [
       "curated_gambling_feeds"
     ],
+    "cibolocreekquiltersguild.com": [
+      "certificate_transparency"
+    ],
     "circlebet.com": [
       "curated_gambling_feeds"
     ],
@@ -1735,9 +1732,6 @@
     "faboom.com": [
       "curated_gambling_feeds"
     ],
-    "facwbgoogle.com": [
-      "certificate_transparency"
-    ],
     "falconbet.com": [
       "curated_gambling_feeds"
     ],
@@ -2250,6 +2244,12 @@
     ],
     "jojobet.com": [
       "curated_gambling_feeds"
+    ],
+    "judi-slot--bankjago.shamrockcolony.com": [
+      "certificate_transparency"
+    ],
+    "judiboisson.com": [
+      "certificate_transparency"
     ],
     "juegos.loteriasyapuestas.es": [
       "curated_gambling_feeds"
@@ -3589,15 +3589,6 @@
     "slbet.com": [
       "curated_gambling_feeds"
     ],
-    "slot-gacor--4d.themeadow.com": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--maxwin.ahlemeyewear.com": [
-      "certificate_transparency"
-    ],
     "slotocash.im": [
       "curated_gambling_feeds"
     ],
@@ -4449,8 +4440,6 @@
     "americanfootballbetting.com",
     "americasbookie.com",
     "americascardroom.eu",
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "anonibet.com",
     "apollobet.com",
     "app.hkmahjong.com.hk",
@@ -4751,6 +4740,7 @@
     "cherryjackpot.com",
     "chinesebookie.eu",
     "chisholmbet.com",
+    "cibolocreekquiltersguild.com",
     "circlebet.com",
     "circusbingo.com",
     "citybingo.com",
@@ -4941,7 +4931,6 @@
     "ezstreetsports.com",
     "faber.de",
     "faboom.com",
-    "facwbgoogle.com",
     "falconbet.com",
     "fan2play.com",
     "fancode.com",
@@ -5113,6 +5102,8 @@
     "join.casino.com",
     "joinbet.eu",
     "jojobet.com",
+    "judi-slot--bankjago.shamrockcolony.com",
+    "judiboisson.com",
     "juegos.loteriasyapuestas.es",
     "juicystakes.eu",
     "jumbabet.com",
@@ -5559,9 +5550,6 @@
     "skybook.ag",
     "skytowersportsbook.com",
     "slbet.com",
-    "slot-gacor--4d.themeadow.com",
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
-    "slot-gacor--maxwin.ahlemeyewear.com",
     "slotocash.im",
     "slotplanet.com",
     "slots.888wetten.de",

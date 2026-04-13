@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-13T19:13:57.577060Z",
+  "timestamp": "2026-04-13T21:47:36.677862Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 4,
-  "time_seconds": 43.659,
+  "time_seconds": 46.654,
   "domains": [
     "amazon-clone-ivory-beta.vercel.app",
     "booking-clone-beta.vercel.app",

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-13T10:44:32.377334Z",
-  "candidate_count": 1428,
+  "timestamp": "2026-04-13T13:21:03.423881Z",
+  "candidate_count": 1432,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-13T10:45:47.340829Z"
+      "timestamp": "2026-04-13T13:22:21.154117Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-13T10:45:48.744573Z"
+      "timestamp": "2026-04-13T13:22:22.372098Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-13T10:45:52.645566Z"
-    },
-    "government_scanning": {
-      "count": 0,
-      "file": "data/candidates_c.json",
-      "timestamp": "2026-04-13T10:45:56.690182Z"
+      "timestamp": "2026-04-13T13:22:22.868300Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-13T10:46:30.723384Z"
+      "timestamp": "2026-04-13T13:22:55.212788Z"
+    },
+    "government_scanning": {
+      "count": 0,
+      "file": "data/candidates_c.json",
+      "timestamp": "2026-04-13T13:23:46.166105Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 4,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-13T10:46:33.821354Z"
+      "timestamp": "2026-04-13T13:31:00.528000Z"
     }
   },
   "domain_sources": {
@@ -246,6 +246,9 @@
     ],
     "alphadraft.com": [
       "curated_gambling_feeds"
+    ],
+    "amazon-clone-ivory-beta.vercel.app": [
+      "platform_abuse_sweep"
     ],
     "amcleanbookmakers.com": [
       "curated_gambling_feeds"
@@ -906,6 +909,9 @@
     ],
     "bookies.com.au": [
       "curated_gambling_feeds"
+    ],
+    "booking-clone-beta.vercel.app": [
+      "platform_abuse_sweep"
     ],
     "bookmaker.com.au": [
       "curated_gambling_feeds"
@@ -1596,6 +1602,9 @@
     ],
     "e-stave.com": [
       "curated_gambling_feeds"
+    ],
+    "easy-bank-beta.vercel.app": [
+      "platform_abuse_sweep"
     ],
     "easytowager.com": [
       "curated_gambling_feeds"
@@ -4282,6 +4291,9 @@
     "wwin.com": [
       "curated_gambling_feeds"
     ],
+    "wwwdd.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "xinweide.com": [
       "curated_gambling_feeds"
     ],
@@ -4391,6 +4403,7 @@
     "allyoubet.ag",
     "alohasportsbook.com",
     "alphadraft.com",
+    "amazon-clone-ivory-beta.vercel.app",
     "amcleanbookmakers.com",
     "americanfootballbetting.com",
     "americasbookie.com",
@@ -4611,6 +4624,7 @@
     "bombaybets.eu",
     "book247.eu",
     "bookies.com.au",
+    "booking-clone-beta.vercel.app",
     "bookmaker.com.au",
     "bookmaker.eu",
     "bookmaker7.com",
@@ -4841,6 +4855,7 @@
     "e-loterie.ma",
     "e-lotto.be",
     "e-stave.com",
+    "easy-bank-beta.vercel.app",
     "easytowager.com",
     "ebetusa.com",
     "eccobet.com",
@@ -5736,6 +5751,7 @@
     "wunderino.com",
     "wwin.ba",
     "wwin.com",
+    "wwwdd.vercel.app",
     "xinweide.com",
     "yabet.com",
     "yakocasino.com",

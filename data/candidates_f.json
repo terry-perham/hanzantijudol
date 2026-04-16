@@ -1,14 +1,11 @@
 {
-  "timestamp": "2026-04-15T21:52:05.269959Z",
+  "timestamp": "2026-04-16T02:27:40.180200Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 4,
-  "time_seconds": 43.645,
+  "candidate_count": 1,
+  "time_seconds": 46.091,
   "domains": [
-    "dwjao7388g6bysaud3465w7ayvwd73698adfbiu.pages.dev",
-    "netflix-clone-mauve-beta.vercel.app",
-    "netflix-clone-ruby-beta.vercel.app",
-    "netflix-clone-taupe-beta.vercel.app"
+    "netflix-clone-mauve-beta.vercel.app"
   ]
 }

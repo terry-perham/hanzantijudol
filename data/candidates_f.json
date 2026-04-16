@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-16T07:30:31.981530Z",
+  "timestamp": "2026-04-16T10:16:48.079030Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 45.766,
+  "time_seconds": 46.043,
   "domains": [
     "netflix-clone-mauve-beta.vercel.app"
   ]

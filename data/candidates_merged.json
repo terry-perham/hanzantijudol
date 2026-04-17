@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-16T21:41:05.588834Z",
-  "candidate_count": 1431,
+  "timestamp": "2026-04-17T02:13:17.244265Z",
+  "candidate_count": 1438,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-16T21:42:24.612633Z"
+      "timestamp": "2026-04-17T02:14:36.349601Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-16T21:42:26.032960Z"
+      "timestamp": "2026-04-17T02:14:37.567466Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-16T21:42:26.463634Z"
+      "timestamp": "2026-04-17T02:14:41.846393Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-16T21:42:34.272011Z"
+      "timestamp": "2026-04-17T02:14:45.097373Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-16T21:43:10.591158Z"
+      "timestamp": "2026-04-17T02:15:20.556926Z"
     },
     "certificate_transparency": {
-      "count": 3,
+      "count": 10,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-16T21:43:27.474790Z"
+      "timestamp": "2026-04-17T02:15:39.993238Z"
     }
   },
   "domain_sources": {
@@ -258,6 +258,12 @@
     ],
     "americascardroom.eu": [
       "curated_gambling_feeds"
+    ],
+    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
+      "certificate_transparency"
+    ],
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
+      "certificate_transparency"
     ],
     "anonibet.com": [
       "curated_gambling_feeds"
@@ -1728,6 +1734,9 @@
     ],
     "faboom.com": [
       "curated_gambling_feeds"
+    ],
+    "facwbgoogle.com": [
+      "certificate_transparency"
     ],
     "falconbet.com": [
       "curated_gambling_feeds"
@@ -3571,6 +3580,18 @@
     "slbet.com": [
       "curated_gambling_feeds"
     ],
+    "slot-gacor--4d.themeadow.com": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--camar4444.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--maxwin.ahlemeyewear.com": [
+      "certificate_transparency"
+    ],
     "slotocash.im": [
       "curated_gambling_feeds"
     ],
@@ -4404,6 +4425,8 @@
     "americanfootballbetting.com",
     "americasbookie.com",
     "americascardroom.eu",
+    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "anonibet.com",
     "apollobet.com",
     "arena-bet.com",
@@ -4894,6 +4917,7 @@
     "ezstreetsports.com",
     "faber.de",
     "faboom.com",
+    "facwbgoogle.com",
     "falconbet.com",
     "fan2play.com",
     "fancode.com",
@@ -5508,6 +5532,10 @@
     "skybook.ag",
     "skytowersportsbook.com",
     "slbet.com",
+    "slot-gacor--4d.themeadow.com",
+    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
+    "slot-gacor--camar4444.pages.dev",
+    "slot-gacor--maxwin.ahlemeyewear.com",
     "slotocash.im",
     "slotplanet.com",
     "slots.888wetten.de",

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-17T18:58:59.262479Z",
+  "timestamp": "2026-04-17T21:42:39.432829Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 43.54,
+  "time_seconds": 46.511,
   "domains": [
     "tashmakhanbetmadiyar-cmd.github.io"
   ]

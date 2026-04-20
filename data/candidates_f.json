@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-04-20T10:48:30.020824Z",
+  "timestamp": "2026-04-20T13:26:21.986776Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 44.667,
-  "domains": []
+  "candidate_count": 1,
+  "time_seconds": 44.675,
+  "domains": [
+    "elizabethjame20.github.io"
+  ]
 }

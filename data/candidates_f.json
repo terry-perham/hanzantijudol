@@ -1,12 +1,11 @@
 {
-  "timestamp": "2026-04-22T21:51:35.376449Z",
+  "timestamp": "2026-04-23T02:26:30.799315Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 43.257,
+  "candidate_count": 1,
+  "time_seconds": 43.792,
   "domains": [
-    "netflix-clone-gold-beta.vercel.app",
-    "wbv-poderjudicial-ni.netlify.app"
+    "dashboard-web-beta.vercel.app"
   ]
 }

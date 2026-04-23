@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-22T21:49:40.850134Z",
-  "candidate_count": 1430,
+  "timestamp": "2026-04-23T02:24:29.439206Z",
+  "candidate_count": 1429,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-22T21:50:52.096649Z"
+      "timestamp": "2026-04-23T02:25:46.984299Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-22T21:50:53.263229Z"
+      "timestamp": "2026-04-23T02:25:48.156227Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-22T21:50:53.937316Z"
+      "timestamp": "2026-04-23T02:25:48.837940Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-22T21:51:00.739752Z"
+      "timestamp": "2026-04-23T02:25:56.494749Z"
     },
     "platform_abuse_sweep": {
-      "count": 2,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-22T21:51:35.376996Z"
+      "timestamp": "2026-04-23T02:26:30.799831Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-22T21:51:59.471916Z"
+      "timestamp": "2026-04-23T02:27:05.138021Z"
     }
   },
   "domain_sources": {
@@ -1492,6 +1492,9 @@
     "dashbet.com": [
       "curated_gambling_feeds"
     ],
+    "dashboard-web-beta.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "dccasino.com": [
       "curated_gambling_feeds"
     ],
@@ -2935,9 +2938,6 @@
     "netbet.fr": [
       "curated_gambling_feeds"
     ],
-    "netflix-clone-gold-beta.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "neverfelted.eu": [
       "curated_gambling_feeds"
     ],
@@ -4195,9 +4195,6 @@
     "wazamba.com": [
       "curated_gambling_feeds"
     ],
-    "wbv-poderjudicial-ni.netlify.app": [
-      "platform_abuse_sweep"
-    ],
     "webbookmakers.com": [
       "curated_gambling_feeds"
     ],
@@ -4812,6 +4809,7 @@
     "danskespil.dk",
     "dantoto.dk",
     "dashbet.com",
+    "dashboard-web-beta.vercel.app",
     "dccasino.com",
     "de.888casino.com",
     "dealerscasino.com",
@@ -5293,7 +5291,6 @@
     "netbet.com",
     "netbet.de",
     "netbet.fr",
-    "netflix-clone-gold-beta.vercel.app",
     "neverfelted.eu",
     "nextcasino.com",
     "nightrush.com",
@@ -5713,7 +5710,6 @@
     "wagerweb.ag",
     "wagerweb.eu",
     "wazamba.com",
-    "wbv-poderjudicial-ni.netlify.app",
     "webbookmakers.com",
     "westlotto.de",
     "wettpunkt.com",

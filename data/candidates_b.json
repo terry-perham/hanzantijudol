@@ -1,16 +1,8 @@
 {
-  "timestamp": "2026-04-23T05:30:40.265950Z",
+  "timestamp": "2026-04-23T07:48:59.745694Z",
   "method": "certificate_transparency",
   "keywords_searched": 5,
-  "candidate_count": 7,
-  "time_seconds": 26.272,
-  "domains": [
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
-    "facwbgoogle.com",
-    "slot-gacor--4d.themeadow.com",
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
-    "slot-gacor--camar4444.pages.dev",
-    "slot-gacor--maxwin.ahlemeyewear.com"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 6.409,
+  "domains": []
 }

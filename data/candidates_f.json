@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-24T08:01:34.975678Z",
+  "timestamp": "2026-04-24T10:22:11.597950Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 46.151,
+  "time_seconds": 48.38,
   "domains": [
     "netflix-clone-coral-beta.vercel.app",
     "rainbow-sorbet-5f5e08.netlify.app"

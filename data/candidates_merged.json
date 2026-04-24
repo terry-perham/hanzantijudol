@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-23T21:43:53.412030Z",
-  "candidate_count": 1431,
+  "timestamp": "2026-04-24T02:24:56.157777Z",
+  "candidate_count": 1430,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-23T21:45:12.459608Z"
+      "timestamp": "2026-04-24T02:26:07.985744Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-23T21:45:13.857407Z"
+      "timestamp": "2026-04-24T02:26:09.230907Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-23T21:45:14.269999Z"
+      "timestamp": "2026-04-24T02:26:09.850888Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-23T21:45:19.539588Z"
+      "timestamp": "2026-04-24T02:26:14.601047Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-23T21:45:21.659767Z"
+      "timestamp": "2026-04-24T02:26:17.248699Z"
     },
     "platform_abuse_sweep": {
-      "count": 3,
+      "count": 2,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-23T21:45:55.504534Z"
+      "timestamp": "2026-04-24T02:26:51.028264Z"
     }
   },
   "domain_sources": {
@@ -2938,12 +2938,6 @@
     "netflix-clone-coral-beta.vercel.app": [
       "platform_abuse_sweep"
     ],
-    "netflix-clone-jade-beta.vercel.app": [
-      "platform_abuse_sweep"
-    ],
-    "netflix-clone-navy-beta.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "neverfelted.eu": [
       "curated_gambling_feeds"
     ],
@@ -3351,6 +3345,9 @@
     ],
     "racebets.com": [
       "curated_gambling_feeds"
+    ],
+    "rainbow-sorbet-5f5e08.netlify.app": [
+      "platform_abuse_sweep"
     ],
     "raj.bet": [
       "curated_gambling_feeds"
@@ -5297,8 +5294,6 @@
     "netbet.de",
     "netbet.fr",
     "netflix-clone-coral-beta.vercel.app",
-    "netflix-clone-jade-beta.vercel.app",
-    "netflix-clone-navy-beta.vercel.app",
     "neverfelted.eu",
     "nextcasino.com",
     "nightrush.com",
@@ -5435,6 +5430,7 @@
     "purewin.com",
     "queenvegas.com",
     "racebets.com",
+    "rainbow-sorbet-5f5e08.netlify.app",
     "raj.bet",
     "rajabets.com",
     "rajabets.xyz",

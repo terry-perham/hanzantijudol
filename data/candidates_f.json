@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-25T07:13:17.181956Z",
+  "timestamp": "2026-04-25T09:53:19.161222Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 3,
-  "time_seconds": 43.274,
+  "time_seconds": 44.485,
   "domains": [
     "adrishikharchowdhury.github.io",
     "amazon-clone-ivory-beta.vercel.app",

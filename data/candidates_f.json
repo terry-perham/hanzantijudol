@@ -1,9 +1,13 @@
 {
-  "timestamp": "2026-04-24T21:46:44.705684Z",
+  "timestamp": "2026-04-25T02:08:43.827411Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 44.042,
-  "domains": []
+  "candidate_count": 3,
+  "time_seconds": 46.337,
+  "domains": [
+    "adrishikharchowdhury.github.io",
+    "amazon-clone-ivory-beta.vercel.app",
+    "netflix-clone-beta-sand.vercel.app"
+  ]
 }

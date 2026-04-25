@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-25T09:51:15.733351Z",
-  "candidate_count": 1431,
+  "timestamp": "2026-04-25T12:58:53.476258Z",
+  "candidate_count": 1435,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-25T09:52:34.653783Z"
+      "timestamp": "2026-04-25T13:00:09.154772Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-25T09:52:36.026988Z"
+      "timestamp": "2026-04-25T13:00:10.498946Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-25T09:52:36.399392Z"
+      "timestamp": "2026-04-25T13:00:10.882405Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-25T09:52:44.154426Z"
+      "timestamp": "2026-04-25T13:00:18.338278Z"
     },
     "certificate_transparency": {
-      "count": 0,
+      "count": 7,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-25T09:52:56.388596Z"
+      "timestamp": "2026-04-25T13:00:45.309772Z"
     },
     "platform_abuse_sweep": {
-      "count": 3,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-25T09:53:19.161802Z"
+      "timestamp": "2026-04-25T13:00:54.225495Z"
     }
   },
   "domain_sources": {
@@ -214,9 +214,6 @@
     "admiralspot.com": [
       "curated_gambling_feeds"
     ],
-    "adrishikharchowdhury.github.io": [
-      "platform_abuse_sweep"
-    ],
     "agentspinner.com": [
       "curated_gambling_feeds"
     ],
@@ -250,9 +247,6 @@
     "alphadraft.com": [
       "curated_gambling_feeds"
     ],
-    "amazon-clone-ivory-beta.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "amcleanbookmakers.com": [
       "curated_gambling_feeds"
     ],
@@ -264,6 +258,12 @@
     ],
     "americascardroom.eu": [
       "curated_gambling_feeds"
+    ],
+    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
+      "certificate_transparency"
+    ],
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
+      "certificate_transparency"
     ],
     "anonibet.com": [
       "curated_gambling_feeds"
@@ -1732,6 +1732,9 @@
     "faboom.com": [
       "curated_gambling_feeds"
     ],
+    "facwbgoogle.com": [
+      "certificate_transparency"
+    ],
     "falconbet.com": [
       "curated_gambling_feeds"
     ],
@@ -2941,9 +2944,6 @@
     "netbet.fr": [
       "curated_gambling_feeds"
     ],
-    "netflix-clone-beta-sand.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "neverfelted.eu": [
       "curated_gambling_feeds"
     ],
@@ -3570,6 +3570,18 @@
     ],
     "slbet.com": [
       "curated_gambling_feeds"
+    ],
+    "slot-gacor--4d.themeadow.com": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--camar4444.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--maxwin.ahlemeyewear.com": [
+      "certificate_transparency"
     ],
     "slotocash.im": [
       "curated_gambling_feeds"
@@ -4389,7 +4401,6 @@
     "adda.games",
     "adjarabet.com",
     "admiralspot.com",
-    "adrishikharchowdhury.github.io",
     "agentspinner.com",
     "ahacasino.com",
     "ahtigames.com",
@@ -4401,11 +4412,12 @@
     "allyoubet.ag",
     "alohasportsbook.com",
     "alphadraft.com",
-    "amazon-clone-ivory-beta.vercel.app",
     "amcleanbookmakers.com",
     "americanfootballbetting.com",
     "americasbookie.com",
     "americascardroom.eu",
+    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "anonibet.com",
     "apollobet.com",
     "arena-bet.com",
@@ -4895,6 +4907,7 @@
     "ezstreetsports.com",
     "faber.de",
     "faboom.com",
+    "facwbgoogle.com",
     "falconbet.com",
     "fan2play.com",
     "fancode.com",
@@ -5298,7 +5311,6 @@
     "netbet.com",
     "netbet.de",
     "netbet.fr",
-    "netflix-clone-beta-sand.vercel.app",
     "neverfelted.eu",
     "nextcasino.com",
     "nightrush.com",
@@ -5508,6 +5520,10 @@
     "skybook.ag",
     "skytowersportsbook.com",
     "slbet.com",
+    "slot-gacor--4d.themeadow.com",
+    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
+    "slot-gacor--camar4444.pages.dev",
+    "slot-gacor--maxwin.ahlemeyewear.com",
     "slotocash.im",
     "slotplanet.com",
     "slots.888wetten.de",

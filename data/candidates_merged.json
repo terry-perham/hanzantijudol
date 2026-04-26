@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-25T21:34:53.665203Z",
-  "candidate_count": 1428,
+  "timestamp": "2026-04-26T02:28:46.935897Z",
+  "candidate_count": 1430,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-25T21:36:07.522963Z"
+      "timestamp": "2026-04-26T02:30:09.481166Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-25T21:36:08.770142Z"
+      "timestamp": "2026-04-26T02:30:10.681564Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-25T21:36:09.247895Z"
+      "timestamp": "2026-04-26T02:30:11.232947Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-25T21:36:14.038763Z"
+      "timestamp": "2026-04-26T02:30:16.228698Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-25T21:36:16.305267Z"
+      "timestamp": "2026-04-26T02:30:19.090914Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 2,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-25T21:36:51.626420Z"
+      "timestamp": "2026-04-26T02:30:53.330815Z"
     }
   },
   "domain_sources": {
@@ -246,6 +246,9 @@
     ],
     "alphadraft.com": [
       "curated_gambling_feeds"
+    ],
+    "amazon-homepage-clone-beta.vercel.app": [
+      "platform_abuse_sweep"
     ],
     "amcleanbookmakers.com": [
       "curated_gambling_feeds"
@@ -2935,6 +2938,9 @@
     "netbet.fr": [
       "curated_gambling_feeds"
     ],
+    "netflix-clone-beta-taupe.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "neverfelted.eu": [
       "curated_gambling_feeds"
     ],
@@ -4391,6 +4397,7 @@
     "allyoubet.ag",
     "alohasportsbook.com",
     "alphadraft.com",
+    "amazon-homepage-clone-beta.vercel.app",
     "amcleanbookmakers.com",
     "americanfootballbetting.com",
     "americasbookie.com",
@@ -5287,6 +5294,7 @@
     "netbet.com",
     "netbet.de",
     "netbet.fr",
+    "netflix-clone-beta-taupe.vercel.app",
     "neverfelted.eu",
     "nextcasino.com",
     "nightrush.com",

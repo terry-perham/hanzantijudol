@@ -1,9 +1,12 @@
 {
-  "timestamp": "2026-04-27T11:03:35.155849Z",
+  "timestamp": "2026-04-27T13:48:34.738657Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 46.253,
-  "domains": []
+  "candidate_count": 2,
+  "time_seconds": 43.284,
+  "domains": [
+    "netflix-clone-beta-sand.vercel.app",
+    "project-beta-topaz-83.vercel.app"
+  ]
 }

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-27T11:01:33.308703Z",
-  "candidate_count": 1428,
+  "timestamp": "2026-04-27T13:46:37.790353Z",
+  "candidate_count": 1430,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-27T11:02:48.879837Z"
+      "timestamp": "2026-04-27T13:47:51.432488Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-27T11:02:50.288226Z"
+      "timestamp": "2026-04-27T13:47:52.654782Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-27T11:02:50.678339Z"
+      "timestamp": "2026-04-27T13:47:53.232037Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-27T11:02:55.809191Z"
+      "timestamp": "2026-04-27T13:47:57.747157Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-27T11:02:58.365655Z"
+      "timestamp": "2026-04-27T13:48:00.786886Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 2,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-27T11:03:35.156355Z"
+      "timestamp": "2026-04-27T13:48:34.739216Z"
     }
   },
   "domain_sources": {
@@ -2935,6 +2935,9 @@
     "netbet.fr": [
       "curated_gambling_feeds"
     ],
+    "netflix-clone-beta-sand.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "neverfelted.eu": [
       "curated_gambling_feeds"
     ],
@@ -3294,6 +3297,9 @@
     ],
     "pro-factory.com": [
       "curated_gambling_feeds"
+    ],
+    "project-beta-topaz-83.vercel.app": [
+      "platform_abuse_sweep"
     ],
     "proline.ca": [
       "curated_gambling_feeds"
@@ -5287,6 +5293,7 @@
     "netbet.com",
     "netbet.de",
     "netbet.fr",
+    "netflix-clone-beta-sand.vercel.app",
     "neverfelted.eu",
     "nextcasino.com",
     "nightrush.com",
@@ -5407,6 +5414,7 @@
     "primedice.com",
     "primeslots.com",
     "pro-factory.com",
+    "project-beta-topaz-83.vercel.app",
     "proline.ca",
     "promo.casinoroom.com",
     "promo.ladbrokes.com",

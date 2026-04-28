@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-28T02:40:35.044276Z",
+  "timestamp": "2026-04-28T05:59:21.938596Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 44.106,
+  "time_seconds": 43.198,
   "domains": [
     "instagram-clone-beta-three.vercel.app",
     "wwwdd.vercel.app"

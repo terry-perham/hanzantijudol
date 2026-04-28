@@ -1,12 +1,11 @@
 {
-  "timestamp": "2026-04-28T11:05:17.580060Z",
+  "timestamp": "2026-04-28T16:52:09.357306Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 42.797,
+  "candidate_count": 1,
+  "time_seconds": 43.429,
   "domains": [
-    "instagram-clone-beta-three.vercel.app",
-    "wwwdd.vercel.app"
+    "project-beta-topaz-83.vercel.app"
   ]
 }

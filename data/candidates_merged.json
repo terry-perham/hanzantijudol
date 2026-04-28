@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-04-27T21:56:07.778392Z",
+  "timestamp": "2026-04-28T02:38:38.950444Z",
   "candidate_count": 1433,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-04-27T21:57:31.780113Z"
+      "timestamp": "2026-04-28T02:39:50.915834Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-04-27T21:57:32.970745Z"
+      "timestamp": "2026-04-28T02:39:52.105390Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-04-27T21:57:33.556205Z"
+      "timestamp": "2026-04-28T02:39:52.658816Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-04-27T21:57:40.679475Z"
+      "timestamp": "2026-04-28T02:39:59.830017Z"
     },
     "platform_abuse_sweep": {
       "count": 2,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-04-27T21:58:15.969266Z"
+      "timestamp": "2026-04-28T02:40:35.044783Z"
     },
     "certificate_transparency": {
       "count": 3,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-04-27T21:58:29.337048Z"
+      "timestamp": "2026-04-28T02:41:11.784772Z"
     }
   },
   "domain_sources": {
@@ -2137,6 +2137,9 @@
     "instacasino.com": [
       "curated_gambling_feeds"
     ],
+    "instagram-clone-beta-three.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "instantactionsports.com": [
       "curated_gambling_feeds"
     ],
@@ -2944,9 +2947,6 @@
     "netbet.fr": [
       "curated_gambling_feeds"
     ],
-    "netflix-clone-beta-sand.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "neverfelted.eu": [
       "curated_gambling_feeds"
     ],
@@ -3306,9 +3306,6 @@
     ],
     "pro-factory.com": [
       "curated_gambling_feeds"
-    ],
-    "project-beta-topaz-83.vercel.app": [
-      "platform_abuse_sweep"
     ],
     "proline.ca": [
       "curated_gambling_feeds"
@@ -4297,6 +4294,9 @@
     "wwin.com": [
       "curated_gambling_feeds"
     ],
+    "wwwdd.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "xinweide.com": [
       "curated_gambling_feeds"
     ],
@@ -5036,6 +5036,7 @@
     "indycasino.com",
     "infinitybet.com",
     "instacasino.com",
+    "instagram-clone-beta-three.vercel.app",
     "instantactionsports.com",
     "interapostas.com",
     "interbet.co.za",
@@ -5305,7 +5306,6 @@
     "netbet.com",
     "netbet.de",
     "netbet.fr",
-    "netflix-clone-beta-sand.vercel.app",
     "neverfelted.eu",
     "nextcasino.com",
     "nightrush.com",
@@ -5426,7 +5426,6 @@
     "primedice.com",
     "primeslots.com",
     "pro-factory.com",
-    "project-beta-topaz-83.vercel.app",
     "proline.ca",
     "promo.casinoroom.com",
     "promo.ladbrokes.com",
@@ -5756,6 +5755,7 @@
     "wunderino.com",
     "wwin.ba",
     "wwin.com",
+    "wwwdd.vercel.app",
     "xinweide.com",
     "yabet.com",
     "yakocasino.com",

@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-04-29T16:29:45.314296Z",
+  "timestamp": "2026-04-29T19:23:13.258321Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 0,
-  "time_seconds": 45.702,
+  "time_seconds": 45.945,
   "domains": []
 }

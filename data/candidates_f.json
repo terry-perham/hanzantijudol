@@ -1,13 +1,9 @@
 {
-  "timestamp": "2026-04-29T10:56:43.369075Z",
+  "timestamp": "2026-04-29T13:52:19.437392Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 3,
-  "time_seconds": 44.146,
-  "domains": [
-    "netflix-clone-gray-beta.vercel.app",
-    "netflix-clone-navy-beta.vercel.app",
-    "sameeraliwd739.github.io"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 45.912,
+  "domains": []
 }

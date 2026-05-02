@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-05-02T10:00:05.503018Z",
+  "timestamp": "2026-05-02T13:06:36.276796Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 46.444,
-  "domains": []
+  "candidate_count": 1,
+  "time_seconds": 45.822,
+  "domains": [
+    "netflix-clone-steel-beta.vercel.app"
+  ]
 }

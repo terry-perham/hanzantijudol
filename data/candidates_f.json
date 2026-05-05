@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-05T05:43:15.334501Z",
+  "timestamp": "2026-05-05T08:07:35.635272Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 44.912,
+  "time_seconds": 46.378,
   "domains": [
     "netflixclone-beta-nine.vercel.app",
     "whatsaptasohbettt.netlify.app"

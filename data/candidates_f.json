@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-06T02:36:19.747693Z",
+  "timestamp": "2026-05-06T05:57:34.052504Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 43.349,
+  "time_seconds": 43.376,
   "domains": [
     "amazon-clone-tzewdu-581109.netlify.app",
     "dwjao7388g6bysaud3465w7ayvwd73698adfbiu.pages.dev"

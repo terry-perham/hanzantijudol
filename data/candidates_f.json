@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-05-06T11:07:09.381376Z",
+  "timestamp": "2026-05-06T14:04:22.109782Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 48.313,
+  "time_seconds": 45.775,
   "domains": [
-    "amazon-clone-tzewdu-581109.netlify.app",
-    "dwjao7388g6bysaud3465w7ayvwd73698adfbiu.pages.dev"
+    "netflix-clone-puce-beta.vercel.app",
+    "newdapp-swap.netlify.app"
   ]
 }

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-05-06T21:55:07.825967Z",
-  "candidate_count": 1430,
+  "timestamp": "2026-05-07T02:37:42.780917Z",
+  "candidate_count": 1428,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-05-06T21:56:21.942227Z"
+      "timestamp": "2026-05-07T02:39:00.377822Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-05-06T21:56:23.149370Z"
+      "timestamp": "2026-05-07T02:39:02.008327Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-05-06T21:56:23.674664Z"
-    },
-    "certificate_transparency": {
-      "count": 0,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-05-06T21:56:28.357619Z"
+      "timestamp": "2026-05-07T02:39:02.148190Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-05-06T21:56:30.832326Z"
+      "timestamp": "2026-05-07T02:39:10.128266Z"
     },
     "platform_abuse_sweep": {
-      "count": 2,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-05-06T21:57:06.225425Z"
+      "timestamp": "2026-05-07T02:39:46.225108Z"
+    },
+    "certificate_transparency": {
+      "count": 0,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-05-07T02:40:00.386964Z"
     }
   },
   "domain_sources": {
@@ -2935,14 +2935,8 @@
     "netbet.fr": [
       "curated_gambling_feeds"
     ],
-    "netflix-clone-puce-beta.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "neverfelted.eu": [
       "curated_gambling_feeds"
-    ],
-    "newdapp-swap.netlify.app": [
-      "platform_abuse_sweep"
     ],
     "nextcasino.com": [
       "curated_gambling_feeds"
@@ -5293,9 +5287,7 @@
     "netbet.com",
     "netbet.de",
     "netbet.fr",
-    "netflix-clone-puce-beta.vercel.app",
     "neverfelted.eu",
-    "newdapp-swap.netlify.app",
     "nextcasino.com",
     "nightrush.com",
     "nightwoodbookmakers.co.uk",

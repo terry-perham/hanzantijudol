@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-07T16:50:34.112502Z",
+  "timestamp": "2026-05-07T19:43:15.448986Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 46.362,
+  "time_seconds": 44.908,
   "domains": [
     "signdocs-beta.vercel.app"
   ]

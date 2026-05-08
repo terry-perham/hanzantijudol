@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T13:28:10.454869Z",
+  "timestamp": "2026-05-08T16:13:51.161197Z",
   "method": "curated_gambling_feeds",
   "source_count": 3,
   "source_yield": {
@@ -8,7 +8,7 @@
     "hagezi_gambling_domains": 0
   },
   "candidate_count": 1428,
-  "time_seconds": 1.365,
+  "time_seconds": 1.184,
   "domains": [
     "10bet.co.uk",
     "10bet.com",

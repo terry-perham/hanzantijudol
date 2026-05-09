@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-05-08T22:00:09.265047Z",
+  "timestamp": "2026-05-09T02:38:15.704315Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 44.944,
-  "domains": []
+  "candidate_count": 1,
+  "time_seconds": 48.875,
+  "domains": [
+    "easy-bank-beta.vercel.app"
+  ]
 }

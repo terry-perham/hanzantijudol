@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-09T10:06:34.604628Z",
+  "timestamp": "2026-05-09T13:13:01.986433Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 44.435,
+  "time_seconds": 43.12,
   "domains": [
-    "easy-bank-beta.vercel.app"
+    "netflix-clone-gold-beta.vercel.app"
   ]
 }

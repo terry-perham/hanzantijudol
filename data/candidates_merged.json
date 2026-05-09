@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-05-09T02:36:14.807800Z",
-  "candidate_count": 1819,
+  "timestamp": "2026-05-09T05:47:10.092522Z",
+  "candidate_count": 2020,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-05-09T02:37:26.806637Z"
+      "timestamp": "2026-05-09T05:48:23.929451Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-05-09T02:37:28.197441Z"
+      "timestamp": "2026-05-09T05:48:25.149649Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-05-09T02:37:28.680768Z"
+      "timestamp": "2026-05-09T05:48:25.649654Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-05-09T02:37:37.013609Z"
+      "timestamp": "2026-05-09T05:48:33.528669Z"
+    },
+    "certificate_transparency": {
+      "count": 599,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-05-09T05:48:58.343726Z"
     },
     "platform_abuse_sweep": {
       "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-05-09T02:38:15.704814Z"
-    },
-    "certificate_transparency": {
-      "count": 392,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-05-09T02:38:21.093229Z"
+      "timestamp": "2026-05-09T05:49:07.724466Z"
     }
   },
   "domain_sources": {
@@ -58,6 +58,12 @@
     "138.com": [
       "curated_gambling_feeds"
     ],
+    "150poker.com": [
+      "certificate_transparency"
+    ],
+    "168sbobetthai.com": [
+      "certificate_transparency"
+    ],
     "180bets.com": [
       "curated_gambling_feeds"
     ],
@@ -81,6 +87,9 @@
     ],
     "1x2plus.com": [
       "curated_gambling_feeds"
+    ],
+    "1x2sportsbet.com": [
+      "certificate_transparency"
     ],
     "1xbet.com": [
       "curated_gambling_feeds"
@@ -244,8 +253,14 @@
     "admin.slot---ug.com": [
       "certificate_transparency"
     ],
+    "admiral.it": [
+      "certificate_transparency"
+    ],
     "admiralspot.com": [
       "curated_gambling_feeds"
+    ],
+    "advanced.bet": [
+      "certificate_transparency"
     ],
     "agentspinner.com": [
       "curated_gambling_feeds"
@@ -255,6 +270,12 @@
     ],
     "ahtigames.com": [
       "curated_gambling_feeds"
+    ],
+    "alefbetmontessori.org": [
+      "certificate_transparency"
+    ],
+    "alephbet.com": [
+      "certificate_transparency"
     ],
     "alfcasino.com": [
       "curated_gambling_feeds"
@@ -277,8 +298,14 @@
     "alohasportsbook.com": [
       "curated_gambling_feeds"
     ],
+    "alohirdavat.com": [
+      "certificate_transparency"
+    ],
     "alphadraft.com": [
       "curated_gambling_feeds"
+    ],
+    "alt.bet": [
+      "certificate_transparency"
     ],
     "amarta99.newsrt.us": [
       "certificate_transparency"
@@ -304,6 +331,9 @@
     "amp-slot-thailand-alfarepit--musicotherapie-cycle-2.pages.dev": [
       "certificate_transparency"
     ],
+    "analfa.bet": [
+      "certificate_transparency"
+    ],
     "anonibet.com": [
       "curated_gambling_feeds"
     ],
@@ -311,6 +341,12 @@
       "certificate_transparency"
     ],
     "api.slot---ug.com": [
+      "certificate_transparency"
+    ],
+    "api.x-trade.bet": [
+      "certificate_transparency"
+    ],
+    "apk.bet": [
       "certificate_transparency"
     ],
     "apollobet.com": [
@@ -340,8 +376,14 @@
     "assets.slot---ug.com": [
       "certificate_transparency"
     ],
+    "assetshole.net": [
+      "certificate_transparency"
+    ],
     "atg.se": [
       "curated_gambling_feeds"
+    ],
+    "auth.x-trade.bet": [
+      "certificate_transparency"
     ],
     "axbet.com": [
       "curated_gambling_feeds"
@@ -418,11 +460,17 @@
     "bet-csgo.com": [
       "curated_gambling_feeds"
     ],
+    "bet-live.ba": [
+      "certificate_transparency"
+    ],
     "bet.co.za": [
       "curated_gambling_feeds"
     ],
     "bet.hkjc.com": [
       "curated_gambling_feeds"
+    ],
+    "bet.net": [
+      "certificate_transparency"
     ],
     "bet.pkr.com": [
       "curated_gambling_feeds"
@@ -457,6 +505,9 @@
     "bet365.es": [
       "curated_gambling_feeds"
     ],
+    "bet4rate.com": [
+      "certificate_transparency"
+    ],
     "bet7days.com": [
       "curated_gambling_feeds"
     ],
@@ -481,6 +532,9 @@
     "betanysports.eu": [
       "curated_gambling_feeds"
     ],
+    "betawards2big2pick.com": [
+      "certificate_transparency"
+    ],
     "betbanks.com": [
       "curated_gambling_feeds"
     ],
@@ -495,6 +549,9 @@
     ],
     "betbuckeyesports.com": [
       "curated_gambling_feeds"
+    ],
+    "betbutler.co.uk": [
+      "certificate_transparency"
     ],
     "betbyrne.com": [
       "curated_gambling_feeds"
@@ -527,6 +584,7 @@
       "curated_gambling_feeds"
     ],
     "betclock.com": [
+      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "betcoin.ag": [
@@ -543,6 +601,12 @@
     ],
     "betdaq.com": [
       "curated_gambling_feeds"
+    ],
+    "betdcwork.bet.net": [
+      "certificate_transparency"
+    ],
+    "betdirect.com": [
+      "certificate_transparency"
     ],
     "betdna.com": [
       "curated_gambling_feeds"
@@ -616,6 +680,12 @@
     "betinternet.com": [
       "curated_gambling_feeds"
     ],
+    "betinvestltd.com": [
+      "certificate_transparency"
+    ],
+    "betitbest.com": [
+      "certificate_transparency"
+    ],
     "betive.com": [
       "curated_gambling_feeds"
     ],
@@ -642,6 +712,9 @@
     ],
     "betlm.eu": [
       "curated_gambling_feeds"
+    ],
+    "betmanager.globalzitro.com": [
+      "certificate_transparency"
     ],
     "betmania.ag": [
       "curated_gambling_feeds"
@@ -679,6 +752,9 @@
     "betondunhill.com": [
       "curated_gambling_feeds"
     ],
+    "betone2one.com": [
+      "certificate_transparency"
+    ],
     "betonline.ag": [
       "curated_gambling_feeds"
     ],
@@ -687,6 +763,9 @@
     ],
     "betonline247.com": [
       "curated_gambling_feeds"
+    ],
+    "betonpoker.biz": [
+      "certificate_transparency"
     ],
     "betonusa.ag": [
       "curated_gambling_feeds"
@@ -720,6 +799,9 @@
     ],
     "betplay.com": [
       "curated_gambling_feeds"
+    ],
+    "betplus.bet": [
+      "certificate_transparency"
     ],
     "betpop.eu": [
       "curated_gambling_feeds"
@@ -868,6 +950,9 @@
     "betusa.ag": [
       "curated_gambling_feeds"
     ],
+    "betvalue.com": [
+      "certificate_transparency"
+    ],
     "betvictor.com": [
       "curated_gambling_feeds"
     ],
@@ -892,6 +977,9 @@
     "bgo.com": [
       "curated_gambling_feeds"
     ],
+    "bia.bet": [
+      "certificate_transparency"
+    ],
     "big-easy-slot-free-online-de-de--78007419.kosmetik-stralsund.de": [
       "certificate_transparency"
     ],
@@ -900,6 +988,9 @@
     ],
     "bigcitysportsbook.com": [
       "curated_gambling_feeds"
+    ],
+    "bigombet.com": [
+      "certificate_transparency"
     ],
     "bigspincasino.com": [
       "curated_gambling_feeds"
@@ -955,6 +1046,9 @@
     "blitzpools.com": [
       "curated_gambling_feeds"
     ],
+    "blog.bet4thebest.com": [
+      "certificate_transparency"
+    ],
     "bobcasino.com": [
       "curated_gambling_feeds"
     ],
@@ -985,9 +1079,6 @@
     "book247.eu": [
       "curated_gambling_feeds"
     ],
-    "bookbyslot.com": [
-      "certificate_transparency"
-    ],
     "bookies.com.au": [
       "curated_gambling_feeds"
     ],
@@ -1002,6 +1093,9 @@
     ],
     "bookmakerclub.com": [
       "curated_gambling_feeds"
+    ],
+    "bookmakers.bet": [
+      "certificate_transparency"
     ],
     "bootloader-has-slot-recovery--not-found.horgaszat-vadaszat.ro": [
       "certificate_transparency"
@@ -1051,6 +1145,12 @@
     "butterflybingo.com": [
       "curated_gambling_feeds"
     ],
+    "butternut.bet": [
+      "certificate_transparency"
+    ],
+    "buy-birth-control.com": [
+      "certificate_transparency"
+    ],
     "bwin.com": [
       "curated_gambling_feeds"
     ],
@@ -1090,8 +1190,17 @@
     "cardbet.com": [
       "curated_gambling_feeds"
     ],
+    "cardcasino.bet": [
+      "certificate_transparency"
+    ],
     "caribsports.com": [
       "curated_gambling_feeds"
+    ],
+    "cartoleiro.bet": [
+      "certificate_transparency"
+    ],
+    "casapariurilor.bet": [
+      "certificate_transparency"
     ],
     "cashiopeia.com": [
       "curated_gambling_feeds"
@@ -1146,6 +1255,9 @@
     ],
     "casino.vernons.com": [
       "curated_gambling_feeds"
+    ],
+    "casino.victory.bet": [
+      "certificate_transparency"
     ],
     "casino.williamhill.com": [
       "curated_gambling_feeds"
@@ -1219,6 +1331,9 @@
     "cbmsport.com": [
       "curated_gambling_feeds"
     ],
+    "cbook.co.il": [
+      "certificate_transparency"
+    ],
     "cc898.com": [
       "curated_gambling_feeds"
     ],
@@ -1227,6 +1342,9 @@
     ],
     "celebbingo.com": [
       "curated_gambling_feeds"
+    ],
+    "celery-static.x-trade.bet": [
+      "certificate_transparency"
     ],
     "centrebet.com": [
       "curated_gambling_feeds"
@@ -1270,17 +1388,32 @@
     "cibolocreekquiltersguild.com": [
       "certificate_transparency"
     ],
+    "cipet.bet": [
+      "certificate_transparency"
+    ],
+    "circle.bet": [
+      "certificate_transparency"
+    ],
     "circlebet.com": [
       "curated_gambling_feeds"
     ],
     "circusbingo.com": [
       "curated_gambling_feeds"
     ],
+    "citrix.bettzedek.org": [
+      "certificate_transparency"
+    ],
     "citybingo.com": [
       "curated_gambling_feeds"
     ],
     "ciwox.com": [
       "curated_gambling_feeds"
+    ],
+    "clan.bet": [
+      "certificate_transparency"
+    ],
+    "clic.bet": [
+      "certificate_transparency"
     ],
     "clickngamble.ag": [
       "curated_gambling_feeds"
@@ -1306,17 +1439,20 @@
     "coffeebingo.com": [
       "curated_gambling_feeds"
     ],
-    "coin-slot-irritation-de-de--78007419.kosmetik-stralsund.de": [
-      "certificate_transparency"
-    ],
     "coin-slot-lotion-de-de--78007419.kosmetik-stralsund.de": [
       "certificate_transparency"
     ],
     "coin-slot-uk-de-de--14707347.borsan.de": [
       "certificate_transparency"
     ],
+    "colorheritage.com": [
+      "certificate_transparency"
+    ],
     "colossusbets.com": [
       "curated_gambling_feeds"
+    ],
+    "comeback.bet": [
+      "certificate_transparency"
     ],
     "comebackskins.com": [
       "curated_gambling_feeds"
@@ -1360,6 +1496,9 @@
     "cricketbetlive.com": [
       "curated_gambling_feeds"
     ],
+    "cricketbettingtipsfree.bet": [
+      "certificate_transparency"
+    ],
     "crowin24.com": [
       "curated_gambling_feeds"
     ],
@@ -1374,6 +1513,9 @@
     ],
     "crsportsbetting.com": [
       "curated_gambling_feeds"
+    ],
+    "csb.bet": [
+      "certificate_transparency"
     ],
     "csgo-casino.com": [
       "curated_gambling_feeds"
@@ -1582,11 +1724,20 @@
     "cspotluck.com": [
       "curated_gambling_feeds"
     ],
+    "cubepad.com": [
+      "certificate_transparency"
+    ],
     "cupcakebingo.co.uk": [
       "curated_gambling_feeds"
     ],
     "cupcakebingo.com": [
       "curated_gambling_feeds"
+    ],
+    "cvolo.com": [
+      "certificate_transparency"
+    ],
+    "cyberclubcasino.com": [
+      "certificate_transparency"
     ],
     "d.online--slot--play.xyz": [
       "certificate_transparency"
@@ -1609,11 +1760,17 @@
     "damacai.com.my": [
       "curated_gambling_feeds"
     ],
+    "danmark.bet": [
+      "certificate_transparency"
+    ],
     "danskespil.dk": [
       "curated_gambling_feeds"
     ],
     "dantoto.dk": [
       "curated_gambling_feeds"
+    ],
+    "dash.bet.farreny.net": [
+      "certificate_transparency"
     ],
     "dashbet.com": [
       "curated_gambling_feeds"
@@ -1627,6 +1784,9 @@
     "dealerscasino.com": [
       "curated_gambling_feeds"
     ],
+    "deals4u.co.il": [
+      "certificate_transparency"
+    ],
     "degrootenslot.nl": [
       "certificate_transparency"
     ],
@@ -1635,6 +1795,9 @@
     ],
     "desertnightscasino.co.uk": [
       "curated_gambling_feeds"
+    ],
+    "dev.mediapplications.com": [
+      "certificate_transparency"
     ],
     "dev.slot---ug.com": [
       "certificate_transparency"
@@ -1678,6 +1841,9 @@
     "dinobingo.com": [
       "curated_gambling_feeds"
     ],
+    "dir.bet": [
+      "certificate_transparency"
+    ],
     "directslot.com": [
       "certificate_transparency"
     ],
@@ -1686,6 +1852,9 @@
     ],
     "dlb.lk": [
       "curated_gambling_feeds"
+    ],
+    "do-be.co.il": [
+      "certificate_transparency"
     ],
     "dobet.com": [
       "curated_gambling_feeds"
@@ -1700,6 +1869,7 @@
       "curated_gambling_feeds"
     ],
     "doxxbet.com": [
+      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "draftkings.com": [
@@ -1714,11 +1884,17 @@
     "dreamjackpot.com": [
       "curated_gambling_feeds"
     ],
+    "dreamsmoke.com": [
+      "certificate_transparency"
+    ],
     "dreamvegas.com": [
       "curated_gambling_feeds"
     ],
     "dreamz.com": [
       "curated_gambling_feeds"
+    ],
+    "dro.bet": [
+      "certificate_transparency"
     ],
     "drueckglueck.com": [
       "curated_gambling_feeds"
@@ -1747,6 +1923,9 @@
     "easy-bank-beta.vercel.app": [
       "platform_abuse_sweep"
     ],
+    "easy-bet.biz": [
+      "certificate_transparency"
+    ],
     "easytowager.com": [
       "curated_gambling_feeds"
     ],
@@ -1770,6 +1949,9 @@
     ],
     "efirbet.com": [
       "curated_gambling_feeds"
+    ],
+    "efortuna.bet": [
+      "certificate_transparency"
     ],
     "egamingbets.com": [
       "curated_gambling_feeds"
@@ -1840,13 +2022,20 @@
     "euroslots.com": [
       "curated_gambling_feeds"
     ],
+    "evanbrady.bet": [
+      "certificate_transparency"
+    ],
     "evobet.com": [
       "curated_gambling_feeds"
     ],
     "exbeteu.com": [
       "curated_gambling_feeds"
     ],
+    "exchange.betterbet.com": [
+      "certificate_transparency"
+    ],
     "exebet.com": [
+      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "expekt.com": [
@@ -1927,11 +2116,20 @@
     "fikacasino.com": [
       "curated_gambling_feeds"
     ],
+    "files.x-trade.bet": [
+      "certificate_transparency"
+    ],
+    "firebaseapp.com": [
+      "certificate_transparency"
+    ],
     "fivestarsearch.com": [
       "certificate_transparency"
     ],
     "flemingtonsportsbet.com.au": [
       "curated_gambling_feeds"
+    ],
+    "flint.bet": [
+      "certificate_transparency"
     ],
     "flumecasino.com": [
       "curated_gambling_feeds"
@@ -1960,8 +2158,14 @@
     "forum-asti-slot-de-de--393904311.borsan.de": [
       "certificate_transparency"
     ],
+    "fotbal.bet": [
+      "certificate_transparency"
+    ],
     "fr.royalvegascasino.com": [
       "curated_gambling_feeds"
+    ],
+    "framesemporium.com": [
+      "certificate_transparency"
     ],
     "france-pari.fr": [
       "curated_gambling_feeds"
@@ -2005,8 +2209,14 @@
     "free-zeus-slot-app-de-de--96972621.a-j-a.de": [
       "certificate_transparency"
     ],
+    "freshbet.com": [
+      "certificate_transparency"
+    ],
     "fruitycasa.com": [
       "curated_gambling_feeds"
+    ],
+    "fsasport.com": [
+      "certificate_transparency"
     ],
     "fsport.net": [
       "curated_gambling_feeds"
@@ -2026,11 +2236,17 @@
     "funcasino.com": [
       "curated_gambling_feeds"
     ],
+    "gala-flex.com": [
+      "certificate_transparency"
+    ],
     "galacasino.com": [
       "curated_gambling_feeds"
     ],
     "galaksipokerqq.com": [
       "curated_gambling_feeds"
+    ],
+    "galaxy-bet.com": [
+      "certificate_transparency"
     ],
     "galaxybetting.com": [
       "curated_gambling_feeds"
@@ -2051,6 +2267,9 @@
       "certificate_transparency"
     ],
     "game-slot-juggler-de-de--5642742.printrepair.de": [
+      "certificate_transparency"
+    ],
+    "game.admiral.it": [
       "certificate_transparency"
     ],
     "gamebookers.com": [
@@ -2098,6 +2317,9 @@
     "giocoreale.com": [
       "curated_gambling_feeds"
     ],
+    "giwi.bet": [
+      "certificate_transparency"
+    ],
     "glimmercasino.com": [
       "curated_gambling_feeds"
     ],
@@ -2137,6 +2359,9 @@
     "goldenbetsng.com": [
       "curated_gambling_feeds"
     ],
+    "goldluckcasino.com": [
+      "certificate_transparency"
+    ],
     "goldmedalbingo.com": [
       "curated_gambling_feeds"
     ],
@@ -2170,6 +2395,9 @@
     "grandeaglecasino.com": [
       "curated_gambling_feeds"
     ],
+    "grillinwoodsandrubs.com": [
+      "certificate_transparency"
+    ],
     "grosvenorcasinos.com": [
       "curated_gambling_feeds"
     ],
@@ -2199,6 +2427,12 @@
     ],
     "gwbet.com": [
       "curated_gambling_feeds"
+    ],
+    "h2h.bet": [
+      "certificate_transparency"
+    ],
+    "h68.bet": [
+      "certificate_transparency"
     ],
     "hajper.com": [
       "curated_gambling_feeds"
@@ -2236,6 +2470,9 @@
     "heyspin.com": [
       "curated_gambling_feeds"
     ],
+    "hibsgaming.com": [
+      "certificate_transparency"
+    ],
     "higgs-slot---qiuqiu-remi.clio-tw.com": [
       "certificate_transparency"
     ],
@@ -2263,6 +2500,9 @@
     "home.olg.ca": [
       "curated_gambling_feeds"
     ],
+    "homecasino.bet": [
+      "certificate_transparency"
+    ],
     "homerunsportsbetting.com": [
       "curated_gambling_feeds"
     ],
@@ -2271,6 +2511,9 @@
     ],
     "horizonsports.es": [
       "curated_gambling_feeds"
+    ],
+    "horseracingtips.bet": [
+      "certificate_transparency"
     ],
     "hotlinecsgo.com": [
       "curated_gambling_feeds"
@@ -2288,6 +2531,12 @@
       "curated_gambling_feeds"
     ],
     "hsca.gr": [
+      "certificate_transparency"
+    ],
+    "hu.betclic.bet": [
+      "certificate_transparency"
+    ],
+    "hu.everestpoker.bet": [
       "certificate_transparency"
     ],
     "hughesbet.com": [
@@ -2317,6 +2566,9 @@
     "icecasino.com": [
       "curated_gambling_feeds"
     ],
+    "iclub.bet": [
+      "certificate_transparency"
+    ],
     "ifortuna.cz": [
       "curated_gambling_feeds"
     ],
@@ -2331,6 +2583,9 @@
     ],
     "ikibu.com": [
       "curated_gambling_feeds"
+    ],
+    "image.x-trade.bet": [
+      "certificate_transparency"
     ],
     "in.1x001.com": [
       "curated_gambling_feeds"
@@ -2394,6 +2649,9 @@
     ],
     "isportbet.net": [
       "curated_gambling_feeds"
+    ],
+    "israelpharm.com": [
+      "certificate_transparency"
     ],
     "itvbingo.com": [
       "curated_gambling_feeds"
@@ -2503,6 +2761,9 @@
     "kaiserslots.com": [
       "curated_gambling_feeds"
     ],
+    "kajot.bet": [
+      "certificate_transparency"
+    ],
     "kalevalakasino.com": [
       "curated_gambling_feeds"
     ],
@@ -2548,6 +2809,9 @@
     "king-game-slot-machine-de-de--14707347.borsan.de": [
       "certificate_transparency"
     ],
+    "kingcoin.bet": [
+      "certificate_transparency"
+    ],
     "kingneptunescasino.com": [
       "curated_gambling_feeds"
     ],
@@ -2559,6 +2823,9 @@
     ],
     "kingswaybingoonline.com": [
       "curated_gambling_feeds"
+    ],
+    "kiosk.bet-lotto.com": [
+      "certificate_transparency"
     ],
     "kirsikka.com": [
       "curated_gambling_feeds"
@@ -2653,6 +2920,9 @@
     "lightbet.com": [
       "curated_gambling_feeds"
     ],
+    "lily.siemens.com": [
+      "certificate_transparency"
+    ],
     "lincolncasino.eu": [
       "curated_gambling_feeds"
     ],
@@ -2683,6 +2953,9 @@
     "livecasino.betway.com": [
       "curated_gambling_feeds"
     ],
+    "livecasino.scommettiqui.com": [
+      "certificate_transparency"
+    ],
     "livecasino.williamhill.com": [
       "curated_gambling_feeds"
     ],
@@ -2694,6 +2967,9 @@
     ],
     "livesports.ag": [
       "curated_gambling_feeds"
+    ],
+    "lk.taxi.bet": [
+      "certificate_transparency"
     ],
     "llamabet.co.uk": [
       "curated_gambling_feeds"
@@ -2851,6 +3127,9 @@
     "lucky-slot-online-free-de-de--3982502.ferienhaus-duemmer.de": [
       "certificate_transparency"
     ],
+    "lucky8.bet": [
+      "certificate_transparency"
+    ],
     "lucky8.com": [
       "curated_gambling_feeds"
     ],
@@ -2881,6 +3160,9 @@
     "luckyniki.com": [
       "curated_gambling_feeds"
     ],
+    "luckystar.bet": [
+      "certificate_transparency"
+    ],
     "luckywinslots.com": [
       "curated_gambling_feeds"
     ],
@@ -2902,17 +3184,20 @@
     "luxurycasino.com": [
       "curated_gambling_feeds"
     ],
+    "m.betclic.bet": [
+      "certificate_transparency"
+    ],
     "m.boylesports.com": [
       "curated_gambling_feeds"
     ],
     "m.jetbull.com": [
       "curated_gambling_feeds"
     ],
+    "m.playsport.bet": [
+      "certificate_transparency"
+    ],
     "m.skybet.com": [
       "curated_gambling_feeds"
-    ],
-    "m.xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.beyondtheduel.com": [
-      "certificate_transparency"
     ],
     "m8bet.net": [
       "curated_gambling_feeds"
@@ -2960,7 +3245,19 @@
     "mahjong-download-windows-10--167758106.helpclean.de": [
       "certificate_transparency"
     ],
+    "mail.bethashita.org.il": [
+      "certificate_transparency"
+    ],
+    "mail.bettzedek.org": [
+      "certificate_transparency"
+    ],
+    "mail.bnz.co.il": [
+      "certificate_transparency"
+    ],
     "mail.degrootenslot.nl": [
+      "certificate_transparency"
+    ],
+    "mail.inex.fr": [
       "certificate_transparency"
     ],
     "mail.macauslot.com": [
@@ -2981,6 +3278,9 @@
     "mamamiabingo.com": [
       "curated_gambling_feeds"
     ],
+    "mamebet.com": [
+      "certificate_transparency"
+    ],
     "mansion88.com": [
       "curated_gambling_feeds"
     ],
@@ -2998,6 +3298,9 @@
     ],
     "markjarvisbet.com": [
       "curated_gambling_feeds"
+    ],
+    "mars.bet": [
+      "certificate_transparency"
     ],
     "marsbet12.com": [
       "curated_gambling_feeds"
@@ -3025,6 +3328,9 @@
     ],
     "mcbookie.com": [
       "curated_gambling_feeds"
+    ],
+    "mediapplications.com": [
+      "certificate_transparency"
     ],
     "mega-slot--pokemon-edition.shouyou.com.tw": [
       "certificate_transparency"
@@ -3059,6 +3365,9 @@
     "mfortune.co.uk": [
       "curated_gambling_feeds"
     ],
+    "mgar-shaked.co.il": [
+      "certificate_transparency"
+    ],
     "miamicasino.com": [
       "curated_gambling_feeds"
     ],
@@ -3089,6 +3398,9 @@
     "mobilbet.com": [
       "curated_gambling_feeds"
     ],
+    "mobile.ibbrugg.ch": [
+      "certificate_transparency"
+    ],
     "mobile.macau-slot.com": [
       "certificate_transparency"
     ],
@@ -3107,6 +3419,12 @@
     "moneyplayscasino.com": [
       "curated_gambling_feeds"
     ],
+    "monique.bet": [
+      "certificate_transparency"
+    ],
+    "monitoring.x-trade.bet": [
+      "certificate_transparency"
+    ],
     "montecarlocasino.com": [
       "curated_gambling_feeds"
     ],
@@ -3115,6 +3433,9 @@
     ],
     "mozzartbet.com": [
       "curated_gambling_feeds"
+    ],
+    "mozzartbet.mk": [
+      "certificate_transparency"
     ],
     "mpcasino.com": [
       "curated_gambling_feeds"
@@ -3199,6 +3520,9 @@
     ],
     "mychance.com": [
       "curated_gambling_feeds"
+    ],
+    "mycontrolcard.com": [
+      "certificate_transparency"
     ],
     "myfab11.com": [
       "curated_gambling_feeds"
@@ -3302,6 +3626,9 @@
     "nordicbet.com": [
       "curated_gambling_feeds"
     ],
+    "norge.bet": [
+      "certificate_transparency"
+    ],
     "norgesautomaten.com": [
       "curated_gambling_feeds"
     ],
@@ -3395,6 +3722,9 @@
     "oneto11.com": [
       "curated_gambling_feeds"
     ],
+    "onetouchpurchasing.com": [
+      "certificate_transparency"
+    ],
     "onetpedia.net": [
       "curated_gambling_feeds"
     ],
@@ -3455,11 +3785,17 @@
     "ourpricebet.com": [
       "curated_gambling_feeds"
     ],
+    "outlook.hydacusa.com": [
+      "certificate_transparency"
+    ],
     "overtheodds.com.au": [
       "curated_gambling_feeds"
     ],
     "ovocasino.com": [
       "curated_gambling_feeds"
+    ],
+    "owa.bet.net": [
+      "certificate_transparency"
     ],
     "owa.konservative.dk": [
       "certificate_transparency"
@@ -3485,6 +3821,9 @@
     "palladiumcasino.eu": [
       "curated_gambling_feeds"
     ],
+    "palm.bet": [
+      "certificate_transparency"
+    ],
     "palmerbet.com": [
       "curated_gambling_feeds"
     ],
@@ -3509,6 +3848,9 @@
     "pariscasino8.com": [
       "curated_gambling_feeds"
     ],
+    "pariuri.bet": [
+      "certificate_transparency"
+    ],
     "partypoker.cz": [
       "curated_gambling_feeds"
     ],
@@ -3525,9 +3867,6 @@
       "curated_gambling_feeds"
     ],
     "pg-slot---50.het-hobbydomein.nl": [
-      "certificate_transparency"
-    ],
-    "pg-slot--50.paraguaylife.com": [
       "certificate_transparency"
     ],
     "pg-slot-game---free.bravodriver.com": [
@@ -3599,6 +3938,9 @@
     "playolg.ca": [
       "curated_gambling_feeds"
     ],
+    "playsport.bet": [
+      "certificate_transparency"
+    ],
     "playsugarhouse.com": [
       "curated_gambling_feeds"
     ],
@@ -3619,6 +3961,9 @@
     ],
     "pointsbet.com": [
       "curated_gambling_feeds"
+    ],
+    "poker.admiral.it": [
+      "certificate_transparency"
     ],
     "poker.betway.com": [
       "curated_gambling_feeds"
@@ -3689,6 +4034,9 @@
     "pro-factory.com": [
       "curated_gambling_feeds"
     ],
+    "profi.bet": [
+      "certificate_transparency"
+    ],
     "proline.ca": [
       "curated_gambling_feeds"
     ],
@@ -3731,6 +4079,12 @@
     "purewin.com": [
       "curated_gambling_feeds"
     ],
+    "qoolife.com": [
+      "certificate_transparency"
+    ],
+    "qormibet.com": [
+      "certificate_transparency"
+    ],
     "queenvegas.com": [
       "curated_gambling_feeds"
     ],
@@ -3767,6 +4121,9 @@
     "rd.dhs.arkansas.gov": [
       "certificate_transparency"
     ],
+    "rdgw.bendiks-transport.no": [
+      "certificate_transparency"
+    ],
     "readytobet.com": [
       "curated_gambling_feeds"
     ],
@@ -3778,6 +4135,9 @@
     ],
     "rebatewager.ag": [
       "curated_gambling_feeds"
+    ],
+    "rebuystars.bet": [
+      "certificate_transparency"
     ],
     "redbet.com": [
       "curated_gambling_feeds"
@@ -3809,6 +4169,9 @@
     "remote.slotfrans.nl": [
       "certificate_transparency"
     ],
+    "rent.bet": [
+      "certificate_transparency"
+    ],
     "ridika.com": [
       "curated_gambling_feeds"
     ],
@@ -3817,6 +4180,9 @@
     ],
     "rikstoto.no": [
       "curated_gambling_feeds"
+    ],
+    "risingbetclub.com": [
+      "certificate_transparency"
     ],
     "rivalo.com": [
       "curated_gambling_feeds"
@@ -3860,10 +4226,16 @@
     "rush777.com": [
       "curated_gambling_feeds"
     ],
-    "s-c-best-slot--amp-gambling-s-r-l.horgaszat-vadaszat.ro": [
+    "s-c-best-slot--amp-gambling-s-r-l.utcfssecurityproducts.eu": [
       "certificate_transparency"
     ],
-    "s-c-best-slot--amp-gambling-s-r-l.utcfssecurityproducts.eu": [
+    "s8s.bet": [
+      "certificate_transparency"
+    ],
+    "sadmin.bet-trade.com": [
+      "certificate_transparency"
+    ],
+    "sadmin.x-trade.bet": [
       "certificate_transparency"
     ],
     "safaribet.com.gh": [
@@ -3887,6 +4259,9 @@
     "sazka.cz": [
       "curated_gambling_feeds"
     ],
+    "sazkabet.bet": [
+      "certificate_transparency"
+    ],
     "sbgglobal.eu": [
       "curated_gambling_feeds"
     ],
@@ -3895,6 +4270,9 @@
     ],
     "sbobet.com": [
       "curated_gambling_feeds"
+    ],
+    "scandi.bet": [
+      "certificate_transparency"
     ],
     "scandibet.com": [
       "curated_gambling_feeds"
@@ -3926,6 +4304,9 @@
     "secure.museumoudeslot.nl": [
       "certificate_transparency"
     ],
+    "secure.xserver.ne.jp": [
+      "certificate_transparency"
+    ],
     "sem.slotloevestein.nl": [
       "certificate_transparency"
     ],
@@ -3940,6 +4321,12 @@
     ],
     "setantabet.com": [
       "curated_gambling_feeds"
+    ],
+    "shadesemporium.com": [
+      "certificate_transparency"
+    ],
+    "shohar.net": [
+      "certificate_transparency"
     ],
     "shop.forum-asti-slot-de-de--393904311.borsan.de": [
       "certificate_transparency"
@@ -3964,6 +4351,9 @@
     ],
     "sisportsbook.com": [
       "curated_gambling_feeds"
+    ],
+    "sixcore.ne.jp": [
+      "certificate_transparency"
     ],
     "sjbet.at": [
       "curated_gambling_feeds"
@@ -3996,6 +4386,7 @@
       "curated_gambling_feeds"
     ],
     "skybet.com": [
+      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "skybook.ag": [
@@ -4023,9 +4414,6 @@
       "certificate_transparency"
     ],
     "slot--88.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot--bonus--new--member--100--gacor-pages-dev.cdnampproject.org": [
       "certificate_transparency"
     ],
     "slot--bonus.powerappsportals.com": [
@@ -4079,12 +4467,6 @@
     "slot--parking-system-65efd.us-central1.hosted.app": [
       "certificate_transparency"
     ],
-    "slot--pg.com": [
-      "certificate_transparency"
-    ],
-    "slot--pgsw.cyou": [
-      "certificate_transparency"
-    ],
     "slot--qris.pages.dev": [
       "certificate_transparency"
     ],
@@ -4115,9 +4497,6 @@
     "slot--v.site": [
       "certificate_transparency"
     ],
-    "slot--wd.cyou": [
-      "certificate_transparency"
-    ],
     "slot-10-casino-de-de--627422181.borsan.de": [
       "certificate_transparency"
     ],
@@ -4140,9 +4519,6 @@
       "certificate_transparency"
     ],
     "slot-ci--coaxial.utcfssecurityproducts.eu": [
-      "certificate_transparency"
-    ],
-    "slot-ci--digi.labiclaloca.ro": [
       "certificate_transparency"
     ],
     "slot-ci--digi.menzenschwand.eu": [
@@ -4217,12 +4593,6 @@
     "slot-machine--games.com": [
       "certificate_transparency"
     ],
-    "slot-machine--slot-machine-da5d6.asia-east1.hosted.app": [
-      "certificate_transparency"
-    ],
-    "slot-machine--yogu-slot-machine.europe-west4.hosted.app": [
-      "certificate_transparency"
-    ],
     "slot-machine-2012-de-de--492555162.jasont.de": [
       "certificate_transparency"
     ],
@@ -4245,9 +4615,6 @@
       "certificate_transparency"
     ],
     "slot-machine-odds-de-de--872757444.ferienhaus-duemmer.de": [
-      "certificate_transparency"
-    ],
-    "slot-machine-test--slotmachinetest-379ae.us-central1.hosted.app": [
       "certificate_transparency"
     ],
     "slot-machines-4-sale-de-de--998173403.borsan.de": [
@@ -4367,10 +4734,292 @@
     "sni.cloudflaressl.com": [
       "certificate_transparency"
     ],
+    "sni102664.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni11059.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni116704.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni133729.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni134164.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni141122.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni141618.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni142028.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni142524.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni144969.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni147549.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni151203.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni151991.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni155352.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni155742.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni163883.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni167488.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni167720.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni167826.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni172073.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni174155.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni177483.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni178027.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni179963.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni181886.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni185647.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni185686.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni189812.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni192795.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni193742.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni193807.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni193814.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni198176.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni199926.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni201373.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni203298.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni207742.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni208095.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni212701.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni215303.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
     "sni22069.cloudflaressl.com": [
       "certificate_transparency"
     ],
     "sni221851.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni222385.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni223282.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni224974.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni225202.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni225969.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni225977.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni225984.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni226001.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni226233.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni227499.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni22761.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni228447.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni228623.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni229042.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni232409.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni232741.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni233213.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni233228.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni235880.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni236262.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni236265.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni236266.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni236866.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni239714.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni24211.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni243822.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni248738.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni251842.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni252523.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni27097.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni27553.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni307797.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni31038.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni33657.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni34994.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni36282.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni36845.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni38455.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni40551.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni42941.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni50809.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni55267.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni57345.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni57516.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni57556.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni57622.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni61427.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni67241.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni70431.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni76787.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni78288.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni81378.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni81545.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "sni94804.cloudflaressl.com": [
       "certificate_transparency"
     ],
     "socalsportbook.com": [
@@ -4378,6 +5027,9 @@
     ],
     "softbet.eu": [
       "curated_gambling_feeds"
+    ],
+    "sosbet.com": [
+      "certificate_transparency"
     ],
     "spartansslots.net": [
       "curated_gambling_feeds"
@@ -4418,6 +5070,9 @@
     "spinzilla.com": [
       "curated_gambling_feeds"
     ],
+    "sporbahissiteleri.bet": [
+      "certificate_transparency"
+    ],
     "sport-gewin.com": [
       "curated_gambling_feeds"
     ],
@@ -4447,6 +5102,9 @@
     ],
     "sportlife.com.mk": [
       "curated_gambling_feeds"
+    ],
+    "sportmedia.bet": [
+      "certificate_transparency"
     ],
     "sportodds.com": [
       "curated_gambling_feeds"
@@ -4491,6 +5149,7 @@
       "curated_gambling_feeds"
     ],
     "sportsbet.co.za": [
+      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "sportsbet.com.au": [
@@ -4553,6 +5212,48 @@
     "spreadex.com": [
       "curated_gambling_feeds"
     ],
+    "ssl.bet-alert.com": [
+      "certificate_transparency"
+    ],
+    "ssl368402.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl370592.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl371933.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl372182.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl375865.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl376693.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl379257.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl379260.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl380841.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl387969.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl387971.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl391172.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
+    "ssl404686.cloudflaressl.com": [
+      "certificate_transparency"
+    ],
     "sssbet.com": [
       "curated_gambling_feeds"
     ],
@@ -4579,6 +5280,9 @@
     ],
     "statusbet.com": [
       "curated_gambling_feeds"
+    ],
+    "step.bet": [
+      "certificate_transparency"
     ],
     "stoloto.ru": [
       "curated_gambling_feeds"
@@ -4634,6 +5338,9 @@
     "superusacasino.com": [
       "curated_gambling_feeds"
     ],
+    "surebet.bet": [
+      "certificate_transparency"
+    ],
     "surf.casino": [
       "curated_gambling_feeds"
     ],
@@ -4642,6 +5349,9 @@
     ],
     "svedalacasino.com": [
       "curated_gambling_feeds"
+    ],
+    "svensk.bet": [
+      "certificate_transparency"
     ],
     "svenskaspel.se": [
       "curated_gambling_feeds"
@@ -4665,6 +5375,9 @@
       "certificate_transparency"
     ],
     "sws.fhkd.org": [
+      "certificate_transparency"
+    ],
+    "syndicatebet.com.au": [
       "certificate_transparency"
     ],
     "synottip.cz": [
@@ -4694,11 +5407,17 @@
     "tatts.com": [
       "curated_gambling_feeds"
     ],
+    "taxi.tzk.su": [
+      "certificate_transparency"
+    ],
     "templenile.com": [
       "curated_gambling_feeds"
     ],
     "tempobet.com": [
       "curated_gambling_feeds"
+    ],
+    "terminals.x-trade.bet": [
+      "certificate_transparency"
     ],
     "test.slot---ug.com": [
       "certificate_transparency"
@@ -4721,7 +5440,11 @@
     "thegreek.com": [
       "curated_gambling_feeds"
     ],
+    "theisraelboutique.com": [
+      "certificate_transparency"
+    ],
     "thelotter.com": [
+      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "third-mahjong--third-mahjong.asia-east1.hosted.app": [
@@ -4747,6 +5470,12 @@
     ],
     "tipp24.com": [
       "curated_gambling_feeds"
+    ],
+    "tipsport.bet": [
+      "certificate_transparency"
+    ],
+    "tipsport.com": [
+      "certificate_transparency"
     ],
     "tipsport.cz": [
       "curated_gambling_feeds"
@@ -5021,10 +5750,16 @@
     "webbookmakers.com": [
       "curated_gambling_feeds"
     ],
+    "webcamsex.bet": [
+      "certificate_transparency"
+    ],
     "webmail.degrootenslot.nl": [
       "certificate_transparency"
     ],
     "webmail.intragroen.nl": [
+      "certificate_transparency"
+    ],
+    "webmail.xserver.jp": [
       "certificate_transparency"
     ],
     "westlotto.de": [
@@ -5111,13 +5846,13 @@
     "worldwidegamble.com": [
       "curated_gambling_feeds"
     ],
+    "wow.bet": [
+      "certificate_transparency"
+    ],
     "wunderino.com": [
       "curated_gambling_feeds"
     ],
     "ww1.online--slot--play.xyz": [
-      "certificate_transparency"
-    ],
-    "ww25.xn--pg-slot--vip-r00b8hwcthrc70ake.friendlymobilesites.com": [
       "certificate_transparency"
     ],
     "ww38.xn--slot---1-wpz5fi4cjf4kpc1fup.suckhoetretho.info": [
@@ -5138,22 +5873,13 @@
     "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org": [
       "certificate_transparency"
     ],
-    "xn---pg-slot--fn2aaj8c7jkt8df4kpa1k2ivf7c.chirkofff.com": [
-      "certificate_transparency"
-    ],
     "xn---pg-slot--uo2a9c4bo0vqf7e.myhotmaxima.com": [
       "certificate_transparency"
     ],
     "xn---pg-slot-auto---2f9bmduob0tsjc8gc26a.troratad.net": [
       "certificate_transparency"
     ],
-    "xn---pg-slot-auto---2f9bmduob0tsjc8gc4ld5tkj.france-copte.net": [
-      "certificate_transparency"
-    ],
     "xn---slot--v1t5e0aw6e4bqb2j3fphuf.ukrainian-language.com": [
-      "certificate_transparency"
-    ],
-    "xn--amb-slot--3i2aqima4k4bd3yua4q.onstarshipsanddragonwings.com": [
       "certificate_transparency"
     ],
     "xn--amb-slot--3i2aqima4k4bd3yua4q.ukrainian-language.com": [
@@ -5162,22 +5888,10 @@
     "xn--area-slot--dc5apna8jqe8d5a1ktf6gra.mphp.org": [
       "certificate_transparency"
     ],
-    "xn--area-slot--dc5arc5looc6ttf.softwaredescargas.com": [
-      "certificate_transparency"
-    ],
     "xn--arne-slot--zc5a4wfe.sevenbet.com": [
       "certificate_transparency"
     ],
-    "xn--avenger-slot--us3b2cvnlqc8xng.motoclubalmeria.com": [
-      "certificate_transparency"
-    ],
     "xn--book-of-shadows-slot--qf6dps3grisgmtqd.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--demo-slot-pg--uu3b7hvbxb8pb2nqq1f.cygniteframework.com": [
-      "certificate_transparency"
-    ],
-    "xn--ez-slot--7ozuhla4j1bd6wta3p.reviews-washer-dryer.com": [
       "certificate_transparency"
     ],
     "xn--g2g1-slot--dc5arc5looc6ttf.kovarstvivalasek.com": [
@@ -5198,12 +5912,6 @@
     "xn--ka-gaming-slot--fh9b6ksa4qzcd58a0a0x.sevenbet.com": [
       "certificate_transparency"
     ],
-    "xn--king-slot--1b5a9ma0o0c1lxe4f.archive-iussp.org": [
-      "certificate_transparency"
-    ],
-    "xn--lucky-barr-slot--c91codspssc02a8g.garngalleriet.com": [
-      "certificate_transparency"
-    ],
     "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com": [
       "certificate_transparency"
     ],
@@ -5219,28 +5927,13 @@
     "xn--mgm-slot---0b5a6lnb8f3a8de71ajfvf.myhotmaxima.com": [
       "certificate_transparency"
     ],
-    "xn--n83-slot--ji2ayma9i5d5d3a4j8eygqa.kowabungaecoproject.com": [
-      "certificate_transparency"
-    ],
     "xn--n89-slot--188-jt3b7jqa4otcd15aya8u.thehanhle.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot-----nc8a1a0aa5kocd4gycba44c.chirkofff.com": [
       "certificate_transparency"
     ],
     "xn--pg-slot-----t47ab0z6bau1kwcd4hm2dba51cid.outdooridee.com": [
       "certificate_transparency"
     ],
-    "xn--pg-slot-----u57apb2nlae2f0e3cde9euq2a3xh6p.garngalleriet.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot---2i2aqima5k3be2yva3q.php-hispano.net": [
-      "certificate_transparency"
-    ],
     "xn--pg-slot---8h2a5a2b8lcm7fyd7cdd5s8cxc1a1yoa.myhotmaxima.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot---xj2a7g0a9a2j6a0af2irqia3l.dcafterfive.com": [
       "certificate_transparency"
     ],
     "xn--pg-slot---xj2a7g0aa1b2jd8a2ah4j4kkfl1n.outdooridee.com": [
@@ -5249,25 +5942,10 @@
     "xn--pg-slot--1-vd5a5gk2dlf2mvc8fodc33arf.newhomesteadersalmanac.com": [
       "certificate_transparency"
     ],
-    "xn--pg-slot--3tztgaw2f7n.reviews-washer-dryer.com": [
-      "certificate_transparency"
-    ],
     "xn--pg-slot--7oza9dwkktc5g.sevenbet.com": [
       "certificate_transparency"
     ],
-    "xn--pg-slot--ctz3aw1isb54amb4i.kowabungaecoproject.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--goz4j7a8b2opc.motoclubalmeria.com": [
-      "certificate_transparency"
-    ],
     "xn--pg-slot--goz4jlax3c5g3a8gc8fzn.foodefare.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--hoz3bj1opa6cyipc6jc8xka2m6a.chirkofff.com": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot--ltztba8a5dq8n2cxmb3e4dbg8g.dcafterfive.com": [
       "certificate_transparency"
     ],
     "xn--pg-slot--muzuc2bv5stfze.ukrainian-language.com": [
@@ -5279,28 +5957,16 @@
     "xn--pg-slot--poz3b9kymc8q6e.lartocrate.com": [
       "certificate_transparency"
     ],
-    "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.beyondtheduel.com": [
-      "certificate_transparency"
-    ],
     "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.ukrainian-language.com": [
       "certificate_transparency"
     ],
     "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com": [
       "certificate_transparency"
     ],
-    "xn--pg-slot--zpztg5b8f2b1xtd.onstarshipsanddragonwings.com": [
-      "certificate_transparency"
-    ],
     "xn--pg-slot--zpztg5b8f2b1xtd.pages.dev": [
       "certificate_transparency"
     ],
-    "xn--pg-slot-888---us3b1cvnlqd8xng.sedonagoldmenus.com": [
-      "certificate_transparency"
-    ],
     "xn--pg-slot-auto--1v3bymsb8j4h1c.jeffpeel.net": [
-      "certificate_transparency"
-    ],
-    "xn--pg-slot-free--g03b2c6i6a9c2c4x2ed.archive-iussp.org": [
       "certificate_transparency"
     ],
     "xn--pg-slot-in--v57a6ioa4mncd71awa6s.ukrainian-language.com": [
@@ -5318,15 +5984,6 @@
     "xn--pp-slot--zpztg5b8f2b1x.vietcargroup.com": [
       "certificate_transparency"
     ],
-    "xn--pxj-slot---dc5aqc5lood6ttf.dannewerk.com": [
-      "certificate_transparency"
-    ],
-    "xn--pxj-slot---dc5aqc5lood6ttf.forum-labas.com": [
-      "certificate_transparency"
-    ],
-    "xn--razor-shark-slot--634cyp3foh1f5q7c.softwaredescargas.com": [
-      "certificate_transparency"
-    ],
     "xn--roma-slot--xd5auhoczg9byz4d.ukrainian-language.com": [
       "certificate_transparency"
     ],
@@ -5334,9 +5991,6 @@
       "certificate_transparency"
     ],
     "xn--slot---10tub3id7bh8ga0a5d8jua6c3nmdwc4agw1i.bigbusinessnetworks.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot---f1tugj5htbe1tsa0n.onstarshipsanddragonwings.com": [
       "certificate_transparency"
     ],
     "xn--slot---f1tugj5htbe1tsa0n.soulurns.com": [
@@ -5348,9 +6002,6 @@
     "xn--slot--16q9hir1b5fay6fc8e3m.sevenbet.com": [
       "certificate_transparency"
     ],
-    "xn--slot--16qzbi3iag9lqai0nncp53atc3e.archive-iussp.org": [
-      "certificate_transparency"
-    ],
     "xn--slot--27q0exau4d2bub4iufrhmf.outdooridee.com": [
       "certificate_transparency"
     ],
@@ -5360,37 +6011,13 @@
     "xn--slot--27q7esb8esb8u3c.myhotmaxima.com": [
       "certificate_transparency"
     ],
-    "xn--slot--27qah0i4b1gzid6n8bve.dcafterfive.com": [
-      "certificate_transparency"
-    ],
     "xn--slot--27qua43a6g.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--76qvh5a4ea1poa8a5q9bgo9e.dannewerk.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--bbr8ah0jtb8gqf5bzb.chirkofff.com": [
       "certificate_transparency"
     ],
     "xn--slot--hbr5frb2a3x.sweetearthorganicfarm.com": [
       "certificate_transparency"
     ],
-    "xn--slot--k7q6fi4gub2mpa0l.reviews-washer-dryer.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--k7qua5nwc4czfqh6e.motoclubalmeria.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--l8qzfo8ct0n5hc1g.garngalleriet.com": [
-      "certificate_transparency"
-    ],
     "xn--slot--pg-wpz3f6a0n3d.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot--tbro2cwbyn3a.php-hispano.net": [
-      "certificate_transparency"
-    ],
-    "xn--slot--tbroa4eta9m0b7b7o.paraguaylife.com": [
       "certificate_transparency"
     ],
     "xn--slot--wallet-v50b4g8kwg.sweetearthorganicfarm.com": [
@@ -5399,34 +6026,16 @@
     "xn--slot-50--3ozea0qna4l9axdh4k0f3bza9vjb7n.sevenbet.com": [
       "certificate_transparency"
     ],
-    "xn--slot-99--7ozuhla4j1bd6wta3p.garngalleriet.com": [
-      "certificate_transparency"
-    ],
     "xn--slot-99--7ozuhla4j1bd6wta3p.ukrainian-language.com": [
       "certificate_transparency"
     ],
-    "xn--slot-demo--xd5a3gob4a2pb8kvoif.dannewerk.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot-jili--xd5a3gob4a2pb8kvoif.reviews-washer-dryer.com": [
-      "certificate_transparency"
-    ],
     "xn--slot-pg----50-it3b7jra5orcf68c.sevenbet.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot-pg--gozucyiogpiyh4d.reviews-washer-dryer.com": [
-      "certificate_transparency"
-    ],
-    "xn--slot-pg--vuz4c2c6b6rqb6cu.chirkofff.com": [
       "certificate_transparency"
     ],
     "xn--slot-true-wallet--q54cpkpd4i7cx3aof.sevenbet.com": [
       "certificate_transparency"
     ],
     "xn--slot-v---76gb9faoc0a6am5dva3a7bxhva.petcbd.io": [
-      "certificate_transparency"
-    ],
-    "xn--slot-v-casino--yn35ai521asa2126a.saindustries.net.in": [
       "certificate_transparency"
     ],
     "xn--slot-web--yj2a7gyg.lartocrate.com": [
@@ -5438,9 +6047,6 @@
     "xn--spinix-slot--p50b4jvctgpe7m.bigbusinessnetworks.com": [
       "certificate_transparency"
     ],
-    "xn--w69-slot--3i2aqima4k4bd3yua4q.dannewerk.com": [
-      "certificate_transparency"
-    ],
     "xn--wink-slot--zc5ayina4l8bd00ava5r.newhomesteadersalmanac.com": [
       "certificate_transparency"
     ],
@@ -5450,20 +6056,20 @@
     "xn--wow-slot--8h2a7a2skf5i7c4m.newhomesteadersalmanac.com": [
       "certificate_transparency"
     ],
-    "xn--zbet168-slot--us3b2cvnlqc8xng.farrautomation.com": [
-      "certificate_transparency"
-    ],
     "yabet.com": [
       "curated_gambling_feeds"
     ],
     "yakocasino.com": [
       "curated_gambling_feeds"
     ],
+    "yeshiva.org.il": [
+      "certificate_transparency"
+    ],
+    "yesplay.bet": [
+      "certificate_transparency"
+    ],
     "yeticasino.com": [
       "curated_gambling_feeds"
-    ],
-    "yihao-fun.cyou": [
-      "certificate_transparency"
     ],
     "yobetit.com": [
       "curated_gambling_feeds"
@@ -5479,6 +6085,9 @@
     ],
     "zenitbet.com": [
       "curated_gambling_feeds"
+    ],
+    "zet.bet": [
+      "certificate_transparency"
     ],
     "zetpoker.eu": [
       "curated_gambling_feeds"
@@ -5505,6 +6114,8 @@
     "12bet.uk",
     "1337bid.com",
     "138.com",
+    "150poker.com",
+    "168sbobetthai.com",
     "180bets.com",
     "188bet.com",
     "18bet.com",
@@ -5513,6 +6124,7 @@
     "1stlines.com",
     "1vice.ag",
     "1x2plus.com",
+    "1x2sportsbet.com",
     "1xbet.com",
     "21bet.com",
     "21casino.com",
@@ -5567,10 +6179,14 @@
     "adda.games",
     "adjarabet.com",
     "admin.slot---ug.com",
+    "admiral.it",
     "admiralspot.com",
+    "advanced.bet",
     "agentspinner.com",
     "ahacasino.com",
     "ahtigames.com",
+    "alefbetmontessori.org",
+    "alephbet.com",
     "alfcasino.com",
     "allhorseracing.ag",
     "allpro.eu",
@@ -5578,7 +6194,9 @@
     "allstarsportsbook.com",
     "allyoubet.ag",
     "alohasportsbook.com",
+    "alohirdavat.com",
     "alphadraft.com",
+    "alt.bet",
     "amarta99.newsrt.us",
     "amcleanbookmakers.com",
     "americanfootballbetting.com",
@@ -5587,9 +6205,12 @@
     "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
     "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "amp-slot-thailand-alfarepit--musicotherapie-cycle-2.pages.dev",
+    "analfa.bet",
     "anonibet.com",
     "api.freeslotgamesoflasvegas.com",
     "api.slot---ug.com",
+    "api.x-trade.bet",
+    "apk.bet",
     "apollobet.com",
     "app.hkmahjong.com.hk",
     "app.slot---ug.com",
@@ -5599,7 +6220,9 @@
     "artemisbet10.com",
     "asianbeta.com",
     "assets.slot---ug.com",
+    "assetshole.net",
     "atg.se",
+    "auth.x-trade.bet",
     "axbet.com",
     "azcasino.com",
     "azurcasino2.com",
@@ -5625,8 +6248,10 @@
     "bet-52.com",
     "bet-at-home.com",
     "bet-csgo.com",
+    "bet-live.ba",
     "bet.co.za",
     "bet.hkjc.com",
+    "bet.net",
     "bet.pkr.com",
     "bet1128.com",
     "bet11888.com",
@@ -5638,6 +6263,7 @@
     "bet33.com",
     "bet365.com",
     "bet365.es",
+    "bet4rate.com",
     "bet7days.com",
     "bet90.com",
     "betadonis55.com",
@@ -5646,11 +6272,13 @@
     "betamerica.com",
     "betandclick.com",
     "betanysports.eu",
+    "betawards2big2pick.com",
     "betbanks.com",
     "betbigdollar.com",
     "betboro.com",
     "betbright.com",
     "betbuckeyesports.com",
+    "betbutler.co.uk",
     "betbyrne.com",
     "betcanadian.com",
     "betcapri.com",
@@ -5667,6 +6295,8 @@
     "betcris.com",
     "betcruise.com",
     "betdaq.com",
+    "betdcwork.bet.net",
+    "betdirect.com",
     "betdna.com",
     "betdon.com",
     "betdsi.eu",
@@ -5691,6 +6321,8 @@
     "betin.com",
     "betin1.com",
     "betinternet.com",
+    "betinvestltd.com",
+    "betitbest.com",
     "betive.com",
     "betjamaica.com",
     "betjambo.com",
@@ -5700,6 +6332,7 @@
     "betline.com",
     "betliner.com",
     "betlm.eu",
+    "betmanager.globalzitro.com",
     "betmania.ag",
     "betmclean.com",
     "betmgm.com",
@@ -5712,9 +6345,11 @@
     "betngo.com",
     "betodds.ag",
     "betondunhill.com",
+    "betone2one.com",
     "betonline.ag",
     "betonline.com",
     "betonline247.com",
+    "betonpoker.biz",
     "betonusa.ag",
     "betorca.com",
     "betoto.com",
@@ -5726,6 +6361,7 @@
     "betphoenix.ag",
     "betplatinum.ag",
     "betplay.com",
+    "betplus.bet",
     "betpop.eu",
     "betprestige.com",
     "betprimetime.com",
@@ -5775,6 +6411,7 @@
     "betuniq.eu",
     "betus.com.pa",
     "betusa.ag",
+    "betvalue.com",
     "betvictor.com",
     "betway.com",
     "betworks.com",
@@ -5783,9 +6420,11 @@
     "betzone.com",
     "bgbet.com",
     "bgo.com",
+    "bia.bet",
     "big-easy-slot-free-online-de-de--78007419.kosmetik-stralsund.de",
     "bigbetworld.com",
     "bigcitysportsbook.com",
+    "bigombet.com",
     "bigspincasino.com",
     "bingo.com",
     "bingo.vernons.com",
@@ -5804,6 +6443,7 @@
     "blackjackballroom.eu",
     "blazing-7-s-slot-machine-strategy-de-de--53990509.westernholz.de",
     "blitzpools.com",
+    "blog.bet4thebest.com",
     "bobcasino.com",
     "bobetting.com",
     "bobregister.com",
@@ -5814,12 +6454,12 @@
     "bombaybets.eu",
     "bonus-rounds-on-slot-machines-de-de--92408984.borsan.de",
     "book247.eu",
-    "bookbyslot.com",
     "bookies.com.au",
     "bookmaker.com.au",
     "bookmaker.eu",
     "bookmaker7.com",
     "bookmakerclub.com",
+    "bookmakers.bet",
     "bootloader-has-slot-recovery--not-found.horgaszat-vadaszat.ro",
     "bootloader-has-slot-recovery--not-found.utcfssecurityproducts.eu",
     "borgataonline.com",
@@ -5836,6 +6476,8 @@
     "bulldog777.com",
     "bulletbets.com",
     "butterflybingo.com",
+    "butternut.bet",
+    "buy-birth-control.com",
     "bwin.com",
     "c-e-este-slot-ci--compatibil-digi.horgaszat-vadaszat.ro",
     "c-e-este-slot-ci--compatibil-digi.utcfssecurityproducts.eu",
@@ -5849,7 +6491,10 @@
     "captaincookscasino.eu",
     "carbonsports.ag",
     "cardbet.com",
+    "cardcasino.bet",
     "caribsports.com",
+    "cartoleiro.bet",
+    "casapariurilor.bet",
     "cashiopeia.com",
     "cashmio.com",
     "cashpoint.com",
@@ -5868,6 +6513,7 @@
     "casino.org",
     "casino.synottip.cz",
     "casino.vernons.com",
+    "casino.victory.bet",
     "casino.williamhill.com",
     "casinoandfriends.com",
     "casinobitco.in",
@@ -5892,9 +6538,11 @@
     "casinsi.com",
     "casumo.com",
     "cbmsport.com",
+    "cbook.co.il",
     "cc898.com",
     "ce-este-conexiuni-rf-in-slot-ci--av-dlna.cerrec.eu",
     "celebbingo.com",
+    "celery-static.x-trade.bet",
     "centrebet.com",
     "cgaming.olg.ca",
     "champagnebingo.com",
@@ -5909,10 +6557,15 @@
     "chinesebookie.eu",
     "chisholmbet.com",
     "cibolocreekquiltersguild.com",
+    "cipet.bet",
+    "circle.bet",
     "circlebet.com",
     "circusbingo.com",
+    "citrix.bettzedek.org",
     "citybingo.com",
     "ciwox.com",
+    "clan.bet",
+    "clic.bet",
     "clickngamble.ag",
     "cloudbet.com",
     "cmdbet.com",
@@ -5921,10 +6574,11 @@
     "cocktailbingo.com",
     "codeta.com",
     "coffeebingo.com",
-    "coin-slot-irritation-de-de--78007419.kosmetik-stralsund.de",
     "coin-slot-lotion-de-de--78007419.kosmetik-stralsund.de",
     "coin-slot-uk-de-de--14707347.borsan.de",
+    "colorheritage.com",
     "colossusbets.com",
+    "comeback.bet",
     "comebackskins.com",
     "comeon.com",
     "completesportsbetting.com.au",
@@ -5939,11 +6593,13 @@
     "creditwagering.com",
     "cresuscasino.com",
     "cricketbetlive.com",
+    "cricketbettingtipsfree.bet",
     "crowin24.com",
     "crownbet.com",
     "crownbet.com.au",
     "crsportsbet.ag",
     "crsportsbetting.com",
+    "csb.bet",
     "csgo-casino.com",
     "csgo-dream.com",
     "csgo-easy.com",
@@ -6013,8 +6669,11 @@
     "csgowheel.com",
     "cshub.net",
     "cspotluck.com",
+    "cubepad.com",
     "cupcakebingo.co.uk",
     "cupcakebingo.com",
+    "cvolo.com",
+    "cyberclubcasino.com",
     "d.online--slot--play.xyz",
     "dadobet.com",
     "dafabet.com",
@@ -6022,15 +6681,19 @@
     "daisybingo.com",
     "dakotacasino.com",
     "damacai.com.my",
+    "danmark.bet",
     "danskespil.dk",
     "dantoto.dk",
+    "dash.bet.farreny.net",
     "dashbet.com",
     "dccasino.com",
     "de.888casino.com",
     "dealerscasino.com",
+    "deals4u.co.il",
     "degrootenslot.nl",
     "demo.slot---ug.com",
     "desertnightscasino.co.uk",
+    "dev.mediapplications.com",
     "dev.slot---ug.com",
     "dhoze.com",
     "dhs.vpn.arkansas.gov",
@@ -6045,9 +6708,11 @@
     "digibet.com",
     "dimeline.eu",
     "dinobingo.com",
+    "dir.bet",
     "directslot.com",
     "divabingo.com",
     "dlb.lk",
+    "do-be.co.il",
     "dobet.com",
     "docbet.com",
     "doribet.com",
@@ -6057,8 +6722,10 @@
     "drakecasino.eu",
     "dream11.com",
     "dreamjackpot.com",
+    "dreamsmoke.com",
     "dreamvegas.com",
     "dreamz.com",
+    "dro.bet",
     "drueckglueck.com",
     "dublinbet1.com",
     "duelz.com",
@@ -6068,6 +6735,7 @@
     "e-lotto.be",
     "e-stave.com",
     "easy-bank-beta.vercel.app",
+    "easy-bet.biz",
     "easytowager.com",
     "ebetusa.com",
     "eccobet.com",
@@ -6076,6 +6744,7 @@
     "eestiloto.ee",
     "efbet.com",
     "efirbet.com",
+    "efortuna.bet",
     "egamingbets.com",
     "ehorse.com",
     "elitebetkenya.com",
@@ -6099,8 +6768,10 @@
     "eurobet.bg",
     "europe-bet.com",
     "euroslots.com",
+    "evanbrady.bet",
     "evobet.com",
     "exbeteu.com",
+    "exchange.betterbet.com",
     "exebet.com",
     "expekt.com",
     "extreme-sportsbetting.com",
@@ -6128,8 +6799,11 @@
     "fi.888casino.com",
     "fi.casiplay.com",
     "fikacasino.com",
+    "files.x-trade.bet",
+    "firebaseapp.com",
     "fivestarsearch.com",
     "flemingtonsportsbet.com.au",
+    "flint.bet",
     "flumecasino.com",
     "flymodelcars.com",
     "folkeautomaten.com",
@@ -6139,7 +6813,9 @@
     "fortunejack.com",
     "fortunelegends.com",
     "forum-asti-slot-de-de--393904311.borsan.de",
+    "fotbal.bet",
     "fr.royalvegascasino.com",
+    "framesemporium.com",
     "france-pari.fr",
     "frankcasino.com",
     "frankfred.com",
@@ -6154,15 +6830,19 @@
     "free-slot-machine-lord-of-the-ocean-de-de--962662111.borsan.de",
     "free-tomb-raider-2-slot-game-de-de--5642742.printrepair.de",
     "free-zeus-slot-app-de-de--96972621.a-j-a.de",
+    "freshbet.com",
     "fruitycasa.com",
+    "fsasport.com",
     "fsport.net",
     "fta.dhs.arkansas.gov",
     "fullbetter.com",
     "fun-bet.com",
     "fun88.co.uk",
     "funcasino.com",
+    "gala-flex.com",
     "galacasino.com",
     "galaksipokerqq.com",
+    "galaxy-bet.com",
     "galaxybetting.com",
     "galaxysports.com",
     "gamblecsgo.com",
@@ -6170,6 +6850,7 @@
     "gamdom.com",
     "game-dragons-2-slot-machine-de-de--819575729.borsan.de",
     "game-slot-juggler-de-de--5642742.printrepair.de",
+    "game.admiral.it",
     "gamebookers.com",
     "gamerjackpot.com",
     "games.bet365.com",
@@ -6185,6 +6866,7 @@
     "getlucky.com",
     "giochibingo.org",
     "giocoreale.com",
+    "giwi.bet",
     "glimmercasino.com",
     "global.138.com",
     "globalwagering.ws",
@@ -6198,6 +6880,7 @@
     "golazobet.com",
     "goldbetsports.com",
     "goldenbetsng.com",
+    "goldluckcasino.com",
     "goldmedalbingo.com",
     "goliathcasino.com",
     "gossipbingo.com",
@@ -6209,6 +6892,7 @@
     "gracesbingo.com",
     "grandcasino.hu",
     "grandeaglecasino.com",
+    "grillinwoodsandrubs.com",
     "grosvenorcasinos.com",
     "gslot.macau-slot.com",
     "gtbets.eu",
@@ -6219,6 +6903,8 @@
     "guts.com",
     "gutshot.com",
     "gwbet.com",
+    "h2h.bet",
+    "h68.bet",
     "hajper.com",
     "hamsterbet.com",
     "hanplayer.com",
@@ -6231,6 +6917,7 @@
     "herobet.com.br",
     "heypoker.com",
     "heyspin.com",
+    "hibsgaming.com",
     "higgs-slot---qiuqiu-remi.clio-tw.com",
     "highheelsbingo.com",
     "highlifebingo.com",
@@ -6240,15 +6927,19 @@
     "hollywoodbets.net",
     "hollywoodsportsbook.eu",
     "home.olg.ca",
+    "homecasino.bet",
     "homerunsportsbetting.com",
     "hopa.com",
     "horizonsports.es",
+    "horseracingtips.bet",
     "hotlinecsgo.com",
     "housieskill.com",
     "howzat.com",
     "hpbet.com",
     "hrwager.ag",
     "hsca.gr",
+    "hu.betclic.bet",
+    "hu.everestpoker.bet",
     "hughesbet.com",
     "hunkybingo.com",
     "hycky40mu6102-slot-ci--location.hoppop.eu",
@@ -6258,11 +6949,13 @@
     "ibet789.com",
     "ibetcasino.com",
     "icecasino.com",
+    "iclub.bet",
     "ifortuna.cz",
     "igame.com",
     "igame.se",
     "ignitioncasino.eu",
     "ikibu.com",
+    "image.x-trade.bet",
     "in.1x001.com",
     "in.casinoeuro.com",
     "inbet88.com",
@@ -6284,6 +6977,7 @@
     "islandcasino.com",
     "isleofbingo.com",
     "isportbet.net",
+    "israelpharm.com",
     "itvbingo.com",
     "jack-21.com",
     "jackpotbingo.co.uk",
@@ -6320,6 +7014,7 @@
     "justforbettors.com",
     "kaboo.com",
     "kaiserslots.com",
+    "kajot.bet",
     "kalevalakasino.com",
     "karamba.com",
     "karhukasino.com",
@@ -6335,10 +7030,12 @@
     "keyarena.gg",
     "khelchamps.com",
     "king-game-slot-machine-de-de--14707347.borsan.de",
+    "kingcoin.bet",
     "kingneptunescasino.com",
     "kingneptunescasino.eu",
     "kingschancecampaign.com",
     "kingswaybingoonline.com",
+    "kiosk.bet-lotto.com",
     "kirsikka.com",
     "kissmybingo.com",
     "klasselotteriet.dk",
@@ -6370,6 +7067,7 @@
     "libertyslots.eu",
     "liga365.com",
     "lightbet.com",
+    "lily.siemens.com",
     "lincolncasino.eu",
     "linesmaker.eu",
     "link2bet.com",
@@ -6380,10 +7078,12 @@
     "livebetting.com",
     "livebingo.com",
     "livecasino.betway.com",
+    "livecasino.scommettiqui.com",
     "livecasino.williamhill.com",
     "livelounge.com",
     "livepools.com",
     "livesports.ag",
+    "lk.taxi.bet",
     "llamabet.co.uk",
     "lldj.com",
     "lmbookmaker.com",
@@ -6436,6 +7136,7 @@
     "lucky-31.com",
     "lucky-88-slot-game-de-de--859622945.borsan.de",
     "lucky-slot-online-free-de-de--3982502.ferienhaus-duemmer.de",
+    "lucky8.bet",
     "lucky8.com",
     "luckycasino.com",
     "luckycharmbingo.com",
@@ -6446,6 +7147,7 @@
     "luckyluke.com",
     "luckymeslots.com",
     "luckyniki.com",
+    "luckystar.bet",
     "luckywinslots.com",
     "lumibet.com",
     "lutrija.co.me",
@@ -6453,10 +7155,11 @@
     "lutrija.rs",
     "luxbet.com",
     "luxurycasino.com",
+    "m.betclic.bet",
     "m.boylesports.com",
     "m.jetbull.com",
+    "m.playsport.bet",
     "m.skybet.com",
-    "m.xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.beyondtheduel.com",
     "m8bet.net",
     "m8poker.com",
     "macau-slot.com",
@@ -6472,19 +7175,25 @@
     "mahjong--ways.noma.com",
     "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de",
     "mahjong-download-windows-10--167758106.helpclean.de",
+    "mail.bethashita.org.il",
+    "mail.bettzedek.org",
+    "mail.bnz.co.il",
     "mail.degrootenslot.nl",
+    "mail.inex.fr",
     "mail.macauslot.com",
     "mail.shoplvhome.com",
     "majorbet.net",
     "majorsportsbetting.com",
     "malinasports.com",
     "mamamiabingo.com",
+    "mamebet.com",
     "mansion88.com",
     "mansionbet.com",
     "marathonbet.co.uk",
     "marathonbet.com",
     "mariacasino.com",
     "markjarvisbet.com",
+    "mars.bet",
     "marsbet12.com",
     "marsbet200.com",
     "marsbet300.com",
@@ -6494,6 +7203,7 @@
     "mayansports.eu",
     "mbet.co.za",
     "mcbookie.com",
+    "mediapplications.com",
     "mega-slot--pokemon-edition.shouyou.com.tw",
     "megalotto.pl",
     "megasportsworld.com",
@@ -6505,6 +7215,7 @@
     "metspoker.com",
     "mexicocasino.com",
     "mfortune.co.uk",
+    "mgar-shaked.co.il",
     "miamicasino.com",
     "miamidice.com",
     "miamidicecasino.com",
@@ -6515,15 +7226,19 @@
     "mobil6000.com",
     "mobilautomaten.com",
     "mobilbet.com",
+    "mobile.ibbrugg.ch",
     "mobile.macau-slot.com",
     "mobilebet.com",
     "mobocasino.com",
     "mobus.dhhs.arkgov.net",
     "monacoaces.com",
     "moneyplayscasino.com",
+    "monique.bet",
+    "monitoring.x-trade.bet",
     "montecarlocasino.com",
     "morganbet.eu",
     "mozzartbet.com",
+    "mozzartbet.mk",
     "mpcasino.com",
     "mpi.gov.tr",
     "mpl.live",
@@ -6552,6 +7267,7 @@
     "mybet.com",
     "mybookie.ag",
     "mychance.com",
+    "mycontrolcard.com",
     "myfab11.com",
     "mylotto.co.nz",
     "mysportsbook.ag",
@@ -6586,6 +7302,7 @@
     "noaccountcasino.com",
     "nopeampi.com",
     "nordicbet.com",
+    "norge.bet",
     "norgesautomaten.com",
     "norgesspill.com",
     "norsk-tipping.no",
@@ -6617,6 +7334,7 @@
     "omniacasino.com",
     "oneclickmahjong.com",
     "oneto11.com",
+    "onetouchpurchasing.com",
     "onetpedia.net",
     "online--slot--machines.org",
     "online--slot--play.online",
@@ -6637,8 +7355,10 @@
     "orlandocasino.com",
     "otw-slot--gacor-vip288.pages.dev",
     "ourpricebet.com",
+    "outlook.hydacusa.com",
     "overtheodds.com.au",
     "ovocasino.com",
+    "owa.bet.net",
     "owa.konservative.dk",
     "owa.shalimarslots.ro",
     "ozbet.com.au",
@@ -6647,6 +7367,7 @@
     "paf.com",
     "pais.co.il",
     "palladiumcasino.eu",
+    "palm.bet",
     "palmerbet.com",
     "pandabet.net",
     "paradisewin.com",
@@ -6655,13 +7376,13 @@
     "parimatchplay1.com",
     "parionssport.fdj.fr",
     "pariscasino8.com",
+    "pariuri.bet",
     "partypoker.cz",
     "parxcasino.com",
     "pasarbola.com",
     "paytmfirstgames.com",
     "pelaa.com",
     "pg-slot---50.het-hobbydomein.nl",
-    "pg-slot--50.paraguaylife.com",
     "pg-slot-game---free.bravodriver.com",
     "pikakasino.com",
     "pini-slot-ci--indoiti.eurodiffusions.eu",
@@ -6685,6 +7406,7 @@
     "playnow.com",
     "playojo.com",
     "playolg.ca",
+    "playsport.bet",
     "playsugarhouse.com",
     "playzax-top.com",
     "plexodds.com",
@@ -6692,6 +7414,7 @@
     "pocketvegas.co.uk",
     "pointcasino.com",
     "pointsbet.com",
+    "poker.admiral.it",
     "poker.betway.com",
     "poker.synottip.cz",
     "poker.williamhill.com",
@@ -6715,6 +7438,7 @@
     "primedice.com",
     "primeslots.com",
     "pro-factory.com",
+    "profi.bet",
     "proline.ca",
     "promo.casinoroom.com",
     "promo.ladbrokes.com",
@@ -6729,6 +7453,8 @@
     "punchbets.com",
     "purepoker.eu",
     "purewin.com",
+    "qoolife.com",
+    "qormibet.com",
     "queenvegas.com",
     "racebets.com",
     "raj.bet",
@@ -6741,10 +7467,12 @@
     "ravee88-menuju-slot--gacor.pages.dev",
     "rb88.com",
     "rd.dhs.arkansas.gov",
+    "rdgw.bendiks-transport.no",
     "readytobet.com",
     "realbet.eu",
     "realdealbet.com",
     "rebatewager.ag",
+    "rebuystars.bet",
     "redbet.com",
     "reddogcasinobonuses.com",
     "redkings.com",
@@ -6755,9 +7483,11 @@
     "refuelcasino.com",
     "regionalwinsite.com",
     "remote.slotfrans.nl",
+    "rent.bet",
     "ridika.com",
     "rig-slot-eve-online-de-de--78007419.kosmetik-stralsund.de",
     "rikstoto.no",
+    "risingbetclub.com",
     "rivalo.com",
     "riverbellecasino.com",
     "rizk.com",
@@ -6772,8 +7502,10 @@
     "rubet.com",
     "rummy24.com",
     "rush777.com",
-    "s-c-best-slot--amp-gambling-s-r-l.horgaszat-vadaszat.ro",
     "s-c-best-slot--amp-gambling-s-r-l.utcfssecurityproducts.eu",
+    "s8s.bet",
+    "sadmin.bet-trade.com",
+    "sadmin.x-trade.bet",
     "safaribet.com.gh",
     "saharabet.com",
     "samvo.com",
@@ -6781,9 +7513,11 @@
     "saturnplay.com",
     "save-slot--save-slot.us-central1.hosted.app",
     "sazka.cz",
+    "sazkabet.bet",
     "sbgglobal.eu",
     "sblp.intertops.eu",
     "sbobet.com",
+    "scandi.bet",
     "scandibet.com",
     "scasino.com",
     "score99.net",
@@ -6794,11 +7528,14 @@
     "sectorbet.com",
     "secure.bkbet.eu",
     "secure.museumoudeslot.nl",
+    "secure.xserver.ne.jp",
     "sem.slotloevestein.nl",
     "server-kamboja.newsrt.us",
     "server-thailand.newsrt.us",
     "sesbet.com",
     "setantabet.com",
+    "shadesemporium.com",
+    "shohar.net",
     "shop.forum-asti-slot-de-de--393904311.borsan.de",
     "sim-karten-slot-defekt--92237888.forum-rettungsdienst.de",
     "sim-slot--905526765.jasont.de",
@@ -6807,6 +7544,7 @@
     "sirjackpot.com",
     "sisal.it",
     "sisportsbook.com",
+    "sixcore.ne.jp",
     "sjbet.at",
     "skedina.com",
     "skinarena.com",
@@ -6827,7 +7565,6 @@
     "slot---ug.com",
     "slot--5k.pages.dev",
     "slot--88.pages.dev",
-    "slot--bonus--new--member--100--gacor-pages-dev.cdnampproject.org",
     "slot--bonus.powerappsportals.com",
     "slot--club.online",
     "slot--dana.dermablend.com",
@@ -6845,8 +7582,6 @@
     "slot--online-gacor.thebotanist.com",
     "slot--online-gacor.walesbonner.net",
     "slot--parking-system-65efd.us-central1.hosted.app",
-    "slot--pg.com",
-    "slot--pgsw.cyou",
     "slot--qris.pages.dev",
     "slot--ra.ru",
     "slot--thailand.it.com",
@@ -6857,7 +7592,6 @@
     "slot--toto.pages.dev",
     "slot--v.online",
     "slot--v.site",
-    "slot--wd.cyou",
     "slot-10-casino-de-de--627422181.borsan.de",
     "slot-4u-de-de--514921827.kieferorthopaedie-in-duesseldorf.de",
     "slot-77-de-de--853103308.kieferorthopaedie-in-duesseldorf.de",
@@ -6866,7 +7600,6 @@
     "slot-c--ce-este.cerrec.eu",
     "slot-ci--coaxial.horgaszat-vadaszat.ro",
     "slot-ci--coaxial.utcfssecurityproducts.eu",
-    "slot-ci--digi.labiclaloca.ro",
     "slot-ci--digi.menzenschwand.eu",
     "slot-ci--focus-sat.menzenschwand.eu",
     "slot-ci--pret.stirigay.ro",
@@ -6891,8 +7624,6 @@
     "slot-luat--negeri.lilys.com",
     "slot-machine---free-casino.habererciyes.com",
     "slot-machine--games.com",
-    "slot-machine--slot-machine-da5d6.asia-east1.hosted.app",
-    "slot-machine--yogu-slot-machine.europe-west4.hosted.app",
     "slot-machine-2012-de-de--492555162.jasont.de",
     "slot-machine-8-line-de-de--286935078.borsan.de",
     "slot-machine-game-777-de-de--96972621.a-j-a.de",
@@ -6901,7 +7632,6 @@
     "slot-machine-no-download-de-de--93145366.westernholz.de",
     "slot-machine-novomatic-de-de--709017258.borsan.de",
     "slot-machine-odds-de-de--872757444.ferienhaus-duemmer.de",
-    "slot-machine-test--slotmachinetest-379ae.us-central1.hosted.app",
     "slot-machines-4-sale-de-de--998173403.borsan.de",
     "slot-machines-crossword-clue-de-de--830848298.printrepair.de",
     "slot-machines-kajot-de-de--96972621.a-j-a.de",
@@ -6941,10 +7671,105 @@
     "smashsportsbetting.com",
     "snabbare.com",
     "sni.cloudflaressl.com",
+    "sni102664.cloudflaressl.com",
+    "sni11059.cloudflaressl.com",
+    "sni116704.cloudflaressl.com",
+    "sni133729.cloudflaressl.com",
+    "sni134164.cloudflaressl.com",
+    "sni141122.cloudflaressl.com",
+    "sni141618.cloudflaressl.com",
+    "sni142028.cloudflaressl.com",
+    "sni142524.cloudflaressl.com",
+    "sni144969.cloudflaressl.com",
+    "sni147549.cloudflaressl.com",
+    "sni151203.cloudflaressl.com",
+    "sni151991.cloudflaressl.com",
+    "sni155352.cloudflaressl.com",
+    "sni155742.cloudflaressl.com",
+    "sni163883.cloudflaressl.com",
+    "sni167488.cloudflaressl.com",
+    "sni167720.cloudflaressl.com",
+    "sni167826.cloudflaressl.com",
+    "sni172073.cloudflaressl.com",
+    "sni174155.cloudflaressl.com",
+    "sni177483.cloudflaressl.com",
+    "sni178027.cloudflaressl.com",
+    "sni179963.cloudflaressl.com",
+    "sni181886.cloudflaressl.com",
+    "sni185647.cloudflaressl.com",
+    "sni185686.cloudflaressl.com",
+    "sni189812.cloudflaressl.com",
+    "sni192795.cloudflaressl.com",
+    "sni193742.cloudflaressl.com",
+    "sni193807.cloudflaressl.com",
+    "sni193814.cloudflaressl.com",
+    "sni198176.cloudflaressl.com",
+    "sni199926.cloudflaressl.com",
+    "sni201373.cloudflaressl.com",
+    "sni203298.cloudflaressl.com",
+    "sni207742.cloudflaressl.com",
+    "sni208095.cloudflaressl.com",
+    "sni212701.cloudflaressl.com",
+    "sni215303.cloudflaressl.com",
     "sni22069.cloudflaressl.com",
     "sni221851.cloudflaressl.com",
+    "sni222385.cloudflaressl.com",
+    "sni223282.cloudflaressl.com",
+    "sni224974.cloudflaressl.com",
+    "sni225202.cloudflaressl.com",
+    "sni225969.cloudflaressl.com",
+    "sni225977.cloudflaressl.com",
+    "sni225984.cloudflaressl.com",
+    "sni226001.cloudflaressl.com",
+    "sni226233.cloudflaressl.com",
+    "sni227499.cloudflaressl.com",
+    "sni22761.cloudflaressl.com",
+    "sni228447.cloudflaressl.com",
+    "sni228623.cloudflaressl.com",
+    "sni229042.cloudflaressl.com",
+    "sni232409.cloudflaressl.com",
+    "sni232741.cloudflaressl.com",
+    "sni233213.cloudflaressl.com",
+    "sni233228.cloudflaressl.com",
+    "sni235880.cloudflaressl.com",
+    "sni236262.cloudflaressl.com",
+    "sni236265.cloudflaressl.com",
+    "sni236266.cloudflaressl.com",
+    "sni236866.cloudflaressl.com",
+    "sni239714.cloudflaressl.com",
+    "sni24211.cloudflaressl.com",
+    "sni243822.cloudflaressl.com",
+    "sni248738.cloudflaressl.com",
+    "sni251842.cloudflaressl.com",
+    "sni252523.cloudflaressl.com",
+    "sni27097.cloudflaressl.com",
+    "sni27553.cloudflaressl.com",
+    "sni307797.cloudflaressl.com",
+    "sni31038.cloudflaressl.com",
+    "sni33657.cloudflaressl.com",
+    "sni34994.cloudflaressl.com",
+    "sni36282.cloudflaressl.com",
+    "sni36845.cloudflaressl.com",
+    "sni38455.cloudflaressl.com",
+    "sni40551.cloudflaressl.com",
+    "sni42941.cloudflaressl.com",
+    "sni50809.cloudflaressl.com",
+    "sni55267.cloudflaressl.com",
+    "sni57345.cloudflaressl.com",
+    "sni57516.cloudflaressl.com",
+    "sni57556.cloudflaressl.com",
+    "sni57622.cloudflaressl.com",
+    "sni61427.cloudflaressl.com",
+    "sni67241.cloudflaressl.com",
+    "sni70431.cloudflaressl.com",
+    "sni76787.cloudflaressl.com",
+    "sni78288.cloudflaressl.com",
+    "sni81378.cloudflaressl.com",
+    "sni81545.cloudflaressl.com",
+    "sni94804.cloudflaressl.com",
     "socalsportbook.com",
     "softbet.eu",
+    "sosbet.com",
     "spartansslots.net",
     "speedybet.com",
     "spela.com",
@@ -6958,6 +7783,7 @@
     "spinson.com",
     "spinstation.com",
     "spinzilla.com",
+    "sporbahissiteleri.bet",
     "sport-gewin.com",
     "sport.netbet.co.uk",
     "sport.synottip.cz",
@@ -6968,6 +7794,7 @@
     "sportingindex.com",
     "sportjunki.com",
     "sportlife.com.mk",
+    "sportmedia.bet",
     "sportodds.com",
     "sports-gambling.com",
     "sports.betway.com",
@@ -7003,6 +7830,20 @@
     "sporttime.net",
     "sportzbookz.com",
     "spreadex.com",
+    "ssl.bet-alert.com",
+    "ssl368402.cloudflaressl.com",
+    "ssl370592.cloudflaressl.com",
+    "ssl371933.cloudflaressl.com",
+    "ssl372182.cloudflaressl.com",
+    "ssl375865.cloudflaressl.com",
+    "ssl376693.cloudflaressl.com",
+    "ssl379257.cloudflaressl.com",
+    "ssl379260.cloudflaressl.com",
+    "ssl380841.cloudflaressl.com",
+    "ssl387969.cloudflaressl.com",
+    "ssl387971.cloudflaressl.com",
+    "ssl391172.cloudflaressl.com",
+    "ssl404686.cloudflaressl.com",
     "sssbet.com",
     "staatsloterij.nederlandseloterij.nl",
     "stakers.com",
@@ -7012,6 +7853,7 @@
     "start.duelz.com",
     "statsloterij.nederlandseloterij.nl",
     "statusbet.com",
+    "step.bet",
     "stoloto.ru",
     "storspelare.com",
     "storspiller.com",
@@ -7030,9 +7872,11 @@
     "supersoccer.co.uk",
     "supersportsbook.com",
     "superusacasino.com",
+    "surebet.bet",
     "surf.casino",
     "sveacasino.se",
     "svedalacasino.com",
+    "svensk.bet",
     "svenskaspel.se",
     "sverigeautomaten.com",
     "sverigecasino.com",
@@ -7041,6 +7885,7 @@
     "swedencasino.se",
     "switchbot-1-slot-download-de-de--612970888.borsan.de",
     "sws.fhkd.org",
+    "syndicatebet.com.au",
     "synottip.cz",
     "szerencsejatek.hu",
     "szuperlotto.com",
@@ -7050,8 +7895,10 @@
     "taiwanlottery.com.tw",
     "takarakuji-official.jp",
     "tatts.com",
+    "taxi.tzk.su",
     "templenile.com",
     "tempobet.com",
+    "terminals.x-trade.bet",
     "test.slot---ug.com",
     "texascasino.com",
     "the-best-casino-slot-machines-de-de--198348263.borsan.de",
@@ -7059,6 +7906,7 @@
     "thebetarena.com",
     "thebettingguy.co.uk",
     "thegreek.com",
+    "theisraelboutique.com",
     "thelotter.com",
     "third-mahjong--third-mahjong.asia-east1.hosted.app",
     "thrills.com",
@@ -7068,6 +7916,8 @@
     "tipico.com",
     "tipos.sk",
     "tipp24.com",
+    "tipsport.bet",
+    "tipsport.com",
     "tipsport.cz",
     "tipwin.com",
     "titanbet.com",
@@ -7159,8 +8009,10 @@
     "wap.macau-slot.com",
     "wazamba.com",
     "webbookmakers.com",
+    "webcamsex.bet",
     "webmail.degrootenslot.nl",
     "webmail.intragroen.nl",
+    "webmail.xserver.jp",
     "westlotto.de",
     "wettpunkt.com",
     "wgh.ag",
@@ -7189,128 +8041,86 @@
     "worldsportsbetting.co.za",
     "worldstar.co.ug",
     "worldwidegamble.com",
+    "wow.bet",
     "wunderino.com",
     "ww1.online--slot--play.xyz",
-    "ww25.xn--pg-slot--vip-r00b8hwcthrc70ake.friendlymobilesites.com",
     "ww38.xn--slot---1-wpz5fi4cjf4kpc1fup.suckhoetretho.info",
     "wwin.ba",
     "wwin.com",
     "xinweide.com",
     "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org",
-    "xn---pg-slot--fn2aaj8c7jkt8df4kpa1k2ivf7c.chirkofff.com",
     "xn---pg-slot--uo2a9c4bo0vqf7e.myhotmaxima.com",
     "xn---pg-slot-auto---2f9bmduob0tsjc8gc26a.troratad.net",
-    "xn---pg-slot-auto---2f9bmduob0tsjc8gc4ld5tkj.france-copte.net",
     "xn---slot--v1t5e0aw6e4bqb2j3fphuf.ukrainian-language.com",
-    "xn--amb-slot--3i2aqima4k4bd3yua4q.onstarshipsanddragonwings.com",
     "xn--amb-slot--3i2aqima4k4bd3yua4q.ukrainian-language.com",
     "xn--area-slot--dc5apna8jqe8d5a1ktf6gra.mphp.org",
-    "xn--area-slot--dc5arc5looc6ttf.softwaredescargas.com",
     "xn--arne-slot--zc5a4wfe.sevenbet.com",
-    "xn--avenger-slot--us3b2cvnlqc8xng.motoclubalmeria.com",
     "xn--book-of-shadows-slot--qf6dps3grisgmtqd.sevenbet.com",
-    "xn--demo-slot-pg--uu3b7hvbxb8pb2nqq1f.cygniteframework.com",
-    "xn--ez-slot--7ozuhla4j1bd6wta3p.reviews-washer-dryer.com",
     "xn--g2g1-slot--dc5arc5looc6ttf.kovarstvivalasek.com",
     "xn--game-slot--xd5auhoczg9byz4d.samsung-android-transfer.com",
     "xn--gans-slot--dc5arc5looc6ttf.sevenbet.com",
     "xn--jili-slot---547apk2ca6lobzff9isbh3lpa5omigr.outdooridee.com",
     "xn--joker-slot--w67a1htc8gpcyzhe.outdooridee.com",
     "xn--ka-gaming-slot--fh9b6ksa4qzcd58a0a0x.sevenbet.com",
-    "xn--king-slot--1b5a9ma0o0c1lxe4f.archive-iussp.org",
-    "xn--lucky-barr-slot--c91codspssc02a8g.garngalleriet.com",
     "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com",
     "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com",
     "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com",
     "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com",
     "xn--mgm-slot---0b5a6lnb8f3a8de71ajfvf.myhotmaxima.com",
-    "xn--n83-slot--ji2ayma9i5d5d3a4j8eygqa.kowabungaecoproject.com",
     "xn--n89-slot--188-jt3b7jqa4otcd15aya8u.thehanhle.com",
-    "xn--pg-slot-----nc8a1a0aa5kocd4gycba44c.chirkofff.com",
     "xn--pg-slot-----t47ab0z6bau1kwcd4hm2dba51cid.outdooridee.com",
-    "xn--pg-slot-----u57apb2nlae2f0e3cde9euq2a3xh6p.garngalleriet.com",
-    "xn--pg-slot---2i2aqima5k3be2yva3q.php-hispano.net",
     "xn--pg-slot---8h2a5a2b8lcm7fyd7cdd5s8cxc1a1yoa.myhotmaxima.com",
-    "xn--pg-slot---xj2a7g0a9a2j6a0af2irqia3l.dcafterfive.com",
     "xn--pg-slot---xj2a7g0aa1b2jd8a2ah4j4kkfl1n.outdooridee.com",
     "xn--pg-slot--1-vd5a5gk2dlf2mvc8fodc33arf.newhomesteadersalmanac.com",
-    "xn--pg-slot--3tztgaw2f7n.reviews-washer-dryer.com",
     "xn--pg-slot--7oza9dwkktc5g.sevenbet.com",
-    "xn--pg-slot--ctz3aw1isb54amb4i.kowabungaecoproject.com",
-    "xn--pg-slot--goz4j7a8b2opc.motoclubalmeria.com",
     "xn--pg-slot--goz4jlax3c5g3a8gc8fzn.foodefare.com",
-    "xn--pg-slot--hoz3bj1opa6cyipc6jc8xka2m6a.chirkofff.com",
-    "xn--pg-slot--ltztba8a5dq8n2cxmb3e4dbg8g.dcafterfive.com",
     "xn--pg-slot--muzuc2bv5stfze.ukrainian-language.com",
     "xn--pg-slot--n4z.ukrainian-language.com",
     "xn--pg-slot--poz3b9kymc8q6e.lartocrate.com",
-    "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.beyondtheduel.com",
     "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.ukrainian-language.com",
     "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com",
-    "xn--pg-slot--zpztg5b8f2b1xtd.onstarshipsanddragonwings.com",
     "xn--pg-slot--zpztg5b8f2b1xtd.pages.dev",
-    "xn--pg-slot-888---us3b1cvnlqd8xng.sedonagoldmenus.com",
     "xn--pg-slot-auto--1v3bymsb8j4h1c.jeffpeel.net",
-    "xn--pg-slot-free--g03b2c6i6a9c2c4x2ed.archive-iussp.org",
     "xn--pg-slot-in--v57a6ioa4mncd71awa6s.ukrainian-language.com",
     "xn--pg-slot-to--647auctm1oc0v2f.sevenbet.com",
     "xn--pg-slot-true-wallet--1j3dwa15bwa9eb7h9ea17ameyak1hwzveg9a1m.newhomesteadersalmanac.com",
     "xn--pp-slot--zpz3f6a0a8mb2jtnve.commonnewsupdate.com",
     "xn--pp-slot--zpztg5b8f2b1x.vietcargroup.com",
-    "xn--pxj-slot---dc5aqc5lood6ttf.dannewerk.com",
-    "xn--pxj-slot---dc5aqc5lood6ttf.forum-labas.com",
-    "xn--razor-shark-slot--634cyp3foh1f5q7c.softwaredescargas.com",
     "xn--roma-slot--xd5auhoczg9byz4d.ukrainian-language.com",
     "xn--shark-pg-slot--om6b5ctokrc2zwg.bravodriver.com",
     "xn--slot---10tub3id7bh8ga0a5d8jua6c3nmdwc4agw1i.bigbusinessnetworks.com",
-    "xn--slot---f1tugj5htbe1tsa0n.onstarshipsanddragonwings.com",
     "xn--slot---f1tugj5htbe1tsa0n.soulurns.com",
     "xn--slot--16q0b6g5e1grgmd.ukrainian-language.com",
     "xn--slot--16q9hir1b5fay6fc8e3m.sevenbet.com",
-    "xn--slot--16qzbi3iag9lqai0nncp53atc3e.archive-iussp.org",
     "xn--slot--27q0exau4d2bub4iufrhmf.outdooridee.com",
     "xn--slot--27q7eb9aah0a8dqk5d3fzd4mjab5f2c4abg4i.cometapress.com",
     "xn--slot--27q7esb8esb8u3c.myhotmaxima.com",
-    "xn--slot--27qah0i4b1gzid6n8bve.dcafterfive.com",
     "xn--slot--27qua43a6g.sevenbet.com",
-    "xn--slot--76qvh5a4ea1poa8a5q9bgo9e.dannewerk.com",
-    "xn--slot--bbr8ah0jtb8gqf5bzb.chirkofff.com",
     "xn--slot--hbr5frb2a3x.sweetearthorganicfarm.com",
-    "xn--slot--k7q6fi4gub2mpa0l.reviews-washer-dryer.com",
-    "xn--slot--k7qua5nwc4czfqh6e.motoclubalmeria.com",
-    "xn--slot--l8qzfo8ct0n5hc1g.garngalleriet.com",
     "xn--slot--pg-wpz3f6a0n3d.sevenbet.com",
-    "xn--slot--tbro2cwbyn3a.php-hispano.net",
-    "xn--slot--tbroa4eta9m0b7b7o.paraguaylife.com",
     "xn--slot--wallet-v50b4g8kwg.sweetearthorganicfarm.com",
     "xn--slot-50--3ozea0qna4l9axdh4k0f3bza9vjb7n.sevenbet.com",
-    "xn--slot-99--7ozuhla4j1bd6wta3p.garngalleriet.com",
     "xn--slot-99--7ozuhla4j1bd6wta3p.ukrainian-language.com",
-    "xn--slot-demo--xd5a3gob4a2pb8kvoif.dannewerk.com",
-    "xn--slot-jili--xd5a3gob4a2pb8kvoif.reviews-washer-dryer.com",
     "xn--slot-pg----50-it3b7jra5orcf68c.sevenbet.com",
-    "xn--slot-pg--gozucyiogpiyh4d.reviews-washer-dryer.com",
-    "xn--slot-pg--vuz4c2c6b6rqb6cu.chirkofff.com",
     "xn--slot-true-wallet--q54cpkpd4i7cx3aof.sevenbet.com",
     "xn--slot-v---76gb9faoc0a6am5dva3a7bxhva.petcbd.io",
-    "xn--slot-v-casino--yn35ai521asa2126a.saindustries.net.in",
     "xn--slot-web--yj2a7gyg.lartocrate.com",
     "xn--slot-xo-hacker--xo--8p0dlc6vid4isd8fj9e1hnc4vmc3n.apk.ca",
     "xn--spinix-slot--p50b4jvctgpe7m.bigbusinessnetworks.com",
-    "xn--w69-slot--3i2aqima4k4bd3yua4q.dannewerk.com",
     "xn--wink-slot--zc5ayina4l8bd00ava5r.newhomesteadersalmanac.com",
     "xn--wow-slot---0h5a2g3bzdl9ipexitdc.sevenbet.com",
     "xn--wow-slot--8h2a7a2skf5i7c4m.newhomesteadersalmanac.com",
-    "xn--zbet168-slot--us3b2cvnlqc8xng.farrautomation.com",
     "yabet.com",
     "yakocasino.com",
+    "yeshiva.org.il",
+    "yesplay.bet",
     "yeticasino.com",
-    "yihao-fun.cyou",
     "yobetit.com",
     "youwager.eu",
     "youwin.com",
     "zebrabet.com.au",
     "zenitbet.com",
+    "zet.bet",
     "zetpoker.eu",
     "zeturf.fr",
     "zeus-slot-machine-de-de--469827831.knusperhaeuschen-pogeez.de",

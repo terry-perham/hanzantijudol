@@ -1,11 +1,9 @@
 {
-  "timestamp": "2026-05-10T21:47:15.817192Z",
+  "timestamp": "2026-05-11T02:51:57.027022Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 45.015,
-  "domains": [
-    "wwwdd.vercel.app"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 46.242,
+  "domains": []
 }

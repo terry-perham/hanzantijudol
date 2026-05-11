@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-05-10T21:45:16.501330Z",
-  "candidate_count": 1429,
+  "timestamp": "2026-05-11T02:49:55.208905Z",
+  "candidate_count": 1428,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-05-10T21:46:30.779664Z"
+      "timestamp": "2026-05-11T02:51:10.761985Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-05-10T21:46:32.156641Z"
+      "timestamp": "2026-05-11T02:51:12.193195Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-05-10T21:46:36.452648Z"
+      "timestamp": "2026-05-11T02:51:16.661957Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-05-10T21:46:39.762929Z"
+      "timestamp": "2026-05-11T02:51:19.944505Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-05-10T21:46:52.380522Z"
+      "timestamp": "2026-05-11T02:51:48.235492Z"
     },
     "platform_abuse_sweep": {
-      "count": 1,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-05-10T21:47:15.817715Z"
+      "timestamp": "2026-05-11T02:51:57.027484Z"
     }
   },
   "domain_sources": {
@@ -4282,9 +4282,6 @@
     "wwin.com": [
       "curated_gambling_feeds"
     ],
-    "wwwdd.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "xinweide.com": [
       "curated_gambling_feeds"
     ],
@@ -5739,7 +5736,6 @@
     "wunderino.com",
     "wwin.ba",
     "wwin.com",
-    "wwwdd.vercel.app",
     "xinweide.com",
     "yabet.com",
     "yakocasino.com",

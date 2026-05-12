@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-05-11T22:05:52.220466Z",
-  "candidate_count": 1431,
+  "timestamp": "2026-05-12T02:42:07.911701Z",
+  "candidate_count": 1428,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-05-11T22:07:01.957455Z"
+      "timestamp": "2026-05-12T02:43:26.535119Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-05-11T22:07:03.512224Z"
+      "timestamp": "2026-05-12T02:43:28.325354Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-05-11T22:07:03.830185Z"
+      "timestamp": "2026-05-12T02:43:28.751566Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-05-11T22:07:11.340267Z"
+      "timestamp": "2026-05-12T02:43:36.113432Z"
     },
     "platform_abuse_sweep": {
-      "count": 3,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-05-11T22:07:48.339942Z"
+      "timestamp": "2026-05-12T02:44:13.437206Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-05-11T22:08:02.260174Z"
+      "timestamp": "2026-05-12T02:44:49.810562Z"
     }
   },
   "domain_sources": {
@@ -246,9 +246,6 @@
     ],
     "alphadraft.com": [
       "curated_gambling_feeds"
-    ],
-    "amazon-homepage-clone-beta.vercel.app": [
-      "platform_abuse_sweep"
     ],
     "amcleanbookmakers.com": [
       "curated_gambling_feeds"
@@ -2938,9 +2935,6 @@
     "netbet.fr": [
       "curated_gambling_feeds"
     ],
-    "netflix-clone-beta-sand.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "neverfelted.eu": [
       "curated_gambling_feeds"
     ],
@@ -3300,9 +3294,6 @@
     ],
     "pro-factory.com": [
       "curated_gambling_feeds"
-    ],
-    "project-beta-topaz-83.vercel.app": [
-      "platform_abuse_sweep"
     ],
     "proline.ca": [
       "curated_gambling_feeds"
@@ -4400,7 +4391,6 @@
     "allyoubet.ag",
     "alohasportsbook.com",
     "alphadraft.com",
-    "amazon-homepage-clone-beta.vercel.app",
     "amcleanbookmakers.com",
     "americanfootballbetting.com",
     "americasbookie.com",
@@ -5297,7 +5287,6 @@
     "netbet.com",
     "netbet.de",
     "netbet.fr",
-    "netflix-clone-beta-sand.vercel.app",
     "neverfelted.eu",
     "nextcasino.com",
     "nightrush.com",
@@ -5418,7 +5407,6 @@
     "primedice.com",
     "primeslots.com",
     "pro-factory.com",
-    "project-beta-topaz-83.vercel.app",
     "proline.ca",
     "promo.casinoroom.com",
     "promo.ladbrokes.com",

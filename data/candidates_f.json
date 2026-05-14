@@ -1,9 +1,12 @@
 {
-  "timestamp": "2026-05-14T11:15:38.305491Z",
+  "timestamp": "2026-05-14T14:05:42.026389Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 45.651,
-  "domains": []
+  "candidate_count": 2,
+  "time_seconds": 45.829,
+  "domains": [
+    "bet365-games-vip.pages.dev",
+    "im-ayushgowda.github.io"
+  ]
 }

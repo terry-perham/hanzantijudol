@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-05-16T05:52:44.586000Z",
-  "candidate_count": 1803,
+  "timestamp": "2026-05-16T08:00:41.102410Z",
+  "candidate_count": 1801,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-05-16T05:54:19.859279Z"
+      "timestamp": "2026-05-16T08:01:50.849867Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-05-16T05:54:21.078646Z"
-    },
-    "government_scanning": {
-      "count": 0,
-      "file": "data/candidates_c.json",
-      "timestamp": "2026-05-16T05:54:28.907366Z"
+      "timestamp": "2026-05-16T08:01:52.230729Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-05-16T05:54:30.244850Z"
+      "timestamp": "2026-05-16T08:01:56.515058Z"
+    },
+    "government_scanning": {
+      "count": 0,
+      "file": "data/candidates_c.json",
+      "timestamp": "2026-05-16T08:02:00.618539Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-05-16T05:55:04.649400Z"
+      "timestamp": "2026-05-16T08:02:36.670792Z"
     },
     "certificate_transparency": {
-      "count": 377,
+      "count": 375,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-05-16T05:55:42.103559Z"
+      "timestamp": "2026-05-16T08:02:42.998796Z"
     }
   },
   "domain_sources": {
@@ -5285,9 +5285,6 @@
     "xn--shark-pg-slot--om6b5ctokrc2zwg.bravodriver.com": [
       "certificate_transparency"
     ],
-    "xn--slot---10tub3id7bh8ga0a5d8jua6c3nmdwc4agw1i.bigbusinessnetworks.com": [
-      "certificate_transparency"
-    ],
     "xn--slot---f1tugj5htbe1tsa0n.onstarshipsanddragonwings.com": [
       "certificate_transparency"
     ],
@@ -5385,9 +5382,6 @@
       "certificate_transparency"
     ],
     "xn--slot-xo-hacker--xo--8p0dlc6vid4isd8fj9e1hnc4vmc3n.apk.ca": [
-      "certificate_transparency"
-    ],
-    "xn--spinix-slot--p50b4jvctgpe7m.bigbusinessnetworks.com": [
       "certificate_transparency"
     ],
     "xn--w69-slot--3i2aqima4k4bd3yua4q.dannewerk.com": [
@@ -7198,7 +7192,6 @@
     "xn--razor-shark-slot--634cyp3foh1f5q7c.softwaredescargas.com",
     "xn--roma-slot--xd5auhoczg9byz4d.ukrainian-language.com",
     "xn--shark-pg-slot--om6b5ctokrc2zwg.bravodriver.com",
-    "xn--slot---10tub3id7bh8ga0a5d8jua6c3nmdwc4agw1i.bigbusinessnetworks.com",
     "xn--slot---f1tugj5htbe1tsa0n.onstarshipsanddragonwings.com",
     "xn--slot---f1tugj5htbe1tsa0n.soulurns.com",
     "xn--slot--16q0b6g5e1grgmd.ukrainian-language.com",
@@ -7232,7 +7225,6 @@
     "xn--slot-v-casino--yn35ai521asa2126a.saindustries.net.in",
     "xn--slot-web--yj2a7gyg.lartocrate.com",
     "xn--slot-xo-hacker--xo--8p0dlc6vid4isd8fj9e1hnc4vmc3n.apk.ca",
-    "xn--spinix-slot--p50b4jvctgpe7m.bigbusinessnetworks.com",
     "xn--w69-slot--3i2aqima4k4bd3yua4q.dannewerk.com",
     "xn--wink-slot--zc5ayina4l8bd00ava5r.newhomesteadersalmanac.com",
     "xn--wow-slot---0h5a2g3bzdl9ipexitdc.sevenbet.com",

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-05-17T15:58:34.733141Z",
-  "candidate_count": 1688,
+  "timestamp": "2026-05-17T19:05:39.367969Z",
+  "candidate_count": 1435,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-05-17T15:59:51.337705Z"
+      "timestamp": "2026-05-17T19:06:52.271426Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-05-17T15:59:52.684250Z"
+      "timestamp": "2026-05-17T19:06:53.657807Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-05-17T15:59:57.144485Z"
+      "timestamp": "2026-05-17T19:06:54.165757Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-05-17T16:00:01.243397Z"
+      "timestamp": "2026-05-17T19:07:01.849635Z"
+    },
+    "certificate_transparency": {
+      "count": 7,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-05-17T19:07:13.985464Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-05-17T16:00:37.379248Z"
-    },
-    "certificate_transparency": {
-      "count": 266,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-05-17T16:01:13.377905Z"
+      "timestamp": "2026-05-17T19:07:40.678362Z"
     }
   },
   "domain_sources": {
@@ -58,12 +58,6 @@
     "138.com": [
       "curated_gambling_feeds"
     ],
-    "150poker.com": [
-      "certificate_transparency"
-    ],
-    "168sbobetthai.com": [
-      "certificate_transparency"
-    ],
     "180bets.com": [
       "curated_gambling_feeds"
     ],
@@ -87,9 +81,6 @@
     ],
     "1x2plus.com": [
       "curated_gambling_feeds"
-    ],
-    "1x2sportsbet.com": [
-      "certificate_transparency"
     ],
     "1xbet.com": [
       "curated_gambling_feeds"
@@ -220,14 +211,8 @@
     "adjarabet.com": [
       "curated_gambling_feeds"
     ],
-    "admiral.it": [
-      "certificate_transparency"
-    ],
     "admiralspot.com": [
       "curated_gambling_feeds"
-    ],
-    "advanced.bet": [
-      "certificate_transparency"
     ],
     "agentspinner.com": [
       "curated_gambling_feeds"
@@ -237,12 +222,6 @@
     ],
     "ahtigames.com": [
       "curated_gambling_feeds"
-    ],
-    "alefbetmontessori.org": [
-      "certificate_transparency"
-    ],
-    "alephbet.com": [
-      "certificate_transparency"
     ],
     "alfcasino.com": [
       "curated_gambling_feeds"
@@ -265,14 +244,8 @@
     "alohasportsbook.com": [
       "curated_gambling_feeds"
     ],
-    "alohirdavat.com": [
-      "certificate_transparency"
-    ],
     "alphadraft.com": [
       "curated_gambling_feeds"
-    ],
-    "alt.bet": [
-      "certificate_transparency"
     ],
     "amcleanbookmakers.com": [
       "curated_gambling_feeds"
@@ -286,17 +259,14 @@
     "americascardroom.eu": [
       "curated_gambling_feeds"
     ],
-    "analfa.bet": [
+    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
+      "certificate_transparency"
+    ],
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
       "certificate_transparency"
     ],
     "anonibet.com": [
       "curated_gambling_feeds"
-    ],
-    "api.x-trade.bet": [
-      "certificate_transparency"
-    ],
-    "apk.bet": [
-      "certificate_transparency"
     ],
     "apollobet.com": [
       "curated_gambling_feeds"
@@ -313,14 +283,8 @@
     "asianbeta.com": [
       "curated_gambling_feeds"
     ],
-    "assetshole.net": [
-      "certificate_transparency"
-    ],
     "atg.se": [
       "curated_gambling_feeds"
-    ],
-    "auth.x-trade.bet": [
-      "certificate_transparency"
     ],
     "axbet.com": [
       "curated_gambling_feeds"
@@ -388,17 +352,11 @@
     "bet-csgo.com": [
       "curated_gambling_feeds"
     ],
-    "bet-live.ba": [
-      "certificate_transparency"
-    ],
     "bet.co.za": [
       "curated_gambling_feeds"
     ],
     "bet.hkjc.com": [
       "curated_gambling_feeds"
-    ],
-    "bet.net": [
-      "certificate_transparency"
     ],
     "bet.pkr.com": [
       "curated_gambling_feeds"
@@ -433,9 +391,6 @@
     "bet365.es": [
       "curated_gambling_feeds"
     ],
-    "bet4rate.com": [
-      "certificate_transparency"
-    ],
     "bet7days.com": [
       "curated_gambling_feeds"
     ],
@@ -460,9 +415,6 @@
     "betanysports.eu": [
       "curated_gambling_feeds"
     ],
-    "betawards2big2pick.com": [
-      "certificate_transparency"
-    ],
     "betbanks.com": [
       "curated_gambling_feeds"
     ],
@@ -477,9 +429,6 @@
     ],
     "betbuckeyesports.com": [
       "curated_gambling_feeds"
-    ],
-    "betbutler.co.uk": [
-      "certificate_transparency"
     ],
     "betbyrne.com": [
       "curated_gambling_feeds"
@@ -512,7 +461,6 @@
       "curated_gambling_feeds"
     ],
     "betclock.com": [
-      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "betcoin.ag": [
@@ -529,12 +477,6 @@
     ],
     "betdaq.com": [
       "curated_gambling_feeds"
-    ],
-    "betdcwork.bet.net": [
-      "certificate_transparency"
-    ],
-    "betdirect.com": [
-      "certificate_transparency"
     ],
     "betdna.com": [
       "curated_gambling_feeds"
@@ -608,12 +550,6 @@
     "betinternet.com": [
       "curated_gambling_feeds"
     ],
-    "betinvestltd.com": [
-      "certificate_transparency"
-    ],
-    "betitbest.com": [
-      "certificate_transparency"
-    ],
     "betive.com": [
       "curated_gambling_feeds"
     ],
@@ -640,9 +576,6 @@
     ],
     "betlm.eu": [
       "curated_gambling_feeds"
-    ],
-    "betmanager.globalzitro.com": [
-      "certificate_transparency"
     ],
     "betmania.ag": [
       "curated_gambling_feeds"
@@ -680,9 +613,6 @@
     "betondunhill.com": [
       "curated_gambling_feeds"
     ],
-    "betone2one.com": [
-      "certificate_transparency"
-    ],
     "betonline.ag": [
       "curated_gambling_feeds"
     ],
@@ -691,9 +621,6 @@
     ],
     "betonline247.com": [
       "curated_gambling_feeds"
-    ],
-    "betonpoker.biz": [
-      "certificate_transparency"
     ],
     "betonusa.ag": [
       "curated_gambling_feeds"
@@ -727,9 +654,6 @@
     ],
     "betplay.com": [
       "curated_gambling_feeds"
-    ],
-    "betplus.bet": [
-      "certificate_transparency"
     ],
     "betpop.eu": [
       "curated_gambling_feeds"
@@ -878,9 +802,6 @@
     "betusa.ag": [
       "curated_gambling_feeds"
     ],
-    "betvalue.com": [
-      "certificate_transparency"
-    ],
     "betvictor.com": [
       "curated_gambling_feeds"
     ],
@@ -905,17 +826,11 @@
     "bgo.com": [
       "curated_gambling_feeds"
     ],
-    "bia.bet": [
-      "certificate_transparency"
-    ],
     "bigbetworld.com": [
       "curated_gambling_feeds"
     ],
     "bigcitysportsbook.com": [
       "curated_gambling_feeds"
-    ],
-    "bigombet.com": [
-      "certificate_transparency"
     ],
     "bigspincasino.com": [
       "curated_gambling_feeds"
@@ -968,9 +883,6 @@
     "blitzpools.com": [
       "curated_gambling_feeds"
     ],
-    "blog.bet4thebest.com": [
-      "certificate_transparency"
-    ],
     "bobcasino.com": [
       "curated_gambling_feeds"
     ],
@@ -1012,9 +924,6 @@
     ],
     "bookmakerclub.com": [
       "curated_gambling_feeds"
-    ],
-    "bookmakers.bet": [
-      "certificate_transparency"
     ],
     "borgataonline.com": [
       "curated_gambling_feeds"
@@ -1058,12 +967,6 @@
     "butterflybingo.com": [
       "curated_gambling_feeds"
     ],
-    "butternut.bet": [
-      "certificate_transparency"
-    ],
-    "buy-birth-control.com": [
-      "certificate_transparency"
-    ],
     "bwin.com": [
       "curated_gambling_feeds"
     ],
@@ -1097,17 +1000,8 @@
     "cardbet.com": [
       "curated_gambling_feeds"
     ],
-    "cardcasino.bet": [
-      "certificate_transparency"
-    ],
     "caribsports.com": [
       "curated_gambling_feeds"
-    ],
-    "cartoleiro.bet": [
-      "certificate_transparency"
-    ],
-    "casapariurilor.bet": [
-      "certificate_transparency"
     ],
     "cashiopeia.com": [
       "curated_gambling_feeds"
@@ -1153,9 +1047,6 @@
     ],
     "casino.vernons.com": [
       "curated_gambling_feeds"
-    ],
-    "casino.victory.bet": [
-      "certificate_transparency"
     ],
     "casino.williamhill.com": [
       "curated_gambling_feeds"
@@ -1229,17 +1120,11 @@
     "cbmsport.com": [
       "curated_gambling_feeds"
     ],
-    "cbook.co.il": [
-      "certificate_transparency"
-    ],
     "cc898.com": [
       "curated_gambling_feeds"
     ],
     "celebbingo.com": [
       "curated_gambling_feeds"
-    ],
-    "celery-static.x-trade.bet": [
-      "certificate_transparency"
     ],
     "centrebet.com": [
       "curated_gambling_feeds"
@@ -1277,32 +1162,17 @@
     "chisholmbet.com": [
       "curated_gambling_feeds"
     ],
-    "cipet.bet": [
-      "certificate_transparency"
-    ],
-    "circle.bet": [
-      "certificate_transparency"
-    ],
     "circlebet.com": [
       "curated_gambling_feeds"
     ],
     "circusbingo.com": [
       "curated_gambling_feeds"
     ],
-    "citrix.bettzedek.org": [
-      "certificate_transparency"
-    ],
     "citybingo.com": [
       "curated_gambling_feeds"
     ],
     "ciwox.com": [
       "curated_gambling_feeds"
-    ],
-    "clan.bet": [
-      "certificate_transparency"
-    ],
-    "clic.bet": [
-      "certificate_transparency"
     ],
     "clickngamble.ag": [
       "curated_gambling_feeds"
@@ -1328,14 +1198,8 @@
     "coffeebingo.com": [
       "curated_gambling_feeds"
     ],
-    "colorheritage.com": [
-      "certificate_transparency"
-    ],
     "colossusbets.com": [
       "curated_gambling_feeds"
-    ],
-    "comeback.bet": [
-      "certificate_transparency"
     ],
     "comebackskins.com": [
       "curated_gambling_feeds"
@@ -1379,9 +1243,6 @@
     "cricketbetlive.com": [
       "curated_gambling_feeds"
     ],
-    "cricketbettingtipsfree.bet": [
-      "certificate_transparency"
-    ],
     "crowin24.com": [
       "curated_gambling_feeds"
     ],
@@ -1396,9 +1257,6 @@
     ],
     "crsportsbetting.com": [
       "curated_gambling_feeds"
-    ],
-    "csb.bet": [
-      "certificate_transparency"
     ],
     "csgo-casino.com": [
       "curated_gambling_feeds"
@@ -1607,20 +1465,11 @@
     "cspotluck.com": [
       "curated_gambling_feeds"
     ],
-    "cubepad.com": [
-      "certificate_transparency"
-    ],
     "cupcakebingo.co.uk": [
       "curated_gambling_feeds"
     ],
     "cupcakebingo.com": [
       "curated_gambling_feeds"
-    ],
-    "cvolo.com": [
-      "certificate_transparency"
-    ],
-    "cyberclubcasino.com": [
-      "certificate_transparency"
     ],
     "dadobet.com": [
       "curated_gambling_feeds"
@@ -1640,17 +1489,11 @@
     "damacai.com.my": [
       "curated_gambling_feeds"
     ],
-    "danmark.bet": [
-      "certificate_transparency"
-    ],
     "danskespil.dk": [
       "curated_gambling_feeds"
     ],
     "dantoto.dk": [
       "curated_gambling_feeds"
-    ],
-    "dash.bet.farreny.net": [
-      "certificate_transparency"
     ],
     "dashbet.com": [
       "curated_gambling_feeds"
@@ -1664,14 +1507,8 @@
     "dealerscasino.com": [
       "curated_gambling_feeds"
     ],
-    "deals4u.co.il": [
-      "certificate_transparency"
-    ],
     "desertnightscasino.co.uk": [
       "curated_gambling_feeds"
-    ],
-    "dev.mediapplications.com": [
-      "certificate_transparency"
     ],
     "dhoze.com": [
       "curated_gambling_feeds"
@@ -1703,17 +1540,11 @@
     "dinobingo.com": [
       "curated_gambling_feeds"
     ],
-    "dir.bet": [
-      "certificate_transparency"
-    ],
     "divabingo.com": [
       "curated_gambling_feeds"
     ],
     "dlb.lk": [
       "curated_gambling_feeds"
-    ],
-    "do-be.co.il": [
-      "certificate_transparency"
     ],
     "dobet.com": [
       "curated_gambling_feeds"
@@ -1728,7 +1559,6 @@
       "curated_gambling_feeds"
     ],
     "doxxbet.com": [
-      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "draftkings.com": [
@@ -1743,17 +1573,11 @@
     "dreamjackpot.com": [
       "curated_gambling_feeds"
     ],
-    "dreamsmoke.com": [
-      "certificate_transparency"
-    ],
     "dreamvegas.com": [
       "curated_gambling_feeds"
     ],
     "dreamz.com": [
       "curated_gambling_feeds"
-    ],
-    "dro.bet": [
-      "certificate_transparency"
     ],
     "drueckglueck.com": [
       "curated_gambling_feeds"
@@ -1779,9 +1603,6 @@
     "e-stave.com": [
       "curated_gambling_feeds"
     ],
-    "easy-bet.biz": [
-      "certificate_transparency"
-    ],
     "easytowager.com": [
       "curated_gambling_feeds"
     ],
@@ -1805,9 +1626,6 @@
     ],
     "efirbet.com": [
       "curated_gambling_feeds"
-    ],
-    "efortuna.bet": [
-      "certificate_transparency"
     ],
     "egamingbets.com": [
       "curated_gambling_feeds"
@@ -1878,20 +1696,13 @@
     "euroslots.com": [
       "curated_gambling_feeds"
     ],
-    "evanbrady.bet": [
-      "certificate_transparency"
-    ],
     "evobet.com": [
       "curated_gambling_feeds"
     ],
     "exbeteu.com": [
       "curated_gambling_feeds"
     ],
-    "exchange.betterbet.com": [
-      "certificate_transparency"
-    ],
     "exebet.com": [
-      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "expekt.com": [
@@ -1920,6 +1731,9 @@
     ],
     "faboom.com": [
       "curated_gambling_feeds"
+    ],
+    "facwbgoogle.com": [
+      "certificate_transparency"
     ],
     "falconbet.com": [
       "curated_gambling_feeds"
@@ -1969,17 +1783,8 @@
     "fikacasino.com": [
       "curated_gambling_feeds"
     ],
-    "files.x-trade.bet": [
-      "certificate_transparency"
-    ],
-    "firebaseapp.com": [
-      "certificate_transparency"
-    ],
     "flemingtonsportsbet.com.au": [
       "curated_gambling_feeds"
-    ],
-    "flint.bet": [
-      "certificate_transparency"
     ],
     "flumecasino.com": [
       "curated_gambling_feeds"
@@ -2002,14 +1807,8 @@
     "fortunelegends.com": [
       "curated_gambling_feeds"
     ],
-    "fotbal.bet": [
-      "certificate_transparency"
-    ],
     "fr.royalvegascasino.com": [
       "curated_gambling_feeds"
-    ],
-    "framesemporium.com": [
-      "certificate_transparency"
     ],
     "france-pari.fr": [
       "curated_gambling_feeds"
@@ -2023,14 +1822,8 @@
     "freakyvegas.com": [
       "curated_gambling_feeds"
     ],
-    "freshbet.com": [
-      "certificate_transparency"
-    ],
     "fruitycasa.com": [
       "curated_gambling_feeds"
-    ],
-    "fsasport.com": [
-      "certificate_transparency"
     ],
     "fsport.net": [
       "curated_gambling_feeds"
@@ -2047,17 +1840,11 @@
     "funcasino.com": [
       "curated_gambling_feeds"
     ],
-    "gala-flex.com": [
-      "certificate_transparency"
-    ],
     "galacasino.com": [
       "curated_gambling_feeds"
     ],
     "galaksipokerqq.com": [
       "curated_gambling_feeds"
-    ],
-    "galaxy-bet.com": [
-      "certificate_transparency"
     ],
     "galaxybetting.com": [
       "curated_gambling_feeds"
@@ -2073,9 +1860,6 @@
     ],
     "gamdom.com": [
       "curated_gambling_feeds"
-    ],
-    "game.admiral.it": [
-      "certificate_transparency"
     ],
     "gamebookers.com": [
       "curated_gambling_feeds"
@@ -2119,9 +1903,6 @@
     "giocoreale.com": [
       "curated_gambling_feeds"
     ],
-    "giwi.bet": [
-      "certificate_transparency"
-    ],
     "glimmercasino.com": [
       "curated_gambling_feeds"
     ],
@@ -2158,9 +1939,6 @@
     "goldenbetsng.com": [
       "curated_gambling_feeds"
     ],
-    "goldluckcasino.com": [
-      "certificate_transparency"
-    ],
     "goldmedalbingo.com": [
       "curated_gambling_feeds"
     ],
@@ -2194,9 +1972,6 @@
     "grandeaglecasino.com": [
       "curated_gambling_feeds"
     ],
-    "grillinwoodsandrubs.com": [
-      "certificate_transparency"
-    ],
     "grosvenorcasinos.com": [
       "curated_gambling_feeds"
     ],
@@ -2223,12 +1998,6 @@
     ],
     "gwbet.com": [
       "curated_gambling_feeds"
-    ],
-    "h2h.bet": [
-      "certificate_transparency"
-    ],
-    "h68.bet": [
-      "certificate_transparency"
     ],
     "hajper.com": [
       "curated_gambling_feeds"
@@ -2263,9 +2032,6 @@
     "heyspin.com": [
       "curated_gambling_feeds"
     ],
-    "hibsgaming.com": [
-      "certificate_transparency"
-    ],
     "highheelsbingo.com": [
       "curated_gambling_feeds"
     ],
@@ -2290,9 +2056,6 @@
     "home.olg.ca": [
       "curated_gambling_feeds"
     ],
-    "homecasino.bet": [
-      "certificate_transparency"
-    ],
     "homerunsportsbetting.com": [
       "curated_gambling_feeds"
     ],
@@ -2301,9 +2064,6 @@
     ],
     "horizonsports.es": [
       "curated_gambling_feeds"
-    ],
-    "horseracingtips.bet": [
-      "certificate_transparency"
     ],
     "hotlinecsgo.com": [
       "curated_gambling_feeds"
@@ -2319,12 +2079,6 @@
     ],
     "hrwager.ag": [
       "curated_gambling_feeds"
-    ],
-    "hu.betclic.bet": [
-      "certificate_transparency"
-    ],
-    "hu.everestpoker.bet": [
-      "certificate_transparency"
     ],
     "hughesbet.com": [
       "curated_gambling_feeds"
@@ -2350,9 +2104,6 @@
     "icecasino.com": [
       "curated_gambling_feeds"
     ],
-    "iclub.bet": [
-      "certificate_transparency"
-    ],
     "ifortuna.cz": [
       "curated_gambling_feeds"
     ],
@@ -2367,9 +2118,6 @@
     ],
     "ikibu.com": [
       "curated_gambling_feeds"
-    ],
-    "image.x-trade.bet": [
-      "certificate_transparency"
     ],
     "in.1x001.com": [
       "curated_gambling_feeds"
@@ -2430,9 +2178,6 @@
     ],
     "isportbet.net": [
       "curated_gambling_feeds"
-    ],
-    "israelpharm.com": [
-      "certificate_transparency"
     ],
     "itvbingo.com": [
       "curated_gambling_feeds"
@@ -2533,9 +2278,6 @@
     "kaiserslots.com": [
       "curated_gambling_feeds"
     ],
-    "kajot.bet": [
-      "certificate_transparency"
-    ],
     "kalevalakasino.com": [
       "curated_gambling_feeds"
     ],
@@ -2572,9 +2314,6 @@
     "khelchamps.com": [
       "curated_gambling_feeds"
     ],
-    "kingcoin.bet": [
-      "certificate_transparency"
-    ],
     "kingneptunescasino.com": [
       "curated_gambling_feeds"
     ],
@@ -2586,9 +2325,6 @@
     ],
     "kingswaybingoonline.com": [
       "curated_gambling_feeds"
-    ],
-    "kiosk.bet-lotto.com": [
-      "certificate_transparency"
     ],
     "kirsikka.com": [
       "curated_gambling_feeds"
@@ -2671,9 +2407,6 @@
     "lightbet.com": [
       "curated_gambling_feeds"
     ],
-    "lily.siemens.com": [
-      "certificate_transparency"
-    ],
     "lincolncasino.eu": [
       "curated_gambling_feeds"
     ],
@@ -2704,9 +2437,6 @@
     "livecasino.betway.com": [
       "curated_gambling_feeds"
     ],
-    "livecasino.scommettiqui.com": [
-      "certificate_transparency"
-    ],
     "livecasino.williamhill.com": [
       "curated_gambling_feeds"
     ],
@@ -2718,9 +2448,6 @@
     ],
     "livesports.ag": [
       "curated_gambling_feeds"
-    ],
-    "lk.taxi.bet": [
-      "certificate_transparency"
     ],
     "llamabet.co.uk": [
       "curated_gambling_feeds"
@@ -2869,9 +2596,6 @@
     "lucky-31.com": [
       "curated_gambling_feeds"
     ],
-    "lucky8.bet": [
-      "certificate_transparency"
-    ],
     "lucky8.com": [
       "curated_gambling_feeds"
     ],
@@ -2902,9 +2626,6 @@
     "luckyniki.com": [
       "curated_gambling_feeds"
     ],
-    "luckystar.bet": [
-      "certificate_transparency"
-    ],
     "luckywinslots.com": [
       "curated_gambling_feeds"
     ],
@@ -2926,17 +2647,11 @@
     "luxurycasino.com": [
       "curated_gambling_feeds"
     ],
-    "m.betclic.bet": [
-      "certificate_transparency"
-    ],
     "m.boylesports.com": [
       "curated_gambling_feeds"
     ],
     "m.jetbull.com": [
       "curated_gambling_feeds"
-    ],
-    "m.playsport.bet": [
-      "certificate_transparency"
     ],
     "m.skybet.com": [
       "curated_gambling_feeds"
@@ -2974,18 +2689,6 @@
     "magnum4d.my": [
       "curated_gambling_feeds"
     ],
-    "mail.bethashita.org.il": [
-      "certificate_transparency"
-    ],
-    "mail.bettzedek.org": [
-      "certificate_transparency"
-    ],
-    "mail.bnz.co.il": [
-      "certificate_transparency"
-    ],
-    "mail.inex.fr": [
-      "certificate_transparency"
-    ],
     "majorbet.net": [
       "curated_gambling_feeds"
     ],
@@ -2997,9 +2700,6 @@
     ],
     "mamamiabingo.com": [
       "curated_gambling_feeds"
-    ],
-    "mamebet.com": [
-      "certificate_transparency"
     ],
     "mansion88.com": [
       "curated_gambling_feeds"
@@ -3018,9 +2718,6 @@
     ],
     "markjarvisbet.com": [
       "curated_gambling_feeds"
-    ],
-    "mars.bet": [
-      "certificate_transparency"
     ],
     "marsbet12.com": [
       "curated_gambling_feeds"
@@ -3049,9 +2746,6 @@
     "mcbookie.com": [
       "curated_gambling_feeds"
     ],
-    "mediapplications.com": [
-      "certificate_transparency"
-    ],
     "megalotto.pl": [
       "curated_gambling_feeds"
     ],
@@ -3079,9 +2773,6 @@
     "mfortune.co.uk": [
       "curated_gambling_feeds"
     ],
-    "mgar-shaked.co.il": [
-      "certificate_transparency"
-    ],
     "miamicasino.com": [
       "curated_gambling_feeds"
     ],
@@ -3103,9 +2794,6 @@
     "mobilbet.com": [
       "curated_gambling_feeds"
     ],
-    "mobile.ibbrugg.ch": [
-      "certificate_transparency"
-    ],
     "mobilebet.com": [
       "curated_gambling_feeds"
     ],
@@ -3118,12 +2806,6 @@
     "moneyplayscasino.com": [
       "curated_gambling_feeds"
     ],
-    "monique.bet": [
-      "certificate_transparency"
-    ],
-    "monitoring.x-trade.bet": [
-      "certificate_transparency"
-    ],
     "montecarlocasino.com": [
       "curated_gambling_feeds"
     ],
@@ -3132,9 +2814,6 @@
     ],
     "mozzartbet.com": [
       "curated_gambling_feeds"
-    ],
-    "mozzartbet.mk": [
-      "certificate_transparency"
     ],
     "mpcasino.com": [
       "curated_gambling_feeds"
@@ -3207,9 +2886,6 @@
     ],
     "mychance.com": [
       "curated_gambling_feeds"
-    ],
-    "mycontrolcard.com": [
-      "certificate_transparency"
     ],
     "myfab11.com": [
       "curated_gambling_feeds"
@@ -3307,9 +2983,6 @@
     "nordicbet.com": [
       "curated_gambling_feeds"
     ],
-    "norge.bet": [
-      "certificate_transparency"
-    ],
     "norgesautomaten.com": [
       "curated_gambling_feeds"
     ],
@@ -3394,9 +3067,6 @@
     "oneto11.com": [
       "curated_gambling_feeds"
     ],
-    "onetouchpurchasing.com": [
-      "certificate_transparency"
-    ],
     "onetpedia.net": [
       "curated_gambling_feeds"
     ],
@@ -3433,17 +3103,11 @@
     "ourpricebet.com": [
       "curated_gambling_feeds"
     ],
-    "outlook.hydacusa.com": [
-      "certificate_transparency"
-    ],
     "overtheodds.com.au": [
       "curated_gambling_feeds"
     ],
     "ovocasino.com": [
       "curated_gambling_feeds"
-    ],
-    "owa.bet.net": [
-      "certificate_transparency"
     ],
     "ozbet.com.au": [
       "curated_gambling_feeds"
@@ -3462,9 +3126,6 @@
     ],
     "palladiumcasino.eu": [
       "curated_gambling_feeds"
-    ],
-    "palm.bet": [
-      "certificate_transparency"
     ],
     "palmerbet.com": [
       "curated_gambling_feeds"
@@ -3489,9 +3150,6 @@
     ],
     "pariscasino8.com": [
       "curated_gambling_feeds"
-    ],
-    "pariuri.bet": [
-      "certificate_transparency"
     ],
     "partypoker.cz": [
       "curated_gambling_feeds"
@@ -3559,9 +3217,6 @@
     "playolg.ca": [
       "curated_gambling_feeds"
     ],
-    "playsport.bet": [
-      "certificate_transparency"
-    ],
     "playsugarhouse.com": [
       "curated_gambling_feeds"
     ],
@@ -3582,9 +3237,6 @@
     ],
     "pointsbet.com": [
       "curated_gambling_feeds"
-    ],
-    "poker.admiral.it": [
-      "certificate_transparency"
     ],
     "poker.betway.com": [
       "curated_gambling_feeds"
@@ -3652,9 +3304,6 @@
     "pro-factory.com": [
       "curated_gambling_feeds"
     ],
-    "profi.bet": [
-      "certificate_transparency"
-    ],
     "proline.ca": [
       "curated_gambling_feeds"
     ],
@@ -3697,12 +3346,6 @@
     "purewin.com": [
       "curated_gambling_feeds"
     ],
-    "qoolife.com": [
-      "certificate_transparency"
-    ],
-    "qormibet.com": [
-      "certificate_transparency"
-    ],
     "queenvegas.com": [
       "curated_gambling_feeds"
     ],
@@ -3727,9 +3370,6 @@
     "rb88.com": [
       "curated_gambling_feeds"
     ],
-    "rdgw.bendiks-transport.no": [
-      "certificate_transparency"
-    ],
     "readytobet.com": [
       "curated_gambling_feeds"
     ],
@@ -3741,9 +3381,6 @@
     ],
     "rebatewager.ag": [
       "curated_gambling_feeds"
-    ],
-    "rebuystars.bet": [
-      "certificate_transparency"
     ],
     "redbet.com": [
       "curated_gambling_feeds"
@@ -3772,17 +3409,11 @@
     "regionalwinsite.com": [
       "curated_gambling_feeds"
     ],
-    "rent.bet": [
-      "certificate_transparency"
-    ],
     "ridika.com": [
       "curated_gambling_feeds"
     ],
     "rikstoto.no": [
       "curated_gambling_feeds"
-    ],
-    "risingbetclub.com": [
-      "certificate_transparency"
     ],
     "rivalo.com": [
       "curated_gambling_feeds"
@@ -3823,15 +3454,6 @@
     "rush777.com": [
       "curated_gambling_feeds"
     ],
-    "s8s.bet": [
-      "certificate_transparency"
-    ],
-    "sadmin.bet-trade.com": [
-      "certificate_transparency"
-    ],
-    "sadmin.x-trade.bet": [
-      "certificate_transparency"
-    ],
     "safaribet.com.gh": [
       "curated_gambling_feeds"
     ],
@@ -3850,9 +3472,6 @@
     "sazka.cz": [
       "curated_gambling_feeds"
     ],
-    "sazkabet.bet": [
-      "certificate_transparency"
-    ],
     "sbgglobal.eu": [
       "curated_gambling_feeds"
     ],
@@ -3861,9 +3480,6 @@
     ],
     "sbobet.com": [
       "curated_gambling_feeds"
-    ],
-    "scandi.bet": [
-      "certificate_transparency"
     ],
     "scandibet.com": [
       "curated_gambling_feeds"
@@ -3892,20 +3508,11 @@
     "secure.bkbet.eu": [
       "curated_gambling_feeds"
     ],
-    "secure.xserver.ne.jp": [
-      "certificate_transparency"
-    ],
     "sesbet.com": [
       "curated_gambling_feeds"
     ],
     "setantabet.com": [
       "curated_gambling_feeds"
-    ],
-    "shadesemporium.com": [
-      "certificate_transparency"
-    ],
-    "shohar.net": [
-      "certificate_transparency"
     ],
     "simppeli.com": [
       "curated_gambling_feeds"
@@ -3921,9 +3528,6 @@
     ],
     "sisportsbook.com": [
       "curated_gambling_feeds"
-    ],
-    "sixcore.ne.jp": [
-      "certificate_transparency"
     ],
     "sjbet.at": [
       "curated_gambling_feeds"
@@ -3956,7 +3560,6 @@
       "curated_gambling_feeds"
     ],
     "skybet.com": [
-      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "skybook.ag": [
@@ -3967,6 +3570,18 @@
     ],
     "slbet.com": [
       "curated_gambling_feeds"
+    ],
+    "slot-gacor--4d.themeadow.com": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--camar4444.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--maxwin.ahlemeyewear.com": [
+      "certificate_transparency"
     ],
     "slotocash.im": [
       "curated_gambling_feeds"
@@ -4016,296 +3631,11 @@
     "snabbare.com": [
       "curated_gambling_feeds"
     ],
-    "sni102664.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni11059.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni116704.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni133729.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni134164.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni141122.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni141618.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni142028.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni142524.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni144969.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni147549.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni151203.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni151991.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni155352.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni155742.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni163883.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni167488.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni167720.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni167826.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni172073.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni174155.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni177483.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni178027.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni179963.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni181886.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni185647.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni185686.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni189812.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni192795.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni193742.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni193807.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni193814.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni198176.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni199926.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni201373.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni203298.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni207742.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni208095.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni212701.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni215303.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni222385.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni223282.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni224974.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni225202.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni225969.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni225977.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni225984.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni226001.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni226233.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni227499.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni22761.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni228447.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni228623.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni229042.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni232409.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni232741.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni233213.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni233228.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni235880.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni236262.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni236265.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni236266.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni236866.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni239714.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni24211.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni243822.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni248738.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni251842.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni252523.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni27097.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni27553.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni307797.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni31038.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni33657.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni34994.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni36282.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni36845.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni38455.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni40551.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni42941.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni50809.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni55267.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni57345.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni57516.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni57556.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni57622.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni61427.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni67241.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni70431.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni76787.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni78288.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni81378.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni81545.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "sni94804.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
     "socalsportbook.com": [
       "curated_gambling_feeds"
     ],
     "softbet.eu": [
       "curated_gambling_feeds"
-    ],
-    "sosbet.com": [
-      "certificate_transparency"
     ],
     "spartansslots.net": [
       "curated_gambling_feeds"
@@ -4346,9 +3676,6 @@
     "spinzilla.com": [
       "curated_gambling_feeds"
     ],
-    "sporbahissiteleri.bet": [
-      "certificate_transparency"
-    ],
     "sport-gewin.com": [
       "curated_gambling_feeds"
     ],
@@ -4378,9 +3705,6 @@
     ],
     "sportlife.com.mk": [
       "curated_gambling_feeds"
-    ],
-    "sportmedia.bet": [
-      "certificate_transparency"
     ],
     "sportodds.com": [
       "curated_gambling_feeds"
@@ -4425,7 +3749,6 @@
       "curated_gambling_feeds"
     ],
     "sportsbet.co.za": [
-      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "sportsbet.com.au": [
@@ -4488,48 +3811,6 @@
     "spreadex.com": [
       "curated_gambling_feeds"
     ],
-    "ssl.bet-alert.com": [
-      "certificate_transparency"
-    ],
-    "ssl368402.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl370592.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl371933.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl372182.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl375865.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl376693.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl379257.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl379260.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl380841.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl387969.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl387971.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl391172.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
-    "ssl404686.cloudflaressl.com": [
-      "certificate_transparency"
-    ],
     "sssbet.com": [
       "curated_gambling_feeds"
     ],
@@ -4556,9 +3837,6 @@
     ],
     "statusbet.com": [
       "curated_gambling_feeds"
-    ],
-    "step.bet": [
-      "certificate_transparency"
     ],
     "stoloto.ru": [
       "curated_gambling_feeds"
@@ -4611,9 +3889,6 @@
     "superusacasino.com": [
       "curated_gambling_feeds"
     ],
-    "surebet.bet": [
-      "certificate_transparency"
-    ],
     "surf.casino": [
       "curated_gambling_feeds"
     ],
@@ -4622,9 +3897,6 @@
     ],
     "svedalacasino.com": [
       "curated_gambling_feeds"
-    ],
-    "svensk.bet": [
-      "certificate_transparency"
     ],
     "svenskaspel.se": [
       "curated_gambling_feeds"
@@ -4643,9 +3915,6 @@
     ],
     "swedencasino.se": [
       "curated_gambling_feeds"
-    ],
-    "syndicatebet.com.au": [
-      "certificate_transparency"
     ],
     "synottip.cz": [
       "curated_gambling_feeds"
@@ -4674,17 +3943,11 @@
     "tatts.com": [
       "curated_gambling_feeds"
     ],
-    "taxi.tzk.su": [
-      "certificate_transparency"
-    ],
     "templenile.com": [
       "curated_gambling_feeds"
     ],
     "tempobet.com": [
       "curated_gambling_feeds"
-    ],
-    "terminals.x-trade.bet": [
-      "certificate_transparency"
     ],
     "texascasino.com": [
       "curated_gambling_feeds"
@@ -4698,11 +3961,7 @@
     "thegreek.com": [
       "curated_gambling_feeds"
     ],
-    "theisraelboutique.com": [
-      "certificate_transparency"
-    ],
     "thelotter.com": [
-      "certificate_transparency",
       "curated_gambling_feeds"
     ],
     "thrills.com": [
@@ -4719,12 +3978,6 @@
     ],
     "tipp24.com": [
       "curated_gambling_feeds"
-    ],
-    "tipsport.bet": [
-      "certificate_transparency"
-    ],
-    "tipsport.com": [
-      "certificate_transparency"
     ],
     "tipsport.cz": [
       "curated_gambling_feeds"
@@ -4963,12 +4216,6 @@
     "webbookmakers.com": [
       "curated_gambling_feeds"
     ],
-    "webcamsex.bet": [
-      "certificate_transparency"
-    ],
-    "webmail.xserver.jp": [
-      "certificate_transparency"
-    ],
     "westlotto.de": [
       "curated_gambling_feeds"
     ],
@@ -5047,9 +4294,6 @@
     "worldwidegamble.com": [
       "curated_gambling_feeds"
     ],
-    "wow.bet": [
-      "certificate_transparency"
-    ],
     "wunderino.com": [
       "curated_gambling_feeds"
     ],
@@ -5068,12 +4312,6 @@
     "yakocasino.com": [
       "curated_gambling_feeds"
     ],
-    "yeshiva.org.il": [
-      "certificate_transparency"
-    ],
-    "yesplay.bet": [
-      "certificate_transparency"
-    ],
     "yeticasino.com": [
       "curated_gambling_feeds"
     ],
@@ -5091,9 +4329,6 @@
     ],
     "zenitbet.com": [
       "curated_gambling_feeds"
-    ],
-    "zet.bet": [
-      "certificate_transparency"
     ],
     "zetpoker.eu": [
       "curated_gambling_feeds"
@@ -5114,8 +4349,6 @@
     "12bet.uk",
     "1337bid.com",
     "138.com",
-    "150poker.com",
-    "168sbobetthai.com",
     "180bets.com",
     "188bet.com",
     "18bet.com",
@@ -5124,7 +4357,6 @@
     "1stlines.com",
     "1vice.ag",
     "1x2plus.com",
-    "1x2sportsbet.com",
     "1xbet.com",
     "21bet.com",
     "21casino.com",
@@ -5168,14 +4400,10 @@
     "acttab.com.au",
     "adda.games",
     "adjarabet.com",
-    "admiral.it",
     "admiralspot.com",
-    "advanced.bet",
     "agentspinner.com",
     "ahacasino.com",
     "ahtigames.com",
-    "alefbetmontessori.org",
-    "alephbet.com",
     "alfcasino.com",
     "allhorseracing.ag",
     "allpro.eu",
@@ -5183,25 +4411,20 @@
     "allstarsportsbook.com",
     "allyoubet.ag",
     "alohasportsbook.com",
-    "alohirdavat.com",
     "alphadraft.com",
-    "alt.bet",
     "amcleanbookmakers.com",
     "americanfootballbetting.com",
     "americasbookie.com",
     "americascardroom.eu",
-    "analfa.bet",
+    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "anonibet.com",
-    "api.x-trade.bet",
-    "apk.bet",
     "apollobet.com",
     "arena-bet.com",
     "arlequincasino.com",
     "artemisbet10.com",
     "asianbeta.com",
-    "assetshole.net",
     "atg.se",
-    "auth.x-trade.bet",
     "axbet.com",
     "azcasino.com",
     "azurcasino2.com",
@@ -5224,10 +4447,8 @@
     "bet-52.com",
     "bet-at-home.com",
     "bet-csgo.com",
-    "bet-live.ba",
     "bet.co.za",
     "bet.hkjc.com",
-    "bet.net",
     "bet.pkr.com",
     "bet1128.com",
     "bet11888.com",
@@ -5239,7 +4460,6 @@
     "bet33.com",
     "bet365.com",
     "bet365.es",
-    "bet4rate.com",
     "bet7days.com",
     "bet90.com",
     "betadonis55.com",
@@ -5248,13 +4468,11 @@
     "betamerica.com",
     "betandclick.com",
     "betanysports.eu",
-    "betawards2big2pick.com",
     "betbanks.com",
     "betbigdollar.com",
     "betboro.com",
     "betbright.com",
     "betbuckeyesports.com",
-    "betbutler.co.uk",
     "betbyrne.com",
     "betcanadian.com",
     "betcapri.com",
@@ -5271,8 +4489,6 @@
     "betcris.com",
     "betcruise.com",
     "betdaq.com",
-    "betdcwork.bet.net",
-    "betdirect.com",
     "betdna.com",
     "betdon.com",
     "betdsi.eu",
@@ -5297,8 +4513,6 @@
     "betin.com",
     "betin1.com",
     "betinternet.com",
-    "betinvestltd.com",
-    "betitbest.com",
     "betive.com",
     "betjamaica.com",
     "betjambo.com",
@@ -5308,7 +4522,6 @@
     "betline.com",
     "betliner.com",
     "betlm.eu",
-    "betmanager.globalzitro.com",
     "betmania.ag",
     "betmclean.com",
     "betmgm.com",
@@ -5321,11 +4534,9 @@
     "betngo.com",
     "betodds.ag",
     "betondunhill.com",
-    "betone2one.com",
     "betonline.ag",
     "betonline.com",
     "betonline247.com",
-    "betonpoker.biz",
     "betonusa.ag",
     "betorca.com",
     "betoto.com",
@@ -5337,7 +4548,6 @@
     "betphoenix.ag",
     "betplatinum.ag",
     "betplay.com",
-    "betplus.bet",
     "betpop.eu",
     "betprestige.com",
     "betprimetime.com",
@@ -5387,7 +4597,6 @@
     "betuniq.eu",
     "betus.com.pa",
     "betusa.ag",
-    "betvalue.com",
     "betvictor.com",
     "betway.com",
     "betworks.com",
@@ -5396,10 +4605,8 @@
     "betzone.com",
     "bgbet.com",
     "bgo.com",
-    "bia.bet",
     "bigbetworld.com",
     "bigcitysportsbook.com",
-    "bigombet.com",
     "bigspincasino.com",
     "bingo.com",
     "bingo.vernons.com",
@@ -5417,7 +4624,6 @@
     "blackdiamond4u.com",
     "blackjackballroom.eu",
     "blitzpools.com",
-    "blog.bet4thebest.com",
     "bobcasino.com",
     "bobetting.com",
     "bobregister.com",
@@ -5432,7 +4638,6 @@
     "bookmaker.eu",
     "bookmaker7.com",
     "bookmakerclub.com",
-    "bookmakers.bet",
     "borgataonline.com",
     "botbcasino.com",
     "bovada.lv",
@@ -5447,8 +4652,6 @@
     "bulldog777.com",
     "bulletbets.com",
     "butterflybingo.com",
-    "butternut.bet",
-    "buy-birth-control.com",
     "bwin.com",
     "cafecasino.lv",
     "campaign.rizk.com",
@@ -5460,10 +4663,7 @@
     "captaincookscasino.eu",
     "carbonsports.ag",
     "cardbet.com",
-    "cardcasino.bet",
     "caribsports.com",
-    "cartoleiro.bet",
-    "casapariurilor.bet",
     "cashiopeia.com",
     "cashmio.com",
     "cashpoint.com",
@@ -5479,7 +4679,6 @@
     "casino.org",
     "casino.synottip.cz",
     "casino.vernons.com",
-    "casino.victory.bet",
     "casino.williamhill.com",
     "casinoandfriends.com",
     "casinobitco.in",
@@ -5504,10 +4703,8 @@
     "casinsi.com",
     "casumo.com",
     "cbmsport.com",
-    "cbook.co.il",
     "cc898.com",
     "celebbingo.com",
-    "celery-static.x-trade.bet",
     "centrebet.com",
     "cgaming.olg.ca",
     "champagnebingo.com",
@@ -5520,15 +4717,10 @@
     "cherryjackpot.com",
     "chinesebookie.eu",
     "chisholmbet.com",
-    "cipet.bet",
-    "circle.bet",
     "circlebet.com",
     "circusbingo.com",
-    "citrix.bettzedek.org",
     "citybingo.com",
     "ciwox.com",
-    "clan.bet",
-    "clic.bet",
     "clickngamble.ag",
     "cloudbet.com",
     "cmdbet.com",
@@ -5537,9 +4729,7 @@
     "cocktailbingo.com",
     "codeta.com",
     "coffeebingo.com",
-    "colorheritage.com",
     "colossusbets.com",
-    "comeback.bet",
     "comebackskins.com",
     "comeon.com",
     "completesportsbetting.com.au",
@@ -5554,13 +4744,11 @@
     "creditwagering.com",
     "cresuscasino.com",
     "cricketbetlive.com",
-    "cricketbettingtipsfree.bet",
     "crowin24.com",
     "crownbet.com",
     "crownbet.com.au",
     "crsportsbet.ag",
     "crsportsbetting.com",
-    "csb.bet",
     "csgo-casino.com",
     "csgo-dream.com",
     "csgo-easy.com",
@@ -5630,28 +4818,21 @@
     "csgowheel.com",
     "cshub.net",
     "cspotluck.com",
-    "cubepad.com",
     "cupcakebingo.co.uk",
     "cupcakebingo.com",
-    "cvolo.com",
-    "cyberclubcasino.com",
     "dadobet.com",
     "dafabet.com",
     "dailydime.eu",
     "daisybingo.com",
     "dakotacasino.com",
     "damacai.com.my",
-    "danmark.bet",
     "danskespil.dk",
     "dantoto.dk",
-    "dash.bet.farreny.net",
     "dashbet.com",
     "dccasino.com",
     "de.888casino.com",
     "dealerscasino.com",
-    "deals4u.co.il",
     "desertnightscasino.co.uk",
-    "dev.mediapplications.com",
     "dhoze.com",
     "dialabet.com.au",
     "diamond7casino.com",
@@ -5662,10 +4843,8 @@
     "digibet.com",
     "dimeline.eu",
     "dinobingo.com",
-    "dir.bet",
     "divabingo.com",
     "dlb.lk",
-    "do-be.co.il",
     "dobet.com",
     "docbet.com",
     "doribet.com",
@@ -5675,10 +4854,8 @@
     "drakecasino.eu",
     "dream11.com",
     "dreamjackpot.com",
-    "dreamsmoke.com",
     "dreamvegas.com",
     "dreamz.com",
-    "dro.bet",
     "drueckglueck.com",
     "dublinbet1.com",
     "duelz.com",
@@ -5687,7 +4864,6 @@
     "e-loterie.ma",
     "e-lotto.be",
     "e-stave.com",
-    "easy-bet.biz",
     "easytowager.com",
     "ebetusa.com",
     "eccobet.com",
@@ -5696,7 +4872,6 @@
     "eestiloto.ee",
     "efbet.com",
     "efirbet.com",
-    "efortuna.bet",
     "egamingbets.com",
     "ehorse.com",
     "elitebetkenya.com",
@@ -5720,10 +4895,8 @@
     "eurobet.bg",
     "europe-bet.com",
     "euroslots.com",
-    "evanbrady.bet",
     "evobet.com",
     "exbeteu.com",
-    "exchange.betterbet.com",
     "exebet.com",
     "expekt.com",
     "extreme-sportsbetting.com",
@@ -5734,6 +4907,7 @@
     "ezstreetsports.com",
     "faber.de",
     "faboom.com",
+    "facwbgoogle.com",
     "falconbet.com",
     "fan2play.com",
     "fancode.com",
@@ -5750,10 +4924,7 @@
     "fi.888casino.com",
     "fi.casiplay.com",
     "fikacasino.com",
-    "files.x-trade.bet",
-    "firebaseapp.com",
     "flemingtonsportsbet.com.au",
-    "flint.bet",
     "flumecasino.com",
     "folkeautomaten.com",
     "fonbet.com",
@@ -5761,31 +4932,24 @@
     "forsportspicks.com",
     "fortunejack.com",
     "fortunelegends.com",
-    "fotbal.bet",
     "fr.royalvegascasino.com",
-    "framesemporium.com",
     "france-pari.fr",
     "frankcasino.com",
     "frankfred.com",
     "freakyvegas.com",
-    "freshbet.com",
     "fruitycasa.com",
-    "fsasport.com",
     "fsport.net",
     "fullbetter.com",
     "fun-bet.com",
     "fun88.co.uk",
     "funcasino.com",
-    "gala-flex.com",
     "galacasino.com",
     "galaksipokerqq.com",
-    "galaxy-bet.com",
     "galaxybetting.com",
     "galaxysports.com",
     "gamblecsgo.com",
     "gambling.com",
     "gamdom.com",
-    "game.admiral.it",
     "gamebookers.com",
     "gamerjackpot.com",
     "games.bet365.com",
@@ -5800,7 +4964,6 @@
     "getabet.com",
     "getlucky.com",
     "giocoreale.com",
-    "giwi.bet",
     "glimmercasino.com",
     "global.138.com",
     "globalwagering.ws",
@@ -5813,7 +4976,6 @@
     "golazobet.com",
     "goldbetsports.com",
     "goldenbetsng.com",
-    "goldluckcasino.com",
     "goldmedalbingo.com",
     "goliathcasino.com",
     "gossipbingo.com",
@@ -5825,7 +4987,6 @@
     "gracesbingo.com",
     "grandcasino.hu",
     "grandeaglecasino.com",
-    "grillinwoodsandrubs.com",
     "grosvenorcasinos.com",
     "gtbets.eu",
     "guestlistbingo.com",
@@ -5835,8 +4996,6 @@
     "guts.com",
     "gutshot.com",
     "gwbet.com",
-    "h2h.bet",
-    "h68.bet",
     "hajper.com",
     "hamsterbet.com",
     "hanplayer.com",
@@ -5848,7 +5007,6 @@
     "herobet.com.br",
     "heypoker.com",
     "heyspin.com",
-    "hibsgaming.com",
     "highheelsbingo.com",
     "highlifebingo.com",
     "highroller.com",
@@ -5857,18 +5015,14 @@
     "hollywoodbets.net",
     "hollywoodsportsbook.eu",
     "home.olg.ca",
-    "homecasino.bet",
     "homerunsportsbetting.com",
     "hopa.com",
     "horizonsports.es",
-    "horseracingtips.bet",
     "hotlinecsgo.com",
     "housieskill.com",
     "howzat.com",
     "hpbet.com",
     "hrwager.ag",
-    "hu.betclic.bet",
-    "hu.everestpoker.bet",
     "hughesbet.com",
     "hunkybingo.com",
     "hypercasino.com",
@@ -5877,13 +5031,11 @@
     "ibet789.com",
     "ibetcasino.com",
     "icecasino.com",
-    "iclub.bet",
     "ifortuna.cz",
     "igame.com",
     "igame.se",
     "ignitioncasino.eu",
     "ikibu.com",
-    "image.x-trade.bet",
     "in.1x001.com",
     "in.casinoeuro.com",
     "inbet88.com",
@@ -5904,7 +5056,6 @@
     "islandcasino.com",
     "isleofbingo.com",
     "isportbet.net",
-    "israelpharm.com",
     "itvbingo.com",
     "jack-21.com",
     "jackpotbingo.co.uk",
@@ -5938,7 +5089,6 @@
     "justforbettors.com",
     "kaboo.com",
     "kaiserslots.com",
-    "kajot.bet",
     "kalevalakasino.com",
     "karamba.com",
     "karhukasino.com",
@@ -5951,12 +5101,10 @@
     "katiesbingo.com",
     "keyarena.gg",
     "khelchamps.com",
-    "kingcoin.bet",
     "kingneptunescasino.com",
     "kingneptunescasino.eu",
     "kingschancecampaign.com",
     "kingswaybingoonline.com",
-    "kiosk.bet-lotto.com",
     "kirsikka.com",
     "kissmybingo.com",
     "klasselotteriet.dk",
@@ -5984,7 +5132,6 @@
     "libertyslots.eu",
     "liga365.com",
     "lightbet.com",
-    "lily.siemens.com",
     "lincolncasino.eu",
     "linesmaker.eu",
     "link2bet.com",
@@ -5995,12 +5142,10 @@
     "livebetting.com",
     "livebingo.com",
     "livecasino.betway.com",
-    "livecasino.scommettiqui.com",
     "livecasino.williamhill.com",
     "livelounge.com",
     "livepools.com",
     "livesports.ag",
-    "lk.taxi.bet",
     "llamabet.co.uk",
     "lldj.com",
     "lmbookmaker.com",
@@ -6050,7 +5195,6 @@
     "lsbet690.com",
     "luckland.com",
     "lucky-31.com",
-    "lucky8.bet",
     "lucky8.com",
     "luckycasino.com",
     "luckycharmbingo.com",
@@ -6061,7 +5205,6 @@
     "luckyluke.com",
     "luckymeslots.com",
     "luckyniki.com",
-    "luckystar.bet",
     "luckywinslots.com",
     "lumibet.com",
     "lutrija.co.me",
@@ -6069,10 +5212,8 @@
     "lutrija.rs",
     "luxbet.com",
     "luxurycasino.com",
-    "m.betclic.bet",
     "m.boylesports.com",
     "m.jetbull.com",
-    "m.playsport.bet",
     "m.skybet.com",
     "m8bet.net",
     "m8poker.com",
@@ -6085,22 +5226,16 @@
     "magicbet.com",
     "magicred.com",
     "magnum4d.my",
-    "mail.bethashita.org.il",
-    "mail.bettzedek.org",
-    "mail.bnz.co.il",
-    "mail.inex.fr",
     "majorbet.net",
     "majorsportsbetting.com",
     "malinasports.com",
     "mamamiabingo.com",
-    "mamebet.com",
     "mansion88.com",
     "mansionbet.com",
     "marathonbet.co.uk",
     "marathonbet.com",
     "mariacasino.com",
     "markjarvisbet.com",
-    "mars.bet",
     "marsbet12.com",
     "marsbet200.com",
     "marsbet300.com",
@@ -6110,7 +5245,6 @@
     "mayansports.eu",
     "mbet.co.za",
     "mcbookie.com",
-    "mediapplications.com",
     "megalotto.pl",
     "megasportsworld.com",
     "meridianbet.com",
@@ -6120,7 +5254,6 @@
     "metspoker.com",
     "mexicocasino.com",
     "mfortune.co.uk",
-    "mgar-shaked.co.il",
     "miamicasino.com",
     "miamidice.com",
     "miamidicecasino.com",
@@ -6128,17 +5261,13 @@
     "mobil6000.com",
     "mobilautomaten.com",
     "mobilbet.com",
-    "mobile.ibbrugg.ch",
     "mobilebet.com",
     "mobocasino.com",
     "monacoaces.com",
     "moneyplayscasino.com",
-    "monique.bet",
-    "monitoring.x-trade.bet",
     "montecarlocasino.com",
     "morganbet.eu",
     "mozzartbet.com",
-    "mozzartbet.mk",
     "mpcasino.com",
     "mpi.gov.tr",
     "mpl.live",
@@ -6163,7 +5292,6 @@
     "mybet.com",
     "mybookie.ag",
     "mychance.com",
-    "mycontrolcard.com",
     "myfab11.com",
     "mylotto.co.nz",
     "mysportsbook.ag",
@@ -6196,7 +5324,6 @@
     "noaccountcasino.com",
     "nopeampi.com",
     "nordicbet.com",
-    "norge.bet",
     "norgesautomaten.com",
     "norgesspill.com",
     "norsk-tipping.no",
@@ -6225,7 +5352,6 @@
     "olybet.eu",
     "omniacasino.com",
     "oneto11.com",
-    "onetouchpurchasing.com",
     "onetpedia.net",
     "online.singaporepools.com",
     "onlinecasino-eu.com",
@@ -6238,17 +5364,14 @@
     "orakulas.lt",
     "orlandocasino.com",
     "ourpricebet.com",
-    "outlook.hydacusa.com",
     "overtheodds.com.au",
     "ovocasino.com",
-    "owa.bet.net",
     "ozbet.com.au",
     "p7campaign.com",
     "paddypower.com",
     "paf.com",
     "pais.co.il",
     "palladiumcasino.eu",
-    "palm.bet",
     "palmerbet.com",
     "pandabet.net",
     "paradisewin.com",
@@ -6257,7 +5380,6 @@
     "parimatchplay1.com",
     "parionssport.fdj.fr",
     "pariscasino8.com",
-    "pariuri.bet",
     "partypoker.cz",
     "parxcasino.com",
     "pasarbola.com",
@@ -6280,7 +5402,6 @@
     "playnow.com",
     "playojo.com",
     "playolg.ca",
-    "playsport.bet",
     "playsugarhouse.com",
     "playzax-top.com",
     "plexodds.com",
@@ -6288,7 +5409,6 @@
     "pocketvegas.co.uk",
     "pointcasino.com",
     "pointsbet.com",
-    "poker.admiral.it",
     "poker.betway.com",
     "poker.synottip.cz",
     "poker.williamhill.com",
@@ -6311,7 +5431,6 @@
     "primedice.com",
     "primeslots.com",
     "pro-factory.com",
-    "profi.bet",
     "proline.ca",
     "promo.casinoroom.com",
     "promo.ladbrokes.com",
@@ -6326,8 +5445,6 @@
     "punchbets.com",
     "purepoker.eu",
     "purewin.com",
-    "qoolife.com",
-    "qormibet.com",
     "queenvegas.com",
     "racebets.com",
     "raj.bet",
@@ -6336,12 +5453,10 @@
     "rajahbet.com",
     "rajbet.com",
     "rb88.com",
-    "rdgw.bendiks-transport.no",
     "readytobet.com",
     "realbet.eu",
     "realdealbet.com",
     "rebatewager.ag",
-    "rebuystars.bet",
     "redbet.com",
     "reddogcasinobonuses.com",
     "redkings.com",
@@ -6351,10 +5466,8 @@
     "redzonesports.bet",
     "refuelcasino.com",
     "regionalwinsite.com",
-    "rent.bet",
     "ridika.com",
     "rikstoto.no",
-    "risingbetclub.com",
     "rivalo.com",
     "riverbellecasino.com",
     "rizk.com",
@@ -6368,20 +5481,15 @@
     "rubet.com",
     "rummy24.com",
     "rush777.com",
-    "s8s.bet",
-    "sadmin.bet-trade.com",
-    "sadmin.x-trade.bet",
     "safaribet.com.gh",
     "saharabet.com",
     "samvo.com",
     "sanfrancasino.com",
     "saturnplay.com",
     "sazka.cz",
-    "sazkabet.bet",
     "sbgglobal.eu",
     "sblp.intertops.eu",
     "sbobet.com",
-    "scandi.bet",
     "scandibet.com",
     "scasino.com",
     "score99.net",
@@ -6391,17 +5499,13 @@
     "seaniemac.com",
     "sectorbet.com",
     "secure.bkbet.eu",
-    "secure.xserver.ne.jp",
     "sesbet.com",
     "setantabet.com",
-    "shadesemporium.com",
-    "shohar.net",
     "simppeli.com",
     "sirbobet.com",
     "sirjackpot.com",
     "sisal.it",
     "sisportsbook.com",
-    "sixcore.ne.jp",
     "sjbet.at",
     "skedina.com",
     "skinarena.com",
@@ -6416,6 +5520,10 @@
     "skybook.ag",
     "skytowersportsbook.com",
     "slbet.com",
+    "slot-gacor--4d.themeadow.com",
+    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
+    "slot-gacor--camar4444.pages.dev",
+    "slot-gacor--maxwin.ahlemeyewear.com",
     "slotocash.im",
     "slotplanet.com",
     "slots.888wetten.de",
@@ -6432,103 +5540,8 @@
     "smarkets.com",
     "smashsportsbetting.com",
     "snabbare.com",
-    "sni102664.cloudflaressl.com",
-    "sni11059.cloudflaressl.com",
-    "sni116704.cloudflaressl.com",
-    "sni133729.cloudflaressl.com",
-    "sni134164.cloudflaressl.com",
-    "sni141122.cloudflaressl.com",
-    "sni141618.cloudflaressl.com",
-    "sni142028.cloudflaressl.com",
-    "sni142524.cloudflaressl.com",
-    "sni144969.cloudflaressl.com",
-    "sni147549.cloudflaressl.com",
-    "sni151203.cloudflaressl.com",
-    "sni151991.cloudflaressl.com",
-    "sni155352.cloudflaressl.com",
-    "sni155742.cloudflaressl.com",
-    "sni163883.cloudflaressl.com",
-    "sni167488.cloudflaressl.com",
-    "sni167720.cloudflaressl.com",
-    "sni167826.cloudflaressl.com",
-    "sni172073.cloudflaressl.com",
-    "sni174155.cloudflaressl.com",
-    "sni177483.cloudflaressl.com",
-    "sni178027.cloudflaressl.com",
-    "sni179963.cloudflaressl.com",
-    "sni181886.cloudflaressl.com",
-    "sni185647.cloudflaressl.com",
-    "sni185686.cloudflaressl.com",
-    "sni189812.cloudflaressl.com",
-    "sni192795.cloudflaressl.com",
-    "sni193742.cloudflaressl.com",
-    "sni193807.cloudflaressl.com",
-    "sni193814.cloudflaressl.com",
-    "sni198176.cloudflaressl.com",
-    "sni199926.cloudflaressl.com",
-    "sni201373.cloudflaressl.com",
-    "sni203298.cloudflaressl.com",
-    "sni207742.cloudflaressl.com",
-    "sni208095.cloudflaressl.com",
-    "sni212701.cloudflaressl.com",
-    "sni215303.cloudflaressl.com",
-    "sni222385.cloudflaressl.com",
-    "sni223282.cloudflaressl.com",
-    "sni224974.cloudflaressl.com",
-    "sni225202.cloudflaressl.com",
-    "sni225969.cloudflaressl.com",
-    "sni225977.cloudflaressl.com",
-    "sni225984.cloudflaressl.com",
-    "sni226001.cloudflaressl.com",
-    "sni226233.cloudflaressl.com",
-    "sni227499.cloudflaressl.com",
-    "sni22761.cloudflaressl.com",
-    "sni228447.cloudflaressl.com",
-    "sni228623.cloudflaressl.com",
-    "sni229042.cloudflaressl.com",
-    "sni232409.cloudflaressl.com",
-    "sni232741.cloudflaressl.com",
-    "sni233213.cloudflaressl.com",
-    "sni233228.cloudflaressl.com",
-    "sni235880.cloudflaressl.com",
-    "sni236262.cloudflaressl.com",
-    "sni236265.cloudflaressl.com",
-    "sni236266.cloudflaressl.com",
-    "sni236866.cloudflaressl.com",
-    "sni239714.cloudflaressl.com",
-    "sni24211.cloudflaressl.com",
-    "sni243822.cloudflaressl.com",
-    "sni248738.cloudflaressl.com",
-    "sni251842.cloudflaressl.com",
-    "sni252523.cloudflaressl.com",
-    "sni27097.cloudflaressl.com",
-    "sni27553.cloudflaressl.com",
-    "sni307797.cloudflaressl.com",
-    "sni31038.cloudflaressl.com",
-    "sni33657.cloudflaressl.com",
-    "sni34994.cloudflaressl.com",
-    "sni36282.cloudflaressl.com",
-    "sni36845.cloudflaressl.com",
-    "sni38455.cloudflaressl.com",
-    "sni40551.cloudflaressl.com",
-    "sni42941.cloudflaressl.com",
-    "sni50809.cloudflaressl.com",
-    "sni55267.cloudflaressl.com",
-    "sni57345.cloudflaressl.com",
-    "sni57516.cloudflaressl.com",
-    "sni57556.cloudflaressl.com",
-    "sni57622.cloudflaressl.com",
-    "sni61427.cloudflaressl.com",
-    "sni67241.cloudflaressl.com",
-    "sni70431.cloudflaressl.com",
-    "sni76787.cloudflaressl.com",
-    "sni78288.cloudflaressl.com",
-    "sni81378.cloudflaressl.com",
-    "sni81545.cloudflaressl.com",
-    "sni94804.cloudflaressl.com",
     "socalsportbook.com",
     "softbet.eu",
-    "sosbet.com",
     "spartansslots.net",
     "speedybet.com",
     "spela.com",
@@ -6542,7 +5555,6 @@
     "spinson.com",
     "spinstation.com",
     "spinzilla.com",
-    "sporbahissiteleri.bet",
     "sport-gewin.com",
     "sport.netbet.co.uk",
     "sport.synottip.cz",
@@ -6553,7 +5565,6 @@
     "sportingindex.com",
     "sportjunki.com",
     "sportlife.com.mk",
-    "sportmedia.bet",
     "sportodds.com",
     "sports-gambling.com",
     "sports.betway.com",
@@ -6589,20 +5600,6 @@
     "sporttime.net",
     "sportzbookz.com",
     "spreadex.com",
-    "ssl.bet-alert.com",
-    "ssl368402.cloudflaressl.com",
-    "ssl370592.cloudflaressl.com",
-    "ssl371933.cloudflaressl.com",
-    "ssl372182.cloudflaressl.com",
-    "ssl375865.cloudflaressl.com",
-    "ssl376693.cloudflaressl.com",
-    "ssl379257.cloudflaressl.com",
-    "ssl379260.cloudflaressl.com",
-    "ssl380841.cloudflaressl.com",
-    "ssl387969.cloudflaressl.com",
-    "ssl387971.cloudflaressl.com",
-    "ssl391172.cloudflaressl.com",
-    "ssl404686.cloudflaressl.com",
     "sssbet.com",
     "staatsloterij.nederlandseloterij.nl",
     "stakers.com",
@@ -6612,7 +5609,6 @@
     "start.duelz.com",
     "statsloterij.nederlandseloterij.nl",
     "statusbet.com",
-    "step.bet",
     "stoloto.ru",
     "storspelare.com",
     "storspiller.com",
@@ -6630,18 +5626,15 @@
     "supersoccer.co.uk",
     "supersportsbook.com",
     "superusacasino.com",
-    "surebet.bet",
     "surf.casino",
     "sveacasino.se",
     "svedalacasino.com",
-    "svensk.bet",
     "svenskaspel.se",
     "sverigeautomaten.com",
     "sverigecasino.com",
     "sverigekronan.com",
     "swedencasino.com",
     "swedencasino.se",
-    "syndicatebet.com.au",
     "synottip.cz",
     "szerencsejatek.hu",
     "szuperlotto.com",
@@ -6651,23 +5644,18 @@
     "taiwanlottery.com.tw",
     "takarakuji-official.jp",
     "tatts.com",
-    "taxi.tzk.su",
     "templenile.com",
     "tempobet.com",
-    "terminals.x-trade.bet",
     "texascasino.com",
     "thebetarena.com",
     "thebettingguy.co.uk",
     "thegreek.com",
-    "theisraelboutique.com",
     "thelotter.com",
     "thrills.com",
     "tipbet.com",
     "tipico.com",
     "tipos.sk",
     "tipp24.com",
-    "tipsport.bet",
-    "tipsport.com",
     "tipsport.cz",
     "tipwin.com",
     "titanbet.com",
@@ -6747,8 +5735,6 @@
     "wagerweb.eu",
     "wazamba.com",
     "webbookmakers.com",
-    "webcamsex.bet",
-    "webmail.xserver.jp",
     "westlotto.de",
     "wettpunkt.com",
     "wgh.ag",
@@ -6775,22 +5761,18 @@
     "worldsportsbetting.co.za",
     "worldstar.co.ug",
     "worldwidegamble.com",
-    "wow.bet",
     "wunderino.com",
     "wwin.ba",
     "wwin.com",
     "xinweide.com",
     "yabet.com",
     "yakocasino.com",
-    "yeshiva.org.il",
-    "yesplay.bet",
     "yeticasino.com",
     "yobetit.com",
     "youwager.eu",
     "youwin.com",
     "zebrabet.com.au",
     "zenitbet.com",
-    "zet.bet",
     "zetpoker.eu",
     "zeturf.fr",
     "zodiacu.com"

@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-05-18T22:04:11.870321Z",
+  "timestamp": "2026-05-19T02:56:05.945176Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 43.035,
-  "domains": []
+  "candidate_count": 1,
+  "time_seconds": 43.694,
+  "domains": [
+    "togodbethegloryamen.pages.dev"
+  ]
 }

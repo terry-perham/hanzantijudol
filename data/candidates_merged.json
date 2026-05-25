@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-05-24T21:54:31.384649Z",
-  "candidate_count": 1428,
+  "timestamp": "2026-05-25T03:33:47.818210Z",
+  "candidate_count": 1430,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-05-24T21:55:47.587040Z"
+      "timestamp": "2026-05-25T03:34:58.977821Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-05-24T21:55:48.912095Z"
-    },
-    "certificate_transparency": {
-      "count": 0,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-05-24T21:55:54.512532Z"
+      "timestamp": "2026-05-25T03:35:00.468857Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-05-24T21:55:54.764785Z"
+      "timestamp": "2026-05-25T03:35:00.913823Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-05-24T21:55:56.753683Z"
+      "timestamp": "2026-05-25T03:35:08.641459Z"
+    },
+    "certificate_transparency": {
+      "count": 0,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-05-25T03:35:21.877797Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 2,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-05-24T21:56:34.009867Z"
+      "timestamp": "2026-05-25T03:35:47.454235Z"
     }
   },
   "domain_sources": {
@@ -222,6 +222,9 @@
     ],
     "ahtigames.com": [
       "curated_gambling_feeds"
+    ],
+    "airbnb-clone-beta-five.vercel.app": [
+      "platform_abuse_sweep"
     ],
     "alfcasino.com": [
       "curated_gambling_feeds"
@@ -2752,6 +2755,9 @@
     "merkur24.com": [
       "curated_gambling_feeds"
     ],
+    "messenger-clone-beta.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "metalcasino.com": [
       "curated_gambling_feeds"
     ],
@@ -4383,6 +4389,7 @@
     "agentspinner.com",
     "ahacasino.com",
     "ahtigames.com",
+    "airbnb-clone-beta-five.vercel.app",
     "alfcasino.com",
     "allhorseracing.ag",
     "allpro.eu",
@@ -5226,6 +5233,7 @@
     "meridianbet.com",
     "merkur-casino.de",
     "merkur24.com",
+    "messenger-clone-beta.vercel.app",
     "metalcasino.com",
     "metspoker.com",
     "mexicocasino.com",

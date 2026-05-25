@@ -1,9 +1,12 @@
 {
-  "timestamp": "2026-05-24T21:56:34.009451Z",
+  "timestamp": "2026-05-25T03:35:47.453706Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 46.4,
-  "domains": []
+  "candidate_count": 2,
+  "time_seconds": 48.453,
+  "domains": [
+    "airbnb-clone-beta-five.vercel.app",
+    "messenger-clone-beta.vercel.app"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-28T06:55:39.044082Z",
+  "timestamp": "2026-05-28T12:27:00.708290Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 42.665,
+  "time_seconds": 44.936,
   "domains": [
-    "yetyuewveywvbqwu-teguqiojewdwtqydq.pages.dev"
+    "web-git-featwebearntdpdeposit-uniswap.vercel.app"
   ]
 }

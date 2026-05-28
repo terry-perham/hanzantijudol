@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-28T02:53:02.516014Z",
+  "timestamp": "2026-05-28T06:55:39.044082Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 48.728,
+  "time_seconds": 42.665,
   "domains": [
     "yetyuewveywvbqwu-teguqiojewdwtqydq.pages.dev"
   ]

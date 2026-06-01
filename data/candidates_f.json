@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-05-31T22:00:11.396965Z",
+  "timestamp": "2026-06-01T03:43:20.739355Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 46.56,
-  "domains": []
+  "candidate_count": 1,
+  "time_seconds": 43.979,
+  "domains": [
+    "newdapp-swap.netlify.app"
+  ]
 }

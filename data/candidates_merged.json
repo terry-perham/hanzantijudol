@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-02T10:17:55.223625Z",
-  "candidate_count": 1428,
+  "timestamp": "2026-06-02T16:17:41.245337Z",
+  "candidate_count": 1429,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-02T10:19:15.301476Z"
+      "timestamp": "2026-06-02T16:18:52.458403Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-02T10:19:16.662024Z"
-    },
-    "government_scanning": {
-      "count": 0,
-      "file": "data/candidates_c.json",
-      "timestamp": "2026-06-02T10:19:24.561046Z"
+      "timestamp": "2026-06-02T16:18:54.401563Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-02T10:19:25.683836Z"
+      "timestamp": "2026-06-02T16:18:54.518387Z"
     },
-    "platform_abuse_sweep": {
+    "government_scanning": {
       "count": 0,
-      "file": "data/candidates_f.json",
-      "timestamp": "2026-06-02T10:20:01.575417Z"
+      "file": "data/candidates_c.json",
+      "timestamp": "2026-06-02T16:19:02.737761Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-02T10:20:15.587193Z"
+      "timestamp": "2026-06-02T16:19:14.818513Z"
+    },
+    "platform_abuse_sweep": {
+      "count": 1,
+      "file": "data/candidates_f.json",
+      "timestamp": "2026-06-02T16:19:41.533028Z"
     }
   },
   "domain_sources": {
@@ -4042,6 +4042,9 @@
     "turbico.com": [
       "curated_gambling_feeds"
     ],
+    "uber-beta-ten.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "uberskins.net": [
       "curated_gambling_feeds"
     ],
@@ -5656,6 +5659,7 @@
     "triobet.com",
     "ttr.casino",
     "turbico.com",
+    "uber-beta-ten.vercel.app",
     "uberskins.net",
     "ubet.com",
     "ucabet.co",

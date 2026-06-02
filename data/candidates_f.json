@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-02T20:47:41.619173Z",
+  "timestamp": "2026-06-02T23:03:26.606813Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 46.146,
+  "time_seconds": 46.085,
   "domains": [
     "uber-beta-ten.vercel.app"
   ]

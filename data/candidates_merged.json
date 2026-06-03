@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-02T23:01:31.407530Z",
-  "candidate_count": 1432,
+  "timestamp": "2026-06-03T03:44:22.603207Z",
+  "candidate_count": 1428,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-02T23:02:40.498992Z"
+      "timestamp": "2026-06-03T03:45:32.994692Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-02T23:02:41.902971Z"
+      "timestamp": "2026-06-03T03:45:34.199937Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-02T23:02:44.860213Z"
+      "timestamp": "2026-06-03T03:45:34.844704Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-02T23:02:50.313614Z"
-    },
-    "platform_abuse_sweep": {
-      "count": 1,
-      "file": "data/candidates_f.json",
-      "timestamp": "2026-06-02T23:03:26.607261Z"
+      "timestamp": "2026-06-03T03:45:41.826379Z"
     },
     "certificate_transparency": {
-      "count": 3,
+      "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-02T23:03:53.704276Z"
+      "timestamp": "2026-06-03T03:46:09.850862Z"
+    },
+    "platform_abuse_sweep": {
+      "count": 0,
+      "file": "data/candidates_f.json",
+      "timestamp": "2026-06-03T03:46:17.168934Z"
     }
   },
   "domain_sources": {
@@ -1156,9 +1156,6 @@
     "chisholmbet.com": [
       "curated_gambling_feeds"
     ],
-    "cibolocreekquiltersguild.com": [
-      "certificate_transparency"
-    ],
     "circlebet.com": [
       "curated_gambling_feeds"
     ],
@@ -2241,12 +2238,6 @@
     ],
     "jojobet.com": [
       "curated_gambling_feeds"
-    ],
-    "judi-slot--bankjago.shamrockcolony.com": [
-      "certificate_transparency"
-    ],
-    "judiboisson.com": [
-      "certificate_transparency"
     ],
     "juegos.loteriasyapuestas.es": [
       "curated_gambling_feeds"
@@ -4051,9 +4042,6 @@
     "turbico.com": [
       "curated_gambling_feeds"
     ],
-    "uber-beta-ten.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "uberskins.net": [
       "curated_gambling_feeds"
     ],
@@ -4706,7 +4694,6 @@
     "cherryjackpot.com",
     "chinesebookie.eu",
     "chisholmbet.com",
-    "cibolocreekquiltersguild.com",
     "circlebet.com",
     "circusbingo.com",
     "citybingo.com",
@@ -5068,8 +5055,6 @@
     "join.casino.com",
     "joinbet.eu",
     "jojobet.com",
-    "judi-slot--bankjago.shamrockcolony.com",
-    "judiboisson.com",
     "juegos.loteriasyapuestas.es",
     "juicystakes.eu",
     "jumbabet.com",
@@ -5671,7 +5656,6 @@
     "triobet.com",
     "ttr.casino",
     "turbico.com",
-    "uber-beta-ten.vercel.app",
     "uberskins.net",
     "ubet.com",
     "ucabet.co",

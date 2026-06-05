@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-04T22:21:39.345478Z",
+  "timestamp": "2026-06-05T03:30:31.186985Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 43.536,
+  "time_seconds": 48.621,
   "domains": [
-    "uber-beta-ten.vercel.app"
+    "3d17-050k-1vwa.brentt-gfwdsupply-com-s-account.workers.dev"
   ]
 }

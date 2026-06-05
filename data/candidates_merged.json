@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-05T09:41:35.221917Z",
-  "candidate_count": 1429,
+  "timestamp": "2026-06-05T14:44:02.312774Z",
+  "candidate_count": 1428,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-05T09:42:46.916626Z"
+      "timestamp": "2026-06-05T14:45:22.422685Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-05T09:42:48.407576Z"
+      "timestamp": "2026-06-05T14:45:23.636766Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-05T09:42:48.918916Z"
-    },
-    "government_scanning": {
-      "count": 0,
-      "file": "data/candidates_c.json",
-      "timestamp": "2026-06-05T09:42:56.518099Z"
+      "timestamp": "2026-06-05T14:45:24.020016Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-05T09:43:24.510319Z"
+      "timestamp": "2026-06-05T14:45:28.901731Z"
+    },
+    "government_scanning": {
+      "count": 0,
+      "file": "data/candidates_c.json",
+      "timestamp": "2026-06-05T14:45:31.054481Z"
     },
     "platform_abuse_sweep": {
-      "count": 1,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-05T09:43:35.301515Z"
+      "timestamp": "2026-06-05T14:46:05.833785Z"
     }
   },
   "domain_sources": {
@@ -126,9 +126,6 @@
     ],
     "377bet.com": [
       "curated_gambling_feeds"
-    ],
-    "3d17-050k-1vwa.brentt-gfwdsupply-com-s-account.workers.dev": [
-      "platform_abuse_sweep"
     ],
     "444sports.com": [
       "curated_gambling_feeds"
@@ -4354,7 +4351,6 @@
     "32redsport.com",
     "368bet.com",
     "377bet.com",
-    "3d17-050k-1vwa.brentt-gfwdsupply-com-s-account.workers.dev",
     "444sports.com",
     "461.net",
     "5dimes.com",

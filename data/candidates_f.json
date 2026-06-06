@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-06T02:51:52.412571Z",
+  "timestamp": "2026-06-06T06:31:29.792912Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 48.235,
+  "time_seconds": 46.295,
   "domains": [
     "n8pr-20z3-4o64.brentt-gfwdsupply-com-s-account.workers.dev"
   ]

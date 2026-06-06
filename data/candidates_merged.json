@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-05T22:13:59.376436Z",
-  "candidate_count": 1428,
+  "timestamp": "2026-06-06T02:49:48.333027Z",
+  "candidate_count": 1429,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-05T22:15:29.138904Z"
+      "timestamp": "2026-06-06T02:51:04.155209Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-05T22:15:30.631977Z"
+      "timestamp": "2026-06-06T02:51:05.594206Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-05T22:15:35.143097Z"
+      "timestamp": "2026-06-06T02:51:10.345553Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-05T22:15:38.941837Z"
+      "timestamp": "2026-06-06T02:51:14.387105Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-05T22:15:51.362210Z"
+      "timestamp": "2026-06-06T02:51:26.387345Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-05T22:16:18.183499Z"
+      "timestamp": "2026-06-06T02:51:52.413064Z"
     }
   },
   "domain_sources": {
@@ -2896,6 +2896,9 @@
     "n1casino.com": [
       "curated_gambling_feeds"
     ],
+    "n8pr-20z3-4o64.brentt-gfwdsupply-com-s-account.workers.dev": [
+      "platform_abuse_sweep"
+    ],
     "naijabet.com": [
       "curated_gambling_feeds"
     ],
@@ -5274,6 +5277,7 @@
     "myteam11.com",
     "myteampoker.com",
     "n1casino.com",
+    "n8pr-20z3-4o64.brentt-gfwdsupply-com-s-account.workers.dev",
     "naijabet.com",
     "nairabet.com",
     "nairastake.com",

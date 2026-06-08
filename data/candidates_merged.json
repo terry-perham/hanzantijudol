@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-07T22:02:25.731373Z",
+  "timestamp": "2026-06-08T03:39:02.137361Z",
   "candidate_count": 1428,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-07T22:03:50.723069Z"
+      "timestamp": "2026-06-08T03:40:25.969361Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-07T22:03:52.191389Z"
+      "timestamp": "2026-06-08T03:40:27.181997Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-07T22:03:52.336640Z"
+      "timestamp": "2026-06-08T03:40:31.402076Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-07T22:03:57.621121Z"
+      "timestamp": "2026-06-08T03:40:32.428975Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-07T22:03:59.920359Z"
+      "timestamp": "2026-06-08T03:40:35.018234Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-07T22:04:36.998073Z"
+      "timestamp": "2026-06-08T03:41:10.605361Z"
     }
   },
   "domain_sources": {

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-08T10:47:25.634834Z",
-  "candidate_count": 1428,
+  "timestamp": "2026-06-08T15:43:33.981805Z",
+  "candidate_count": 1429,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-08T10:48:40.989422Z"
+      "timestamp": "2026-06-08T15:44:46.619513Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-08T10:48:42.185955Z"
+      "timestamp": "2026-06-08T15:44:47.856454Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-08T10:48:42.570103Z"
+      "timestamp": "2026-06-08T15:44:51.368943Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-08T10:48:47.588905Z"
+      "timestamp": "2026-06-08T15:44:52.967052Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-08T10:48:49.577666Z"
+      "timestamp": "2026-06-08T15:44:55.680676Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-08T10:49:24.031729Z"
+      "timestamp": "2026-06-08T15:45:31.737434Z"
     }
   },
   "domain_sources": {
@@ -3787,6 +3787,9 @@
     "sportzbookz.com": [
       "curated_gambling_feeds"
     ],
+    "spotify-client-beta.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "spreadex.com": [
       "curated_gambling_feeds"
     ],
@@ -5571,6 +5574,7 @@
     "sportstoto.com.my",
     "sporttime.net",
     "sportzbookz.com",
+    "spotify-client-beta.vercel.app",
     "spreadex.com",
     "sssbet.com",
     "staatsloterij.nederlandseloterij.nl",

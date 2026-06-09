@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-09T06:50:12.450861Z",
+  "timestamp": "2026-06-09T12:00:53.411124Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 42.55,
+  "time_seconds": 44.303,
   "domains": [
     "netflix-clone-beta-taupe.vercel.app"
   ]

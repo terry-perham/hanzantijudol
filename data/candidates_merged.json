@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-08T22:24:51.419890Z",
-  "candidate_count": 1439,
+  "timestamp": "2026-06-09T02:48:54.250091Z",
+  "candidate_count": 1436,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-08T22:26:18.711238Z"
+      "timestamp": "2026-06-09T02:50:01.626714Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-08T22:26:20.012665Z"
+      "timestamp": "2026-06-09T02:50:02.915944Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-08T22:26:20.441947Z"
+      "timestamp": "2026-06-09T02:50:03.416895Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-08T22:26:28.173619Z"
+      "timestamp": "2026-06-09T02:50:10.461938Z"
+    },
+    "certificate_transparency": {
+      "count": 7,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-06-09T02:50:24.129648Z"
     },
     "platform_abuse_sweep": {
       "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-08T22:27:01.996772Z"
-    },
-    "certificate_transparency": {
-      "count": 10,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-06-08T22:27:25.367664Z"
+      "timestamp": "2026-06-09T02:50:45.320815Z"
     }
   },
   "domain_sources": {
@@ -1162,9 +1162,6 @@
     "chisholmbet.com": [
       "curated_gambling_feeds"
     ],
-    "cibolocreekquiltersguild.com": [
-      "certificate_transparency"
-    ],
     "circlebet.com": [
       "curated_gambling_feeds"
     ],
@@ -2251,12 +2248,6 @@
     "jojobet.com": [
       "curated_gambling_feeds"
     ],
-    "judi-slot--bankjago.shamrockcolony.com": [
-      "certificate_transparency"
-    ],
-    "judiboisson.com": [
-      "certificate_transparency"
-    ],
     "juegos.loteriasyapuestas.es": [
       "curated_gambling_feeds"
     ],
@@ -2952,6 +2943,9 @@
     ],
     "netbet.fr": [
       "curated_gambling_feeds"
+    ],
+    "netflix-clone-beta-taupe.vercel.app": [
+      "platform_abuse_sweep"
     ],
     "neverfelted.eu": [
       "curated_gambling_feeds"
@@ -3816,9 +3810,6 @@
     ],
     "sportzbookz.com": [
       "curated_gambling_feeds"
-    ],
-    "spotify-client-beta.vercel.app": [
-      "platform_abuse_sweep"
     ],
     "spreadex.com": [
       "curated_gambling_feeds"
@@ -4729,7 +4720,6 @@
     "cherryjackpot.com",
     "chinesebookie.eu",
     "chisholmbet.com",
-    "cibolocreekquiltersguild.com",
     "circlebet.com",
     "circusbingo.com",
     "citybingo.com",
@@ -5092,8 +5082,6 @@
     "join.casino.com",
     "joinbet.eu",
     "jojobet.com",
-    "judi-slot--bankjago.shamrockcolony.com",
-    "judiboisson.com",
     "juegos.loteriasyapuestas.es",
     "juicystakes.eu",
     "jumbabet.com",
@@ -5326,6 +5314,7 @@
     "netbet.com",
     "netbet.de",
     "netbet.fr",
+    "netflix-clone-beta-taupe.vercel.app",
     "neverfelted.eu",
     "nextcasino.com",
     "nightrush.com",
@@ -5614,7 +5603,6 @@
     "sportstoto.com.my",
     "sporttime.net",
     "sportzbookz.com",
-    "spotify-client-beta.vercel.app",
     "spreadex.com",
     "sssbet.com",
     "staatsloterij.nederlandseloterij.nl",

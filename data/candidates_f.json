@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-08T22:27:01.996357Z",
+  "timestamp": "2026-06-09T02:50:45.320260Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 43.261,
+  "time_seconds": 43.671,
   "domains": [
-    "spotify-client-beta.vercel.app"
+    "netflix-clone-beta-taupe.vercel.app"
   ]
 }

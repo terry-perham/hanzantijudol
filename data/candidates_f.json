@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-09T17:27:24.112395Z",
+  "timestamp": "2026-06-09T20:07:04.119707Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 48.532,
+  "time_seconds": 46.496,
   "domains": [
     "spotify-client-beta.vercel.app"
   ]

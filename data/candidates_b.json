@@ -1,14 +1,11 @@
 {
-  "timestamp": "2026-06-10T09:55:57.568451Z",
+  "timestamp": "2026-06-10T15:27:33.487163Z",
   "method": "certificate_transparency",
   "keywords_searched": 5,
-  "candidate_count": 15,
-  "time_seconds": 66.844,
+  "candidate_count": 12,
+  "time_seconds": 8.33,
   "domains": [
     "app.hkmahjong.com.hk",
-    "cibolocreekquiltersguild.com",
-    "judi-slot--bankjago.shamrockcolony.com",
-    "judiboisson.com",
     "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app",
     "mahjong--ways.noma.com",
     "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de",

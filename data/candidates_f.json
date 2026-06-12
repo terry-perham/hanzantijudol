@@ -1,13 +1,11 @@
 {
-  "timestamp": "2026-06-12T10:08:47.553222Z",
+  "timestamp": "2026-06-12T14:54:25.747651Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 3,
-  "time_seconds": 47.805,
+  "candidate_count": 1,
+  "time_seconds": 44.304,
   "domains": [
-    "bet365-6iy.pages.dev",
-    "spotify-client-beta.vercel.app",
-    "yxd2-wdbf-hch6.piyush-goti-soilengineersltd-com-s-account.workers.dev"
+    "spotify-client-beta.vercel.app"
   ]
 }

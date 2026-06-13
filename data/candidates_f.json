@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-13T13:55:33.440899Z",
+  "timestamp": "2026-06-13T16:15:22.303557Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 42.821,
+  "time_seconds": 43.052,
   "domains": [
     "bet365-bet365a-org.pages.dev"
   ]

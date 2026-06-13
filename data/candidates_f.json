@@ -1,11 +1,13 @@
 {
-  "timestamp": "2026-06-12T22:25:23.216902Z",
+  "timestamp": "2026-06-13T03:26:36.267893Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 44.659,
+  "candidate_count": 3,
+  "time_seconds": 46.548,
   "domains": [
-    "spotify-client-beta.vercel.app"
+    "7dde-fcjv-tyyf.css-sleepbetteraustin-com-s-account.workers.dev",
+    "b486-r3sn-rc20.css-sleepbetteraustin-com-s-account.workers.dev",
+    "postch-avisdepassage.vercel.app"
   ]
 }

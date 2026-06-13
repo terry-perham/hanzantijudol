@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-13T11:13:05.688453Z",
-  "candidate_count": 1431,
+  "timestamp": "2026-06-13T13:53:32.168625Z",
+  "candidate_count": 1429,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-13T11:14:15.249270Z"
+      "timestamp": "2026-06-13T13:54:50.596994Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-13T11:14:16.397080Z"
+      "timestamp": "2026-06-13T13:54:51.745289Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-13T11:14:16.931486Z"
-    },
-    "certificate_transparency": {
-      "count": 0,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-06-13T11:14:21.914308Z"
+      "timestamp": "2026-06-13T13:54:52.195764Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-13T11:14:23.881742Z"
+      "timestamp": "2026-06-13T13:54:59.801520Z"
+    },
+    "certificate_transparency": {
+      "count": 0,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-06-13T13:55:14.160164Z"
     },
     "platform_abuse_sweep": {
-      "count": 3,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-13T11:14:58.403306Z"
+      "timestamp": "2026-06-13T13:55:33.441449Z"
     }
   },
   "domain_sources": {
@@ -150,9 +150,6 @@
     ],
     "777bets.co.uk": [
       "curated_gambling_feeds"
-    ],
-    "7dde-fcjv-tyyf.css-sleepbetteraustin-com-s-account.workers.dev": [
-      "platform_abuse_sweep"
     ],
     "7epta7.com": [
       "curated_gambling_feeds"
@@ -295,9 +292,6 @@
     "b-bets.com": [
       "curated_gambling_feeds"
     ],
-    "b486-r3sn-rc20.css-sleepbetteraustin-com-s-account.workers.dev": [
-      "platform_abuse_sweep"
-    ],
     "balkanbet.co.rs": [
       "curated_gambling_feeds"
     ],
@@ -384,6 +378,9 @@
     ],
     "bet33.com": [
       "curated_gambling_feeds"
+    ],
+    "bet365-bet365a-org.pages.dev": [
+      "platform_abuse_sweep"
     ],
     "bet365.com": [
       "curated_gambling_feeds"
@@ -3274,9 +3271,6 @@
     "portail.lotoquebec.com": [
       "curated_gambling_feeds"
     ],
-    "postch-avisdepassage.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "postcodeloterij.nl": [
       "curated_gambling_feeds"
     ],
@@ -4368,7 +4362,6 @@
     "777.com",
     "7777.bg",
     "777bets.co.uk",
-    "7dde-fcjv-tyyf.css-sleepbetteraustin-com-s-account.workers.dev",
     "7epta7.com",
     "7godscasino.com",
     "7jackpots.com",
@@ -4416,7 +4409,6 @@
     "azcasino.com",
     "azurcasino2.com",
     "b-bets.com",
-    "b486-r3sn-rc20.css-sleepbetteraustin-com-s-account.workers.dev",
     "balkanbet.co.rs",
     "ballebaazi.com",
     "bamasportsbook.com",
@@ -4446,6 +4438,7 @@
     "bet2win.ag",
     "bet3000.com",
     "bet33.com",
+    "bet365-bet365a-org.pages.dev",
     "bet365.com",
     "bet365.es",
     "bet7days.com",
@@ -5409,7 +5402,6 @@
     "pokerstars.uk",
     "pokerstarscasino.uk",
     "portail.lotoquebec.com",
-    "postch-avisdepassage.vercel.app",
     "postcodeloterij.nl",
     "potsofluck.com",
     "premiercasino.com",

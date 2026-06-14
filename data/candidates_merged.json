@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-14T09:29:49.618182Z",
-  "candidate_count": 1430,
+  "timestamp": "2026-06-14T13:56:12.237690Z",
+  "candidate_count": 1431,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-14T09:31:11.972150Z"
+      "timestamp": "2026-06-14T13:57:28.705892Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-14T09:31:13.472412Z"
+      "timestamp": "2026-06-14T13:57:30.146483Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-14T09:31:18.776286Z"
+      "timestamp": "2026-06-14T13:57:30.301726Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-14T09:31:22.149337Z"
+      "timestamp": "2026-06-14T13:57:38.370259Z"
     },
     "platform_abuse_sweep": {
-      "count": 2,
+      "count": 3,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-14T09:32:00.182389Z"
+      "timestamp": "2026-06-14T13:58:14.596743Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-14T09:32:11.858461Z"
+      "timestamp": "2026-06-14T13:58:28.399283Z"
     }
   },
   "domain_sources": {
@@ -378,9 +378,6 @@
     ],
     "bet33.com": [
       "curated_gambling_feeds"
-    ],
-    "bet365-bet365a-org.pages.dev": [
-      "platform_abuse_sweep"
     ],
     "bet365.com": [
       "curated_gambling_feeds"
@@ -936,6 +933,9 @@
     ],
     "boylesports.com": [
       "curated_gambling_feeds"
+    ],
+    "brilliant-sherbet-6f0a46.netlify.app": [
+      "platform_abuse_sweep"
     ],
     "britsbingo.co.uk": [
       "curated_gambling_feeds"
@@ -3034,6 +3034,9 @@
     "offtrackbetting.com": [
       "curated_gambling_feeds"
     ],
+    "ogfizwptvwizrdfxe-opv8tnjbjirlmiem7rwdle.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "ohiocasino.com": [
       "curated_gambling_feeds"
     ],
@@ -4441,7 +4444,6 @@
     "bet2win.ag",
     "bet3000.com",
     "bet33.com",
-    "bet365-bet365a-org.pages.dev",
     "bet365.com",
     "bet365.es",
     "bet7days.com",
@@ -4627,6 +4629,7 @@
     "bovada.lv",
     "box24games.com",
     "boylesports.com",
+    "brilliant-sherbet-6f0a46.netlify.app",
     "britsbingo.co.uk",
     "browncowbingo.com",
     "brucebetting.com",
@@ -5326,6 +5329,7 @@
     "odinbet.com",
     "offsidebet.com",
     "offtrackbetting.com",
+    "ogfizwptvwizrdfxe-opv8tnjbjirlmiem7rwdle.vercel.app",
     "ohiocasino.com",
     "ohmbet.com",
     "olaspill.com",

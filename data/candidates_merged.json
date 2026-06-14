@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-13T22:01:35.604534Z",
-  "candidate_count": 1429,
+  "timestamp": "2026-06-14T03:40:29.711836Z",
+  "candidate_count": 1430,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-13T22:02:44.551298Z"
+      "timestamp": "2026-06-14T03:41:40.360016Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-13T22:02:45.886171Z"
-    },
-    "government_scanning": {
-      "count": 0,
-      "file": "data/candidates_c.json",
-      "timestamp": "2026-06-13T22:02:53.835474Z"
+      "timestamp": "2026-06-14T03:41:41.702394Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-13T22:02:54.983907Z"
+      "timestamp": "2026-06-14T03:41:46.047668Z"
+    },
+    "government_scanning": {
+      "count": 0,
+      "file": "data/candidates_c.json",
+      "timestamp": "2026-06-14T03:41:50.270146Z"
+    },
+    "platform_abuse_sweep": {
+      "count": 2,
+      "file": "data/candidates_f.json",
+      "timestamp": "2026-06-14T03:42:26.506405Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-13T22:03:06.581984Z"
-    },
-    "platform_abuse_sweep": {
-      "count": 1,
-      "file": "data/candidates_f.json",
-      "timestamp": "2026-06-13T22:03:31.028852Z"
+      "timestamp": "2026-06-14T03:42:40.147319Z"
     }
   },
   "domain_sources": {
@@ -1728,6 +1728,9 @@
     ],
     "faboom.com": [
       "curated_gambling_feeds"
+    ],
+    "facebook-clone-beta-gules.vercel.app": [
+      "platform_abuse_sweep"
     ],
     "falconbet.com": [
       "curated_gambling_feeds"
@@ -4888,6 +4891,7 @@
     "ezstreetsports.com",
     "faber.de",
     "faboom.com",
+    "facebook-clone-beta-gules.vercel.app",
     "falconbet.com",
     "fan2play.com",
     "fancode.com",

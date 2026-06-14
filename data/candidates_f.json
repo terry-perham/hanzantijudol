@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-14T03:42:26.505924Z",
+  "timestamp": "2026-06-14T09:32:00.181877Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 46.128,
+  "time_seconds": 48.187,
   "domains": [
     "bet365-bet365a-org.pages.dev",
     "facebook-clone-beta-gules.vercel.app"

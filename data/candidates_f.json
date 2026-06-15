@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-06-15T03:56:59.163363Z",
+  "timestamp": "2026-06-15T12:00:25.110864Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 42.777,
-  "domains": [
-    "brilliant-sherbet-6f0a46.netlify.app",
-    "ogfizwptvwizrdfxe-opv8tnjbjirlmiem7rwdle.vercel.app"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 46.108,
+  "domains": []
 }

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-15T03:54:58.772288Z",
-  "candidate_count": 1430,
+  "timestamp": "2026-06-15T11:58:22.305716Z",
+  "candidate_count": 1428,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-15T03:56:16.363935Z"
+      "timestamp": "2026-06-15T11:59:38.979638Z"
     },
     "curated_gambling_feeds": {
       "count": 1428,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-15T03:56:17.528259Z"
+      "timestamp": "2026-06-15T11:59:40.431183Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-15T03:56:17.967606Z"
-    },
-    "certificate_transparency": {
-      "count": 0,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-06-15T03:56:22.756910Z"
+      "timestamp": "2026-06-15T11:59:40.952102Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-15T03:56:25.571180Z"
+      "timestamp": "2026-06-15T11:59:48.132489Z"
     },
     "platform_abuse_sweep": {
-      "count": 2,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-15T03:56:59.163906Z"
+      "timestamp": "2026-06-15T12:00:25.111336Z"
+    },
+    "certificate_transparency": {
+      "count": 0,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-06-15T12:00:39.149112Z"
     }
   },
   "domain_sources": {
@@ -933,9 +933,6 @@
     ],
     "boylesports.com": [
       "curated_gambling_feeds"
-    ],
-    "brilliant-sherbet-6f0a46.netlify.app": [
-      "platform_abuse_sweep"
     ],
     "britsbingo.co.uk": [
       "curated_gambling_feeds"
@@ -3031,9 +3028,6 @@
     "offtrackbetting.com": [
       "curated_gambling_feeds"
     ],
-    "ogfizwptvwizrdfxe-opv8tnjbjirlmiem7rwdle.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "ohiocasino.com": [
       "curated_gambling_feeds"
     ],
@@ -4626,7 +4620,6 @@
     "bovada.lv",
     "box24games.com",
     "boylesports.com",
-    "brilliant-sherbet-6f0a46.netlify.app",
     "britsbingo.co.uk",
     "browncowbingo.com",
     "brucebetting.com",
@@ -5325,7 +5318,6 @@
     "odinbet.com",
     "offsidebet.com",
     "offtrackbetting.com",
-    "ogfizwptvwizrdfxe-opv8tnjbjirlmiem7rwdle.vercel.app",
     "ohiocasino.com",
     "ohmbet.com",
     "olaspill.com",

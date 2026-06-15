@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-06-14T22:09:21.618294Z",
+  "timestamp": "2026-06-15T03:56:59.163363Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 3,
-  "time_seconds": 43.411,
+  "candidate_count": 2,
+  "time_seconds": 42.777,
   "domains": [
     "brilliant-sherbet-6f0a46.netlify.app",
-    "facebook-clone-beta-gules.vercel.app",
     "ogfizwptvwizrdfxe-opv8tnjbjirlmiem7rwdle.vercel.app"
   ]
 }

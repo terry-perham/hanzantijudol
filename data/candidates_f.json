@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-17T03:45:57.357592Z",
+  "timestamp": "2026-06-17T10:51:52.052258Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 3,
-  "time_seconds": 48.624,
+  "time_seconds": 44.276,
   "domains": [
     "businees-verify-badge-vip-123634cvbwde.pages.dev",
     "businees-verify-badge-vip-12534xcwdd.pages.dev",

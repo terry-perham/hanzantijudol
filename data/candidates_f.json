@@ -1,13 +1,11 @@
 {
-  "timestamp": "2026-06-17T10:51:52.052258Z",
+  "timestamp": "2026-06-17T15:21:51.080051Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 3,
-  "time_seconds": 44.276,
+  "candidate_count": 1,
+  "time_seconds": 46.009,
   "domains": [
-    "businees-verify-badge-vip-123634cvbwde.pages.dev",
-    "businees-verify-badge-vip-12534xcwdd.pages.dev",
     "z8h9-bw89-fvck.css-sleepbetteraustin-com-s-account.workers.dev"
   ]
 }

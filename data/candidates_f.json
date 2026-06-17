@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-17T15:21:51.080051Z",
+  "timestamp": "2026-06-17T20:11:50.069923Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 46.009,
+  "time_seconds": 46.238,
   "domains": [
     "z8h9-bw89-fvck.css-sleepbetteraustin-com-s-account.workers.dev"
   ]

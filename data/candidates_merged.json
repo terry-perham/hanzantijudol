@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-21T22:12:01.577799Z",
-  "candidate_count": 1428,
+  "timestamp": "2026-06-22T03:53:48.453901Z",
+  "candidate_count": 1447,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-21T22:13:22.398654Z"
+      "timestamp": "2026-06-22T03:55:00.336477Z"
     },
     "curated_gambling_feeds": {
-      "count": 1428,
+      "count": 1438,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-21T22:13:23.838813Z"
+      "timestamp": "2026-06-22T03:55:01.477754Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-21T22:13:24.188052Z"
+      "timestamp": "2026-06-22T03:55:02.055184Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-21T22:13:31.571186Z"
+      "timestamp": "2026-06-22T03:55:09.291237Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-21T22:14:08.551623Z"
+      "timestamp": "2026-06-22T03:55:44.418633Z"
     },
     "certificate_transparency": {
-      "count": 0,
+      "count": 9,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-21T22:14:15.183049Z"
+      "timestamp": "2026-06-22T03:56:04.751092Z"
     }
   },
   "domain_sources": {
@@ -151,6 +151,9 @@
     "777bets.co.uk": [
       "curated_gambling_feeds"
     ],
+    "789bingo.com": [
+      "curated_gambling_feeds"
+    ],
     "7epta7.com": [
       "curated_gambling_feeds"
     ],
@@ -258,6 +261,12 @@
     ],
     "americascardroom.eu": [
       "curated_gambling_feeds"
+    ],
+    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
+      "certificate_transparency"
+    ],
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
+      "certificate_transparency"
     ],
     "anonibet.com": [
       "curated_gambling_feeds"
@@ -1725,6 +1734,9 @@
     ],
     "faboom.com": [
       "curated_gambling_feeds"
+    ],
+    "facwbgoogle.com": [
+      "certificate_transparency"
     ],
     "falconbet.com": [
       "curated_gambling_feeds"
@@ -3211,6 +3223,21 @@
     "playsugarhouse.com": [
       "curated_gambling_feeds"
     ],
+    "playtime.org.ph": [
+      "curated_gambling_feeds"
+    ],
+    "playtime.ph": [
+      "curated_gambling_feeds"
+    ],
+    "playtimeapp.net": [
+      "curated_gambling_feeds"
+    ],
+    "playtimecasino.ph": [
+      "curated_gambling_feeds"
+    ],
+    "playtimegame.com.ph": [
+      "curated_gambling_feeds"
+    ],
     "playzax-top.com": [
       "curated_gambling_feeds"
     ],
@@ -3326,6 +3353,9 @@
       "curated_gambling_feeds"
     ],
     "propawin.com": [
+      "curated_gambling_feeds"
+    ],
+    "ptgaming.ph": [
       "curated_gambling_feeds"
     ],
     "punchbets.com": [
@@ -3478,6 +3508,9 @@
     "scasino.com": [
       "curated_gambling_feeds"
     ],
+    "scattergamesph.com": [
+      "curated_gambling_feeds"
+    ],
     "score99.net": [
       "curated_gambling_feeds"
     ],
@@ -3520,6 +3553,12 @@
     "sisportsbook.com": [
       "curated_gambling_feeds"
     ],
+    "situs-slot-gacor--dorahoki-amp.pages.dev": [
+      "certificate_transparency"
+    ],
+    "situs-slot-gacor--dorahoki.pages.dev": [
+      "certificate_transparency"
+    ],
     "sjbet.at": [
       "curated_gambling_feeds"
     ],
@@ -3561,6 +3600,18 @@
     ],
     "slbet.com": [
       "curated_gambling_feeds"
+    ],
+    "slot-gacor--4d.themeadow.com": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--camar4444.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--maxwin.ahlemeyewear.com": [
+      "certificate_transparency"
     ],
     "slotocash.im": [
       "curated_gambling_feeds"
@@ -3982,6 +4033,9 @@
     "tonybet.com": [
       "curated_gambling_feeds"
     ],
+    "top-onlinecasino.ph": [
+      "curated_gambling_feeds"
+    ],
     "topbet.eu": [
       "curated_gambling_feeds"
     ],
@@ -4148,6 +4202,9 @@
       "curated_gambling_feeds"
     ],
     "vision11.in": [
+      "curated_gambling_feeds"
+    ],
+    "visioncasino.net": [
       "curated_gambling_feeds"
     ],
     "vitalbet.com": [
@@ -4359,6 +4416,7 @@
     "777.com",
     "7777.bg",
     "777bets.co.uk",
+    "789bingo.com",
     "7epta7.com",
     "7godscasino.com",
     "7jackpots.com",
@@ -4395,6 +4453,8 @@
     "americanfootballbetting.com",
     "americasbookie.com",
     "americascardroom.eu",
+    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "anonibet.com",
     "apollobet.com",
     "arena-bet.com",
@@ -4884,6 +4944,7 @@
     "ezstreetsports.com",
     "faber.de",
     "faboom.com",
+    "facwbgoogle.com",
     "falconbet.com",
     "fan2play.com",
     "fancode.com",
@@ -5379,6 +5440,11 @@
     "playojo.com",
     "playolg.ca",
     "playsugarhouse.com",
+    "playtime.org.ph",
+    "playtime.ph",
+    "playtimeapp.net",
+    "playtimecasino.ph",
+    "playtimegame.com.ph",
     "playzax-top.com",
     "plexodds.com",
     "plus.betway.com",
@@ -5418,6 +5484,7 @@
     "promotions.wildcasino.ag",
     "prontocasino.com",
     "propawin.com",
+    "ptgaming.ph",
     "punchbets.com",
     "purepoker.eu",
     "purewin.com",
@@ -5468,6 +5535,7 @@
     "sbobet.com",
     "scandibet.com",
     "scasino.com",
+    "scattergamesph.com",
     "score99.net",
     "scotbet.com",
     "seabet.com",
@@ -5482,6 +5550,8 @@
     "sirjackpot.com",
     "sisal.it",
     "sisportsbook.com",
+    "situs-slot-gacor--dorahoki-amp.pages.dev",
+    "situs-slot-gacor--dorahoki.pages.dev",
     "sjbet.at",
     "skedina.com",
     "skinarena.com",
@@ -5496,6 +5566,10 @@
     "skybook.ag",
     "skytowersportsbook.com",
     "slbet.com",
+    "slot-gacor--4d.themeadow.com",
+    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
+    "slot-gacor--camar4444.pages.dev",
+    "slot-gacor--maxwin.ahlemeyewear.com",
     "slotocash.im",
     "slotplanet.com",
     "slots.888wetten.de",
@@ -5636,6 +5710,7 @@
     "tommyfrench.com",
     "tomwaterhouse.com",
     "tonybet.com",
+    "top-onlinecasino.ph",
     "topbet.eu",
     "topbetta.com",
     "topbetta.com.au",
@@ -5692,6 +5767,7 @@
     "vinnarum.com",
     "vipsports.eu",
     "vision11.in",
+    "visioncasino.net",
     "vitalbet.com",
     "voltbet.com",
     "voodoodreams.com",

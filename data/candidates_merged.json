@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-23T19:58:12.569762Z",
-  "candidate_count": 3,
+  "timestamp": "2026-06-23T22:11:09.516718Z",
+  "candidate_count": 6,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-23T19:59:26.730611Z"
+      "timestamp": "2026-06-23T22:12:19.847483Z"
     },
     "curated_gambling_feeds": {
       "count": 2,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-23T19:59:27.938676Z"
+      "timestamp": "2026-06-23T22:12:21.047485Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-23T19:59:28.423536Z"
+      "timestamp": "2026-06-23T22:12:26.208369Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-23T19:59:35.818538Z"
+      "timestamp": "2026-06-23T22:12:29.332775Z"
     },
     "platform_abuse_sweep": {
       "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-23T20:00:12.129902Z"
+      "timestamp": "2026-06-23T22:13:04.599984Z"
     },
     "certificate_transparency": {
-      "count": 0,
+      "count": 3,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-23T20:00:22.311729Z"
+      "timestamp": "2026-06-23T22:13:36.113615Z"
     }
   },
   "domain_sources": {
@@ -40,6 +40,15 @@
     "cb-128943.com": [
       "curated_gambling_feeds"
     ],
+    "cibolocreekquiltersguild.com": [
+      "certificate_transparency"
+    ],
+    "judi-slot--bankjago.shamrockcolony.com": [
+      "certificate_transparency"
+    ],
+    "judiboisson.com": [
+      "certificate_transparency"
+    ],
     "web-git-featwebearntdpdeposit-uniswap.vercel.app": [
       "platform_abuse_sweep"
     ]
@@ -47,6 +56,9 @@
   "domains": [
     "casinos-en-ligne-belge.com",
     "cb-128943.com",
+    "cibolocreekquiltersguild.com",
+    "judi-slot--bankjago.shamrockcolony.com",
+    "judiboisson.com",
     "web-git-featwebearntdpdeposit-uniswap.vercel.app"
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-06-23T06:51:22.338123Z",
+  "timestamp": "2026-06-23T12:00:14.612138Z",
   "method": "curated_gambling_feeds",
   "source_count": 3,
   "source_yield": {
-    "blocklistproject_gambling": 1438,
+    "blocklistproject_gambling": 1439,
     "hagezi_gambling_hosts": 0,
     "hagezi_gambling_domains": 0
   },
-  "candidate_count": 1438,
-  "time_seconds": 1.243,
+  "candidate_count": 1439,
+  "time_seconds": 1.281,
   "domains": [
     "10bet.co.uk",
     "10bet.com",
@@ -1272,6 +1272,7 @@
     "spreadex.com",
     "sssbet.com",
     "staatsloterij.nederlandseloterij.nl",
+    "stadsboerderijtje.be",
     "stakers.com",
     "stakes.com",
     "stanjames.com",

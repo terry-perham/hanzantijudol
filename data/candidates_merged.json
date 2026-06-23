@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-22T22:45:51.744921Z",
-  "candidate_count": 1438,
+  "timestamp": "2026-06-23T02:53:28.924437Z",
+  "candidate_count": 1439,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-22T22:47:08.344491Z"
+      "timestamp": "2026-06-23T02:54:39.326403Z"
     },
     "curated_gambling_feeds": {
       "count": 1438,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-22T22:47:09.675619Z"
+      "timestamp": "2026-06-23T02:54:40.562899Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-22T22:47:13.516450Z"
+      "timestamp": "2026-06-23T02:54:44.618437Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-22T22:47:17.732758Z"
+      "timestamp": "2026-06-23T02:54:48.823015Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-22T22:47:51.361377Z"
+      "timestamp": "2026-06-23T02:55:23.560125Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-22T22:48:00.950966Z"
+      "timestamp": "2026-06-23T02:55:57.914283Z"
     }
   },
   "domain_sources": {
@@ -4222,6 +4222,9 @@
     "wazamba.com": [
       "curated_gambling_feeds"
     ],
+    "web-git-featwebearntdpdeposit-uniswap.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "webbookmakers.com": [
       "curated_gambling_feeds"
     ],
@@ -5746,6 +5749,7 @@
     "wagerweb.ag",
     "wagerweb.eu",
     "wazamba.com",
+    "web-git-featwebearntdpdeposit-uniswap.vercel.app",
     "webbookmakers.com",
     "westlotto.de",
     "wettpunkt.com",

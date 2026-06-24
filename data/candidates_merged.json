@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-24T11:44:07.926130Z",
-  "candidate_count": 2,
+  "timestamp": "2026-06-24T14:24:33.715726Z",
+  "candidate_count": 3,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-24T11:45:12.240859Z"
+      "timestamp": "2026-06-24T14:26:09.147053Z"
     },
     "curated_gambling_feeds": {
       "count": 2,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-24T11:45:13.473173Z"
+      "timestamp": "2026-06-24T14:26:10.627597Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-24T11:45:17.715289Z"
+      "timestamp": "2026-06-24T14:26:14.569240Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-24T11:45:21.012894Z"
+      "timestamp": "2026-06-24T14:26:18.794779Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-24T11:45:33.780407Z"
+      "timestamp": "2026-06-24T14:26:31.476272Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-24T11:45:56.275355Z"
+      "timestamp": "2026-06-24T14:26:57.739117Z"
     }
   },
   "domain_sources": {
@@ -39,10 +39,14 @@
     ],
     "cb-128943.com": [
       "curated_gambling_feeds"
+    ],
+    "web-git-featwebearntdpdeposit-uniswap.vercel.app": [
+      "platform_abuse_sweep"
     ]
   },
   "domains": [
     "casinos-en-ligne-belge.com",
-    "cb-128943.com"
+    "cb-128943.com",
+    "web-git-featwebearntdpdeposit-uniswap.vercel.app"
   ]
 }

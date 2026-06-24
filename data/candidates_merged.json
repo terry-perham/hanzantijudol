@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-23T22:11:09.516718Z",
-  "candidate_count": 6,
+  "timestamp": "2026-06-24T02:54:29.835780Z",
+  "candidate_count": 2,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-23T22:12:19.847483Z"
+      "timestamp": "2026-06-24T02:55:49.240708Z"
     },
     "curated_gambling_feeds": {
       "count": 2,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-23T22:12:21.047485Z"
+      "timestamp": "2026-06-24T02:55:50.671696Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-23T22:12:26.208369Z"
+      "timestamp": "2026-06-24T02:55:50.876758Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-23T22:12:29.332775Z"
+      "timestamp": "2026-06-24T02:55:59.043484Z"
     },
     "platform_abuse_sweep": {
-      "count": 1,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-23T22:13:04.599984Z"
+      "timestamp": "2026-06-24T02:56:35.310639Z"
     },
     "certificate_transparency": {
-      "count": 3,
+      "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-23T22:13:36.113615Z"
+      "timestamp": "2026-06-24T02:56:37.567164Z"
     }
   },
   "domain_sources": {
@@ -39,26 +39,10 @@
     ],
     "cb-128943.com": [
       "curated_gambling_feeds"
-    ],
-    "cibolocreekquiltersguild.com": [
-      "certificate_transparency"
-    ],
-    "judi-slot--bankjago.shamrockcolony.com": [
-      "certificate_transparency"
-    ],
-    "judiboisson.com": [
-      "certificate_transparency"
-    ],
-    "web-git-featwebearntdpdeposit-uniswap.vercel.app": [
-      "platform_abuse_sweep"
     ]
   },
   "domains": [
     "casinos-en-ligne-belge.com",
-    "cb-128943.com",
-    "cibolocreekquiltersguild.com",
-    "judi-slot--bankjago.shamrockcolony.com",
-    "judiboisson.com",
-    "web-git-featwebearntdpdeposit-uniswap.vercel.app"
+    "cb-128943.com"
   ]
 }

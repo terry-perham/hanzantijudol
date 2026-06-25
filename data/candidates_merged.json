@@ -1,60 +1,48 @@
 {
-  "timestamp": "2026-06-25T11:39:32.011211Z",
-  "candidate_count": 5,
+  "timestamp": "2026-06-25T14:25:20.169156Z",
+  "candidate_count": 2,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-25T11:40:46.342136Z"
+      "timestamp": "2026-06-25T14:26:39.900446Z"
     },
     "curated_gambling_feeds": {
       "count": 2,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-25T11:40:47.530300Z"
-    },
-    "certificate_transparency": {
-      "count": 0,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-06-25T11:40:53.145528Z"
-    },
-    "government_scanning": {
-      "count": 0,
-      "file": "data/candidates_c.json",
-      "timestamp": "2026-06-25T11:40:55.093768Z"
+      "timestamp": "2026-06-25T14:26:41.053806Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-25T11:40:58.321626Z"
+      "timestamp": "2026-06-25T14:26:41.506504Z"
+    },
+    "government_scanning": {
+      "count": 0,
+      "file": "data/candidates_c.json",
+      "timestamp": "2026-06-25T14:26:49.019439Z"
     },
     "platform_abuse_sweep": {
-      "count": 3,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-25T11:41:30.393051Z"
+      "timestamp": "2026-06-25T14:27:22.747171Z"
+    },
+    "certificate_transparency": {
+      "count": 0,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-06-25T14:28:02.126733Z"
     }
   },
   "domain_sources": {
-    "abhishek7gowda.github.io": [
-      "platform_abuse_sweep"
-    ],
     "casinos-en-ligne-belge.com": [
       "curated_gambling_feeds"
     ],
     "cb-128943.com": [
       "curated_gambling_feeds"
-    ],
-    "uber-beta-ten.vercel.app": [
-      "platform_abuse_sweep"
-    ],
-    "web-git-featwebearntdpdeposit-uniswap.vercel.app": [
-      "platform_abuse_sweep"
     ]
   },
   "domains": [
-    "abhishek7gowda.github.io",
     "casinos-en-ligne-belge.com",
-    "cb-128943.com",
-    "uber-beta-ten.vercel.app",
-    "web-git-featwebearntdpdeposit-uniswap.vercel.app"
+    "cb-128943.com"
   ]
 }

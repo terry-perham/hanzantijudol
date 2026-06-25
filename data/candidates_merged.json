@@ -1,52 +1,60 @@
 {
-  "timestamp": "2026-06-24T22:15:18.781269Z",
-  "candidate_count": 3,
+  "timestamp": "2026-06-25T02:53:47.409840Z",
+  "candidate_count": 5,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-24T22:16:43.428523Z"
+      "timestamp": "2026-06-25T02:55:06.292130Z"
     },
     "curated_gambling_feeds": {
       "count": 2,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-24T22:16:44.663168Z"
+      "timestamp": "2026-06-25T02:55:07.709766Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-24T22:16:45.131636Z"
-    },
-    "certificate_transparency": {
-      "count": 0,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-06-24T22:16:50.021807Z"
+      "timestamp": "2026-06-25T02:55:09.272172Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-24T22:16:52.459614Z"
+      "timestamp": "2026-06-25T02:55:16.077018Z"
     },
     "platform_abuse_sweep": {
-      "count": 1,
+      "count": 3,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-24T22:17:28.282293Z"
+      "timestamp": "2026-06-25T02:55:52.499396Z"
+    },
+    "certificate_transparency": {
+      "count": 0,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-06-25T02:56:05.858307Z"
     }
   },
   "domain_sources": {
+    "abhishek7gowda.github.io": [
+      "platform_abuse_sweep"
+    ],
     "casinos-en-ligne-belge.com": [
       "curated_gambling_feeds"
     ],
     "cb-128943.com": [
       "curated_gambling_feeds"
     ],
+    "uber-beta-ten.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "web-git-featwebearntdpdeposit-uniswap.vercel.app": [
       "platform_abuse_sweep"
     ]
   },
   "domains": [
+    "abhishek7gowda.github.io",
     "casinos-en-ligne-belge.com",
     "cb-128943.com",
+    "uber-beta-ten.vercel.app",
     "web-git-featwebearntdpdeposit-uniswap.vercel.app"
   ]
 }

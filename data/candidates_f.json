@@ -1,11 +1,13 @@
 {
-  "timestamp": "2026-06-24T22:17:28.281718Z",
+  "timestamp": "2026-06-25T02:55:52.498848Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 44.831,
+  "candidate_count": 3,
+  "time_seconds": 46.187,
   "domains": [
+    "abhishek7gowda.github.io",
+    "uber-beta-ten.vercel.app",
     "web-git-featwebearntdpdeposit-uniswap.vercel.app"
   ]
 }

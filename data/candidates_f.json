@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-25T02:55:52.498848Z",
+  "timestamp": "2026-06-25T06:48:14.180935Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 3,
-  "time_seconds": 46.187,
+  "time_seconds": 43.758,
   "domains": [
     "abhishek7gowda.github.io",
     "uber-beta-ten.vercel.app",

@@ -1,96 +1,56 @@
 {
-  "timestamp": "2026-06-25T22:20:16.727202Z",
-  "candidate_count": 14,
+  "timestamp": "2026-06-26T02:59:35.276602Z",
+  "candidate_count": 4,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-25T22:21:27.852506Z"
+      "timestamp": "2026-06-26T03:00:56.590554Z"
     },
     "curated_gambling_feeds": {
       "count": 2,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-25T22:21:29.391086Z"
+      "timestamp": "2026-06-26T03:00:58.040580Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-25T22:21:29.860560Z"
+      "timestamp": "2026-06-26T03:01:01.931207Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-25T22:21:37.458775Z"
+      "timestamp": "2026-06-26T03:01:05.769514Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 2,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-25T22:22:16.456757Z"
+      "timestamp": "2026-06-26T03:01:42.795872Z"
     },
     "certificate_transparency": {
-      "count": 12,
+      "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-25T22:22:25.722114Z"
+      "timestamp": "2026-06-26T03:02:16.780144Z"
     }
   },
   "domain_sources": {
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
-      "certificate_transparency"
-    ],
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
-      "certificate_transparency"
-    ],
     "casinos-en-ligne-belge.com": [
       "curated_gambling_feeds"
     ],
     "cb-128943.com": [
       "curated_gambling_feeds"
     ],
-    "cibolocreekquiltersguild.com": [
-      "certificate_transparency"
+    "messenger-clone-beta.vercel.app": [
+      "platform_abuse_sweep"
     ],
-    "facwbgoogle.com": [
-      "certificate_transparency"
-    ],
-    "judi-slot--bankjago.shamrockcolony.com": [
-      "certificate_transparency"
-    ],
-    "judiboisson.com": [
-      "certificate_transparency"
-    ],
-    "situs-slot-gacor--dorahoki-amp.pages.dev": [
-      "certificate_transparency"
-    ],
-    "situs-slot-gacor--dorahoki.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--4d.themeadow.com": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--camar4444.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--maxwin.ahlemeyewear.com": [
-      "certificate_transparency"
+    "web-git-featwebearntdpdeposit-uniswap.vercel.app": [
+      "platform_abuse_sweep"
     ]
   },
   "domains": [
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "casinos-en-ligne-belge.com",
     "cb-128943.com",
-    "cibolocreekquiltersguild.com",
-    "facwbgoogle.com",
-    "judi-slot--bankjago.shamrockcolony.com",
-    "judiboisson.com",
-    "situs-slot-gacor--dorahoki-amp.pages.dev",
-    "situs-slot-gacor--dorahoki.pages.dev",
-    "slot-gacor--4d.themeadow.com",
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
-    "slot-gacor--camar4444.pages.dev",
-    "slot-gacor--maxwin.ahlemeyewear.com"
+    "messenger-clone-beta.vercel.app",
+    "web-git-featwebearntdpdeposit-uniswap.vercel.app"
   ]
 }

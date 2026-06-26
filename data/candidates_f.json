@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-06-26T11:46:08.831309Z",
+  "timestamp": "2026-06-26T14:20:03.813099Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 47.959,
-  "domains": [
-    "messenger-clone-beta.vercel.app",
-    "web-git-featwebearntdpdeposit-uniswap.vercel.app"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 45.795,
+  "domains": []
 }

@@ -1,48 +1,136 @@
 {
-  "timestamp": "2026-06-26T22:10:18.498260Z",
-  "candidate_count": 2,
+  "timestamp": "2026-06-27T02:49:09.291197Z",
+  "candidate_count": 24,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-26T22:11:45.947420Z"
+      "timestamp": "2026-06-27T02:50:32.183846Z"
     },
     "curated_gambling_feeds": {
       "count": 2,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-26T22:11:47.074929Z"
+      "timestamp": "2026-06-27T02:50:33.587010Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-26T22:11:47.533295Z"
+      "timestamp": "2026-06-27T02:50:33.995147Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-26T22:11:55.154560Z"
+      "timestamp": "2026-06-27T02:50:41.382897Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-26T22:12:28.822207Z"
+      "timestamp": "2026-06-27T02:51:15.111875Z"
     },
     "certificate_transparency": {
-      "count": 0,
+      "count": 22,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-26T22:12:53.269411Z"
+      "timestamp": "2026-06-27T02:51:19.486956Z"
     }
   },
   "domain_sources": {
+    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
+      "certificate_transparency"
+    ],
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
+      "certificate_transparency"
+    ],
+    "app.hkmahjong.com.hk": [
+      "certificate_transparency"
+    ],
     "casinos-en-ligne-belge.com": [
       "curated_gambling_feeds"
     ],
     "cb-128943.com": [
       "curated_gambling_feeds"
+    ],
+    "facwbgoogle.com": [
+      "certificate_transparency"
+    ],
+    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app": [
+      "certificate_transparency"
+    ],
+    "mahjong--ways.noma.com": [
+      "certificate_transparency"
+    ],
+    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de": [
+      "certificate_transparency"
+    ],
+    "mahjong-download-windows-10--167758106.helpclean.de": [
+      "certificate_transparency"
+    ],
+    "mahjong-slot---asia0.especiallywicker.com": [
+      "certificate_transparency"
+    ],
+    "oneclickmahjong.com": [
+      "certificate_transparency"
+    ],
+    "situs-slot-gacor--dorahoki-amp.pages.dev": [
+      "certificate_transparency"
+    ],
+    "situs-slot-gacor--dorahoki.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--4d.themeadow.com": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--camar4444.pages.dev": [
+      "certificate_transparency"
+    ],
+    "slot-gacor--maxwin.ahlemeyewear.com": [
+      "certificate_transparency"
+    ],
+    "third-mahjong--third-mahjong.asia-east1.hosted.app": [
+      "certificate_transparency"
+    ],
+    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com": [
+      "certificate_transparency"
     ]
   },
   "domains": [
+    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
+    "app.hkmahjong.com.hk",
     "casinos-en-ligne-belge.com",
-    "cb-128943.com"
+    "cb-128943.com",
+    "facwbgoogle.com",
+    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app",
+    "mahjong--ways.noma.com",
+    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de",
+    "mahjong-download-windows-10--167758106.helpclean.de",
+    "mahjong-slot---asia0.especiallywicker.com",
+    "oneclickmahjong.com",
+    "situs-slot-gacor--dorahoki-amp.pages.dev",
+    "situs-slot-gacor--dorahoki.pages.dev",
+    "slot-gacor--4d.themeadow.com",
+    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
+    "slot-gacor--camar4444.pages.dev",
+    "slot-gacor--maxwin.ahlemeyewear.com",
+    "third-mahjong--third-mahjong.asia-east1.hosted.app",
+    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org",
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com",
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com",
+    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com",
+    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com"
   ]
 }

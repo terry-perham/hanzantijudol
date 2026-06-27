@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-27T10:58:27.623958Z",
+  "timestamp": "2026-06-27T13:27:49.459042Z",
   "method": "curated_gambling_feeds",
   "source_count": 3,
   "source_yield": {
@@ -8,7 +8,7 @@
     "hagezi_gambling_domains": 0
   },
   "candidate_count": 2,
-  "time_seconds": 1.199,
+  "time_seconds": 1.132,
   "domains": [
     "casinos-en-ligne-belge.com",
     "cb-128943.com"

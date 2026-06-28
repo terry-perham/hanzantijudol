@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-28T16:09:10.808760Z",
-  "candidate_count": 12,
+  "timestamp": "2026-06-28T19:14:54.173743Z",
+  "candidate_count": 9,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-28T16:10:26.149696Z"
+      "timestamp": "2026-06-28T19:16:10.119924Z"
     },
     "curated_gambling_feeds": {
       "count": 9,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-28T16:10:27.723201Z"
+      "timestamp": "2026-06-28T19:16:11.613626Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-28T16:10:32.209485Z"
+      "timestamp": "2026-06-28T19:16:11.888110Z"
+    },
+    "certificate_transparency": {
+      "count": 0,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-06-28T19:16:17.126364Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-28T16:10:36.254068Z"
-    },
-    "certificate_transparency": {
-      "count": 3,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-06-28T16:11:11.275990Z"
+      "timestamp": "2026-06-28T19:16:19.853564Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-28T16:11:14.332483Z"
+      "timestamp": "2026-06-28T19:16:56.020809Z"
     }
   },
   "domain_sources": {
@@ -40,17 +40,8 @@
     "cb-128943.com": [
       "curated_gambling_feeds"
     ],
-    "cibolocreekquiltersguild.com": [
-      "certificate_transparency"
-    ],
     "fezbet4.com": [
       "curated_gambling_feeds"
-    ],
-    "judi-slot--bankjago.shamrockcolony.com": [
-      "certificate_transparency"
-    ],
-    "judiboisson.com": [
-      "certificate_transparency"
     ],
     "odds.am": [
       "curated_gambling_feeds"
@@ -74,10 +65,7 @@
   "domains": [
     "casinos-en-ligne-belge.com",
     "cb-128943.com",
-    "cibolocreekquiltersguild.com",
     "fezbet4.com",
-    "judi-slot--bankjago.shamrockcolony.com",
-    "judiboisson.com",
     "odds.am",
     "pokerstars-01.com",
     "sportfogadas.org",

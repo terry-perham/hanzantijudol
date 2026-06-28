@@ -1,100 +1,88 @@
 {
-  "timestamp": "2026-06-28T03:29:04.097241Z",
-  "candidate_count": 15,
+  "timestamp": "2026-06-28T08:47:56.875275Z",
+  "candidate_count": 12,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-28T03:30:21.635979Z"
+      "timestamp": "2026-06-28T08:49:11.265996Z"
     },
     "curated_gambling_feeds": {
-      "count": 2,
+      "count": 9,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-28T03:30:22.775224Z"
+      "timestamp": "2026-06-28T08:49:12.405789Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-28T03:30:23.311866Z"
-    },
-    "certificate_transparency": {
-      "count": 13,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-06-28T03:30:29.050144Z"
+      "timestamp": "2026-06-28T08:49:12.928769Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-28T03:30:30.320994Z"
+      "timestamp": "2026-06-28T08:49:20.015010Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-28T03:31:05.056510Z"
+      "timestamp": "2026-06-28T08:49:54.507889Z"
+    },
+    "certificate_transparency": {
+      "count": 3,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-06-28T08:50:18.064322Z"
     }
   },
   "domain_sources": {
-    "app.hkmahjong.com.hk": [
-      "certificate_transparency"
-    ],
     "casinos-en-ligne-belge.com": [
       "curated_gambling_feeds"
     ],
     "cb-128943.com": [
       "curated_gambling_feeds"
     ],
-    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app": [
+    "cibolocreekquiltersguild.com": [
       "certificate_transparency"
     ],
-    "mahjong--ways.noma.com": [
+    "fezbet4.com": [
+      "curated_gambling_feeds"
+    ],
+    "judi-slot--bankjago.shamrockcolony.com": [
       "certificate_transparency"
     ],
-    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de": [
+    "judiboisson.com": [
       "certificate_transparency"
     ],
-    "mahjong-download-windows-10--167758106.helpclean.de": [
-      "certificate_transparency"
+    "odds.am": [
+      "curated_gambling_feeds"
     ],
-    "mahjong-slot---asia0.especiallywicker.com": [
-      "certificate_transparency"
+    "pokerstars-01.com": [
+      "curated_gambling_feeds"
     ],
-    "oneclickmahjong.com": [
-      "certificate_transparency"
+    "sportfogadas.org": [
+      "curated_gambling_feeds"
     ],
-    "third-mahjong--third-mahjong.asia-east1.hosted.app": [
-      "certificate_transparency"
+    "tippmix.hu": [
+      "curated_gambling_feeds"
     ],
-    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org": [
-      "certificate_transparency"
+    "tippmixpro.hu": [
+      "curated_gambling_feeds"
     ],
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com": [
-      "certificate_transparency"
-    ],
-    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com": [
-      "certificate_transparency"
+    "unibet-112.com": [
+      "curated_gambling_feeds"
     ]
   },
   "domains": [
-    "app.hkmahjong.com.hk",
     "casinos-en-ligne-belge.com",
     "cb-128943.com",
-    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app",
-    "mahjong--ways.noma.com",
-    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de",
-    "mahjong-download-windows-10--167758106.helpclean.de",
-    "mahjong-slot---asia0.especiallywicker.com",
-    "oneclickmahjong.com",
-    "third-mahjong--third-mahjong.asia-east1.hosted.app",
-    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org",
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com",
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com",
-    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com",
-    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com"
+    "cibolocreekquiltersguild.com",
+    "fezbet4.com",
+    "judi-slot--bankjago.shamrockcolony.com",
+    "judiboisson.com",
+    "odds.am",
+    "pokerstars-01.com",
+    "sportfogadas.org",
+    "tippmix.hu",
+    "tippmixpro.hu",
+    "unibet-112.com"
   ]
 }

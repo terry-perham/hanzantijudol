@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-28T08:47:56.875275Z",
-  "candidate_count": 12,
+  "timestamp": "2026-06-28T11:05:49.171736Z",
+  "candidate_count": 9,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-28T08:49:11.265996Z"
+      "timestamp": "2026-06-28T11:07:14.594557Z"
     },
     "curated_gambling_feeds": {
       "count": 9,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-28T08:49:12.405789Z"
+      "timestamp": "2026-06-28T11:07:15.967822Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-28T08:49:12.928769Z"
+      "timestamp": "2026-06-28T11:07:16.513894Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-28T08:49:20.015010Z"
+      "timestamp": "2026-06-28T11:07:24.291183Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-28T08:49:54.507889Z"
+      "timestamp": "2026-06-28T11:08:00.397851Z"
     },
     "certificate_transparency": {
-      "count": 3,
+      "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-06-28T08:50:18.064322Z"
+      "timestamp": "2026-06-28T11:08:14.822437Z"
     }
   },
   "domain_sources": {
@@ -40,17 +40,8 @@
     "cb-128943.com": [
       "curated_gambling_feeds"
     ],
-    "cibolocreekquiltersguild.com": [
-      "certificate_transparency"
-    ],
     "fezbet4.com": [
       "curated_gambling_feeds"
-    ],
-    "judi-slot--bankjago.shamrockcolony.com": [
-      "certificate_transparency"
-    ],
-    "judiboisson.com": [
-      "certificate_transparency"
     ],
     "odds.am": [
       "curated_gambling_feeds"
@@ -74,10 +65,7 @@
   "domains": [
     "casinos-en-ligne-belge.com",
     "cb-128943.com",
-    "cibolocreekquiltersguild.com",
     "fezbet4.com",
-    "judi-slot--bankjago.shamrockcolony.com",
-    "judiboisson.com",
     "odds.am",
     "pokerstars-01.com",
     "sportfogadas.org",

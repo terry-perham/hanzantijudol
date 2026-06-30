@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-06-30T11:44:20.282100Z",
-  "candidate_count": 9,
+  "timestamp": "2026-06-30T14:12:08.477734Z",
+  "candidate_count": 14,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-06-30T11:45:37.024531Z"
+      "timestamp": "2026-06-30T14:13:28.830987Z"
     },
     "curated_gambling_feeds": {
       "count": 9,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-06-30T11:45:38.481195Z"
+      "timestamp": "2026-06-30T14:13:30.026284Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-06-30T11:45:38.800081Z"
+      "timestamp": "2026-06-30T14:13:30.531624Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-06-30T11:45:46.844856Z"
-    },
-    "certificate_transparency": {
-      "count": 0,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-06-30T11:45:58.989239Z"
+      "timestamp": "2026-06-30T14:13:37.577364Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 2,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-06-30T11:46:22.858234Z"
+      "timestamp": "2026-06-30T14:14:12.922249Z"
+    },
+    "certificate_transparency": {
+      "count": 3,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-06-30T14:14:42.429301Z"
     }
   },
   "domain_sources": {
@@ -40,8 +40,20 @@
     "cb-128943.com": [
       "curated_gambling_feeds"
     ],
+    "cibolocreekquiltersguild.com": [
+      "certificate_transparency"
+    ],
+    "facebook-clone-beta-gules.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "fezbet4.com": [
       "curated_gambling_feeds"
+    ],
+    "judi-slot--bankjago.shamrockcolony.com": [
+      "certificate_transparency"
+    ],
+    "judiboisson.com": [
+      "certificate_transparency"
     ],
     "odds.am": [
       "curated_gambling_feeds"
@@ -58,6 +70,9 @@
     "tippmixpro.hu": [
       "curated_gambling_feeds"
     ],
+    "uber-beta-ten.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "unibet-112.com": [
       "curated_gambling_feeds"
     ]
@@ -65,12 +80,17 @@
   "domains": [
     "casinos-en-ligne-belge.com",
     "cb-128943.com",
+    "cibolocreekquiltersguild.com",
+    "facebook-clone-beta-gules.vercel.app",
     "fezbet4.com",
+    "judi-slot--bankjago.shamrockcolony.com",
+    "judiboisson.com",
     "odds.am",
     "pokerstars-01.com",
     "sportfogadas.org",
     "tippmix.hu",
     "tippmixpro.hu",
+    "uber-beta-ten.vercel.app",
     "unibet-112.com"
   ]
 }

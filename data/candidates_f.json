@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-06-30T14:14:12.921672Z",
+  "timestamp": "2026-06-30T17:06:36.119515Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 44.072,
+  "time_seconds": 43.101,
   "domains": [
     "facebook-clone-beta-gules.vercel.app",
     "uber-beta-ten.vercel.app"

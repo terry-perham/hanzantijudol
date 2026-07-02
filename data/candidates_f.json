@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-02T16:51:07.305325Z",
+  "timestamp": "2026-07-02T19:22:14.154512Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 46.983,
+  "time_seconds": 44.041,
   "domains": [
     "facebook-clone-beta-gules.vercel.app"
   ]

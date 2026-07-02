@@ -1,53 +1,44 @@
 {
-  "timestamp": "2026-07-01T22:16:39.501666Z",
-  "candidate_count": 18,
+  "timestamp": "2026-07-02T02:54:45.795483Z",
+  "candidate_count": 9,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-07-01T22:17:53.342578Z"
+      "timestamp": "2026-07-02T02:55:57.206990Z"
     },
     "curated_gambling_feeds": {
       "count": 9,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-07-01T22:17:54.650151Z"
+      "timestamp": "2026-07-02T02:55:58.376301Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-07-01T22:17:56.491248Z"
+      "timestamp": "2026-07-02T02:55:58.866424Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-07-01T22:18:02.817257Z"
+      "timestamp": "2026-07-02T02:56:06.585837Z"
     },
     "certificate_transparency": {
-      "count": 9,
+      "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-07-01T22:18:34.107219Z"
+      "timestamp": "2026-07-02T02:56:18.802596Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-07-01T22:18:37.681986Z"
+      "timestamp": "2026-07-02T02:56:40.374281Z"
     }
   },
   "domain_sources": {
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
-      "certificate_transparency"
-    ],
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
-      "certificate_transparency"
-    ],
     "casinos-en-ligne-belge.com": [
       "curated_gambling_feeds"
     ],
     "cb-128943.com": [
       "curated_gambling_feeds"
-    ],
-    "facwbgoogle.com": [
-      "certificate_transparency"
     ],
     "fezbet4.com": [
       "curated_gambling_feeds"
@@ -57,24 +48,6 @@
     ],
     "pokerstars-01.com": [
       "curated_gambling_feeds"
-    ],
-    "situs-slot-gacor--dorahoki-amp.pages.dev": [
-      "certificate_transparency"
-    ],
-    "situs-slot-gacor--dorahoki.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--4d.themeadow.com": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--camar4444.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--maxwin.ahlemeyewear.com": [
-      "certificate_transparency"
     ],
     "sportfogadas.org": [
       "curated_gambling_feeds"
@@ -90,20 +63,11 @@
     ]
   },
   "domains": [
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "casinos-en-ligne-belge.com",
     "cb-128943.com",
-    "facwbgoogle.com",
     "fezbet4.com",
     "odds.am",
     "pokerstars-01.com",
-    "situs-slot-gacor--dorahoki-amp.pages.dev",
-    "situs-slot-gacor--dorahoki.pages.dev",
-    "slot-gacor--4d.themeadow.com",
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
-    "slot-gacor--camar4444.pages.dev",
-    "slot-gacor--maxwin.ahlemeyewear.com",
     "sportfogadas.org",
     "tippmix.hu",
     "tippmixpro.hu",

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-07-02T19:20:13.828504Z",
-  "candidate_count": 10,
+  "timestamp": "2026-07-02T22:04:57.424239Z",
+  "candidate_count": 13,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-07-02T19:21:30.093745Z"
+      "timestamp": "2026-07-02T22:06:08.582826Z"
     },
     "curated_gambling_feeds": {
       "count": 9,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-07-02T19:21:31.269633Z"
+      "timestamp": "2026-07-02T22:06:09.784365Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-07-02T19:21:31.714348Z"
+      "timestamp": "2026-07-02T22:06:10.275678Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-07-02T19:21:38.980229Z"
-    },
-    "certificate_transparency": {
-      "count": 0,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-07-02T19:21:51.802804Z"
+      "timestamp": "2026-07-02T22:06:18.115038Z"
     },
     "platform_abuse_sweep": {
       "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-07-02T19:22:14.155071Z"
+      "timestamp": "2026-07-02T22:06:52.470814Z"
+    },
+    "certificate_transparency": {
+      "count": 3,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-07-02T22:07:01.751216Z"
     }
   },
   "domain_sources": {
@@ -40,11 +40,20 @@
     "cb-128943.com": [
       "curated_gambling_feeds"
     ],
+    "cibolocreekquiltersguild.com": [
+      "certificate_transparency"
+    ],
     "facebook-clone-beta-gules.vercel.app": [
       "platform_abuse_sweep"
     ],
     "fezbet4.com": [
       "curated_gambling_feeds"
+    ],
+    "judi-slot--bankjago.shamrockcolony.com": [
+      "certificate_transparency"
+    ],
+    "judiboisson.com": [
+      "certificate_transparency"
     ],
     "odds.am": [
       "curated_gambling_feeds"
@@ -68,8 +77,11 @@
   "domains": [
     "casinos-en-ligne-belge.com",
     "cb-128943.com",
+    "cibolocreekquiltersguild.com",
     "facebook-clone-beta-gules.vercel.app",
     "fezbet4.com",
+    "judi-slot--bankjago.shamrockcolony.com",
+    "judiboisson.com",
     "odds.am",
     "pokerstars-01.com",
     "sportfogadas.org",

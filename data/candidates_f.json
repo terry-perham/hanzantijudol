@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-07-04T21:59:16.820700Z",
+  "timestamp": "2026-07-05T02:46:51.421109Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 47.081,
-  "domains": []
+  "candidate_count": 1,
+  "time_seconds": 43.126,
+  "domains": [
+    "moonpay-commerce-git-fix-com2-1732-deposit-activ-992e83-heliofi.vercel.app"
+  ]
 }

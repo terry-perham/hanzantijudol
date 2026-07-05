@@ -1,11 +1,15 @@
 {
-  "timestamp": "2026-07-05T11:05:46.344659Z",
+  "timestamp": "2026-07-05T13:26:32.901276Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 43.141,
+  "candidate_count": 5,
+  "time_seconds": 44.643,
   "domains": [
-    "moonpay-commerce-git-fix-com2-1732-deposit-activ-992e83-heliofi.vercel.app"
+    "free-robloz-beta.netlify.app",
+    "guiadebet-365-argentina-com.pages.dev",
+    "moonpay-commerce-git-fix-com2-1700-deposit-preset-dedup-heliofi.vercel.app",
+    "moonpay-commerce-git-fix-com2-1732-deposit-activ-992e83-heliofi.vercel.app",
+    "moonpay-commerce-git-fix-com2-1733-deposit-activ-a40a12-heliofi.vercel.app"
   ]
 }

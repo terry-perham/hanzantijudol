@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-07T17:13:40.793058Z",
+  "timestamp": "2026-07-07T19:53:29.698213Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 43.847,
+  "time_seconds": 46.471,
   "domains": [
     "member-bet365go-prod.pages.dev"
   ]

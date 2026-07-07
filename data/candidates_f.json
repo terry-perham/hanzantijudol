@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-07T11:48:26.503081Z",
+  "timestamp": "2026-07-07T14:27:13.233031Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 46.094,
+  "time_seconds": 46.282,
   "domains": [
-    "gene-bete.github.io"
+    "member-bet365go-prod.pages.dev"
   ]
 }

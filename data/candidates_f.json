@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-07T22:12:22.890176Z",
+  "timestamp": "2026-07-08T02:26:25.476768Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 48.741,
+  "time_seconds": 44.683,
   "domains": [
-    "member-bet365go-prod.pages.dev"
+    "tayyab-beta.github.io"
   ]
 }

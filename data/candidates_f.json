@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-07-08T22:05:20.933515Z",
+  "timestamp": "2026-07-09T02:40:06.616191Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 43.403,
-  "domains": [
-    "kgomotsodibetso.github.io",
-    "tayyab-beta.github.io"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 49.47,
+  "domains": []
 }

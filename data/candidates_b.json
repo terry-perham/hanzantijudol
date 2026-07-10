@@ -1,12 +1,8 @@
 {
-  "timestamp": "2026-07-10T19:25:35.321381Z",
+  "timestamp": "2026-07-10T22:02:09.205535Z",
   "method": "certificate_transparency",
   "keywords_searched": 5,
-  "candidate_count": 3,
-  "time_seconds": 57.485,
-  "domains": [
-    "cibolocreekquiltersguild.com",
-    "judi-slot--bankjago.shamrockcolony.com",
-    "judiboisson.com"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 53.485,
+  "domains": []
 }

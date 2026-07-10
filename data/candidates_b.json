@@ -1,22 +1,12 @@
 {
-  "timestamp": "2026-07-10T16:56:23.416950Z",
+  "timestamp": "2026-07-10T19:25:35.321381Z",
   "method": "certificate_transparency",
   "keywords_searched": 5,
-  "candidate_count": 13,
-  "time_seconds": 8.495,
+  "candidate_count": 3,
+  "time_seconds": 57.485,
   "domains": [
-    "app.hkmahjong.com.hk",
-    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app",
-    "mahjong--ways.noma.com",
-    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de",
-    "mahjong-download-windows-10--167758106.helpclean.de",
-    "mahjong-slot---asia0.especiallywicker.com",
-    "oneclickmahjong.com",
-    "third-mahjong--third-mahjong.asia-east1.hosted.app",
-    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org",
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com",
-    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com",
-    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com",
-    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com"
+    "cibolocreekquiltersguild.com",
+    "judi-slot--bankjago.shamrockcolony.com",
+    "judiboisson.com"
   ]
 }

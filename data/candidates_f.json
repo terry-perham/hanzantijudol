@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-07-13T06:15:47.459259Z",
+  "timestamp": "2026-07-13T12:01:10.800009Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 43.879,
-  "domains": [
-    "metro-pencil.github.io",
-    "wdc-64ssmb-eu9-tnuu4r-i3r.pages.dev"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 44.165,
+  "domains": []
 }

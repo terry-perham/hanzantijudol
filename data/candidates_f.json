@@ -1,9 +1,13 @@
 {
-  "timestamp": "2026-07-14T21:57:53.358137Z",
+  "timestamp": "2026-07-15T02:07:19.865042Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 43.284,
-  "domains": []
+  "candidate_count": 3,
+  "time_seconds": 49.319,
+  "domains": [
+    "5ym-q2k-wjuiz7-vpczkb-vv9wd3.pages.dev",
+    "6r15-3aoj4h-wdhw7t-a3b-0dn.pages.dev",
+    "tayyab-beta.github.io"
+  ]
 }

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-16T19:07:45.939403Z",
+  "timestamp": "2026-07-16T22:03:55.293590Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 47.586,
+  "time_seconds": 46.235,
   "domains": [
     "2025-beta.vercel.app"
   ]

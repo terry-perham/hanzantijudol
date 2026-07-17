@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-17T10:46:09.387918Z",
+  "timestamp": "2026-07-17T13:22:54.618509Z",
   "method": "certificate_transparency",
   "keywords_searched": 5,
   "candidate_count": 13,
-  "time_seconds": 24.907,
+  "time_seconds": 15.276,
   "domains": [
     "app.hkmahjong.com.hk",
     "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app",

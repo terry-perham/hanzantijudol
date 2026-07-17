@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-17T16:15:58.553294Z",
+  "timestamp": "2026-07-17T19:04:40.418432Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 49.317,
+  "time_seconds": 43.838,
   "domains": [
     "08yw-wdxv-wbds-ynvme-ojl0fa.pages.dev"
   ]

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-22T08:25:29.417747Z",
+  "timestamp": "2026-07-22T11:08:46.019597Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 43.453,
+  "time_seconds": 44.72,
   "domains": [
     "bet365-argentina.pages.dev",
     "bet365easyslots-cfd.pages.dev"

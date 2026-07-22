@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-22T16:21:15.635156Z",
+  "timestamp": "2026-07-22T19:12:56.946146Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 43.544,
+  "time_seconds": 44.325,
   "domains": [
     "instagram-clone-mauve-beta.vercel.app"
   ]

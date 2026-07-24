@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-24T08:23:56.123065Z",
+  "timestamp": "2026-07-24T11:03:03.253366Z",
   "method": "osint_community",
   "source_count": 4,
   "candidate_count": 0,
-  "time_seconds": 3.222,
+  "time_seconds": 2.535,
   "domains": []
 }

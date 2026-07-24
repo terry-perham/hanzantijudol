@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-07-23T22:04:56.436037Z",
+  "timestamp": "2026-07-24T02:26:04.314404Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 45.811,
-  "domains": []
+  "candidate_count": 1,
+  "time_seconds": 46.88,
+  "domains": [
+    "bet-facebook.blogspot.com"
+  ]
 }

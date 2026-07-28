@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-28T02:20:35.739019Z",
+  "timestamp": "2026-07-28T05:46:24.678325Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 519.596,
+  "time_seconds": 44.058,
   "domains": [
     "bezzful-sherbet-5900d7-mny1204gff-2406wra.pages.dev",
     "stellar-sherbet-1b477b.netlify.app"

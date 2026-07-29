@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-29T05:50:52.529689Z",
+  "timestamp": "2026-07-29T08:36:46.108714Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 43.955,
+  "time_seconds": 43.309,
   "domains": [
     "judiblessing21-ship-it.github.io"
   ]

@@ -1,9 +1,12 @@
 {
-  "timestamp": "2026-07-29T22:00:20.933590Z",
+  "timestamp": "2026-07-30T02:04:58.990045Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 44.202,
-  "domains": []
+  "candidate_count": 2,
+  "time_seconds": 43.123,
+  "domains": [
+    "i4z-d5ho-wdmkb-j54-zp9lw.pages.dev",
+    "startphntum.pages.dev"
+  ]
 }

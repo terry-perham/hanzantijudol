@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-07-31T06:11:51.639862Z",
+  "timestamp": "2026-07-31T11:30:09.631353Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 44.78,
+  "time_seconds": 44.258,
   "domains": [
     "bet365-group-limited-xyz.pages.dev"
   ]

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-01T02:31:37.503800Z",
+  "timestamp": "2026-08-01T05:55:30.987803Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 3,
-  "time_seconds": 49.44,
+  "time_seconds": 45.889,
   "domains": [
     "2025-beta.vercel.app",
     "bet365nz-net.pages.dev",

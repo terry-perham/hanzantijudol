@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-02T05:57:48.482199Z",
+  "timestamp": "2026-08-02T08:20:28.371627Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 46.015,
+  "time_seconds": 46.515,
   "domains": [
     "ik2npu-rez-7hrh-1db8wd-0dg.pages.dev"
   ]

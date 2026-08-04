@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-04T02:11:16.024969Z",
+  "timestamp": "2026-08-04T05:47:18.921567Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 46.775,
+  "time_seconds": 45.986,
   "domains": [
     "amazon-clone-khaki-beta.vercel.app",
     "amazon-clone-mauve-beta.vercel.app"

@@ -1,11 +1,9 @@
 {
-  "timestamp": "2026-08-04T22:11:41.306859Z",
+  "timestamp": "2026-08-05T02:11:01.183039Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 44.326,
-  "domains": [
-    "ewdxex23x2.pages.dev"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 48.448,
+  "domains": []
 }

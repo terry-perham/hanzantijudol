@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-07T12:58:21.517740Z",
+  "timestamp": "2026-08-07T15:55:48.536406Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 45.441,
+  "time_seconds": 44.527,
   "domains": [
     "e7fonw-3eskv-1nylv3-vcwdw.pages.dev",
     "trewdz.netlify.app"

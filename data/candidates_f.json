@@ -1,12 +1,11 @@
 {
-  "timestamp": "2026-08-08T09:36:45.558696Z",
+  "timestamp": "2026-08-08T12:42:18.950039Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 44.09,
+  "candidate_count": 1,
+  "time_seconds": 43.375,
   "domains": [
-    "aishwaryaugowda.github.io",
-    "e7fonw-3eskv-1nylv3-vcwdw.pages.dev"
+    "aishwaryaugowda.github.io"
   ]
 }

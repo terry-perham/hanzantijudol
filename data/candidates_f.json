@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-07T21:38:04.112321Z",
+  "timestamp": "2026-08-08T01:20:46.706865Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 43.723,
+  "time_seconds": 49.275,
   "domains": [
-    "e7fonw-3eskv-1nylv3-vcwdw.pages.dev",
-    "trewdz.netlify.app"
+    "aishwaryaugowda.github.io",
+    "e7fonw-3eskv-1nylv3-vcwdw.pages.dev"
   ]
 }

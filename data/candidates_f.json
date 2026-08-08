@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-08T12:42:18.950039Z",
+  "timestamp": "2026-08-08T15:29:06.847854Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 43.375,
+  "time_seconds": 47.515,
   "domains": [
     "aishwaryaugowda.github.io"
   ]

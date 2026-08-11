@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-11T12:58:41.684459Z",
+  "timestamp": "2026-08-11T16:00:38.814020Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 48.883,
+  "time_seconds": 43.726,
   "domains": [
     "facebooksupportphonenumber12300.blogspot.com"
   ]

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-11T04:20:17.801271Z",
+  "timestamp": "2026-08-11T07:03:02.875348Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 46.443,
+  "time_seconds": 43.537,
   "domains": [
     "revanthchowdaryarekatla.github.io"
   ]

@@ -1,9 +1,12 @@
 {
-  "timestamp": "2026-08-13T10:03:49.333447Z",
+  "timestamp": "2026-08-13T13:04:18.424904Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 45.328,
-  "domains": []
+  "candidate_count": 2,
+  "time_seconds": 47.137,
+  "domains": [
+    "2tywdr-ovc0j-yp7-enx8w-qa0u0u.pages.dev",
+    "spotify-clone-beta-two.vercel.app"
+  ]
 }

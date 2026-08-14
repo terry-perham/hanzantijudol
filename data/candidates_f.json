@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-14T13:00:25.732038Z",
+  "timestamp": "2026-08-14T15:50:44.259879Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 3,
-  "time_seconds": 45.686,
+  "time_seconds": 46.652,
   "domains": [
     "kawdeioqw.blogspot.com",
     "lqkdtfcuzdnybwdj-7whdfhjzilxwsnhvu2pdzrz4.vercel.app",

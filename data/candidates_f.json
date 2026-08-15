@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-15T12:33:20.944424Z",
+  "timestamp": "2026-08-15T15:19:30.259761Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 43.532,
+  "time_seconds": 43.52,
   "domains": [
     "rgq7x1bvj4fwdn9bnogx0dbcajn5pyvokfb46-h14v.vercel.app",
     "w8eolwdruzoh1xh3qzbtxqq6owzhwwabhfb44-h14v.vercel.app"

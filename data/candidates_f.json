@@ -1,15 +1,11 @@
 {
-  "timestamp": "2026-08-16T09:27:04.393738Z",
+  "timestamp": "2026-08-16T12:34:27.018679Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 5,
-  "time_seconds": 48.903,
+  "candidate_count": 1,
+  "time_seconds": 43.903,
   "domains": [
-    "apienidqltct8hpqm5klwdiiklg1owarsf6-cg1108s.vercel.app",
-    "jumk7vvywdyjmahfwyuo0tfnav9dfsfzsf28-cg1108s.vercel.app",
-    "pcfhvgb7ntgxj1ycsanlykh6qxqpywdwsf46-cg1108s.vercel.app",
-    "qhchxoyrghtiwdu0j0dhuehpkuzylgmwj1sf41-cg1108s.vercel.app",
-    "rgq7x1bvj4fwdn9bnogx0dbcajn5pyvokfb46-h14v.vercel.app"
+    "qhchxoyrghtiwdu0j0dhuehpkuzylgmwj1sf41-cg1108s.vercel.app"
   ]
 }

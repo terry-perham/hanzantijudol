@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T18:24:55.905846Z",
+  "timestamp": "2026-08-16T21:18:26.161310Z",
   "method": "curated_gambling_feeds",
   "source_count": 3,
   "source_yield": {
@@ -8,7 +8,7 @@
     "hagezi_gambling_domains": 0
   },
   "candidate_count": 342614,
-  "time_seconds": 2.413,
+  "time_seconds": 2.669,
   "domains": [
     "0-10-7.casino",
     "0-2-0-7.casino",

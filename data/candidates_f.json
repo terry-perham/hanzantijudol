@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-19T09:32:51.971548Z",
+  "timestamp": "2026-08-19T12:41:30.932563Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 42.827,
+  "time_seconds": 44.541,
   "domains": [
-    "freefire-beta.vercel.app"
+    "w2j-rwd-whu-s4hrhv-3g4o-vpwqt.pages.dev"
   ]
 }

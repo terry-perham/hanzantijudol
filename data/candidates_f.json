@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-20T01:03:28.270708Z",
+  "timestamp": "2026-08-20T03:46:15.078617Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 4,
-  "time_seconds": 45.102,
+  "time_seconds": 44.185,
   "domains": [
     "2tywdr-ovc0j-yp7-enx8w-qa0u0u.pages.dev",
     "mail-base-pwwd.mrust.workers.dev",

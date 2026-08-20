@@ -1,11 +1,14 @@
 {
-  "timestamp": "2026-08-19T21:24:52.573914Z",
+  "timestamp": "2026-08-20T01:03:28.270708Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 47.538,
+  "candidate_count": 4,
+  "time_seconds": 45.102,
   "domains": [
-    "w2j-rwd-whu-s4hrhv-3g4o-vpwqt.pages.dev"
+    "2tywdr-ovc0j-yp7-enx8w-qa0u0u.pages.dev",
+    "mail-base-pwwd.mrust.workers.dev",
+    "netflix-casino-art.pages.dev",
+    "nzpzdbet-h16.vercel.app"
   ]
 }

@@ -1,9 +1,12 @@
 {
-  "timestamp": "2026-08-21T09:35:31.114631Z",
+  "timestamp": "2026-08-21T12:41:30.252435Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 44.195,
-  "domains": []
+  "candidate_count": 2,
+  "time_seconds": 49.301,
+  "domains": [
+    "7ail-1wd1-2f2iwp-o6tc-djw6lv.pages.dev",
+    "bet-365-koreasite-com-6089aa0c.pages.dev"
+  ]
 }

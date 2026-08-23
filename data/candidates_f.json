@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-23T01:08:00.456073Z",
+  "timestamp": "2026-08-23T03:49:39.498673Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 44.972,
+  "time_seconds": 42.91,
   "domains": [
     "netflixcasinos-de1-92692.pages.dev"
   ]

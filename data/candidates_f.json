@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-22T21:20:49.535893Z",
+  "timestamp": "2026-08-23T01:08:00.456073Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 47.695,
+  "time_seconds": 44.972,
   "domains": [
-    "apibzj-wd1jtiij.vercel.app"
+    "netflixcasinos-de1-92692.pages.dev"
   ]
 }

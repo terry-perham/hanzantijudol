@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-08-23T09:26:45.071328Z",
+  "timestamp": "2026-08-23T12:34:37.576497Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 47.164,
+  "candidate_count": 2,
+  "time_seconds": 44.307,
   "domains": [
-    "netflixcasinos-de1-92692.pages.dev"
+    "18el7-fc0wd-zoz8lz-ufchjm.pages.dev",
+    "roopachowdhary63-cpu.github.io"
   ]
 }

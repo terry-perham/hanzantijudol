@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-24T18:37:43.430180Z",
+  "timestamp": "2026-08-24T21:27:41.636207Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 47.359,
+  "time_seconds": 44.622,
   "domains": [
     "1wdn-6blij-es5-i8x9nn-wmo.pages.dev",
     "bet-365-koreaapp-com-0546e282.pages.dev"

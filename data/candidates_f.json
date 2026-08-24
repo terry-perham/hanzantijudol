@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-08-23T21:20:18.673900Z",
+  "timestamp": "2026-08-24T01:13:57.963776Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 49.272,
-  "domains": [
-    "18el7-fc0wd-zoz8lz-ufchjm.pages.dev",
-    "roopachowdhary63-cpu.github.io"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 519.484,
+  "domains": []
 }

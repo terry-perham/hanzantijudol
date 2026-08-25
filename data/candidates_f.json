@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-25T01:05:30.253333Z",
+  "timestamp": "2026-08-25T03:48:08.053979Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 47.607,
+  "time_seconds": 47.491,
   "domains": [
     "bet-365-koreaapp-com-0546e282.pages.dev",
     "comforting-sorbet-c4f3e3.netlify.app"

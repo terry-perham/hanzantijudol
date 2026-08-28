@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-08-28T00:16:20.905206Z",
+  "timestamp": "2026-08-28T14:54:43.112745Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 43.607,
-  "domains": [
-    "bet-facebook.blogspot.com",
-    "lively-sherbet-53ca84.netlify.app"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 46.861,
+  "domains": []
 }

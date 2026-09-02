@@ -1,11 +1,13 @@
 {
-  "timestamp": "2026-09-02T07:38:04.114598Z",
+  "timestamp": "2026-09-02T13:15:10.681520Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 47.118,
+  "candidate_count": 3,
+  "time_seconds": 43.506,
   "domains": [
-    "2qdoyeotwd-d394aff8de.vercel.app"
+    "bet-365-koreasite-com-6089aa0c.pages.dev",
+    "interface-beta-eight.vercel.app",
+    "kjandiaodaadwd1.vercel.app"
   ]
 }

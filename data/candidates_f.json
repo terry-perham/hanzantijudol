@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-03T02:50:16.571659Z",
+  "timestamp": "2026-09-03T07:49:23.777243Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 46.971,
+  "time_seconds": 44.049,
   "domains": [
     "airbnb-clone-nine-beta.vercel.app"
   ]

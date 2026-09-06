@@ -1,16 +1,8 @@
 {
-  "timestamp": "2026-09-06T20:00:47.317131Z",
+  "timestamp": "2026-09-06T22:42:57.977273Z",
   "method": "certificate_transparency",
   "keywords_searched": 5,
-  "candidate_count": 7,
-  "time_seconds": 75.071,
-  "domains": [
-    "cibolocreekquiltersguild.com",
-    "jpm-digsig.cap-rx.com",
-    "jpm-transport.cap-rx.com",
-    "jpm-uat-digsig.cap-rx.com",
-    "jpm-uat-transport.cap-rx.com",
-    "judi-slot--bankjago.shamrockcolony.com",
-    "judiboisson.com"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 37.206,
+  "domains": []
 }

@@ -1,21 +1,16 @@
 {
-  "timestamp": "2026-09-06T17:32:54.004277Z",
+  "timestamp": "2026-09-06T20:00:47.317131Z",
   "method": "certificate_transparency",
   "keywords_searched": 5,
-  "candidate_count": 12,
-  "time_seconds": 75.019,
+  "candidate_count": 7,
+  "time_seconds": 75.071,
   "domains": [
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
-    "bor-up-mesin-slot-gacor--sikekaa-sio-prindapan.pages.dev",
-    "facwbgoogle.com",
-    "gacor--banget.pages.dev",
-    "situs-slot-gacor--dorahoki-amp.pages.dev",
-    "situs-slot-gacor--dorahoki.pages.dev",
-    "slot-gacor--4d.themeadow.com",
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
-    "slot-gacor--camar4444.pages.dev",
-    "slot-gacor--maxwin.ahlemeyewear.com",
-    "slot-gacor-kal--kan.pages.dev"
+    "cibolocreekquiltersguild.com",
+    "jpm-digsig.cap-rx.com",
+    "jpm-transport.cap-rx.com",
+    "jpm-uat-digsig.cap-rx.com",
+    "jpm-uat-transport.cap-rx.com",
+    "judi-slot--bankjago.shamrockcolony.com",
+    "judiboisson.com"
   ]
 }

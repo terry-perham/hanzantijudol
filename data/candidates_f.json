@@ -1,11 +1,9 @@
 {
-  "timestamp": "2026-09-14T21:27:33.089327Z",
+  "timestamp": "2026-09-15T03:17:34.844497Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 44.395,
-  "domains": [
-    "accounts-12a7e2aa.jkhjkjk.workers.dev"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 43.401,
+  "domains": []
 }

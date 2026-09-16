@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-16T03:12:14.818537Z",
+  "timestamp": "2026-09-16T10:50:43.971108Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 49.715,
+  "time_seconds": 49.258,
   "domains": [
     "sendusdt-beta.vercel.app"
   ]

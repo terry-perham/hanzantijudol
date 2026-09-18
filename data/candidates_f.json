@@ -1,13 +1,9 @@
 {
-  "timestamp": "2026-09-18T08:11:56.701878Z",
+  "timestamp": "2026-09-18T13:24:32.362307Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 3,
-  "time_seconds": 46.745,
-  "domains": [
-    "juwts-339-gk6a-wdh64-14-09-2026-hh.pages.dev",
-    "mmmm-beta-lac.vercel.app",
-    "web3-projects-beta.vercel.app"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 44.847,
+  "domains": []
 }

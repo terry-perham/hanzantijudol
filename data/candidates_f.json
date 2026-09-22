@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-22T20:53:27.624788Z",
+  "timestamp": "2026-09-22T23:30:49.355230Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 42.512,
+  "time_seconds": 44.215,
   "domains": [
     "frabjous-sorbet-a2f1a2.netlify.app"
   ]

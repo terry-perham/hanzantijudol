@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-09-22T10:57:13.694119Z",
+  "timestamp": "2026-09-22T16:15:16.921238Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 45.067,
+  "time_seconds": 43.341,
   "domains": [
-    "interface-beta-eight.vercel.app"
+    "frabjous-sorbet-a2f1a2.netlify.app"
   ]
 }

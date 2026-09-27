@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-09-27T16:23:04.119820Z",
+  "timestamp": "2026-09-27T20:59:37.561861Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 49.025,
+  "time_seconds": 519.921,
   "domains": [
     "supportpageprofileupdate.vercel.app"
   ]

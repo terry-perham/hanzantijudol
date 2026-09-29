@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-09-28T21:06:15.091085Z",
+  "timestamp": "2026-09-29T04:03:53.917417Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 43.397,
-  "domains": [
-    "bet-facebook.blogspot.com",
-    "ivanamuraigacor26.blogspot.com"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 44.892,
+  "domains": []
 }

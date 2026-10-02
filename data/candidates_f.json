@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-02T09:22:19.812576Z",
+  "timestamp": "2026-10-02T17:26:20.503731Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 2,
-  "time_seconds": 45.264,
+  "time_seconds": 46.057,
   "domains": [
     "8nnm4-wdh-tjmd-ml98f-25-09-2026-hh.pages.dev",
     "hermanshreder.github.io"

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-07T00:24:11.207365Z",
+  "timestamp": "2026-10-07T09:47:11.839316Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 46.848,
+  "time_seconds": 44.042,
   "domains": [
     "trustwalletindia-beta.vercel.app"
   ]

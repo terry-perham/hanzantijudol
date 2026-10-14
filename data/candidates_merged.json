@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-10-13T18:50:40.663247Z",
+  "timestamp": "2026-10-14T00:07:57.716055Z",
   "candidate_count": 342615,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-10-13T18:52:02.338845Z"
-    },
-    "osint_community": {
-      "count": 0,
-      "file": "data/candidates_d.json",
-      "timestamp": "2026-10-13T18:52:04.190832Z"
+      "timestamp": "2026-10-14T00:09:25.947789Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-10-13T18:52:05.512005Z"
+      "timestamp": "2026-10-14T00:09:29.245941Z"
+    },
+    "osint_community": {
+      "count": 0,
+      "file": "data/candidates_d.json",
+      "timestamp": "2026-10-14T00:09:29.876440Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-10-13T18:52:10.730857Z"
+      "timestamp": "2026-10-14T00:09:34.110574Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-10-13T18:52:13.623284Z"
+      "timestamp": "2026-10-14T00:09:36.498891Z"
     },
     "platform_abuse_sweep": {
       "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-10-13T18:52:51.136842Z"
+      "timestamp": "2026-10-14T00:10:12.892118Z"
     }
   },
   "domain_sources": {
@@ -282231,9 +282231,6 @@
     ],
     "bet-explorer.com": [
       "curated_gambling_feeds"
-    ],
-    "bet-facebook.blogspot.com": [
-      "platform_abuse_sweep"
     ],
     "bet-fair.asia": [
       "curated_gambling_feeds"
@@ -788899,6 +788896,9 @@
     "p6062.com": [
       "curated_gambling_feeds"
     ],
+    "p63-94sl-f9n-wdvx-5jf-3l44.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "p6338.com": [
       "curated_gambling_feeds"
     ],
@@ -1121947,7 +1121947,6 @@
     "bet-experts.com",
     "bet-experts.eu",
     "bet-explorer.com",
-    "bet-facebook.blogspot.com",
     "bet-fair.asia",
     "bet-fido.com",
     "bet-fmcasino.com",
@@ -1290836,6 +1290835,7 @@
     "p5y8q.com",
     "p6.com",
     "p6062.com",
+    "p63-94sl-f9n-wdvx-5jf-3l44.pages.dev",
     "p6338.com",
     "p63555.com",
     "p6439.com",

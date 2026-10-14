@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-14T00:10:12.891438Z",
+  "timestamp": "2026-10-14T08:24:54.645098Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 46.924,
+  "time_seconds": 49.271,
   "domains": [
     "p63-94sl-f9n-wdvx-5jf-3l44.pages.dev"
   ]

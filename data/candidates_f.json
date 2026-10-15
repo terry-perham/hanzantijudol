@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-10-14T23:41:51.923448Z",
+  "timestamp": "2026-10-15T03:03:41.463848Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 42.988,
-  "domains": []
+  "candidate_count": 1,
+  "time_seconds": 48.531,
+  "domains": [
+    "g47wd-u68-a1b-ijuk3i-omz7.pages.dev"
+  ]
 }

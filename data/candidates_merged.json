@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-10-15T08:12:54.142486Z",
-  "candidate_count": 343366,
+  "timestamp": "2026-10-15T13:55:30.502363Z",
+  "candidate_count": 343368,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-10-15T08:14:08.900927Z"
+      "timestamp": "2026-10-15T13:56:44.438713Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-10-15T08:14:12.784827Z"
+      "timestamp": "2026-10-15T13:56:48.021524Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-10-15T08:14:13.249642Z"
+      "timestamp": "2026-10-15T13:56:48.476662Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-10-15T08:14:18.749591Z"
+      "timestamp": "2026-10-15T13:56:54.134557Z"
     },
     "certificate_transparency": {
-      "count": 770,
+      "count": 773,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-10-15T08:14:42.625180Z"
+      "timestamp": "2026-10-15T13:57:09.016585Z"
     },
     "platform_abuse_sweep": {
-      "count": 1,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-10-15T08:14:58.591304Z"
+      "timestamp": "2026-10-15T13:57:30.801600Z"
     }
   },
   "domain_sources": {
@@ -528433,6 +528433,9 @@
     "forgeofwealthcasino.com": [
       "curated_gambling_feeds"
     ],
+    "formark.uk": [
+      "certificate_transparency"
+    ],
     "formasi4dl.com": [
       "curated_gambling_feeds"
     ],
@@ -538855,9 +538858,6 @@
     ],
     "g45pix.vip": [
       "curated_gambling_feeds"
-    ],
-    "g47wd-u68-a1b-ijuk3i-omz7.pages.dev": [
-      "platform_abuse_sweep"
     ],
     "g488hshsssaaz.xyz": [
       "curated_gambling_feeds"
@@ -1010597,6 +1010597,9 @@
     "xn---pg-slot-auto---2f9bmduob0tsjc8gc4ld5tkj.france-copte.net": [
       "certificate_transparency"
     ],
+    "xn---slot--90t4a9j0b1dzai7c9azi6lpe.planetcataloging.org": [
+      "certificate_transparency"
+    ],
     "xn---slot--v1t5e0aw6e4bqb2j3fphuf.ukrainian-language.com": [
       "certificate_transparency"
     ],
@@ -1011057,6 +1011060,9 @@
       "certificate_transparency"
     ],
     "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com": [
+      "certificate_transparency"
+    ],
+    "xn--pg-slot--zpztg5b8f2b1xtd.captain.growth.angage.com": [
       "certificate_transparency"
     ],
     "xn--pg-slot--zpztg5b8f2b1xtd.onstarshipsanddragonwings.com": [
@@ -1206287,6 +1206293,7 @@
     "forfunfreeslots.lol",
     "forge.poker",
     "forgeofwealthcasino.com",
+    "formark.uk",
     "formasi4dl.com",
     "foro.casino",
     "forrapix.bet",
@@ -1209761,7 +1209768,6 @@
     "g45568.com",
     "g456bet.com",
     "g45pix.vip",
-    "g47wd-u68-a1b-ijuk3i-omz7.pages.dev",
     "g488hshsssaaz.xyz",
     "g4a2zym.com",
     "g4g.sk",
@@ -1367004,6 +1367010,7 @@
     "xn---pg-slot--uo2a9c4bo0vqf7e.myhotmaxima.com",
     "xn---pg-slot-auto---2f9bmduob0tsjc8gc26a.troratad.net",
     "xn---pg-slot-auto---2f9bmduob0tsjc8gc4ld5tkj.france-copte.net",
+    "xn---slot--90t4a9j0b1dzai7c9azi6lpe.planetcataloging.org",
     "xn---slot--v1t5e0aw6e4bqb2j3fphuf.ukrainian-language.com",
     "xn--101-tiger-slot-wallet--b78djva6u0gtg4b3n5h0j3a.1.staging.mit.copark.dk",
     "xn--101-tiger-slot-wallet--b78djva6u0gtg4b3n5h0j3a.ai.selecdoo.com",
@@ -1367158,6 +1367165,7 @@
     "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.ukrainian-language.com",
     "xn--pg-slot--rqzuj6azy.bigbusinessnetworks.com",
     "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com",
+    "xn--pg-slot--zpztg5b8f2b1xtd.captain.growth.angage.com",
     "xn--pg-slot--zpztg5b8f2b1xtd.onstarshipsanddragonwings.com",
     "xn--pg-slot--zpztg5b8f2b1xtd.pages.dev",
     "xn--pg-slot--zpztgqg.shklite.com",

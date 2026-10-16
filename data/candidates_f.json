@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-16T08:02:21.125512Z",
+  "timestamp": "2026-10-16T13:46:06.581787Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 47.547,
+  "time_seconds": 42.366,
   "domains": [
-    "browardcourtpdf-viewer.vercel.app"
+    "gnnkz-9yi-l2sl-0lwd3-01-10-2026-hh.pages.dev"
   ]
 }

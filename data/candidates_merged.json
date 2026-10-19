@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-10-18T22:45:22.319258Z",
-  "candidate_count": 342635,
+  "timestamp": "2026-10-19T03:05:26.754769Z",
+  "candidate_count": 342615,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-10-18T22:46:38.202392Z"
+      "timestamp": "2026-10-19T03:06:46.414956Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-10-18T22:46:41.001157Z"
+      "timestamp": "2026-10-19T03:06:49.431625Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-10-18T22:46:42.452721Z"
+      "timestamp": "2026-10-19T03:06:51.575130Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-10-18T22:46:47.428038Z"
+      "timestamp": "2026-10-19T03:06:55.821024Z"
     },
     "certificate_transparency": {
-      "count": 20,
+      "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-10-18T22:46:59.267146Z"
+      "timestamp": "2026-10-19T03:07:09.254936Z"
     },
     "platform_abuse_sweep": {
       "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-10-18T22:47:21.326016Z"
+      "timestamp": "2026-10-19T03:07:28.884871Z"
     }
   },
   "domain_sources": {
@@ -248302,12 +248302,6 @@
     "amp-casinozerkalo.ru": [
       "curated_gambling_feeds"
     ],
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
-      "certificate_transparency"
-    ],
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
-      "certificate_transparency"
-    ],
     "amp-jojobet-bahis.com": [
       "curated_gambling_feeds"
     ],
@@ -319866,9 +319860,6 @@
     ],
     "boq-casino.com": [
       "curated_gambling_feeds"
-    ],
-    "bor-up-mesin-slot-gacor--sikekaa-sio-prindapan.pages.dev": [
-      "certificate_transparency"
     ],
     "bor.casino": [
       "curated_gambling_feeds"
@@ -464350,9 +464341,6 @@
     "cibillfish.org": [
       "curated_gambling_feeds"
     ],
-    "cibolocreekquiltersguild.com": [
-      "certificate_transparency"
-    ],
     "cici303win.xyz": [
       "curated_gambling_feeds"
     ],
@@ -518299,9 +518287,6 @@
     "factschurch.com": [
       "curated_gambling_feeds"
     ],
-    "facwbgoogle.com": [
-      "certificate_transparency"
-    ],
     "fada777.com": [
       "curated_gambling_feeds"
     ],
@@ -538884,12 +538869,6 @@
     ],
     "gacokbapaktogel.site": [
       "curated_gambling_feeds"
-    ],
-    "gacor--77.netlify.lol": [
-      "certificate_transparency"
-    ],
-    "gacor--banget.pages.dev": [
-      "certificate_transparency"
     ],
     "gacor.oborgamingplus.com": [
       "curated_gambling_feeds"
@@ -642352,18 +642331,6 @@
     "jplpkp.com": [
       "curated_gambling_feeds"
     ],
-    "jpm-digsig.cap-rx.com": [
-      "certificate_transparency"
-    ],
-    "jpm-transport.cap-rx.com": [
-      "certificate_transparency"
-    ],
-    "jpm-uat-digsig.cap-rx.com": [
-      "certificate_transparency"
-    ],
-    "jpm-uat-transport.cap-rx.com": [
-      "certificate_transparency"
-    ],
     "jpmaju.com": [
       "curated_gambling_feeds"
     ],
@@ -644479,9 +644446,6 @@
     "judgecasino.com": [
       "curated_gambling_feeds"
     ],
-    "judi-slot--bankjago.shamrockcolony.com": [
-      "certificate_transparency"
-    ],
     "judi-slots.com": [
       "curated_gambling_feeds"
     ],
@@ -644499,9 +644463,6 @@
     ],
     "judiblackjack.me": [
       "curated_gambling_feeds"
-    ],
-    "judiboisson.com": [
-      "certificate_transparency"
     ],
     "judibola.com": [
       "curated_gambling_feeds"
@@ -886324,12 +886285,6 @@
     "situs-sakura188.xyz": [
       "curated_gambling_feeds"
     ],
-    "situs-slot-gacor--dorahoki-amp.pages.dev": [
-      "certificate_transparency"
-    ],
-    "situs-slot-gacor--dorahoki.pages.dev": [
-      "certificate_transparency"
-    ],
     "situs-slot.b-cdn.net": [
       "curated_gambling_feeds"
     ],
@@ -888432,21 +888387,6 @@
     ],
     "slot-fin.com": [
       "curated_gambling_feeds"
-    ],
-    "slot-gacor--4d.themeadow.com": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--camar4444.pages.dev": [
-      "certificate_transparency"
-    ],
-    "slot-gacor--maxwin.ahlemeyewear.com": [
-      "certificate_transparency"
-    ],
-    "slot-gacor-kal--kan.pages.dev": [
-      "certificate_transparency"
     ],
     "slot-gacor.lol": [
       "curated_gambling_feeds"
@@ -1110697,8 +1110637,6 @@
     "amp-casinoslot.ru",
     "amp-casinovhod.ru",
     "amp-casinozerkalo.ru",
-    "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
-    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "amp-jojobet-bahis.com",
     "amp-kuy4d.xyz",
     "amp-onehoki.xyz",
@@ -1134552,7 +1134490,6 @@
     "bootleggercasino.com",
     "booztcasino.org",
     "boq-casino.com",
-    "bor-up-mesin-slot-gacor--sikekaa-sio-prindapan.pages.dev",
     "bor.casino",
     "bor77.org",
     "bora-casino.com",
@@ -1182713,7 +1182650,6 @@
     "cialisokl.com",
     "cibenew.site",
     "cibillfish.org",
-    "cibolocreekquiltersguild.com",
     "cici303win.xyz",
     "cici4d.top",
     "cicitzeus.site",
@@ -1200696,7 +1200632,6 @@
     "factorio.city",
     "factorycasino.xyz",
     "factschurch.com",
-    "facwbgoogle.com",
     "fada777.com",
     "fada888.club",
     "fada888.org",
@@ -1207558,8 +1207493,6 @@
     "gacoanslot.biz",
     "gacoanslot.xyz",
     "gacokbapaktogel.site",
-    "gacor--77.netlify.lol",
-    "gacor--banget.pages.dev",
     "gacor.oborgamingplus.com",
     "gacor.pro",
     "gacor123.vip",
@@ -1242047,10 +1241980,6 @@
     "jpkudaemas.store",
     "jplgogoal.com",
     "jplpkp.com",
-    "jpm-digsig.cap-rx.com",
-    "jpm-transport.cap-rx.com",
-    "jpm-uat-digsig.cap-rx.com",
-    "jpm-uat-transport.cap-rx.com",
     "jpmaju.com",
     "jpmariobet.com",
     "jpmildcasino.xyz",
@@ -1242756,14 +1242685,12 @@
     "jublaacasino.se",
     "jucatorul.ro",
     "judgecasino.com",
-    "judi-slot--bankjago.shamrockcolony.com",
     "judi-slots.com",
     "judi39.xyz",
     "judi88.asia",
     "judi88.club",
     "judibebas.com",
     "judiblackjack.me",
-    "judiboisson.com",
     "judibola.com",
     "judibola.tech",
     "judibolacasino.com",
@@ -1323371,8 +1323298,6 @@
     "situs-pandajago.site",
     "situs-premium.com",
     "situs-sakura188.xyz",
-    "situs-slot-gacor--dorahoki-amp.pages.dev",
-    "situs-slot-gacor--dorahoki.pages.dev",
     "situs-slot.b-cdn.net",
     "situs-toto4d.com",
     "situs.yoshoku-taku.com",
@@ -1324074,11 +1323999,6 @@
     "slot-depositpulsa.com",
     "slot-dom.appspot.com",
     "slot-fin.com",
-    "slot-gacor--4d.themeadow.com",
-    "slot-gacor--b-o-n-u-s----------100-amp.pages.dev",
-    "slot-gacor--camar4444.pages.dev",
-    "slot-gacor--maxwin.ahlemeyewear.com",
-    "slot-gacor-kal--kan.pages.dev",
     "slot-gacor.lol",
     "slot-game777.net",
     "slot-games17.org",

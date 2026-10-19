@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-18T22:47:21.325387Z",
+  "timestamp": "2026-10-19T03:07:28.884179Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 43.11,
+  "time_seconds": 42.456,
   "domains": [
     "a3ino-5sp-0p7r-bl5wd-11-10-2026-aa.pages.dev"
   ]

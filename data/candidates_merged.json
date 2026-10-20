@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-10-20T08:10:36.729242Z",
-  "candidate_count": 342615,
+  "timestamp": "2026-10-20T14:05:47.862216Z",
+  "candidate_count": 342616,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-10-20T08:11:46.924271Z"
+      "timestamp": "2026-10-20T14:07:14.792392Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-10-20T08:11:49.716182Z"
-    },
-    "osint_community": {
-      "count": 0,
-      "file": "data/candidates_d.json",
-      "timestamp": "2026-10-20T08:11:49.717418Z"
+      "timestamp": "2026-10-20T14:07:17.409135Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-10-20T08:11:55.262666Z"
+      "timestamp": "2026-10-20T14:07:22.934219Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-10-20T08:11:57.576906Z"
+      "timestamp": "2026-10-20T14:07:25.517322Z"
+    },
+    "osint_community": {
+      "count": 0,
+      "file": "data/candidates_d.json",
+      "timestamp": "2026-10-20T14:07:26.719698Z"
     },
     "platform_abuse_sweep": {
-      "count": 1,
+      "count": 2,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-10-20T08:12:34.645260Z"
+      "timestamp": "2026-10-20T14:08:04.445917Z"
     }
   },
   "domain_sources": {
@@ -239358,6 +239358,9 @@
     ],
     "adaywithoutpoker.com": [
       "curated_gambling_feeds"
+    ],
+    "adbpdfnewdocsfilesxsyomnarsmzx.pages.dev": [
+      "platform_abuse_sweep"
     ],
     "adcmix.xyz": [
       "curated_gambling_feeds"
@@ -1107656,6 +1107659,7 @@
     "adat88.vip",
     "adatlombok.com",
     "adaywithoutpoker.com",
+    "adbpdfnewdocsfilesxsyomnarsmzx.pages.dev",
     "adcmix.xyz",
     "add900.com",
     "adda52.com",

@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-10-20T08:12:34.644553Z",
+  "timestamp": "2026-10-20T14:08:04.445219Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 47.7,
+  "candidate_count": 2,
+  "time_seconds": 49.637,
   "domains": [
+    "adbpdfnewdocsfilesxsyomnarsmzx.pages.dev",
     "page-upgrade-supportpage.vercel.app"
   ]
 }

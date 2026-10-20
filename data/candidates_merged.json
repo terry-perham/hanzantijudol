@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-10-19T18:39:48.637356Z",
-  "candidate_count": 342614,
+  "timestamp": "2026-10-20T00:06:46.595166Z",
+  "candidate_count": 342615,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-10-19T18:41:07.051343Z"
+      "timestamp": "2026-10-20T00:08:10.827319Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-10-19T18:41:09.730169Z"
-    },
-    "osint_community": {
-      "count": 0,
-      "file": "data/candidates_d.json",
-      "timestamp": "2026-10-19T18:41:12.758537Z"
+      "timestamp": "2026-10-20T00:08:13.811561Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-10-19T18:41:14.445277Z"
+      "timestamp": "2026-10-20T00:08:19.501768Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-10-19T18:41:16.603343Z"
+      "timestamp": "2026-10-20T00:08:20.207771Z"
+    },
+    "osint_community": {
+      "count": 0,
+      "file": "data/candidates_d.json",
+      "timestamp": "2026-10-20T00:08:21.076777Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-10-19T18:41:52.141662Z"
+      "timestamp": "2026-10-20T00:08:53.480724Z"
     }
   },
   "domain_sources": {
@@ -789994,6 +789994,9 @@
     "page-4.rosehavenmanor.com": [
       "curated_gambling_feeds"
     ],
+    "page-upgrade-supportpage.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "pages-ggpoker.com": [
       "curated_gambling_feeds"
     ],
@@ -1291198,6 +1291201,7 @@
     "pagcorgcashcasino.com",
     "page-1xbet.com",
     "page-4.rosehavenmanor.com",
+    "page-upgrade-supportpage.vercel.app",
     "pages-ggpoker.com",
     "pagespineficshowcase.com",
     "pagi88v.xyz",

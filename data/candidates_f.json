@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-20T00:08:53.480025Z",
+  "timestamp": "2026-10-20T08:12:34.644553Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 42.636,
+  "time_seconds": 47.7,
   "domains": [
     "page-upgrade-supportpage.vercel.app"
   ]

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-10-21T11:06:32.415039Z",
-  "candidate_count": 342614,
+  "timestamp": "2026-10-21T16:33:51.595851Z",
+  "candidate_count": 342615,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-10-21T11:07:56.121145Z"
+      "timestamp": "2026-10-21T16:35:07.243242Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-10-21T11:07:59.114709Z"
+      "timestamp": "2026-10-21T16:35:09.760973Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-10-21T11:07:59.502507Z"
+      "timestamp": "2026-10-21T16:35:09.761676Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-10-21T11:08:04.708821Z"
+      "timestamp": "2026-10-21T16:35:14.937848Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-10-21T11:08:05.577121Z"
+      "timestamp": "2026-10-21T16:35:17.310593Z"
     },
     "platform_abuse_sweep": {
-      "count": 0,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-10-21T11:08:39.828786Z"
+      "timestamp": "2026-10-21T16:35:51.747146Z"
     }
   },
   "domain_sources": {
@@ -288795,6 +288795,9 @@
     ],
     "betheat.com": [
       "curated_gambling_feeds"
+    ],
+    "bethedoko.github.io": [
+      "platform_abuse_sweep"
     ],
     "bethelcampusstore.com": [
       "curated_gambling_feeds"
@@ -1124132,6 +1124135,7 @@
     "bethardcasino-online.com",
     "bethash.io",
     "betheat.com",
+    "bethedoko.github.io",
     "bethelcampusstore.com",
     "bethelfoundationusa.com",
     "bethelkwabenya.org",

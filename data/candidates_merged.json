@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-10-20T23:37:36.853707Z",
-  "candidate_count": 342616,
+  "timestamp": "2026-10-21T03:09:37.246923Z",
+  "candidate_count": 342614,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-10-20T23:38:50.786361Z"
+      "timestamp": "2026-10-21T03:10:47.891625Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-10-20T23:38:53.677723Z"
+      "timestamp": "2026-10-21T03:10:50.147451Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-10-20T23:38:53.983564Z"
+      "timestamp": "2026-10-21T03:10:53.375385Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-10-20T23:38:58.333772Z"
+      "timestamp": "2026-10-21T03:10:55.509221Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-10-20T23:39:00.517198Z"
+      "timestamp": "2026-10-21T03:10:56.977364Z"
     },
     "platform_abuse_sweep": {
-      "count": 2,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-10-20T23:39:34.048711Z"
+      "timestamp": "2026-10-21T03:11:31.562024Z"
     }
   },
   "domain_sources": {
@@ -239358,9 +239358,6 @@
     ],
     "adaywithoutpoker.com": [
       "curated_gambling_feeds"
-    ],
-    "adbpdfnewdocsfilesxsyomnarsmzx.pages.dev": [
-      "platform_abuse_sweep"
     ],
     "adcmix.xyz": [
       "curated_gambling_feeds"
@@ -789997,9 +789994,6 @@
     "page-4.rosehavenmanor.com": [
       "curated_gambling_feeds"
     ],
-    "page-upgrade-supportpage.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "pages-ggpoker.com": [
       "curated_gambling_feeds"
     ],
@@ -1107659,7 +1107653,6 @@
     "adat88.vip",
     "adatlombok.com",
     "adaywithoutpoker.com",
-    "adbpdfnewdocsfilesxsyomnarsmzx.pages.dev",
     "adcmix.xyz",
     "add900.com",
     "adda52.com",
@@ -1291205,7 +1291198,6 @@
     "pagcorgcashcasino.com",
     "page-1xbet.com",
     "page-4.rosehavenmanor.com",
-    "page-upgrade-supportpage.vercel.app",
     "pages-ggpoker.com",
     "pagespineficshowcase.com",
     "pagi88v.xyz",

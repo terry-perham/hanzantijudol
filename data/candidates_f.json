@@ -1,11 +1,9 @@
 {
-  "timestamp": "2026-10-22T21:13:07.454139Z",
+  "timestamp": "2026-10-23T03:15:25.881866Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 43.707,
-  "domains": [
-    "casinobet365gr-com.pages.dev"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 47.335,
+  "domains": []
 }

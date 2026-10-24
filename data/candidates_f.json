@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-10-23T23:48:35.486827Z",
+  "timestamp": "2026-10-24T03:09:50.055036Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 43.001,
-  "domains": [
-    "beta-instagram.vercel.app",
-    "pageupgrade-verifysupportpage.vercel.app"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 47.12,
+  "domains": []
 }

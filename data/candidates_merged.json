@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-10-25T15:30:24.050939Z",
-  "candidate_count": 342621,
+  "timestamp": "2026-10-25T20:21:40.541202Z",
+  "candidate_count": 342614,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-10-25T15:31:40.058780Z"
+      "timestamp": "2026-10-25T20:23:01.070450Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-10-25T15:31:42.674888Z"
+      "timestamp": "2026-10-25T20:23:04.355742Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-10-25T15:31:43.607639Z"
+      "timestamp": "2026-10-25T20:23:04.913838Z"
+    },
+    "certificate_transparency": {
+      "count": 0,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-10-25T20:23:08.049630Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-10-25T15:31:49.789651Z"
-    },
-    "certificate_transparency": {
-      "count": 7,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-10-25T15:32:20.274349Z"
+      "timestamp": "2026-10-25T20:23:10.911855Z"
     },
     "platform_abuse_sweep": {
       "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-10-25T15:32:29.071191Z"
+      "timestamp": "2026-10-25T20:23:44.972519Z"
     }
   },
   "domain_sources": {
@@ -464338,9 +464338,6 @@
     "cibillfish.org": [
       "curated_gambling_feeds"
     ],
-    "cibolocreekquiltersguild.com": [
-      "certificate_transparency"
-    ],
     "cici303win.xyz": [
       "curated_gambling_feeds"
     ],
@@ -642331,18 +642328,6 @@
     "jplpkp.com": [
       "curated_gambling_feeds"
     ],
-    "jpm-digsig.cap-rx.com": [
-      "certificate_transparency"
-    ],
-    "jpm-transport.cap-rx.com": [
-      "certificate_transparency"
-    ],
-    "jpm-uat-digsig.cap-rx.com": [
-      "certificate_transparency"
-    ],
-    "jpm-uat-transport.cap-rx.com": [
-      "certificate_transparency"
-    ],
     "jpmaju.com": [
       "curated_gambling_feeds"
     ],
@@ -644458,9 +644443,6 @@
     "judgecasino.com": [
       "curated_gambling_feeds"
     ],
-    "judi-slot--bankjago.shamrockcolony.com": [
-      "certificate_transparency"
-    ],
     "judi-slots.com": [
       "curated_gambling_feeds"
     ],
@@ -644478,9 +644460,6 @@
     ],
     "judiblackjack.me": [
       "curated_gambling_feeds"
-    ],
-    "judiboisson.com": [
-      "certificate_transparency"
     ],
     "judibola.com": [
       "curated_gambling_feeds"
@@ -1182667,7 +1182646,6 @@
     "cialisokl.com",
     "cibenew.site",
     "cibillfish.org",
-    "cibolocreekquiltersguild.com",
     "cici303win.xyz",
     "cici4d.top",
     "cicitzeus.site",
@@ -1241998,10 +1241976,6 @@
     "jpkudaemas.store",
     "jplgogoal.com",
     "jplpkp.com",
-    "jpm-digsig.cap-rx.com",
-    "jpm-transport.cap-rx.com",
-    "jpm-uat-digsig.cap-rx.com",
-    "jpm-uat-transport.cap-rx.com",
     "jpmaju.com",
     "jpmariobet.com",
     "jpmildcasino.xyz",
@@ -1242707,14 +1242681,12 @@
     "jublaacasino.se",
     "jucatorul.ro",
     "judgecasino.com",
-    "judi-slot--bankjago.shamrockcolony.com",
     "judi-slots.com",
     "judi39.xyz",
     "judi88.asia",
     "judi88.club",
     "judibebas.com",
     "judiblackjack.me",
-    "judiboisson.com",
     "judibola.com",
     "judibola.tech",
     "judibolacasino.com",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T07:51:15.042824Z",
+  "timestamp": "2026-10-25T08:11:04.089003Z",
   "model_type": "sentence-transformers",
   "base_model": "all-MiniLM-L6-v2",
   "training_mode": "calibration-only",

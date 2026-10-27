@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-27T03:36:03.562573Z",
+  "timestamp": "2026-10-27T11:35:51.036322Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 1,
-  "time_seconds": 43.322,
+  "time_seconds": 44.013,
   "domains": [
     "microsoftt-beta.vercel.app"
   ]

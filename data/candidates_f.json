@@ -1,12 +1,11 @@
 {
-  "timestamp": "2026-10-28T03:51:26.229022Z",
+  "timestamp": "2026-10-28T12:05:17.433225Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 43.45,
+  "candidate_count": 1,
+  "time_seconds": 45.141,
   "domains": [
-    "healthlicensefl-beta.vercel.app",
-    "trustwalletindia-beta.vercel.app"
+    "healthlicensefl-beta.vercel.app"
   ]
 }

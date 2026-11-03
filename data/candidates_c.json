@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-03T05:12:45.344360Z",
+  "timestamp": "2026-11-03T13:35:46.629087Z",
   "method": "government_scanning",
   "keyword_count": 4,
   "candidate_count": 0,
-  "time_seconds": 11.082,
+  "time_seconds": 10.448,
   "domains": []
 }

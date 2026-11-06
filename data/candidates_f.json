@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-11-05T19:30:21.382965Z",
+  "timestamp": "2026-11-06T01:24:27.125439Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 42.833,
-  "domains": []
+  "candidate_count": 1,
+  "time_seconds": 49.044,
+  "domains": [
+    "serene-sorbet-174c7e.netlify.app"
+  ]
 }

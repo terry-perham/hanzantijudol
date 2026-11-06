@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-06T10:21:03.225090Z",
-  "candidate_count": 342615,
+  "timestamp": "2026-11-06T18:51:53.649800Z",
+  "candidate_count": 342618,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-06T10:22:10.664415Z"
-    },
-    "curated_gambling_feeds": {
-      "count": 342614,
-      "file": "data/candidates_e.json",
-      "timestamp": "2026-11-06T10:22:13.207787Z"
+      "timestamp": "2026-11-06T18:53:17.941233Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-11-06T10:22:13.208925Z"
+      "timestamp": "2026-11-06T18:53:19.697383Z"
     },
-    "government_scanning": {
-      "count": 0,
-      "file": "data/candidates_c.json",
-      "timestamp": "2026-11-06T10:22:20.650570Z"
+    "curated_gambling_feeds": {
+      "count": 342614,
+      "file": "data/candidates_e.json",
+      "timestamp": "2026-11-06T18:53:20.869843Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-11-06T10:22:21.995669Z"
+      "timestamp": "2026-11-06T18:53:26.080753Z"
+    },
+    "government_scanning": {
+      "count": 0,
+      "file": "data/candidates_c.json",
+      "timestamp": "2026-11-06T18:53:27.389432Z"
     },
     "platform_abuse_sweep": {
-      "count": 1,
+      "count": 4,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-11-06T10:22:55.156982Z"
+      "timestamp": "2026-11-06T18:54:01.291937Z"
     }
   },
   "domain_sources": {
@@ -239395,6 +239395,9 @@
     "addyourlinkfree.net": [
       "curated_gambling_feeds"
     ],
+    "adebenewdocusmpdfmxbnmfeldocaventsenxz.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "adelaide-casino.com": [
       "curated_gambling_feeds"
     ],
@@ -323397,6 +323400,9 @@
     ],
     "brovnie.xyz": [
       "curated_gambling_feeds"
+    ],
+    "browardcourtpdf-viewer.vercel.app": [
+      "platform_abuse_sweep"
     ],
     "browinner-casino-ca.com": [
       "curated_gambling_feeds"
@@ -500745,6 +500751,9 @@
     ],
     "drt.casino": [
       "curated_gambling_feeds"
+    ],
+    "drtpi-dg3-5pkq-ytftt-08-09-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
     ],
     "drueckglueck-casino-de.de": [
       "curated_gambling_feeds"
@@ -880666,9 +880675,6 @@
     "serendibs.com": [
       "curated_gambling_feeds"
     ],
-    "serene-sorbet-174c7e.netlify.app": [
-      "platform_abuse_sweep"
-    ],
     "serenityprime.net": [
       "curated_gambling_feeds"
     ],
@@ -947313,6 +947319,9 @@
     ],
     "twdiabv.xyz": [
       "curated_gambling_feeds"
+    ],
+    "twdz3p-a98c3b-tbjc-m4m08i.pages.dev": [
+      "platform_abuse_sweep"
     ],
     "tweedbetcasino.com": [
       "curated_gambling_feeds"
@@ -1107668,6 +1107677,7 @@
     "addsolg.ca",
     "addsyk.com",
     "addyourlinkfree.net",
+    "adebenewdocusmpdfmxbnmfeldocaventsenxz.pages.dev",
     "adelaide-casino.com",
     "adelbetsa90.com",
     "adelcasino.com",
@@ -1135669,6 +1135679,7 @@
     "brotg88-2022.com",
     "brothersbets.com",
     "brovnie.xyz",
+    "browardcourtpdf-viewer.vercel.app",
     "browinner-casino-ca.com",
     "browinner-casino-ca.net",
     "browinner-casino-es.com",
@@ -1194785,6 +1194796,7 @@
     "drslotcasino.net",
     "drslotcasino.org",
     "drt.casino",
+    "drtpi-dg3-5pkq-ytftt-08-09-2026-aa.pages.dev",
     "drueckglueck-casino-de.de",
     "drueckglueck.com",
     "drueckglueck.de",
@@ -1321425,7 +1321437,6 @@
     "serbupoker.org",
     "sereiabet.com",
     "serendibs.com",
-    "serene-sorbet-174c7e.netlify.app",
     "serenityprime.net",
     "serfbux.com",
     "sergey-mavrodi-mmm.net",
@@ -1343641,6 +1343652,7 @@
     "twcbets.net",
     "twcbets.org",
     "twdiabv.xyz",
+    "twdz3p-a98c3b-tbjc-m4m08i.pages.dev",
     "tweedbetcasino.com",
     "twelveyears.info",
     "twentybet24x.com",

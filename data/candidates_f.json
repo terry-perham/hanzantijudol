@@ -1,14 +1,12 @@
 {
-  "timestamp": "2026-11-06T18:54:01.291274Z",
+  "timestamp": "2026-11-07T00:39:05.152743Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 4,
-  "time_seconds": 43.335,
+  "candidate_count": 2,
+  "time_seconds": 44.083,
   "domains": [
-    "adebenewdocusmpdfmxbnmfeldocaventsenxz.pages.dev",
     "browardcourtpdf-viewer.vercel.app",
-    "drtpi-dg3-5pkq-ytftt-08-09-2026-aa.pages.dev",
-    "twdz3p-a98c3b-tbjc-m4m08i.pages.dev"
+    "qnkxz26wdo-zlkytqwe-7k1j5d-qnk468.pages.dev"
   ]
 }

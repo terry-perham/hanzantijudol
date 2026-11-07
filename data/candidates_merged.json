@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-07T09:35:57.215598Z",
-  "candidate_count": 343095,
+  "timestamp": "2026-11-07T17:23:29.166009Z",
+  "candidate_count": 343092,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-07T09:37:09.675397Z"
-    },
-    "curated_gambling_feeds": {
-      "count": 342614,
-      "file": "data/candidates_e.json",
-      "timestamp": "2026-11-07T09:37:12.327376Z"
+      "timestamp": "2026-11-07T17:24:45.164228Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-11-07T09:37:12.328294Z"
+      "timestamp": "2026-11-07T17:24:47.295597Z"
+    },
+    "curated_gambling_feeds": {
+      "count": 342614,
+      "file": "data/candidates_e.json",
+      "timestamp": "2026-11-07T17:24:48.565588Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-11-07T09:37:20.178039Z"
+      "timestamp": "2026-11-07T17:24:55.361261Z"
     },
     "certificate_transparency": {
-      "count": 483,
+      "count": 482,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-11-07T09:37:56.102733Z"
+      "timestamp": "2026-11-07T17:25:12.322591Z"
     },
     "platform_abuse_sweep": {
-      "count": 2,
+      "count": 0,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-11-07T09:37:57.358617Z"
+      "timestamp": "2026-11-07T17:25:32.748825Z"
     }
   },
   "domain_sources": {
@@ -90561,6 +90561,9 @@
     ],
     "1xmulti88.com": [
       "curated_gambling_feeds"
+    ],
+    "1xn--1688-slot---ed8a1h0a4gzo.planetcataloging.org": [
+      "certificate_transparency"
     ],
     "1xnexus.com": [
       "curated_gambling_feeds"
@@ -323515,9 +323518,6 @@
     "brovnie.xyz": [
       "curated_gambling_feeds"
     ],
-    "browardcourtpdf-viewer.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "browinner-casino-ca.com": [
       "curated_gambling_feeds"
     ],
@@ -464488,9 +464488,6 @@
     "cibillfish.org": [
       "curated_gambling_feeds"
     ],
-    "cibolocreekquiltersguild.com": [
-      "certificate_transparency"
-    ],
     "cici303win.xyz": [
       "curated_gambling_feeds"
     ],
@@ -478080,6 +478077,9 @@
     ],
     "cybetcasino.nl": [
       "curated_gambling_feeds"
+    ],
+    "cybs.xyz": [
+      "certificate_transparency"
     ],
     "cyclegreateryellowstone.com": [
       "curated_gambling_feeds"
@@ -584576,6 +584576,9 @@
     "hqbet6188.com": [
       "curated_gambling_feeds"
     ],
+    "hqcts.cn": [
+      "certificate_transparency"
+    ],
     "hqdljz.com": [
       "curated_gambling_feeds"
     ],
@@ -600883,6 +600886,9 @@
     ],
     "investorscare.com": [
       "curated_gambling_feeds"
+    ],
+    "invintory.com": [
+      "certificate_transparency"
     ],
     "invitecraft.com": [
       "curated_gambling_feeds"
@@ -642623,18 +642629,6 @@
     "jplpkp.com": [
       "curated_gambling_feeds"
     ],
-    "jpm-digsig.cap-rx.com": [
-      "certificate_transparency"
-    ],
-    "jpm-transport.cap-rx.com": [
-      "certificate_transparency"
-    ],
-    "jpm-uat-digsig.cap-rx.com": [
-      "certificate_transparency"
-    ],
-    "jpm-uat-transport.cap-rx.com": [
-      "certificate_transparency"
-    ],
     "jpmaju.com": [
       "curated_gambling_feeds"
     ],
@@ -644770,9 +644764,6 @@
     ],
     "judiblackjack.me": [
       "curated_gambling_feeds"
-    ],
-    "judiboisson.com": [
-      "certificate_transparency"
     ],
     "judibola.com": [
       "curated_gambling_feeds"
@@ -840801,9 +840792,6 @@
     "qng.casino": [
       "curated_gambling_feeds"
     ],
-    "qnkxz26wdo-zlkytqwe-7k1j5d-qnk468.pages.dev": [
-      "platform_abuse_sweep"
-    ],
     "qo1u9s5n.vip": [
       "curated_gambling_feeds"
     ],
@@ -1010232,6 +1010220,9 @@
     "xn--pg-slot--rqzuj6azy.bigbusinessnetworks.com": [
       "certificate_transparency"
     ],
+    "xn--pg-slot--utz3e1fb1kc.mersinbu.com": [
+      "certificate_transparency"
+    ],
     "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com": [
       "certificate_transparency"
     ],
@@ -1059505,6 +1059496,7 @@
     "1xmobile.com",
     "1xmobyjy.top",
     "1xmulti88.com",
+    "1xn--1688-slot---ed8a1h0a4gzo.planetcataloging.org",
     "1xnexus.com",
     "1xoriginal.com",
     "1xoso.com",
@@ -1137156,7 +1137148,6 @@
     "brotg88-2022.com",
     "brothersbets.com",
     "brovnie.xyz",
-    "browardcourtpdf-viewer.vercel.app",
     "browinner-casino-ca.com",
     "browinner-casino-ca.net",
     "browinner-casino-es.com",
@@ -1184147,7 +1184138,6 @@
     "cialisokl.com",
     "cibenew.site",
     "cibillfish.org",
-    "cibolocreekquiltersguild.com",
     "cici303win.xyz",
     "cici4d.top",
     "cicitzeus.site",
@@ -1188678,6 +1188668,7 @@
     "cybet-casino.com.de",
     "cybet.com",
     "cybetcasino.nl",
+    "cybs.xyz",
     "cyclegreateryellowstone.com",
     "cycling-games.com",
     "cyclingbase.com",
@@ -1224176,6 +1224167,7 @@
     "hq88casino.com",
     "hqb.casino",
     "hqbet6188.com",
+    "hqcts.cn",
     "hqdljz.com",
     "hqg01.net",
     "hqg02.net",
@@ -1229612,6 +1229604,7 @@
     "investopedia.today",
     "investors-protect.com",
     "investorscare.com",
+    "invintory.com",
     "invitecraft.com",
     "inw.casino",
     "iny.casino",
@@ -1243525,10 +1243518,6 @@
     "jpkudaemas.store",
     "jplgogoal.com",
     "jplpkp.com",
-    "jpm-digsig.cap-rx.com",
-    "jpm-transport.cap-rx.com",
-    "jpm-uat-digsig.cap-rx.com",
-    "jpm-uat-transport.cap-rx.com",
     "jpmaju.com",
     "jpmariobet.com",
     "jpmildcasino.xyz",
@@ -1244241,7 +1244230,6 @@
     "judi88.club",
     "judibebas.com",
     "judiblackjack.me",
-    "judiboisson.com",
     "judibola.com",
     "judibola.tech",
     "judibolacasino.com",
@@ -1309584,7 +1309572,6 @@
     "qnbfinancial.com",
     "qne.casino",
     "qng.casino",
-    "qnkxz26wdo-zlkytqwe-7k1j5d-qnk468.pages.dev",
     "qo1u9s5n.vip",
     "qo5.casino",
     "qo7.casino",
@@ -1366059,6 +1366046,7 @@
     "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.beyondtheduel.com",
     "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.ukrainian-language.com",
     "xn--pg-slot--rqzuj6azy.bigbusinessnetworks.com",
+    "xn--pg-slot--utz3e1fb1kc.mersinbu.com",
     "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com",
     "xn--pg-slot--zpztg5b8f2b1xtd.captain.growth.angage.com",
     "xn--pg-slot--zpztg5b8f2b1xtd.onstarshipsanddragonwings.com",

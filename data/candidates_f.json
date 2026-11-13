@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-13T13:55:15.362529Z",
+  "timestamp": "2026-11-13T21:13:06.626218Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 5,
-  "time_seconds": 43.342,
+  "time_seconds": 44.447,
   "domains": [
     "bgrfd69qlo-mtvljplx-8i1j5g-bgr327-qnkxz38wdo-hwcps75.pages.dev",
     "bgrfd75xzt-mtvljplx-2i5j9g-bgr318-hwcps64wdo.pages.dev",

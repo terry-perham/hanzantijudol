@@ -1,13 +1,16 @@
 {
-  "timestamp": "2026-11-12T21:46:16.980406Z",
+  "timestamp": "2026-11-13T04:56:24.681545Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 3,
-  "time_seconds": 48.828,
+  "candidate_count": 6,
+  "time_seconds": 43.805,
   "domains": [
-    "bgrfd73nkw-hwcpsqwe-5i7j1d-bgr486-mtvlj82wdo-zlkyt35.pages.dev",
-    "mtvlj63wdo-hwcpsqwe-5k9j2d-mtv817-qnkxz74nwp.pages.dev",
-    "mtvlj76mnp-qnkxzplx-4k8j2d-mtv591-hwcps47wdo-zlkyt93.pages.dev"
+    "apple-twdyihmy.pages.dev",
+    "bgrfd68qlo-mtvljplx-8i1j6g-bgr254-qnkxz93wdo.pages.dev",
+    "bgrfd87vlo-zlkytfyn-2i7j6g-bgr415-mtvlj63wdo.pages.dev",
+    "bgrfd93xlo-vkrpz61nhr-zlkyt84wdo-7j2k5g.pages.dev",
+    "mtvlj79mnp-qnkxzplx-4k8j3d-mtv625-hwcps31wdo.pages.dev",
+    "qnkxz71qhr-hwcps728-4i8j3g-qnk495-mtvlj63wdo-zlkyt92.pages.dev"
   ]
 }

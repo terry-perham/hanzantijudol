@@ -1,15 +1,11 @@
 {
-  "timestamp": "2026-11-13T21:13:06.626218Z",
+  "timestamp": "2026-11-14T04:50:01.050628Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 5,
-  "time_seconds": 44.447,
+  "candidate_count": 1,
+  "time_seconds": 44.025,
   "domains": [
-    "bgrfd69qlo-mtvljplx-8i1j5g-bgr327-qnkxz38wdo-hwcps75.pages.dev",
-    "bgrfd75xzt-mtvljplx-2i5j9g-bgr318-hwcps64wdo.pages.dev",
-    "bgrfd97xzt-mtvljplx-2i5j8g-bgr604-hwcps49wdo-qnkxz73.pages.dev",
-    "qnkxz53vhr-hwcpslpw-8k2j7d-qnk946-mtvlj31wdo.pages.dev",
-    "webproxy.goku8.workers.dev"
+    "mtvlj67wdo-zlkyt94nlo-hwcps82xwp-3j6k5g.pages.dev"
   ]
 }

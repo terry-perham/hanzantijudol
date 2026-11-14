@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-13T21:10:55.699567Z",
-  "candidate_count": 343352,
+  "timestamp": "2026-11-14T04:47:59.634787Z",
+  "candidate_count": 343377,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-13T21:12:22.164808Z"
+      "timestamp": "2026-11-14T04:49:17.005926Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-11-13T21:12:24.539541Z"
+      "timestamp": "2026-11-14T04:49:19.703693Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-11-13T21:12:24.540184Z"
+      "timestamp": "2026-11-14T04:49:19.704340Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-11-13T21:12:31.511916Z"
+      "timestamp": "2026-11-14T04:49:26.381408Z"
     },
     "certificate_transparency": {
-      "count": 752,
+      "count": 781,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-11-13T21:13:01.477428Z"
+      "timestamp": "2026-11-14T04:49:36.586560Z"
     },
     "platform_abuse_sweep": {
-      "count": 5,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-11-13T21:13:06.626893Z"
+      "timestamp": "2026-11-14T04:50:01.051255Z"
     }
   },
   "domain_sources": {
@@ -90570,6 +90570,9 @@
     ],
     "1xmulti88.com": [
       "curated_gambling_feeds"
+    ],
+    "1xn--1688-slot---ed8a1h0a4gzo.planetcataloging.org": [
+      "certificate_transparency"
     ],
     "1xnexus.com": [
       "curated_gambling_feeds"
@@ -252106,6 +252109,9 @@
     "app.c3v9b8.com": [
       "curated_gambling_feeds"
     ],
+    "app.hkmahjong.com.hk": [
+      "certificate_transparency"
+    ],
     "app.lucklake.com": [
       "curated_gambling_feeds"
     ],
@@ -265185,6 +265191,9 @@
     ],
     "babejudislot.xyz": [
       "curated_gambling_feeds"
+    ],
+    "babel-tower--baseline.portal.staging.hermesology.ru": [
+      "certificate_transparency"
     ],
     "babeldoor.com": [
       "curated_gambling_feeds"
@@ -303973,15 +303982,6 @@
     "bgrbets.com": [
       "curated_gambling_feeds"
     ],
-    "bgrfd69qlo-mtvljplx-8i1j5g-bgr327-qnkxz38wdo-hwcps75.pages.dev": [
-      "platform_abuse_sweep"
-    ],
-    "bgrfd75xzt-mtvljplx-2i5j9g-bgr318-hwcps64wdo.pages.dev": [
-      "platform_abuse_sweep"
-    ],
-    "bgrfd97xzt-mtvljplx-2i5j8g-bgr604-hwcps49wdo-qnkxz73.pages.dev": [
-      "platform_abuse_sweep"
-    ],
     "bgt-games.casino": [
       "curated_gambling_feeds"
     ],
@@ -315594,6 +315594,9 @@
     ],
     "bnbtopguna1.xyz": [
       "curated_gambling_feeds"
+    ],
+    "bnbtree.app": [
+      "certificate_transparency"
     ],
     "bnds.info": [
       "curated_gambling_feeds"
@@ -478239,6 +478242,9 @@
     "cybetcasino.nl": [
       "curated_gambling_feeds"
     ],
+    "cybs.xyz": [
+      "certificate_transparency"
+    ],
     "cyclegreateryellowstone.com": [
       "curated_gambling_feeds"
     ],
@@ -528433,6 +528439,9 @@
     "forgeofwealthcasino.com": [
       "curated_gambling_feeds"
     ],
+    "formark.uk": [
+      "certificate_transparency"
+    ],
     "formasi4dl.com": [
       "curated_gambling_feeds"
     ],
@@ -545822,6 +545831,9 @@
     "gcuucx.xyz": [
       "curated_gambling_feeds"
     ],
+    "gcv.uk": [
+      "certificate_transparency"
+    ],
     "gd1167.com": [
       "curated_gambling_feeds"
     ],
@@ -555020,6 +555032,9 @@
     "gitaaman.com": [
       "curated_gambling_feeds"
     ],
+    "gitacinta.com": [
+      "certificate_transparency"
+    ],
     "gitarpoker.app": [
       "curated_gambling_feeds"
     ],
@@ -562306,6 +562321,9 @@
     ],
     "goodmanscasino.de": [
       "curated_gambling_feeds"
+    ],
+    "goodmedicinebuckinghorse.com": [
+      "certificate_transparency"
     ],
     "goodmpo08.com": [
       "curated_gambling_feeds"
@@ -584828,6 +584846,9 @@
     "hqbet6188.com": [
       "curated_gambling_feeds"
     ],
+    "hqcts.cn": [
+      "certificate_transparency"
+    ],
     "hqdljz.com": [
       "curated_gambling_feeds"
     ],
@@ -601147,6 +601168,9 @@
     ],
     "investorscare.com": [
       "curated_gambling_feeds"
+    ],
+    "invintory.com": [
+      "certificate_transparency"
     ],
     "invitecraft.com": [
       "curated_gambling_feeds"
@@ -664373,6 +664397,9 @@
     "korwin576.kr": [
       "curated_gambling_feeds"
     ],
+    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app": [
+      "certificate_transparency"
+    ],
     "kosicecasino.sk": [
       "curated_gambling_feeds"
     ],
@@ -707508,6 +707535,15 @@
     "mahaslotvip.biz": [
       "curated_gambling_feeds"
     ],
+    "mahjong--ways.noma.com": [
+      "certificate_transparency"
+    ],
+    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de": [
+      "certificate_transparency"
+    ],
+    "mahjong-download-windows-10--167758106.helpclean.de": [
+      "certificate_transparency"
+    ],
     "mahjong-slot---asia0.especiallywicker.com": [
       "certificate_transparency"
     ],
@@ -745842,6 +745878,9 @@
     "mttpokerbot.com": [
       "curated_gambling_feeds"
     ],
+    "mtvlj67wdo-zlkyt94nlo-hwcps82xwp-3j6k5g.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "mtybets.pro": [
       "curated_gambling_feeds"
     ],
@@ -780318,6 +780357,9 @@
     ],
     "oneclick7.com": [
       "curated_gambling_feeds"
+    ],
+    "oneclickmahjong.com": [
+      "certificate_transparency"
     ],
     "oneclubplatinum.com": [
       "curated_gambling_feeds"
@@ -841160,9 +841202,6 @@
     "qng.casino": [
       "curated_gambling_feeds"
     ],
-    "qnkxz53vhr-hwcpslpw-8k2j7d-qnk946-mtvlj31wdo.pages.dev": [
-      "platform_abuse_sweep"
-    ],
     "qo1u9s5n.vip": [
       "curated_gambling_feeds"
     ],
@@ -887762,6 +887801,9 @@
     "sixslots.com": [
       "curated_gambling_feeds"
     ],
+    "sixties.com.au": [
+      "certificate_transparency"
+    ],
     "sixty6-casino.net": [
       "curated_gambling_feeds"
     ],
@@ -923053,6 +923095,9 @@
     "sweetcasinospin.com": [
       "curated_gambling_feeds"
     ],
+    "sweetearthorganicfarm.com": [
+      "certificate_transparency"
+    ],
     "sweetreels.casino": [
       "curated_gambling_feeds"
     ],
@@ -933718,6 +933763,9 @@
     ],
     "thinkmpoid.com": [
       "curated_gambling_feeds"
+    ],
+    "third-mahjong--third-mahjong.asia-east1.hosted.app": [
+      "certificate_transparency"
     ],
     "this-is-vegas-casino-au.com": [
       "curated_gambling_feeds"
@@ -945089,6 +945137,9 @@
     "trenditlive.com": [
       "curated_gambling_feeds"
     ],
+    "trendncom.com": [
+      "certificate_transparency"
+    ],
     "trendplay.site": [
       "curated_gambling_feeds"
     ],
@@ -946186,6 +946237,9 @@
     ],
     "tructiepwc2022.com": [
       "curated_gambling_feeds"
+    ],
+    "trudelta.com": [
+      "certificate_transparency"
     ],
     "true-blue-bets-au.com": [
       "curated_gambling_feeds"
@@ -956590,6 +956644,9 @@
     ],
     "united-casino.com": [
       "curated_gambling_feeds"
+    ],
+    "united-support-site.com": [
+      "certificate_transparency"
     ],
     "unitedbypoker.com": [
       "curated_gambling_feeds"
@@ -990221,9 +990278,6 @@
     "webpokerschweiz.ch": [
       "curated_gambling_feeds"
     ],
-    "webproxy.goku8.workers.dev": [
-      "platform_abuse_sweep"
-    ],
     "webpushstat-sgp.engagelab.com": [
       "curated_gambling_feeds"
     ],
@@ -1010552,6 +1010606,9 @@
     "xn---200--pg-slot--20--100-f68d9rta2d0b4e9i7k3ehs21g.crypto-history.pp.ua": [
       "certificate_transparency"
     ],
+    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org": [
+      "certificate_transparency"
+    ],
     "xn---pg-slot--fn2aaj8c7jkt8df4kpa1k2ivf7c.chirkofff.com": [
       "certificate_transparency"
     ],
@@ -1010870,6 +1010927,21 @@
     "xn--lucky-barr-slot--c91codspssc02a8g.garngalleriet.com": [
       "certificate_transparency"
     ],
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com": [
+      "certificate_transparency"
+    ],
+    "xn--mahjong-ways-3--fh9bvoqf1gnf8pzc.3n-shop.com": [
+      "certificate_transparency"
+    ],
     "xn--mariobetgncelgiris-u6b.com": [
       "curated_gambling_feeds"
     ],
@@ -1011009,6 +1011081,9 @@
       "certificate_transparency"
     ],
     "xn--pg-slot--rqzuj6azy.bigbusinessnetworks.com": [
+      "certificate_transparency"
+    ],
+    "xn--pg-slot--utz3e1fb1kc.mersinbu.com": [
       "certificate_transparency"
     ],
     "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com": [
@@ -1060294,6 +1060369,7 @@
     "1xmobile.com",
     "1xmobyjy.top",
     "1xmulti88.com",
+    "1xn--1688-slot---ed8a1h0a4gzo.planetcataloging.org",
     "1xnexus.com",
     "1xoriginal.com",
     "1xoso.com",
@@ -1114139,6 +1114215,7 @@
     "app-vaycasino.com",
     "app-winsharkcasino.com",
     "app.c3v9b8.com",
+    "app.hkmahjong.com.hk",
     "app.lucklake.com",
     "app.luckycanoe.com",
     "app.partouche.bar",
@@ -1118499,6 +1118576,7 @@
     "babehpoker.net",
     "babehwin.org",
     "babejudislot.xyz",
+    "babel-tower--baseline.portal.staging.hermesology.ru",
     "babeldoor.com",
     "babeltogel.com",
     "babeltoto.vip",
@@ -1131427,9 +1131505,6 @@
     "bgqbetsy.world",
     "bgrandx.com",
     "bgrbets.com",
-    "bgrfd69qlo-mtvljplx-8i1j5g-bgr327-qnkxz38wdo-hwcps75.pages.dev",
-    "bgrfd75xzt-mtvljplx-2i5j9g-bgr318-hwcps64wdo.pages.dev",
-    "bgrfd97xzt-mtvljplx-2i5j8g-bgr604-hwcps49wdo-qnkxz73.pages.dev",
     "bgt-games.casino",
     "bgtgames.com",
     "bgtopslots.com",
@@ -1135301,6 +1135376,7 @@
     "bnbpacinko88.xyz",
     "bnbsultancuana1.xyz",
     "bnbtopguna1.xyz",
+    "bnbtree.app",
     "bnds.info",
     "bng.games",
     "bng55.live",
@@ -1189515,6 +1189591,7 @@
     "cybet-casino.com.de",
     "cybet.com",
     "cybetcasino.nl",
+    "cybs.xyz",
     "cyclegreateryellowstone.com",
     "cycling-games.com",
     "cyclingbase.com",
@@ -1206245,6 +1206322,7 @@
     "forfunfreeslots.lol",
     "forge.poker",
     "forgeofwealthcasino.com",
+    "formark.uk",
     "formasi4dl.com",
     "foro.casino",
     "forrapix.bet",
@@ -1212041,6 +1212119,7 @@
     "gcrlego99.com",
     "gcslotsport.com",
     "gcuucx.xyz",
+    "gcv.uk",
     "gd1167.com",
     "gd1189.com",
     "gd130.com",
@@ -1215107,6 +1215186,7 @@
     "gisc.gr",
     "git-grandlisboacasino.com",
     "gitaaman.com",
+    "gitacinta.com",
     "gitarpoker.app",
     "gitarpoker.org",
     "github-grandlisboacasino.com",
@@ -1217536,6 +1217616,7 @@
     "goodmancasinoau.com",
     "goodmancasinobonus.com",
     "goodmanscasino.de",
+    "goodmedicinebuckinghorse.com",
     "goodmpo08.com",
     "goodnaturepetstore.com",
     "goodonlinecasinos.lol",
@@ -1225043,6 +1225124,7 @@
     "hq88casino.com",
     "hqb.casino",
     "hqbet6188.com",
+    "hqcts.cn",
     "hqdljz.com",
     "hqg01.net",
     "hqg02.net",
@@ -1230483,6 +1230565,7 @@
     "investopedia.today",
     "investors-protect.com",
     "investorscare.com",
+    "invintory.com",
     "invitecraft.com",
     "inw.casino",
     "iny.casino",
@@ -1251558,6 +1251641,7 @@
     "korwin559.vip",
     "korwin568.com",
     "korwin576.kr",
+    "kosen-mahjong-web--kosen-mahjong.asia-east1.hosted.app",
     "kosicecasino.sk",
     "kosmolot.ua",
     "kosmolotonline.com",
@@ -1265936,6 +1266020,9 @@
     "maharajcasino.games",
     "mahasepin.xyz",
     "mahaslotvip.biz",
+    "mahjong--ways.noma.com",
+    "mahjong-brettspiel-alleine-spielen--236312725.helpclean.de",
+    "mahjong-download-windows-10--167758106.helpclean.de",
     "mahjong-slot---asia0.especiallywicker.com",
     "mahjong118.pro",
     "mahjong123.shop",
@@ -1278714,6 +1278801,7 @@
     "mtrep.org",
     "mtshuttle.com",
     "mttpokerbot.com",
+    "mtvlj67wdo-zlkyt94nlo-hwcps82xwp-3j6k5g.pages.dev",
     "mtybets.pro",
     "mtybetsz.online",
     "mtybetsz.site",
@@ -1290206,6 +1290294,7 @@
     "oneclick159.com",
     "oneclick24.io",
     "oneclick7.com",
+    "oneclickmahjong.com",
     "oneclubplatinum.com",
     "onedollardepositcasino.com",
     "onedun-casino.app",
@@ -1310486,7 +1310575,6 @@
     "qnbfinancial.com",
     "qne.casino",
     "qng.casino",
-    "qnkxz53vhr-hwcpslpw-8k2j7d-qnk946-mtvlj31wdo.pages.dev",
     "qo1u9s5n.vip",
     "qo5.casino",
     "qo7.casino",
@@ -1326020,6 +1326108,7 @@
     "sixsgame.com",
     "sixsigmastats.com",
     "sixslots.com",
+    "sixties.com.au",
     "sixty6-casino.net",
     "sixty6.com",
     "sizoom555.xyz",
@@ -1337783,6 +1337872,7 @@
     "sweetbonanza2500.casino",
     "sweetbonanzaslots.click",
     "sweetcasinospin.com",
+    "sweetearthorganicfarm.com",
     "sweetreels.casino",
     "sweetrushbonanzacasino.dk",
     "sweetrushcasino.com",
@@ -1341338,6 +1341428,7 @@
     "thinkinbets.dev",
     "thinkingmeat.com",
     "thinkmpoid.com",
+    "third-mahjong--third-mahjong.asia-east1.hosted.app",
     "this-is-vegas-casino-au.com",
     "this-is-vegas-casino-official-au.com",
     "this-is-vegas-casino-online-au.com",
@@ -1345128,6 +1345219,7 @@
     "trend-yolslots.site",
     "trendbet.com",
     "trenditlive.com",
+    "trendncom.com",
     "trendplay.site",
     "trendpoker.net",
     "trendsbedding.com",
@@ -1345494,6 +1345586,7 @@
     "tructiepdaga.info",
     "tructiepdota2.com",
     "tructiepwc2022.com",
+    "trudelta.com",
     "true-blue-bets-au.com",
     "true-blue-bets-casino.com",
     "true-blue-bets.com",
@@ -1348962,6 +1349055,7 @@
     "united-casino-official-au.com",
     "united-casino-online-au.com",
     "united-casino.com",
+    "united-support-site.com",
     "unitedbypoker.com",
     "unitedcasino-au.com",
     "unitedcasino.org",
@@ -1360172,7 +1360266,6 @@
     "webpialasports.xyz",
     "webplaza.biz",
     "webpokerschweiz.ch",
-    "webproxy.goku8.workers.dev",
     "webpushstat-sgp.engagelab.com",
     "webq.co.in",
     "webrokokbet.com",
@@ -1366947,6 +1367040,7 @@
     "xmyea8.com",
     "xmz.casino",
     "xn---200--pg-slot--20--100-f68d9rta2d0b4e9i7k3ehs21g.crypto-history.pp.ua",
+    "xn---mahjong-3--dc8ab4pvb1e8b6xkbyftb.archive-iussp.org",
     "xn---pg-slot--fn2aaj8c7jkt8df4kpa1k2ivf7c.chirkofff.com",
     "xn---pg-slot--uo2a9c4bo0vqf7e.myhotmaxima.com",
     "xn---pg-slot-auto---2f9bmduob0tsjc8gc26a.troratad.net",
@@ -1367053,6 +1367147,11 @@
     "xn--lava-slot--3l5aa3k2d9l0c.commonnewsupdate.com",
     "xn--lskajobbet-p5a.se",
     "xn--lucky-barr-slot--c91codspssc02a8g.garngalleriet.com",
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.motoclubalmeria.com",
+    "xn--mahjong-ways--nt3b7jqa4otcd15aya8u.shadesofjacen.com",
+    "xn--mahjong-ways-2--si9b2i0b0b8rb8onrng.intro2spanish.com",
+    "xn--mahjong-ways-2--si9b2i0b3ruf.sweetearthorganicfarm.com",
+    "xn--mahjong-ways-3--fh9bvoqf1gnf8pzc.3n-shop.com",
     "xn--mariobetgncelgiris-u6b.com",
     "xn--mariobetgncelim-7vb.vip",
     "xn--matbetgris-f8a.xyz",
@@ -1367100,6 +1367199,7 @@
     "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.beyondtheduel.com",
     "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.ukrainian-language.com",
     "xn--pg-slot--rqzuj6azy.bigbusinessnetworks.com",
+    "xn--pg-slot--utz3e1fb1kc.mersinbu.com",
     "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com",
     "xn--pg-slot--zpztg5b8f2b1xtd.captain.growth.angage.com",
     "xn--pg-slot--zpztg5b8f2b1xtd.onstarshipsanddragonwings.com",

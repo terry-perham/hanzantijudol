@@ -1,11 +1,13 @@
 {
-  "timestamp": "2026-11-14T04:50:01.050628Z",
+  "timestamp": "2026-11-14T12:58:20.517393Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 44.025,
+  "candidate_count": 3,
+  "time_seconds": 43.207,
   "domains": [
-    "mtvlj67wdo-zlkyt94nlo-hwcps82xwp-3j6k5g.pages.dev"
+    "amazon-slot-de-com-92317-9a0.pages.dev",
+    "hwcps83wdo-mtvlj72nhr-zlkyt95xlo-4j6k8g.pages.dev",
+    "mtvlj95nhr-vkrpz82wdo-zlkyt47-hwcps631.pages.dev"
   ]
 }

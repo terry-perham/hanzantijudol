@@ -1,13 +1,9 @@
 {
-  "timestamp": "2026-11-14T19:44:24.446755Z",
+  "timestamp": "2026-11-15T00:45:07.952032Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 3,
-  "time_seconds": 43.224,
-  "domains": [
-    "amazon-slot-de-com-92317-9a0.pages.dev",
-    "hwcps83wdo-mtvlj72nhr-zlkyt95xlo-4j6k8g.pages.dev",
-    "mtvlj95nhr-vkrpz82wdo-zlkyt47-hwcps631.pages.dev"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 47.458,
+  "domains": []
 }

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-16T21:37:53.294028Z",
+  "timestamp": "2026-11-17T06:21:57.029732Z",
   "candidate_count": 342615,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-16T21:39:23.304970Z"
-    },
-    "curated_gambling_feeds": {
-      "count": 342614,
-      "file": "data/candidates_e.json",
-      "timestamp": "2026-11-16T21:39:26.063113Z"
+      "timestamp": "2026-11-17T06:23:11.249918Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-11-16T21:39:26.063942Z"
+      "timestamp": "2026-11-17T06:23:13.083675Z"
+    },
+    "curated_gambling_feeds": {
+      "count": 342614,
+      "file": "data/candidates_e.json",
+      "timestamp": "2026-11-17T06:23:13.928781Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-11-16T21:39:32.761475Z"
+      "timestamp": "2026-11-17T06:23:20.326973Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-11-16T21:40:01.371101Z"
+      "timestamp": "2026-11-17T06:23:48.924278Z"
     },
     "platform_abuse_sweep": {
       "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-11-16T21:40:08.784990Z"
+      "timestamp": "2026-11-17T06:23:54.366388Z"
     }
   },
   "domain_sources": {
@@ -327720,6 +327720,9 @@
     ],
     "bvn7.com": [
       "curated_gambling_feeds"
+    ],
+    "bvs7q-8mx-12um-0thwd-18-09-2026-hh.pages.dev": [
+      "platform_abuse_sweep"
     ],
     "bvw.casino": [
       "curated_gambling_feeds"
@@ -788896,9 +788899,6 @@
     "p6062.com": [
       "curated_gambling_feeds"
     ],
-    "p63-94sl-f9n-wdvx-5jf-3l44.pages.dev": [
-      "platform_abuse_sweep"
-    ],
     "p6338.com": [
       "curated_gambling_feeds"
     ],
@@ -1137110,6 +1137110,7 @@
     "bvkwm.com",
     "bvm7lx.com",
     "bvn7.com",
+    "bvs7q-8mx-12um-0thwd-18-09-2026-hh.pages.dev",
     "bvw.casino",
     "bw-bet.com",
     "bw-prm.com",
@@ -1290835,7 +1290836,6 @@
     "p5y8q.com",
     "p6.com",
     "p6062.com",
-    "p63-94sl-f9n-wdvx-5jf-3l44.pages.dev",
     "p6338.com",
     "p63555.com",
     "p6439.com",

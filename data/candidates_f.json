@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-11-17T18:09:29.334188Z",
+  "timestamp": "2026-11-18T02:46:37.518761Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 43.53,
-  "domains": [
-    "dtq2k-dfs-zwdw-bwjh3-19-09-2026-hh.pages.dev",
-    "wd5bj-6ee-kc8v-3dntc-19-09-2026-hh.pages.dev"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 43.413,
+  "domains": []
 }

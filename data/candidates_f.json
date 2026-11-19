@@ -1,11 +1,13 @@
 {
-  "timestamp": "2026-11-18T20:00:32.153608Z",
+  "timestamp": "2026-11-19T02:18:17.534789Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 52.138,
+  "candidate_count": 3,
+  "time_seconds": 44.832,
   "domains": [
-    "webmanjudikaprojek.netlify.app"
+    "browardcountyccourtpdf-viewer.vercel.app",
+    "browardcountyycourtpdf-viewer.vercel.app",
+    "browarddcounttycourtpdf-viewer.vercel.app"
   ]
 }

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-19T11:05:32.301869Z",
-  "candidate_count": 342906,
+  "timestamp": "2026-11-19T19:55:47.014882Z",
+  "candidate_count": 342911,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-19T11:06:51.261585Z"
-    },
-    "osint_community": {
-      "count": 0,
-      "file": "data/candidates_d.json",
-      "timestamp": "2026-11-19T11:06:52.898470Z"
+      "timestamp": "2026-11-19T19:57:06.956795Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-11-19T11:06:53.885718Z"
+      "timestamp": "2026-11-19T19:57:09.512240Z"
+    },
+    "osint_community": {
+      "count": 0,
+      "file": "data/candidates_d.json",
+      "timestamp": "2026-11-19T19:57:10.038507Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-11-19T11:07:00.391722Z"
+      "timestamp": "2026-11-19T19:57:15.966148Z"
     },
     "certificate_transparency": {
-      "count": 304,
+      "count": 311,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-11-19T11:07:26.149749Z"
+      "timestamp": "2026-11-19T19:57:25.428819Z"
     },
     "platform_abuse_sweep": {
-      "count": 3,
+      "count": 1,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-11-19T11:07:35.117908Z"
+      "timestamp": "2026-11-19T19:57:50.988006Z"
     }
   },
   "domain_sources": {
@@ -323507,13 +323507,7 @@
     "brovnie.xyz": [
       "curated_gambling_feeds"
     ],
-    "browardcountyccourtpdf-viewer.vercel.app": [
-      "platform_abuse_sweep"
-    ],
-    "browardcountyycourtpdf-viewer.vercel.app": [
-      "platform_abuse_sweep"
-    ],
-    "browarddcounttycourtpdf-viewer.vercel.app": [
+    "browacountycourtpdf-viewer.vercel.app": [
       "platform_abuse_sweep"
     ],
     "browinner-casino-ca.com": [
@@ -464479,6 +464473,9 @@
     ],
     "cibillfish.org": [
       "curated_gambling_feeds"
+    ],
+    "cibolocreekquiltersguild.com": [
+      "certificate_transparency"
     ],
     "cici303win.xyz": [
       "curated_gambling_feeds"
@@ -642628,6 +642625,18 @@
     "jplpkp.com": [
       "curated_gambling_feeds"
     ],
+    "jpm-digsig.cap-rx.com": [
+      "certificate_transparency"
+    ],
+    "jpm-transport.cap-rx.com": [
+      "certificate_transparency"
+    ],
+    "jpm-uat-digsig.cap-rx.com": [
+      "certificate_transparency"
+    ],
+    "jpm-uat-transport.cap-rx.com": [
+      "certificate_transparency"
+    ],
     "jpmaju.com": [
       "curated_gambling_feeds"
     ],
@@ -644743,6 +644752,9 @@
     "judgecasino.com": [
       "curated_gambling_feeds"
     ],
+    "judi-slot--bankjago.shamrockcolony.com": [
+      "certificate_transparency"
+    ],
     "judi-slots.com": [
       "curated_gambling_feeds"
     ],
@@ -644760,6 +644772,9 @@
     ],
     "judiblackjack.me": [
       "curated_gambling_feeds"
+    ],
+    "judiboisson.com": [
+      "certificate_transparency"
     ],
     "judibola.com": [
       "curated_gambling_feeds"
@@ -1136592,9 +1136607,7 @@
     "brotg88-2022.com",
     "brothersbets.com",
     "brovnie.xyz",
-    "browardcountyccourtpdf-viewer.vercel.app",
-    "browardcountyycourtpdf-viewer.vercel.app",
-    "browarddcounttycourtpdf-viewer.vercel.app",
+    "browacountycourtpdf-viewer.vercel.app",
     "browinner-casino-ca.com",
     "browinner-casino-ca.net",
     "browinner-casino-es.com",
@@ -1183583,6 +1183596,7 @@
     "cialisokl.com",
     "cibenew.site",
     "cibillfish.org",
+    "cibolocreekquiltersguild.com",
     "cici303win.xyz",
     "cici4d.top",
     "cicitzeus.site",
@@ -1242964,6 +1242978,10 @@
     "jpkudaemas.store",
     "jplgogoal.com",
     "jplpkp.com",
+    "jpm-digsig.cap-rx.com",
+    "jpm-transport.cap-rx.com",
+    "jpm-uat-digsig.cap-rx.com",
+    "jpm-uat-transport.cap-rx.com",
     "jpmaju.com",
     "jpmariobet.com",
     "jpmildcasino.xyz",
@@ -1243669,12 +1243687,14 @@
     "jublaacasino.se",
     "jucatorul.ro",
     "judgecasino.com",
+    "judi-slot--bankjago.shamrockcolony.com",
     "judi-slots.com",
     "judi39.xyz",
     "judi88.asia",
     "judi88.club",
     "judibebas.com",
     "judiblackjack.me",
+    "judiboisson.com",
     "judibola.com",
     "judibola.tech",
     "judibolacasino.com",

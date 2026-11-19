@@ -1,13 +1,11 @@
 {
-  "timestamp": "2026-11-19T11:07:35.117282Z",
+  "timestamp": "2026-11-19T19:57:50.987443Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 3,
-  "time_seconds": 43.849,
+  "candidate_count": 1,
+  "time_seconds": 44.025,
   "domains": [
-    "browardcountyccourtpdf-viewer.vercel.app",
-    "browardcountyycourtpdf-viewer.vercel.app",
-    "browarddcounttycourtpdf-viewer.vercel.app"
+    "browacountycourtpdf-viewer.vercel.app"
   ]
 }

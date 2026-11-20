@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-20T02:01:36.708262Z",
-  "candidate_count": 343089,
+  "timestamp": "2026-11-20T10:53:49.051517Z",
+  "candidate_count": 343103,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-20T02:02:44.563545Z"
+      "timestamp": "2026-11-20T10:55:08.636985Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-11-20T02:02:47.267879Z"
+      "timestamp": "2026-11-20T10:55:10.925474Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-11-20T02:02:47.611436Z"
+      "timestamp": "2026-11-20T10:55:11.218690Z"
+    },
+    "certificate_transparency": {
+      "count": 491,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-11-20T10:55:56.320803Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-11-20T02:02:54.518368Z"
-    },
-    "certificate_transparency": {
-      "count": 477,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-11-20T02:03:24.047708Z"
+      "timestamp": "2026-11-20T10:56:43.936527Z"
     },
     "platform_abuse_sweep": {
       "count": 2,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-11-20T02:03:31.838429Z"
+      "timestamp": "2026-11-20T11:03:57.299065Z"
     }
   },
   "domain_sources": {
@@ -90561,6 +90561,9 @@
     ],
     "1xmulti88.com": [
       "curated_gambling_feeds"
+    ],
+    "1xn--1688-slot---ed8a1h0a4gzo.planetcataloging.org": [
+      "certificate_transparency"
     ],
     "1xnexus.com": [
       "curated_gambling_feeds"
@@ -248363,6 +248366,9 @@
       "curated_gambling_feeds"
     ],
     "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev": [
+      "certificate_transparency"
+    ],
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev": [
       "certificate_transparency"
     ],
     "amp-jojobet-bahis.com": [
@@ -464488,6 +464494,9 @@
     "cibillfish.org": [
       "curated_gambling_feeds"
     ],
+    "cibolocreekquiltersguild.com": [
+      "certificate_transparency"
+    ],
     "cici303win.xyz": [
       "curated_gambling_feeds"
     ],
@@ -478077,6 +478086,9 @@
     ],
     "cybetcasino.nl": [
       "curated_gambling_feeds"
+    ],
+    "cybs.xyz": [
+      "certificate_transparency"
     ],
     "cyclegreateryellowstone.com": [
       "curated_gambling_feeds"
@@ -539120,6 +539132,12 @@
     "gacokbapaktogel.site": [
       "curated_gambling_feeds"
     ],
+    "gacor--77.netlify.lol": [
+      "certificate_transparency"
+    ],
+    "gacor--banget.pages.dev": [
+      "certificate_transparency"
+    ],
     "gacor.oborgamingplus.com": [
       "curated_gambling_feeds"
     ],
@@ -584573,6 +584591,9 @@
     "hqbet6188.com": [
       "curated_gambling_feeds"
     ],
+    "hqcts.cn": [
+      "certificate_transparency"
+    ],
     "hqdljz.com": [
       "curated_gambling_feeds"
     ],
@@ -600880,6 +600901,9 @@
     ],
     "investorscare.com": [
       "curated_gambling_feeds"
+    ],
+    "invintory.com": [
+      "certificate_transparency"
     ],
     "invitecraft.com": [
       "curated_gambling_feeds"
@@ -642620,6 +642644,18 @@
     "jplpkp.com": [
       "curated_gambling_feeds"
     ],
+    "jpm-digsig.cap-rx.com": [
+      "certificate_transparency"
+    ],
+    "jpm-transport.cap-rx.com": [
+      "certificate_transparency"
+    ],
+    "jpm-uat-digsig.cap-rx.com": [
+      "certificate_transparency"
+    ],
+    "jpm-uat-transport.cap-rx.com": [
+      "certificate_transparency"
+    ],
     "jpmaju.com": [
       "curated_gambling_feeds"
     ],
@@ -644755,6 +644791,9 @@
     ],
     "judiblackjack.me": [
       "curated_gambling_feeds"
+    ],
+    "judiboisson.com": [
+      "certificate_transparency"
     ],
     "judibola.com": [
       "curated_gambling_feeds"
@@ -1010214,6 +1010253,9 @@
     "xn--pg-slot--rqzuj6azy.bigbusinessnetworks.com": [
       "certificate_transparency"
     ],
+    "xn--pg-slot--utz3e1fb1kc.mersinbu.com": [
+      "certificate_transparency"
+    ],
     "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com": [
       "certificate_transparency"
     ],
@@ -1059487,6 +1059529,7 @@
     "1xmobile.com",
     "1xmobyjy.top",
     "1xmulti88.com",
+    "1xn--1688-slot---ed8a1h0a4gzo.planetcataloging.org",
     "1xnexus.com",
     "1xoriginal.com",
     "1xoso.com",
@@ -1112088,6 +1112131,7 @@
     "amp-casinovhod.ru",
     "amp-casinozerkalo.ru",
     "amp-dewadora-situs-toto-slot-gacor--jh14.pages.dev",
+    "amp-gacor-pasti-bolawan-ojs-nhjsciences--v1.pages.dev",
     "amp-jojobet-bahis.com",
     "amp-kuy4d.xyz",
     "amp-onehoki.xyz",
@@ -1184129,6 +1184173,7 @@
     "cialisokl.com",
     "cibenew.site",
     "cibillfish.org",
+    "cibolocreekquiltersguild.com",
     "cici303win.xyz",
     "cici4d.top",
     "cicitzeus.site",
@@ -1188659,6 +1188704,7 @@
     "cybet-casino.com.de",
     "cybet.com",
     "cybetcasino.nl",
+    "cybs.xyz",
     "cyclegreateryellowstone.com",
     "cycling-games.com",
     "cyclingbase.com",
@@ -1209006,6 +1209052,8 @@
     "gacoanslot.biz",
     "gacoanslot.xyz",
     "gacokbapaktogel.site",
+    "gacor--77.netlify.lol",
+    "gacor--banget.pages.dev",
     "gacor.oborgamingplus.com",
     "gacor.pro",
     "gacor123.vip",
@@ -1224157,6 +1224205,7 @@
     "hq88casino.com",
     "hqb.casino",
     "hqbet6188.com",
+    "hqcts.cn",
     "hqdljz.com",
     "hqg01.net",
     "hqg02.net",
@@ -1229593,6 +1229642,7 @@
     "investopedia.today",
     "investors-protect.com",
     "investorscare.com",
+    "invintory.com",
     "invitecraft.com",
     "inw.casino",
     "iny.casino",
@@ -1243506,6 +1243556,10 @@
     "jpkudaemas.store",
     "jplgogoal.com",
     "jplpkp.com",
+    "jpm-digsig.cap-rx.com",
+    "jpm-transport.cap-rx.com",
+    "jpm-uat-digsig.cap-rx.com",
+    "jpm-uat-transport.cap-rx.com",
     "jpmaju.com",
     "jpmariobet.com",
     "jpmildcasino.xyz",
@@ -1244218,6 +1244272,7 @@
     "judi88.club",
     "judibebas.com",
     "judiblackjack.me",
+    "judiboisson.com",
     "judibola.com",
     "judibola.tech",
     "judibolacasino.com",
@@ -1366035,6 +1366090,7 @@
     "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.beyondtheduel.com",
     "xn--pg-slot--poz4irb3fa9tra7b5rrcgr1g.ukrainian-language.com",
     "xn--pg-slot--rqzuj6azy.bigbusinessnetworks.com",
+    "xn--pg-slot--utz3e1fb1kc.mersinbu.com",
     "xn--pg-slot--utz3h6a4gc53a5b.cometapress.com",
     "xn--pg-slot--zpztg5b8f2b1xtd.captain.growth.angage.com",
     "xn--pg-slot--zpztg5b8f2b1xtd.onstarshipsanddragonwings.com",

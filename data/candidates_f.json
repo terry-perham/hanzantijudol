@@ -1,12 +1,9 @@
 {
-  "timestamp": "2026-11-20T11:03:57.298515Z",
+  "timestamp": "2026-11-20T19:37:42.526706Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 528.656,
-  "domains": [
-    "alfabet88-xyz.pages.dev",
-    "ravkelo-fazkelo-pixa28ct11-vemrako-dagts-iuabf-adwd.pages.dev"
-  ]
+  "candidate_count": 0,
+  "time_seconds": 45.099,
+  "domains": []
 }

@@ -1,9 +1,14 @@
 {
-  "timestamp": "2026-11-20T19:37:42.526706Z",
+  "timestamp": "2026-11-21T02:01:05.845328Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 45.099,
-  "domains": []
+  "candidate_count": 4,
+  "time_seconds": 45.715,
+  "domains": [
+    "browardcourtpdf-viewer.vercel.app",
+    "dc-qiorzjvn.confirmationurmqxvfccsndyakmcujdjcakzhwdbrmzenexuugyrrdbcsfpzku.workers.dev",
+    "dc-qp1xg3c1.confirmationurmqxvfccsndyakmcujdjcakzhwdbrmzenexuugyrrdbcsfpzku.workers.dev",
+    "dc-s0mg6vah.confirmationurmqxvfccsndyakmcujdjcakzhwdbrmzenexuugyrrdbcsfpzku.workers.dev"
+  ]
 }

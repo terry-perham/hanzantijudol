@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-22T10:41:50.676971Z",
-  "candidate_count": 342615,
+  "timestamp": "2026-11-22T19:00:34.655746Z",
+  "candidate_count": 342618,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-22T10:43:01.850216Z"
+      "timestamp": "2026-11-22T19:01:53.545581Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-11-22T10:43:04.310330Z"
+      "timestamp": "2026-11-22T19:01:57.385898Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-11-22T10:43:05.010325Z"
+      "timestamp": "2026-11-22T19:01:57.954506Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-11-22T10:43:09.816996Z"
+      "timestamp": "2026-11-22T19:02:02.301041Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-11-22T10:43:10.725718Z"
+      "timestamp": "2026-11-22T19:02:03.757062Z"
     },
     "platform_abuse_sweep": {
-      "count": 1,
+      "count": 4,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-11-22T10:43:45.436719Z"
+      "timestamp": "2026-11-22T19:02:43.719823Z"
     }
   },
   "domain_sources": {
@@ -573256,9 +573256,6 @@
     "healthhutboutique.com": [
       "curated_gambling_feeds"
     ],
-    "healthlicensefl-beta.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "healthlottery.co.uk": [
       "curated_gambling_feeds"
     ],
@@ -788629,6 +788626,9 @@
     "p3302.com": [
       "curated_gambling_feeds"
     ],
+    "p33v9-wwd-1892-i35kz-20-10-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "p34034.com": [
       "curated_gambling_feeds"
     ],
@@ -902050,6 +902050,9 @@
     "sp1-naro.com": [
       "curated_gambling_feeds"
     ],
+    "sp28ct11-kordavi-biz-femluko-hasde-jfgka-wdsa.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "sp4.casino": [
       "curated_gambling_feeds"
     ],
@@ -1001539,6 +1001542,9 @@
     "wmy.casino": [
       "curated_gambling_feeds"
     ],
+    "wmycx-bgg-4wda-nrfdn-22-10-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "wmz.casino": [
       "curated_gambling_feeds"
     ],
@@ -1018788,6 +1018794,9 @@
     ],
     "yishengbo8888.com": [
       "curated_gambling_feeds"
+    ],
+    "yisra-c7r-nf53-wdfsi-22-10-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
     ],
     "yisv-casino.buzz": [
       "curated_gambling_feeds"
@@ -1218955,7 +1218964,6 @@
     "healthcareguild.com",
     "healthdoctoring.com",
     "healthhutboutique.com",
-    "healthlicensefl-beta.vercel.app",
     "healthlottery.co.uk",
     "healthmoderator.xyz",
     "healthplumbing.xyz",
@@ -1290746,6 +1290754,7 @@
     "p31vip.org",
     "p3288.com",
     "p3302.com",
+    "p33v9-wwd-1892-i35kz-20-10-2026-aa.pages.dev",
     "p34034.com",
     "p3650.com",
     "p365111.net",
@@ -1328553,6 +1328562,7 @@
     "soww-casino.buzz",
     "soxo66casino.com",
     "sp1-naro.com",
+    "sp28ct11-kordavi-biz-femluko-hasde-jfgka-wdsa.pages.dev",
     "sp4.casino",
     "sp6.casino",
     "sp666.com",
@@ -1361716,6 +1361726,7 @@
     "wmwcasino.pl",
     "wmx.casino",
     "wmy.casino",
+    "wmycx-bgg-4wda-nrfdn-22-10-2026-aa.pages.dev",
     "wmz.casino",
     "wn3.casino",
     "wn46c.casino",
@@ -1367466,6 +1367477,7 @@
     "yipalpal.com",
     "yis.casino",
     "yishengbo8888.com",
+    "yisra-c7r-nf53-wdfsi-22-10-2026-aa.pages.dev",
     "yisv-casino.buzz",
     "yiuo96i.com",
     "yiwanbaba.com",

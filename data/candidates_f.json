@@ -1,11 +1,14 @@
 {
-  "timestamp": "2026-11-22T10:43:45.436052Z",
+  "timestamp": "2026-11-22T19:02:43.719105Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 1,
-  "time_seconds": 43.58,
+  "candidate_count": 4,
+  "time_seconds": 50.169,
   "domains": [
-    "healthlicensefl-beta.vercel.app"
+    "p33v9-wwd-1892-i35kz-20-10-2026-aa.pages.dev",
+    "sp28ct11-kordavi-biz-femluko-hasde-jfgka-wdsa.pages.dev",
+    "wmycx-bgg-4wda-nrfdn-22-10-2026-aa.pages.dev",
+    "yisra-c7r-nf53-wdfsi-22-10-2026-aa.pages.dev"
   ]
 }

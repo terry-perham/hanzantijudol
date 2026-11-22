@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-21T18:43:00.803681Z",
+  "timestamp": "2026-11-22T00:57:18.456708Z",
   "method": "certificate_transparency",
   "keywords_searched": 5,
   "candidate_count": 7,
-  "time_seconds": 66.259,
+  "time_seconds": 28.389,
   "domains": [
     "cibolocreekquiltersguild.com",
     "jpm-digsig.cap-rx.com",

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-21T18:40:41.806051Z",
-  "candidate_count": 342621,
+  "timestamp": "2026-11-22T00:55:36.062567Z",
+  "candidate_count": 342622,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-21T18:41:54.544710Z"
+      "timestamp": "2026-11-22T00:56:50.067518Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-11-21T18:41:57.753911Z"
+      "timestamp": "2026-11-22T00:56:52.962382Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-11-21T18:41:58.143309Z"
+      "timestamp": "2026-11-22T00:56:54.314829Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-11-21T18:42:03.882947Z"
-    },
-    "platform_abuse_sweep": {
-      "count": 0,
-      "file": "data/candidates_f.json",
-      "timestamp": "2026-11-21T18:42:41.525626Z"
+      "timestamp": "2026-11-22T00:56:58.784700Z"
     },
     "certificate_transparency": {
       "count": 7,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-11-21T18:43:00.804239Z"
+      "timestamp": "2026-11-22T00:57:18.457183Z"
+    },
+    "platform_abuse_sweep": {
+      "count": 1,
+      "file": "data/candidates_f.json",
+      "timestamp": "2026-11-22T00:57:33.904839Z"
     }
   },
   "domain_sources": {
@@ -573258,6 +573258,9 @@
     ],
     "healthhutboutique.com": [
       "curated_gambling_feeds"
+    ],
+    "healthlicensefl-beta.vercel.app": [
+      "platform_abuse_sweep"
     ],
     "healthlottery.co.uk": [
       "curated_gambling_feeds"
@@ -1218974,6 +1218977,7 @@
     "healthcareguild.com",
     "healthdoctoring.com",
     "healthhutboutique.com",
+    "healthlicensefl-beta.vercel.app",
     "healthlottery.co.uk",
     "healthmoderator.xyz",
     "healthplumbing.xyz",

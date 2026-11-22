@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-11-21T18:42:41.525005Z",
+  "timestamp": "2026-11-22T00:57:33.904287Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 0,
-  "time_seconds": 46.973,
-  "domains": []
+  "candidate_count": 1,
+  "time_seconds": 43.831,
+  "domains": [
+    "healthlicensefl-beta.vercel.app"
+  ]
 }

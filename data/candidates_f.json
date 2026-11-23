@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-23T11:47:44.022088Z",
+  "timestamp": "2026-11-23T23:22:42.206673Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 3,
-  "time_seconds": 46.599,
+  "time_seconds": 44.155,
   "domains": [
-    "airbnb-bice-beta.vercel.app",
-    "biwdl-gnz-awy7-fj7y7-20-10-2026-aa.pages.dev",
-    "wdznc-wun-jtbu-1r30d-20-10-2026-aa.pages.dev"
+    "wd3wq-7v3-e6ph-11ec1-26-10-2026-aa.pages.dev",
+    "wdmbe-8dl-veu0-ac6i8-07-09-2026-aa.pages.dev",
+    "yotiy-v5u-6wd8-jt0rd-25-10-2026-aa.pages.dev"
   ]
 }

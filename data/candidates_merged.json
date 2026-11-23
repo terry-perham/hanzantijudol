@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-23T11:45:39.779564Z",
+  "timestamp": "2026-11-23T23:20:48.000088Z",
   "candidate_count": 342617,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-23T11:46:57.415745Z"
+      "timestamp": "2026-11-23T23:21:58.044277Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-11-23T11:46:59.908336Z"
+      "timestamp": "2026-11-23T23:22:00.853094Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-11-23T11:47:01.594579Z"
-    },
-    "certificate_transparency": {
-      "count": 0,
-      "file": "data/candidates_b.json",
-      "timestamp": "2026-11-23T11:47:06.049376Z"
+      "timestamp": "2026-11-23T23:22:02.173625Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-11-23T11:47:07.709389Z"
+      "timestamp": "2026-11-23T23:22:06.698009Z"
+    },
+    "certificate_transparency": {
+      "count": 0,
+      "file": "data/candidates_b.json",
+      "timestamp": "2026-11-23T23:22:06.752620Z"
     },
     "platform_abuse_sweep": {
       "count": 3,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-11-23T11:47:44.022967Z"
+      "timestamp": "2026-11-23T23:22:42.207142Z"
     }
   },
   "domain_sources": {
@@ -242857,9 +242857,6 @@
     "airbetswap.xyz": [
       "curated_gambling_feeds"
     ],
-    "airbnb-bice-beta.vercel.app": [
-      "platform_abuse_sweep"
-    ],
     "airbook247.com": [
       "curated_gambling_feeds"
     ],
@@ -308895,9 +308892,6 @@
     ],
     "biw123.com": [
       "curated_gambling_feeds"
-    ],
-    "biwdl-gnz-awy7-fj7y7-20-10-2026-aa.pages.dev": [
-      "platform_abuse_sweep"
     ],
     "biwei0.com": [
       "curated_gambling_feeds"
@@ -987847,6 +987841,9 @@
     "wd368.id": [
       "curated_gambling_feeds"
     ],
+    "wd3wq-7v3-e6ph-11ec1-26-10-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "wd40-casino-bet.com": [
       "curated_gambling_feeds"
     ],
@@ -987961,6 +987958,9 @@
     "wdlevel789.click": [
       "curated_gambling_feeds"
     ],
+    "wdmbe-8dl-veu0-ac6i8-07-09-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "wdq5w4df567we4f897zx13.com": [
       "curated_gambling_feeds"
     ],
@@ -987984,9 +987984,6 @@
     ],
     "wdyukgacor.org": [
       "curated_gambling_feeds"
-    ],
-    "wdznc-wun-jtbu-1r30d-20-10-2026-aa.pages.dev": [
-      "platform_abuse_sweep"
     ],
     "we-bignaypg.com": [
       "curated_gambling_feeds"
@@ -1020117,6 +1020114,9 @@
     ],
     "yosports.es": [
       "curated_gambling_feeds"
+    ],
+    "yotiy-v5u-6wd8-jt0rd-25-10-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
     ],
     "yottacasino.net": [
       "curated_gambling_feeds"
@@ -1108828,7 +1108828,6 @@
     "airbet888.store",
     "airbets88.xyz",
     "airbetswap.xyz",
-    "airbnb-bice-beta.vercel.app",
     "airbook247.com",
     "airbornebets.xyz",
     "airbornecasino.xyz",
@@ -1130841,7 +1130840,6 @@
     "biustoto.live",
     "bivouacshop.com",
     "biw123.com",
-    "biwdl-gnz-awy7-fj7y7-20-10-2026-aa.pages.dev",
     "biwei0.com",
     "biwei001.com",
     "biwei002.com",
@@ -1357158,6 +1357156,7 @@
     "wd33m1.com",
     "wd34--wildrobin.com",
     "wd368.id",
+    "wd3wq-7v3-e6ph-11ec1-26-10-2026-aa.pages.dev",
     "wd40-casino-bet.com",
     "wd40-casino-official-au.com",
     "wd40-casino-online-au.com",
@@ -1357196,6 +1357195,7 @@
     "wdkak.xyz",
     "wdkrj.com",
     "wdlevel789.click",
+    "wdmbe-8dl-veu0-ac6i8-07-09-2026-aa.pages.dev",
     "wdq5w4df567we4f897zx13.com",
     "wdslot77v.xyz",
     "wdty.app",
@@ -1357204,7 +1357204,6 @@
     "wdyuk.online",
     "wdyuk.xyz",
     "wdyukgacor.org",
-    "wdznc-wun-jtbu-1r30d-20-10-2026-aa.pages.dev",
     "we-bignaypg.com",
     "we-ggbet.com",
     "we-macropuspg.com",
@@ -1367915,6 +1367914,7 @@
     "yos.casino",
     "yoshimunecasino.xyz",
     "yosports.es",
+    "yotiy-v5u-6wd8-jt0rd-25-10-2026-aa.pages.dev",
     "yottacasino.net",
     "you-topia.org",
     "youarecasino.com",

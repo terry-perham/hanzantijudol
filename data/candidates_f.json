@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-23T01:26:10.801507Z",
+  "timestamp": "2026-11-23T11:47:44.022088Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 3,
-  "time_seconds": 44.15,
+  "time_seconds": 46.599,
   "domains": [
     "airbnb-bice-beta.vercel.app",
     "biwdl-gnz-awy7-fj7y7-20-10-2026-aa.pages.dev",

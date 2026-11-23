@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-22T19:00:34.655746Z",
-  "candidate_count": 342618,
+  "timestamp": "2026-11-23T01:24:12.944802Z",
+  "candidate_count": 342617,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-22T19:01:53.545581Z"
-    },
-    "curated_gambling_feeds": {
-      "count": 342614,
-      "file": "data/candidates_e.json",
-      "timestamp": "2026-11-22T19:01:57.385898Z"
+      "timestamp": "2026-11-23T01:25:26.643410Z"
     },
     "osint_community": {
       "count": 0,
       "file": "data/candidates_d.json",
-      "timestamp": "2026-11-22T19:01:57.954506Z"
+      "timestamp": "2026-11-23T01:25:28.527595Z"
+    },
+    "curated_gambling_feeds": {
+      "count": 342614,
+      "file": "data/candidates_e.json",
+      "timestamp": "2026-11-23T01:25:29.767068Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-11-22T19:02:02.301041Z"
+      "timestamp": "2026-11-23T01:25:35.234997Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-11-22T19:02:03.757062Z"
+      "timestamp": "2026-11-23T01:25:35.540166Z"
     },
     "platform_abuse_sweep": {
-      "count": 4,
+      "count": 3,
       "file": "data/candidates_f.json",
-      "timestamp": "2026-11-22T19:02:43.719823Z"
+      "timestamp": "2026-11-23T01:26:10.802251Z"
     }
   },
   "domain_sources": {
@@ -242857,6 +242857,9 @@
     "airbetswap.xyz": [
       "curated_gambling_feeds"
     ],
+    "airbnb-bice-beta.vercel.app": [
+      "platform_abuse_sweep"
+    ],
     "airbook247.com": [
       "curated_gambling_feeds"
     ],
@@ -308892,6 +308895,9 @@
     ],
     "biw123.com": [
       "curated_gambling_feeds"
+    ],
+    "biwdl-gnz-awy7-fj7y7-20-10-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
     ],
     "biwei0.com": [
       "curated_gambling_feeds"
@@ -788626,9 +788632,6 @@
     "p3302.com": [
       "curated_gambling_feeds"
     ],
-    "p33v9-wwd-1892-i35kz-20-10-2026-aa.pages.dev": [
-      "platform_abuse_sweep"
-    ],
     "p34034.com": [
       "curated_gambling_feeds"
     ],
@@ -902050,9 +902053,6 @@
     "sp1-naro.com": [
       "curated_gambling_feeds"
     ],
-    "sp28ct11-kordavi-biz-femluko-hasde-jfgka-wdsa.pages.dev": [
-      "platform_abuse_sweep"
-    ],
     "sp4.casino": [
       "curated_gambling_feeds"
     ],
@@ -987985,6 +987985,9 @@
     "wdyukgacor.org": [
       "curated_gambling_feeds"
     ],
+    "wdznc-wun-jtbu-1r30d-20-10-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "we-bignaypg.com": [
       "curated_gambling_feeds"
     ],
@@ -1001541,9 +1001544,6 @@
     ],
     "wmy.casino": [
       "curated_gambling_feeds"
-    ],
-    "wmycx-bgg-4wda-nrfdn-22-10-2026-aa.pages.dev": [
-      "platform_abuse_sweep"
     ],
     "wmz.casino": [
       "curated_gambling_feeds"
@@ -1018794,9 +1018794,6 @@
     ],
     "yishengbo8888.com": [
       "curated_gambling_feeds"
-    ],
-    "yisra-c7r-nf53-wdfsi-22-10-2026-aa.pages.dev": [
-      "platform_abuse_sweep"
     ],
     "yisv-casino.buzz": [
       "curated_gambling_feeds"
@@ -1108831,6 +1108828,7 @@
     "airbet888.store",
     "airbets88.xyz",
     "airbetswap.xyz",
+    "airbnb-bice-beta.vercel.app",
     "airbook247.com",
     "airbornebets.xyz",
     "airbornecasino.xyz",
@@ -1130843,6 +1130841,7 @@
     "biustoto.live",
     "bivouacshop.com",
     "biw123.com",
+    "biwdl-gnz-awy7-fj7y7-20-10-2026-aa.pages.dev",
     "biwei0.com",
     "biwei001.com",
     "biwei002.com",
@@ -1290754,7 +1290753,6 @@
     "p31vip.org",
     "p3288.com",
     "p3302.com",
-    "p33v9-wwd-1892-i35kz-20-10-2026-aa.pages.dev",
     "p34034.com",
     "p3650.com",
     "p365111.net",
@@ -1328562,7 +1328560,6 @@
     "soww-casino.buzz",
     "soxo66casino.com",
     "sp1-naro.com",
-    "sp28ct11-kordavi-biz-femluko-hasde-jfgka-wdsa.pages.dev",
     "sp4.casino",
     "sp6.casino",
     "sp666.com",
@@ -1357207,6 +1357204,7 @@
     "wdyuk.online",
     "wdyuk.xyz",
     "wdyukgacor.org",
+    "wdznc-wun-jtbu-1r30d-20-10-2026-aa.pages.dev",
     "we-bignaypg.com",
     "we-ggbet.com",
     "we-macropuspg.com",
@@ -1361726,7 +1361724,6 @@
     "wmwcasino.pl",
     "wmx.casino",
     "wmy.casino",
-    "wmycx-bgg-4wda-nrfdn-22-10-2026-aa.pages.dev",
     "wmz.casino",
     "wn3.casino",
     "wn46c.casino",
@@ -1367477,7 +1367474,6 @@
     "yipalpal.com",
     "yis.casino",
     "yishengbo8888.com",
-    "yisra-c7r-nf53-wdfsi-22-10-2026-aa.pages.dev",
     "yisv-casino.buzz",
     "yiuo96i.com",
     "yiwanbaba.com",

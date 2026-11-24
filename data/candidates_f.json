@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-11-24T08:14:27.492497Z",
+  "timestamp": "2026-11-24T19:58:19.316851Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 3,
-  "time_seconds": 49.918,
+  "candidate_count": 2,
+  "time_seconds": 49.972,
   "domains": [
-    "fqlwd-nq3-3zfc-ddjq2-25-10-2026-aa.pages.dev",
-    "ilhan-udo-uwdx-v5ib2-26-10-2026-aa.pages.dev",
-    "rm8zo-zj1-i9h0-z6wd8-27-10-2026-aa.pages.dev"
+    "3oykj-fot-q0e8-c6wd8-28-09-2026-aa.pages.dev",
+    "wd8zg-7vn-6sr2-cwkn2-30-09-2026-aa.pages.dev"
   ]
 }

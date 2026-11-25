@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-11-25T03:59:42.176895Z",
+  "timestamp": "2026-11-25T16:47:27.818803Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 2,
-  "time_seconds": 44.639,
+  "candidate_count": 3,
+  "time_seconds": 45.154,
   "domains": [
-    "3oykj-fot-q0e8-c6wd8-28-09-2026-aa.pages.dev",
-    "wd8zg-7vn-6sr2-cwkn2-30-09-2026-aa.pages.dev"
+    "ihwds-uf2-9908-51y1g-27-09-2026-hh.pages.dev",
+    "netflix-clon-eight-beta.vercel.app",
+    "netflix-clone-nine-beta-20.vercel.app"
   ]
 }

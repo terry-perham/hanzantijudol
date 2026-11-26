@@ -1,16 +1,14 @@
 {
-  "timestamp": "2026-11-26T11:54:47.315028Z",
+  "timestamp": "2026-11-26T20:56:48.894275Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
-  "candidate_count": 6,
-  "time_seconds": 44.196,
+  "candidate_count": 4,
+  "time_seconds": 45.574,
   "domains": [
-    "20o0u-wdk-56sw-cw8bw-04-10-2026-hh.pages.dev",
-    "beta-instagram.vercel.app",
-    "netflix-clone-nine-beta-20.vercel.app",
-    "spotify-client-beta.vercel.app",
-    "trustwalletindia-beta.vercel.app",
-    "wd1qx-7hh-u9ff-1b1bl-02-10-2026-hh.pages.dev"
+    "81wdo-rcq-qdvl-p7jv4-07-09-2026-hh.pages.dev",
+    "nw9kj-mwd-5wto-zxxlt-07-09-2026-hh.pages.dev",
+    "y5xwd-3r1-uu46-9eek1-06-10-2026-aa.pages.dev",
+    "y83kq-e4f-kjwd-0pums-07-09-2026-hh.pages.dev"
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-26T01:33:26.542104Z",
+  "timestamp": "2026-11-26T11:54:47.315028Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 6,
-  "time_seconds": 44.158,
+  "time_seconds": 44.196,
   "domains": [
     "20o0u-wdk-56sw-cw8bw-04-10-2026-hh.pages.dev",
     "beta-instagram.vercel.app",

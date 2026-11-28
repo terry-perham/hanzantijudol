@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-11-27T16:04:54.107786Z",
+  "timestamp": "2026-11-28T01:02:22.584537Z",
   "candidate_count": 342617,
   "by_method": {
     "google_dorking": {
       "count": 0,
       "file": "data/candidates_a.json",
-      "timestamp": "2026-11-27T16:06:18.251871Z"
-    },
-    "osint_community": {
-      "count": 0,
-      "file": "data/candidates_d.json",
-      "timestamp": "2026-11-27T16:06:20.058238Z"
+      "timestamp": "2026-11-28T01:03:36.177906Z"
     },
     "curated_gambling_feeds": {
       "count": 342614,
       "file": "data/candidates_e.json",
-      "timestamp": "2026-11-27T16:06:21.410080Z"
+      "timestamp": "2026-11-28T01:03:38.376005Z"
+    },
+    "osint_community": {
+      "count": 0,
+      "file": "data/candidates_d.json",
+      "timestamp": "2026-11-28T01:03:38.376902Z"
     },
     "government_scanning": {
       "count": 0,
       "file": "data/candidates_c.json",
-      "timestamp": "2026-11-27T16:06:27.154079Z"
-    },
-    "platform_abuse_sweep": {
-      "count": 3,
-      "file": "data/candidates_f.json",
-      "timestamp": "2026-11-27T16:07:03.020424Z"
+      "timestamp": "2026-11-28T01:03:44.785242Z"
     },
     "certificate_transparency": {
       "count": 0,
       "file": "data/candidates_b.json",
-      "timestamp": "2026-11-27T16:07:17.913012Z"
+      "timestamp": "2026-11-28T01:04:13.766120Z"
+    },
+    "platform_abuse_sweep": {
+      "count": 3,
+      "file": "data/candidates_f.json",
+      "timestamp": "2026-11-28T01:04:20.235254Z"
     }
   },
   "domain_sources": {
@@ -113206,9 +113206,6 @@
     "28g10.com": [
       "curated_gambling_feeds"
     ],
-    "28g1n-ja9-hzk8-bwdms-07-10-2026-aa.pages.dev": [
-      "platform_abuse_sweep"
-    ],
     "28gopay777.shop": [
       "curated_gambling_feeds"
     ],
@@ -130596,6 +130593,9 @@
     ],
     "394casino.pro": [
       "curated_gambling_feeds"
+    ],
+    "394tl-30p-kwdg-f6v4w-05-11-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
     ],
     "39520.vip": [
       "curated_gambling_feeds"
@@ -516016,9 +516016,6 @@
     "exycasinos.com": [
       "curated_gambling_feeds"
     ],
-    "ey8le-ywd-m36e-k8lgg-04-10-2026-hh.pages.dev": [
-      "platform_abuse_sweep"
-    ],
     "eyangpoker.app": [
       "curated_gambling_feeds"
     ],
@@ -667785,9 +667782,6 @@
     ],
     "kyngscasinos.ca": [
       "curated_gambling_feeds"
-    ],
-    "kynsy-9re-hz3l-wds1k-04-10-2026-hh.pages.dev": [
-      "platform_abuse_sweep"
     ],
     "kyoto98.vip": [
       "curated_gambling_feeds"
@@ -902056,6 +902050,9 @@
     "sp1-naro.com": [
       "curated_gambling_feeds"
     ],
+    "sp28ct11-ravkuni-biz-7wd.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "sp4.casino": [
       "curated_gambling_feeds"
     ],
@@ -1021753,6 +1021750,9 @@
     "yztdrh.com": [
       "curated_gambling_feeds"
     ],
+    "yzwdn-w0u-ca7f-ujp3v-05-11-2026-aa.pages.dev": [
+      "platform_abuse_sweep"
+    ],
     "yzwsiulmb.com": [
       "curated_gambling_feeds"
     ],
@@ -1065611,7 +1065611,6 @@
     "28dtt.com",
     "28f5h3i.com",
     "28g10.com",
-    "28g1n-ja9-hzk8-bwdms-07-10-2026-aa.pages.dev",
     "28gopay777.shop",
     "28gvip.com.br",
     "28hvip.com",
@@ -1071408,6 +1071407,7 @@
     "3949-casino.buzz",
     "394989.com",
     "394casino.pro",
+    "394tl-30p-kwdg-f6v4w-05-11-2026-aa.pages.dev",
     "39520.vip",
     "3953049.com",
     "3953999.com",
@@ -1199881,7 +1199881,6 @@
     "exycasinos.ca",
     "exycasinos.co.nz",
     "exycasinos.com",
-    "ey8le-ywd-m36e-k8lgg-04-10-2026-hh.pages.dev",
     "eyangpoker.app",
     "eyangpoker.bet",
     "eyangpoker.org",
@@ -1250471,7 +1250470,6 @@
     "kyngscasinofr.com",
     "kyngscasinos-fr.com",
     "kyngscasinos.ca",
-    "kynsy-9re-hz3l-wds1k-04-10-2026-hh.pages.dev",
     "kyoto98.vip",
     "kyotocasino.com",
     "kyp.casino",
@@ -1328561,6 +1328559,7 @@
     "soww-casino.buzz",
     "soxo66casino.com",
     "sp1-naro.com",
+    "sp28ct11-ravkuni-biz-7wd.pages.dev",
     "sp4.casino",
     "sp6.casino",
     "sp666.com",
@@ -1368460,6 +1368459,7 @@
     "yz8811.com",
     "yzp.casino",
     "yztdrh.com",
+    "yzwdn-w0u-ca7f-ujp3v-05-11-2026-aa.pages.dev",
     "yzwsiulmb.com",
     "z-7-d-m.com",
     "z-7-h-l.com",

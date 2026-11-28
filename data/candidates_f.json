@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-28T01:04:20.234773Z",
+  "timestamp": "2026-11-28T11:22:02.238275Z",
   "method": "platform_abuse_sweep",
   "platform_count": 8,
   "query_count": 48,
   "candidate_count": 3,
-  "time_seconds": 44.052,
+  "time_seconds": 45.857,
   "domains": [
     "394tl-30p-kwdg-f6v4w-05-11-2026-aa.pages.dev",
     "sp28ct11-ravkuni-biz-7wd.pages.dev",
